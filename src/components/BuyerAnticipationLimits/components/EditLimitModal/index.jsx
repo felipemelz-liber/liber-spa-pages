@@ -2,7 +2,6 @@ import React, { useState, useContext, useEffect, useMemo } from 'react';
 import PropTypes from 'prop-types';
 import { Modal } from 'liber-components';
 
-import { TokenContext } from '../../../../hocs/withTokenProvider/index.jsx';
 import { Container, Header, Content, InputText, ActionsRow, Button } from './styles.jsx';
 import { handleError, handleSuccess } from '../../../../vendor/Utils';
 import LoadingButton from '../../../../common-components/Buttons/LoadingButton.jsx';
@@ -11,11 +10,9 @@ import { createOrUpdateLimit } from '../../api';
 const convertToFloat = value => parseFloat(value.replace(',', '.'));
 const onlyNumbersAndComma = value => value.replace(/[^0-9,]/g, '');
 
-function EditLimitModal({ onLeaved, show, onUpdate, selectedTable, item, currentValue }) {
+function EditLimitModal({ token, onLeaved, show, onUpdate, selectedTable, item, currentValue }) {
   const [inputValue, setInputValue] = useState('');
   const [loading, setLoading] = useState(false);
-
-  const { token } = useContext(TokenContext);
 
   const handleValueChange = value => {
     const willReceiveMoreThanOneComma = value.match(/,/g)?.length > 1;

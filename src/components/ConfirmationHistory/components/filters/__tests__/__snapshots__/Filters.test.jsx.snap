@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Filters Component should render correctly 1`] = `
+<Fragment>
+  <styled.div>
+    Filtrar por
+  </styled.div>
+  <DateFieldFilter
+    description="Selecione uma data inicial e uma data final para o período de criação"
+    label="Data de Criação"
+    onClear={[Function]}
+    onFilter={[Function]}
+    selectedItems={
+      Array [
+        null,
+        null,
+      ]
+    }
+  />
+</Fragment>
+`;

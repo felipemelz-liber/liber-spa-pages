@@ -1,0 +1,581 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing ConfirmationHistoryTable styles renders ActionHeaderContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-EHOje",
+        "isStatic": false,
+        "rules": Array [
+          "
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-right: 17px;
+",
+        ],
+      },
+      "displayName": "styled.div",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-EHOje",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing ConfirmationHistoryTable styles renders DownloadIcon correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-gqjmRU",
+        "isStatic": false,
+        "rules": Array [
+          "
+  fill: #009dff;
+",
+        ],
+      },
+      "displayName": "Styled(MdDownload)",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-gqjmRU",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing ConfirmationHistoryTable styles renders DropDownButton correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bwzfXH",
+        "isStatic": false,
+        "rules": Array [
+          "
+  width: 32px;
+  height: 32px;
+  padding: 8px;
+  background-color: #ecf0f3;
+",
+        ],
+      },
+      "displayName": "Styled(Buttons__Button)",
+      "foldedComponentIds": Array [
+        "Buttons__Button-u35aut-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "sc-bwzfXH",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing ConfirmationHistoryTable styles renders DropDownContent correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-htpNat",
+        "isStatic": false,
+        "rules": Array [
+          "
+  display: flex;
+  flex-direction: column;
+",
+        ],
+      },
+      "displayName": "styled.div",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-htpNat",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing ConfirmationHistoryTable styles renders DropDownContentRelative correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-ifAKCX",
+        "isStatic": false,
+        "rules": Array [
+          "
+  position: relative;
+",
+        ],
+      },
+      "displayName": "styled.div",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-ifAKCX",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing ConfirmationHistoryTable styles renders DropDownContentRow correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bxivhb",
+        "isStatic": false,
+        "rules": Array [
+          "
+  display: flex;
+  flex-direction: row;
+  padding: 4px;
+  color: inherit;
+  & > svg {
+    margin-right: 8px;
+    margin-top: 4px;
+  }
+  :hover {
+    color: #009dff;
+    & > svg {
+      fill: #009dff;
+    }
+  }
+",
+        ],
+      },
+      "displayName": "styled.a",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-bxivhb",
+      "target": "a",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing ConfirmationHistoryTable styles renders EyeIcon correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bZQynM",
+        "isStatic": false,
+        "rules": Array [
+          "
+  width: 16px;
+  height: 16px;
+  fill: #4b6f85;
+",
+        ],
+      },
+      "displayName": "Styled(MdEye)",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-bZQynM",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing ConfirmationHistoryTable styles renders Global correctly 1`] = `
+<ContextConsumer>
+  <Component />
+</ContextConsumer>
+`;
+
+exports[`Testing ConfirmationHistoryTable styles renders MoreVertButtonContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-iwsKbI",
+        "isStatic": false,
+        "rules": Array [
+          "
+  position: relative;
+  padding: 4px 0px;
+  width: 32px;
+",
+        ],
+      },
+      "displayName": "styled.div",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-iwsKbI",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing ConfirmationHistoryTable styles renders MoreVertIcon correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bdVaJa",
+        "isStatic": false,
+        "rules": Array [
+          "
+  width: 16px;
+  height: 16px;
+",
+        ],
+      },
+      "displayName": "Styled(MoreVert)",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-bdVaJa",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing ConfirmationHistoryTable styles renders StyledButton correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-gZMcBi",
+        "isStatic": false,
+        "rules": Array [
+          "
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: 0.06px;
+  color: #009dff;
+  background-color: transparent;
+  margin-left: -18px;
+  & > svg {
+    fill: #009dff;
+    margin-right: 4px;
+  }
+  :hover {
+    color: #6287a7;
+    & > svg {
+      fill: #6287a7;
+    }
+  }
+",
+        ],
+      },
+      "displayName": "Styled(Buttons__Link)",
+      "foldedComponentIds": Array [
+        "Buttons__Link-u35aut-6",
+      ],
+      "render": [Function],
+      "styledComponentId": "sc-gZMcBi",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing ConfirmationHistoryTable styles renders Table correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-gzVnrw",
+        "isStatic": false,
+        "rules": Array [
+          "min-width:100%;border-collapse:collapse;table-layout:fixed;font-family:Roboto;text-align:left;font-size:20px;line-height:24px;position:relative;",
+          "
+  width: 100%;
+",
+        ],
+      },
+      "displayName": "Styled(SelectionTable)",
+      "foldedComponentIds": Array [
+        "SelectionTable-x9uakv-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "sc-gzVnrw",
+      "target": "table",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing ConfirmationHistoryTable styles renders TableRow correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-htoDjs",
+        "isStatic": false,
+        "rules": Array [
+          "--row-color:",
+          [Function],
+          ";border:0px;position:relative;",
+          ".SelectionTable__SelectionTableBody-x9uakv-2",
+          " &{border-top:1px solid #ecf0f3;",
+          [Function],
+          " &:hover{background-color:#f3f3f3;}}",
+          "
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  &:first-of-type {
+    border-top: none;
+  }
+",
+        ],
+      },
+      "displayName": "Styled(SelectionTable__SelectionTableRow)",
+      "foldedComponentIds": Array [
+        "SelectionTable__SelectionTableRow-x9uakv-5",
+      ],
+      "render": [Function],
+      "styledComponentId": "sc-htoDjs",
+      "target": "tr",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing ConfirmationHistoryTable styles renders TableRowColumn correctly with center aligment 1`] = `
+<StyledComponent
+  align="center"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-dnqmqq",
+        "isStatic": false,
+        "rules": Array [
+          "min-height:48px;border:0px;padding:8px;color:var(--row-color);position:relative;font-size:16px;",
+          "
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: flex-end;
+  ",
+          [Function],
+          "
+",
+        ],
+      },
+      "displayName": "Styled(SelectionTable__SelectionTableRowColumn)",
+      "foldedComponentIds": Array [
+        "SelectionTable__SelectionTableRowColumn-x9uakv-4",
+      ],
+      "render": [Function],
+      "styledComponentId": "sc-dnqmqq",
+      "target": "td",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing ConfirmationHistoryTable styles renders TableRowColumn correctly with left aligment 1`] = `
+<StyledComponent
+  align="left"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-dnqmqq",
+        "isStatic": false,
+        "rules": Array [
+          "min-height:48px;border:0px;padding:8px;color:var(--row-color);position:relative;font-size:16px;",
+          "
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: flex-end;
+  ",
+          [Function],
+          "
+",
+        ],
+      },
+      "displayName": "Styled(SelectionTable__SelectionTableRowColumn)",
+      "foldedComponentIds": Array [
+        "SelectionTable__SelectionTableRowColumn-x9uakv-4",
+      ],
+      "render": [Function],
+      "styledComponentId": "sc-dnqmqq",
+      "target": "td",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing ConfirmationHistoryTable styles renders TableRowColumn correctly with right aligment 1`] = `
+<StyledComponent
+  align="right"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-dnqmqq",
+        "isStatic": false,
+        "rules": Array [
+          "min-height:48px;border:0px;padding:8px;color:var(--row-color);position:relative;font-size:16px;",
+          "
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: flex-end;
+  ",
+          [Function],
+          "
+",
+        ],
+      },
+      "displayName": "Styled(SelectionTable__SelectionTableRowColumn)",
+      "foldedComponentIds": Array [
+        "SelectionTable__SelectionTableRowColumn-x9uakv-4",
+      ],
+      "render": [Function],
+      "styledComponentId": "sc-dnqmqq",
+      "target": "td",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing ConfirmationHistoryTable styles renders TableRowColumn correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-dnqmqq",
+        "isStatic": false,
+        "rules": Array [
+          "min-height:48px;border:0px;padding:8px;color:var(--row-color);position:relative;font-size:16px;",
+          "
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: flex-end;
+  ",
+          [Function],
+          "
+",
+        ],
+      },
+      "displayName": "Styled(SelectionTable__SelectionTableRowColumn)",
+      "foldedComponentIds": Array [
+        "SelectionTable__SelectionTableRowColumn-x9uakv-4",
+      ],
+      "render": [Function],
+      "styledComponentId": "sc-dnqmqq",
+      "target": "td",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

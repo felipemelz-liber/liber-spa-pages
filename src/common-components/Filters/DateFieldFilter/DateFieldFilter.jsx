@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import { Range } from 'liber-components/components/Inputs';
 import moment from 'moment';
-import { Box, Text } from './DateFieldFilter.styles';
+import { Box, Text } from './DateFieldFilter.styles.jsx';
 import FilterTag from '../FilterTag';
 import FilterFooter from '../FilterFooter';
 

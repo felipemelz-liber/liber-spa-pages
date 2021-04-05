@@ -4,10 +4,10 @@ import { LiberV4 as Theme, ToastContainer } from 'liber-components';
 
 import BuyerAnticipationLimits from './components/BuyerAnticipationLimits/index.jsx';
 
-const BuyerAnticipationLimit = () => {
+const BuyerAnticipationLimit = ({ token }) => {
   return (
     <div>
-      <BuyerAnticipationLimits />
+      <BuyerAnticipationLimits token={token} />
       <ToastContainer />
     </div>
   );

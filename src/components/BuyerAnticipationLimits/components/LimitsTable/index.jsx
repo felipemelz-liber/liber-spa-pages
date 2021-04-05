@@ -9,13 +9,12 @@ import usePageState from '../../../../hooks/usePageState.jsx';
 import { getPaginationInterval, handleError } from '../../../../vendor/Utils';
 import { COLUMNS, SELECTED_TABLE_MAPPINGS, SORTING_DIALOG_COLUMNS } from '../../constants';
 import { fetchLimits, removeLimit } from '../../api';
-import { TokenContext } from '../../../../hocs/withTokenProvider/index.jsx';
 import useSorting from '../../../../hooks/useSorting.jsx';
 import SortingDialog from '../../../../common-components/SortingDialog/index.jsx';
 import Dialog from '../../../../common-components/Dialog/Dialog.jsx';
 import EditLimitModal from '../EditLimitModal/index.jsx';
 
-function LimitsTable({ selectedTable }) {
+function LimitsTable({ selectedTable, token }) {
   const [loading, setLoading] = useState(false);
   const [items, setItems] = useState([]);
   const [sortingFilter, setSortingFilter] = useState({});
@@ -46,8 +45,6 @@ function LimitsTable({ selectedTable }) {
       onSort(column, sortInfo);
     }
   };
-
-  const { token } = useContext(TokenContext);
 
   const updateLimits = () => {
     setLoading(true);
@@ -164,6 +161,7 @@ function LimitsTable({ selectedTable }) {
           />
           <Dialog {...confirmationDialogProps} />
           <EditLimitModal
+            token={token}
             onLeaved={() => setEditingOpen(false)}
             show={editingOpen}
             onUpdate={updateLimits}

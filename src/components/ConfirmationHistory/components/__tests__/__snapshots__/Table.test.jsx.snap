@@ -1,0 +1,194 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing ConfirmationHistoryTable component should render empty table correctly 1`] = `
+<Fragment>
+  <GlobalStyleComponent />
+  <CompleteTable
+    actions={[Function]}
+    allChecked={false}
+    borderBottom={false}
+    columns={
+      Array [
+        Object {
+          "align": "center",
+          "label": "Código",
+          "name": "slug",
+          "width": 12,
+        },
+        Object {
+          "align": "right",
+          "getCellValue": [Function],
+          "label": "Valor Total",
+          "name": "value",
+          "width": 18,
+        },
+        Object {
+          "align": "right",
+          "label": "Data de Criação",
+          "name": "created_at",
+          "width": 18,
+        },
+        Object {
+          "align": "left",
+          "getCellValue": [Function],
+          "label": "Contrato",
+          "name": "contract",
+          "width": 25,
+        },
+      ]
+    }
+    emptyState={<Empty />}
+    filterBorderTop={true}
+    filters={
+      <Filters
+        count={2}
+        handleFilter={[Function]}
+      />
+    }
+    headerBorderTop={true}
+    hiddenColumns={Array []}
+    isItemSelectable={[Function]}
+    isItemSelected={[Function]}
+    items={Array []}
+    onSelect={[Function]}
+    onSelectAll={null}
+    paginationProps={
+      Object {
+        "currentPage": "1",
+        "hasListing": true,
+        "listingProps": Object {
+          "listing": "10",
+          "listingLabelPlural": "confirmações",
+          "listingLabelSingular": "confirmação",
+          "onSelectListing": [Function],
+          "showInterval": Object {
+            "end": "2",
+            "start": "1",
+          },
+          "total": "2",
+        },
+        "onChangePage": [Function],
+        "onClickNext": [Function],
+        "onClickPrev": [Function],
+        "onKeyDownPage": [Function],
+        "pageTotal": "1",
+      }
+    }
+    selectionControl={null}
+    sortingProps={
+      Object {
+        "onSort": [Function],
+        "sortedColumns": false,
+        "sorting": Array [],
+      }
+    }
+    tooltipContent={[Function]}
+    weightedColumns={false}
+  />
+</Fragment>
+`;
+
+exports[`Testing ConfirmationHistoryTable component should render table correctly 1`] = `
+<Fragment>
+  <GlobalStyleComponent />
+  <CompleteTable
+    actions={[Function]}
+    allChecked={false}
+    borderBottom={false}
+    columns={
+      Array [
+        Object {
+          "align": "center",
+          "label": "Código",
+          "name": "slug",
+          "width": 12,
+        },
+        Object {
+          "align": "right",
+          "getCellValue": [Function],
+          "label": "Valor Total",
+          "name": "value",
+          "width": 18,
+        },
+        Object {
+          "align": "right",
+          "label": "Data de Criação",
+          "name": "created_at",
+          "width": 18,
+        },
+        Object {
+          "align": "left",
+          "getCellValue": [Function],
+          "label": "Contrato",
+          "name": "contract",
+          "width": 25,
+        },
+      ]
+    }
+    emptyState={<Empty />}
+    filterBorderTop={true}
+    filters={
+      <Filters
+        count={2}
+        handleFilter={[Function]}
+      />
+    }
+    headerBorderTop={true}
+    hiddenColumns={Array []}
+    isItemSelectable={[Function]}
+    isItemSelected={[Function]}
+    items={
+      Array [
+        Object {
+          "contract": "http://demo.liber.local:3002/sacado/confirmacao_titulos",
+          "created_at": "15/10/2020",
+          "details": "#lala",
+          "slug": "dcb234z",
+          "value": 101056,
+        },
+        Object {
+          "contract": "http://demo.liber.local:3002/sacado/confirmacao_titulos",
+          "created_at": "12/08/2020",
+          "details": "#lele",
+          "slug": "dcb234f",
+          "value": 531074,
+        },
+      ]
+    }
+    onSelect={[Function]}
+    onSelectAll={null}
+    paginationProps={
+      Object {
+        "currentPage": "1",
+        "hasListing": true,
+        "listingProps": Object {
+          "listing": "10",
+          "listingLabelPlural": "confirmações",
+          "listingLabelSingular": "confirmação",
+          "onSelectListing": [Function],
+          "showInterval": Object {
+            "end": "2",
+            "start": "1",
+          },
+          "total": "2",
+        },
+        "onChangePage": [Function],
+        "onClickNext": [Function],
+        "onClickPrev": [Function],
+        "onKeyDownPage": [Function],
+        "pageTotal": "1",
+      }
+    }
+    selectionControl={null}
+    sortingProps={
+      Object {
+        "onSort": [Function],
+        "sortedColumns": false,
+        "sorting": Array [],
+      }
+    }
+    tooltipContent={[Function]}
+    weightedColumns={false}
+  />
+</Fragment>
+`;

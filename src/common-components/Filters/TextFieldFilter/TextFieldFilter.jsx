@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
-import { Box } from './TextFieldFilter.styles';
-import { Field } from '../Filters.styles';
+import { Box } from './TextFieldFilter.styles.jsx';
+import { Field } from '../Filters.styles.jsx';
 import FilterTag from '../FilterTag';
 import FilterFooter from '../FilterFooter';
 

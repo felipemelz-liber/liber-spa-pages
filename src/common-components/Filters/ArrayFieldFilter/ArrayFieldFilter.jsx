@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import PropTypes from 'prop-types';
-import FilterTag from '../FilterTag';
+import FilterTag from '../FilterTag/index.js';
 import {
   TextField,
   Box,
@@ -9,7 +9,7 @@ import {
   ClearButton,
   Footer,
   DialogContent,
-} from './ArrayFieldFilter.styles';
+} from './ArrayFieldFilter.styles.jsx';
 import TagsDisplay from './components/TagsDisplay';
 
 const toggleOpen = setOpen => value => {

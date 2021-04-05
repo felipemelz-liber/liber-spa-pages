@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing ConfirmationHistory component ConfirmationHistory should render correctly 1`] = `
+<Fragment>
+  <GlobalStyleComponent />
+  <styled.div
+    loading={0}
+  >
+    <styled.div>
+      <styled.div>
+        <styled.span>
+          Histórico de Confirmações
+        </styled.span>
+      </styled.div>
+      <Connect(ConfirmationHistoryTable)
+        handleFilter={[Function]}
+      />
+    </styled.div>
+  </styled.div>
+  <_default />
+</Fragment>
+`;
