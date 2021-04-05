@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Unprocessable should render correctly 1`] = `
+<Fragment>
+  <styles__DesktopContainer>
+    <styles__DesktopBackground />
+    <styles__DesktopIllustration />
+    <styles__DesktopContent>
+      <styles__DesktopMessageBox>
+        <h3>
+          Desculpe, sua ação foi recusada.
+        </h3>
+        <h1>
+          Talvez você não tenha permissão para isso...
+        </h1>
+        <a
+          href="/"
+        >
+          Voltar à página inicial
+        </a>
+      </styles__DesktopMessageBox>
+    </styles__DesktopContent>
+  </styles__DesktopContainer>
+  <styles__MobileContainer>
+    <styles__MobileBackground />
+    <styles__MobileIllustration />
+    <styles__MobileContent>
+      <styles__MobileBrand />
+      <styles__MobileMessageBox>
+        <h3>
+          Desculpe, sua ação foi recusada.
+        </h3>
+        <h1>
+          Talvez você não tenha permissão para isso...
+        </h1>
+        <a
+          href="/"
+        >
+          Voltar à página inicial
+        </a>
+      </styles__MobileMessageBox>
+    </styles__MobileContent>
+  </styles__MobileContainer>
+</Fragment>
+`;

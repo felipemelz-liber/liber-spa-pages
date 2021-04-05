@@ -1,0 +1,506 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing ModalTag Styles Controlled FloatingTag should not render without position 1`] = `
+.c1 {
+  --inner-tag-border-color: var(--tag-border-color);
+  --inner-tag-background-color: var(--tag-background-color);
+  --inner-tag-color: var(--tag-color);
+  height: 28px;
+  border: 1px solid var(--inner-tag-border-color,#e8ebee);
+  color: var( --inner-tag-color,#405f71 );
+  background-color: var( --inner-tag-background-color,#e8ebee );
+  padding: 0px 12px;
+  border-radius: 2px;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-right: 12px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  box-sizing: border-box;
+}
+
+.c1 > svg {
+  fill: var(--inner-tag-color,#405f71);
+  --size: 16px;
+  min-width: var(--size);
+  max-width: var(--size);
+  min-height: var(--size);
+  max-height: var(--size);
+}
+
+.c1 > svg:not(.c2) {
+  margin-right: 8px;
+}
+
+.c0 {
+  --tag-border-color: #cdd7df;
+  --tag-background-color: #ffffff;
+  --tag-color: #405f71;
+  position: absolute;
+  pointer-events: none;
+  top: px;
+  left: px;
+}
+
+<ModalTagstyles__FloatingTag
+  position={Object {}}
+>
+  <StyledComponent
+    forwardedComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "_foldedDefaultProps": Object {
+          "position": Object {},
+        },
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "ModalTagstyles__FloatingTag-ghsnch-1",
+          "isStatic": false,
+          "lastClassName": "c0",
+          "rules": Array [
+            "--tag-border-color:",
+            [Function],
+            ";--tag-background-color:",
+            [Function],
+            ";--tag-color:",
+            [Function],
+            ";",
+            "position:absolute;pointer-events:none;",
+            [Function],
+          ],
+        },
+        "displayName": "ModalTagstyles__FloatingTag",
+        "foldedComponentIds": Array [
+          "Tags__WhiteTag-sc-1u635a7-7",
+        ],
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+        "styledComponentId": "ModalTagstyles__FloatingTag-ghsnch-1",
+        "target": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "defaultProps": Object {
+            "children": "",
+            "closable": false,
+            "height": 28,
+            "onClose": [Function],
+            "variant": "default",
+          },
+          "displayName": "Tag",
+          "propTypes": Object {
+            "children": [Function],
+            "closable": [Function],
+            "height": [Function],
+            "onClose": [Function],
+            "variant": [Function],
+          },
+          "render": [Function],
+        },
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+    position={Object {}}
+  >
+    <Tag
+      className="c0"
+      closable={false}
+      height={28}
+      onClose={[Function]}
+      position={Object {}}
+      variant="default"
+    >
+      <Tags__BaseTag
+        className="c0"
+        closable={false}
+        height={28}
+        position={Object {}}
+        variant="default"
+      >
+        <StyledComponent
+          className="c0"
+          closable={false}
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "Tags__BaseTag-sc-1u635a7-1",
+                "isStatic": false,
+                "lastClassName": "c1",
+                "rules": Array [
+                  "--inner-tag-border-color:var(--tag-border-color);--inner-tag-background-color:var(--tag-background-color);--inner-tag-color:var(--tag-color);height:",
+                  [Function],
+                  "px;border:1px solid var(--inner-tag-border-color,",
+                  [Function],
+                  ");color:var( --inner-tag-color,",
+                  [Function],
+                  " );background-color:var( --inner-tag-background-color,",
+                  [Function],
+                  " );padding:0px 12px;border-radius:",
+                  [Function],
+                  "px;display:inline-flex;justify-content:flex-start;align-items:center;margin-right:12px;font-family:",
+                  [Function],
+                  ";font-size:",
+                  [Function],
+                  ";font-weight:",
+                  [Function],
+                  ";box-sizing:border-box;",
+                  [Function],
+                  " & > svg{fill:var(--inner-tag-color,#405f71);--size:16px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);}& > svg:not(",
+                  ".c2",
+                  "){margin-right:8px;}",
+                ],
+              },
+              "displayName": "Tags__BaseTag",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "Tags__BaseTag-sc-1u635a7-1",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          height={28}
+          position={Object {}}
+          variant="default"
+        >
+          <div
+            className="c1 c0"
+            height={28}
+          />
+        </StyledComponent>
+      </Tags__BaseTag>
+    </Tag>
+  </StyledComponent>
+</ModalTagstyles__FloatingTag>
+`;
+
+exports[`Testing ModalTag Styles Controlled FloatingTag should render with position 1`] = `
+.c1 {
+  --inner-tag-border-color: var(--tag-border-color);
+  --inner-tag-background-color: var(--tag-background-color);
+  --inner-tag-color: var(--tag-color);
+  height: 28px;
+  border: 1px solid var(--inner-tag-border-color,#e8ebee);
+  color: var( --inner-tag-color,#405f71 );
+  background-color: var( --inner-tag-background-color,#e8ebee );
+  padding: 0px 12px;
+  border-radius: 2px;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-right: 12px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  box-sizing: border-box;
+}
+
+.c1 > svg {
+  fill: var(--inner-tag-color,#405f71);
+  --size: 16px;
+  min-width: var(--size);
+  max-width: var(--size);
+  min-height: var(--size);
+  max-height: var(--size);
+}
+
+.c1 > svg:not(.c2) {
+  margin-right: 8px;
+}
+
+.c0 {
+  --tag-border-color: #cdd7df;
+  --tag-background-color: #ffffff;
+  --tag-color: #405f71;
+  position: absolute;
+  pointer-events: none;
+  top: 100px;
+  left: 100px;
+}
+
+<ModalTagstyles__FloatingTag
+  position={
+    Object {
+      "x": 100,
+      "y": 100,
+    }
+  }
+>
+  <StyledComponent
+    forwardedComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "_foldedDefaultProps": Object {
+          "position": Object {},
+        },
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "ModalTagstyles__FloatingTag-ghsnch-1",
+          "isStatic": false,
+          "lastClassName": "c0",
+          "rules": Array [
+            "--tag-border-color:",
+            [Function],
+            ";--tag-background-color:",
+            [Function],
+            ";--tag-color:",
+            [Function],
+            ";",
+            "position:absolute;pointer-events:none;",
+            [Function],
+          ],
+        },
+        "displayName": "ModalTagstyles__FloatingTag",
+        "foldedComponentIds": Array [
+          "Tags__WhiteTag-sc-1u635a7-7",
+        ],
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+        "styledComponentId": "ModalTagstyles__FloatingTag-ghsnch-1",
+        "target": Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "defaultProps": Object {
+            "children": "",
+            "closable": false,
+            "height": 28,
+            "onClose": [Function],
+            "variant": "default",
+          },
+          "displayName": "Tag",
+          "propTypes": Object {
+            "children": [Function],
+            "closable": [Function],
+            "height": [Function],
+            "onClose": [Function],
+            "variant": [Function],
+          },
+          "render": [Function],
+        },
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+    position={
+      Object {
+        "x": 100,
+        "y": 100,
+      }
+    }
+  >
+    <Tag
+      className="c0"
+      closable={false}
+      height={28}
+      onClose={[Function]}
+      position={
+        Object {
+          "x": 100,
+          "y": 100,
+        }
+      }
+      variant="default"
+    >
+      <Tags__BaseTag
+        className="c0"
+        closable={false}
+        height={28}
+        position={
+          Object {
+            "x": 100,
+            "y": 100,
+          }
+        }
+        variant="default"
+      >
+        <StyledComponent
+          className="c0"
+          closable={false}
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "Tags__BaseTag-sc-1u635a7-1",
+                "isStatic": false,
+                "lastClassName": "c1",
+                "rules": Array [
+                  "--inner-tag-border-color:var(--tag-border-color);--inner-tag-background-color:var(--tag-background-color);--inner-tag-color:var(--tag-color);height:",
+                  [Function],
+                  "px;border:1px solid var(--inner-tag-border-color,",
+                  [Function],
+                  ");color:var( --inner-tag-color,",
+                  [Function],
+                  " );background-color:var( --inner-tag-background-color,",
+                  [Function],
+                  " );padding:0px 12px;border-radius:",
+                  [Function],
+                  "px;display:inline-flex;justify-content:flex-start;align-items:center;margin-right:12px;font-family:",
+                  [Function],
+                  ";font-size:",
+                  [Function],
+                  ";font-weight:",
+                  [Function],
+                  ";box-sizing:border-box;",
+                  [Function],
+                  " & > svg{fill:var(--inner-tag-color,#405f71);--size:16px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);}& > svg:not(",
+                  ".c2",
+                  "){margin-right:8px;}",
+                ],
+              },
+              "displayName": "Tags__BaseTag",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "Tags__BaseTag-sc-1u635a7-1",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          height={28}
+          position={
+            Object {
+              "x": 100,
+              "y": 100,
+            }
+          }
+          variant="default"
+        >
+          <div
+            className="c1 c0"
+            height={28}
+          />
+        </StyledComponent>
+      </Tags__BaseTag>
+    </Tag>
+  </StyledComponent>
+</ModalTagstyles__FloatingTag>
+`;
+
+exports[`Testing ModalTag Styles Uncontrolled renders Container correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ModalTagstyles__Container-ghsnch-2",
+        "isStatic": false,
+        "rules": Array [
+          "padding-right:12px;position:relative;",
+        ],
+      },
+      "displayName": "ModalTagstyles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "ModalTagstyles__Container-ghsnch-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing ModalTag Styles Uncontrolled renders WhiteTag correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ModalTagstyles__WhiteTag-ghsnch-0",
+        "isStatic": false,
+        "rules": Array [
+          "--tag-border-color:",
+          [Function],
+          ";--tag-background-color:",
+          [Function],
+          ";--tag-color:",
+          [Function],
+          ";",
+          "cursor:pointer;margin:0;",
+        ],
+      },
+      "displayName": "ModalTagstyles__WhiteTag",
+      "foldedComponentIds": Array [
+        "Tags__WhiteTag-sc-1u635a7-7",
+      ],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "ModalTagstyles__WhiteTag-ghsnch-0",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

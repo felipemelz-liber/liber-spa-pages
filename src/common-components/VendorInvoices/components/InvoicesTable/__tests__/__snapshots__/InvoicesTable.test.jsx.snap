@@ -1,0 +1,251 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InvoicesTable tests should render correctly with props 1`] = `
+<Fragment>
+  <CompleteTable
+    actions={null}
+    allChecked={false}
+    borderBottom={false}
+    columns={
+      Array [
+        Object {
+          "align": "right",
+          "label": "Número",
+          "name": "number",
+          "width": 18,
+        },
+        Object {
+          "align": "right",
+          "getCellValue": [Function],
+          "label": "Vencimento",
+          "name": "expiresAt",
+          "width": 15,
+        },
+        Object {
+          "align": "right",
+          "getCellValue": [Function],
+          "label": "Valor Bruto (R$)",
+          "name": "value",
+          "width": 18,
+        },
+        Object {
+          "align": "right",
+          "getCellValue": [Function],
+          "label": "Taxa de Desconto",
+          "name": "agreedRate",
+          "width": 18,
+        },
+        Object {
+          "align": "right",
+          "label": "CNPJ",
+          "name": "emitterCnpj",
+          "width": 18,
+        },
+        Object {
+          "align": "center",
+          "getCellValue": [Function],
+          "label": "Ações",
+          "name": "view",
+          "width": 10,
+        },
+      ]
+    }
+    emptyState={<Empty />}
+    filterBorderTop={true}
+    filters={
+      <Filters
+        onFilter={[Function]}
+        token=""
+        withContainer={false}
+      />
+    }
+    headerBorderTop={true}
+    hiddenColumns={Array []}
+    isItemSelectable={[Function]}
+    isItemSelected={[Function]}
+    items={Array []}
+    onSelect={[Function]}
+    onSelectAll={[Function]}
+    paginationProps={
+      Object {
+        "currentPage": "undefined",
+        "hasListing": true,
+        "listingProps": Object {
+          "listing": "undefined",
+          "onSelectListing": [Function],
+          "showInterval": Object {
+            "end": "NaN",
+            "start": "NaN",
+          },
+          "total": "undefined",
+        },
+        "onChangePage": [Function],
+        "onClickNext": [Function],
+        "onClickPrev": [Function],
+        "onKeyDownPage": [Function],
+        "pageTotal": "undefined",
+      }
+    }
+    selectionControl={
+      <Memo(Connect(SelectionControl))
+        isAdmin={false}
+      />
+    }
+    sortingProps={
+      Object {
+        "onSort": [Function],
+        "sortedColumns": Array [
+          "status",
+          "number",
+          "expiresAt",
+          "value",
+          "agreedRate",
+          "emitterCnpj",
+        ],
+        "sorting": Array [
+          Object {
+            "columnName": "number",
+            "direction": "asc",
+          },
+        ],
+      }
+    }
+    tooltipContent={[Function]}
+    weightedColumns={false}
+  />
+  <Connect(InvoiceDialog)
+    invoiceId={null}
+    isAdmin={false}
+    onClose={[Function]}
+    open={false}
+    token=""
+    vendorId={null}
+  />
+  <Connect(SimulationDrawer) />
+</Fragment>
+`;
+
+exports[`InvoicesTable tests should render correctly without props 1`] = `
+<Fragment>
+  <CompleteTable
+    actions={null}
+    allChecked={false}
+    borderBottom={false}
+    columns={
+      Array [
+        Object {
+          "align": "right",
+          "label": "Número",
+          "name": "number",
+          "width": 18,
+        },
+        Object {
+          "align": "right",
+          "getCellValue": [Function],
+          "label": "Vencimento",
+          "name": "expiresAt",
+          "width": 15,
+        },
+        Object {
+          "align": "right",
+          "getCellValue": [Function],
+          "label": "Valor Bruto (R$)",
+          "name": "value",
+          "width": 18,
+        },
+        Object {
+          "align": "right",
+          "getCellValue": [Function],
+          "label": "Taxa de Desconto",
+          "name": "agreedRate",
+          "width": 18,
+        },
+        Object {
+          "align": "right",
+          "label": "CNPJ",
+          "name": "emitterCnpj",
+          "width": 18,
+        },
+        Object {
+          "align": "center",
+          "getCellValue": [Function],
+          "label": "Ações",
+          "name": "view",
+          "width": 10,
+        },
+      ]
+    }
+    emptyState={<Empty />}
+    filterBorderTop={true}
+    filters={
+      <Filters
+        onFilter={[Function]}
+        token=""
+        withContainer={false}
+      />
+    }
+    headerBorderTop={true}
+    hiddenColumns={Array []}
+    isItemSelectable={[Function]}
+    isItemSelected={[Function]}
+    items={Array []}
+    onSelect={[Function]}
+    onSelectAll={[Function]}
+    paginationProps={
+      Object {
+        "currentPage": "undefined",
+        "hasListing": true,
+        "listingProps": Object {
+          "listing": "undefined",
+          "onSelectListing": [Function],
+          "showInterval": Object {
+            "end": "NaN",
+            "start": "NaN",
+          },
+          "total": "undefined",
+        },
+        "onChangePage": [Function],
+        "onClickNext": [Function],
+        "onClickPrev": [Function],
+        "onKeyDownPage": [Function],
+        "pageTotal": "undefined",
+      }
+    }
+    selectionControl={
+      <Memo(Connect(SelectionControl))
+        isAdmin={false}
+      />
+    }
+    sortingProps={
+      Object {
+        "onSort": [Function],
+        "sortedColumns": Array [
+          "status",
+          "number",
+          "expiresAt",
+          "value",
+          "agreedRate",
+          "emitterCnpj",
+        ],
+        "sorting": Array [
+          Object {
+            "columnName": "number",
+            "direction": "asc",
+          },
+        ],
+      }
+    }
+    tooltipContent={[Function]}
+    weightedColumns={false}
+  />
+  <Connect(InvoiceDialog)
+    invoiceId={null}
+    isAdmin={false}
+    onClose={[Function]}
+    open={false}
+    token=""
+    vendorId={null}
+  />
+  <Connect(SimulationDrawer) />
+</Fragment>
+`;

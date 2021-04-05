@@ -1,0 +1,190 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for Inputs Styles Components Container should render with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Container-lt958n-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;color:",
+          [Function],
+          ";font-size:16px;",
+        ],
+      },
+      "displayName": "styles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Container-lt958n-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "infoLabel": Object {
+        "color": "#aaa",
+        "fill": "#bbb",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Inputs Styles Components Container should render without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Container-lt958n-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;color:",
+          [Function],
+          ";font-size:16px;",
+        ],
+      },
+      "displayName": "styles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Container-lt958n-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components Icon should render with props 1`] = `
+<StyledComponent
+  color="#123456"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Icon-lt958n-1",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;fill:",
+          [Function],
+          ";margin:3px;width:18px;height:18px;",
+        ],
+      },
+      "displayName": "styles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Icon-lt958n-1",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components Icon should render with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Icon-lt958n-1",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;fill:",
+          [Function],
+          ";margin:3px;width:18px;height:18px;",
+        ],
+      },
+      "displayName": "styles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Icon-lt958n-1",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "infoLabel": Object {
+        "color": "#aaa",
+        "fill": "#bbb",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Inputs Styles Components Icon should render without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Icon-lt958n-1",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;fill:",
+          [Function],
+          ";margin:3px;width:18px;height:18px;",
+        ],
+      },
+      "displayName": "styles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Icon-lt958n-1",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components Label should render without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Label-lt958n-2",
+        "isStatic": false,
+        "rules": Array [
+          "margin-left:28px;word-wrap:break-word;",
+        ],
+      },
+      "displayName": "styles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Label-lt958n-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing TextField Component renders TextField correctly without props 1`] = `
+<ForwardRef
+  type="text"
+  version={2}
+/>
+`;

@@ -1,0 +1,458 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ActionsModal component tests should have a LoadingButton when loading prop is provided on confirmationButtonProps 1`] = `
+<Modal
+  animateFrom="-150px"
+  animation={
+    Object {
+      "in": "cubic-bezier(.17,1.92,.3,.71)",
+      "out": "cubic-bezier(1,.23,.76,-1.11)",
+    }
+  }
+  closable={true}
+  closeButton={false}
+  closeButtonPadding="10px 14px"
+  duration={270}
+  elementId="modal"
+  fullscreen={false}
+  insertComponent={null}
+  label=""
+  labelAlign="left"
+  onAppearStart={[Function]}
+  onAppeared={[Function]}
+  onLeaveStart={[Function]}
+  onLeaved={[Function]}
+  overflow=""
+  position={null}
+  show={true}
+>
+  <styled.div>
+    <styled.span>
+      Título novo
+    </styled.span>
+    <Styled(Buttons__Button)
+      circle={true}
+      onClick={[Function]}
+      size="large"
+      version={2}
+    >
+      <Styled(MdClose) />
+    </Styled(Buttons__Button)>
+  </styled.div>
+  <styled.div>
+    <div>
+      Mock
+    </div>
+  </styled.div>
+  <styled.div>
+    <Styled(Buttons__Button)
+      onClick={[Function]}
+      version={2}
+    >
+      CANCELAR
+    </Styled(Buttons__Button)>
+    <LoadingButton
+      ButtonComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "Buttons__SuccessButton-u35aut-3",
+            "isStatic": false,
+            "rules": Array [],
+          },
+          "displayName": "Buttons__SuccessButton",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "Buttons__SuccessButton-u35aut-3",
+          "target": Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "render": [Function],
+          },
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      disabled={false}
+      loading={false}
+      onClick={[Function]}
+      size="medium"
+      spinnerColor="white"
+      version={2}
+    >
+      CONFIRMAR NOVO
+    </LoadingButton>
+  </styled.div>
+</Modal>
+`;
+
+exports[`ActionsModal component tests should render ActionsModal correctly with alert button type 1`] = `
+<Modal
+  animateFrom="-150px"
+  animation={
+    Object {
+      "in": "cubic-bezier(.17,1.92,.3,.71)",
+      "out": "cubic-bezier(1,.23,.76,-1.11)",
+    }
+  }
+  closable={true}
+  closeButton={false}
+  closeButtonPadding="10px 14px"
+  duration={270}
+  elementId="modal"
+  fullscreen={false}
+  insertComponent={null}
+  label=""
+  labelAlign="left"
+  onAppearStart={[Function]}
+  onAppeared={[Function]}
+  onLeaveStart={[Function]}
+  onLeaved={[Function]}
+  overflow=""
+  position={null}
+  show={true}
+>
+  <styled.div>
+    <styled.span>
+      Título novo
+    </styled.span>
+    <Styled(Buttons__Button)
+      circle={true}
+      onClick={[Function]}
+      size="large"
+      version={2}
+    >
+      <Styled(MdClose) />
+    </Styled(Buttons__Button)>
+  </styled.div>
+  <styled.div>
+    <div>
+      Mock
+    </div>
+  </styled.div>
+  <styled.div>
+    <Styled(Buttons__Button)
+      onClick={[Function]}
+      version={2}
+    >
+      CANCELAR
+    </Styled(Buttons__Button)>
+    <Buttons__AlertButton
+      disabled={false}
+      onClick={[Function]}
+      version={2}
+    >
+      CONFIRMAR NOVO
+    </Buttons__AlertButton>
+  </styled.div>
+</Modal>
+`;
+
+exports[`ActionsModal component tests should render ActionsModal correctly with error button type 1`] = `
+<Modal
+  animateFrom="-150px"
+  animation={
+    Object {
+      "in": "cubic-bezier(.17,1.92,.3,.71)",
+      "out": "cubic-bezier(1,.23,.76,-1.11)",
+    }
+  }
+  closable={true}
+  closeButton={false}
+  closeButtonPadding="10px 14px"
+  duration={270}
+  elementId="modal"
+  fullscreen={false}
+  insertComponent={null}
+  label=""
+  labelAlign="left"
+  onAppearStart={[Function]}
+  onAppeared={[Function]}
+  onLeaveStart={[Function]}
+  onLeaved={[Function]}
+  overflow=""
+  position={null}
+  show={true}
+>
+  <styled.div>
+    <styled.span>
+      Título novo
+    </styled.span>
+    <Styled(Buttons__Button)
+      circle={true}
+      onClick={[Function]}
+      size="large"
+      version={2}
+    >
+      <Styled(MdClose) />
+    </Styled(Buttons__Button)>
+  </styled.div>
+  <styled.div>
+    <div>
+      Mock
+    </div>
+  </styled.div>
+  <styled.div>
+    <Styled(Buttons__Button)
+      onClick={[Function]}
+      version={2}
+    >
+      CANCELAR
+    </Styled(Buttons__Button)>
+    <Buttons__ErrorButton
+      disabled={false}
+      onClick={[Function]}
+      version={2}
+    >
+      CONFIRMAR NOVO
+    </Buttons__ErrorButton>
+  </styled.div>
+</Modal>
+`;
+
+exports[`ActionsModal component tests should render ActionsModal correctly with primary button type 1`] = `
+<Modal
+  animateFrom="-150px"
+  animation={
+    Object {
+      "in": "cubic-bezier(.17,1.92,.3,.71)",
+      "out": "cubic-bezier(1,.23,.76,-1.11)",
+    }
+  }
+  closable={true}
+  closeButton={false}
+  closeButtonPadding="10px 14px"
+  duration={270}
+  elementId="modal"
+  fullscreen={false}
+  insertComponent={null}
+  label=""
+  labelAlign="left"
+  onAppearStart={[Function]}
+  onAppeared={[Function]}
+  onLeaveStart={[Function]}
+  onLeaved={[Function]}
+  overflow=""
+  position={null}
+  show={true}
+>
+  <styled.div>
+    <styled.span>
+      Título novo
+    </styled.span>
+    <Styled(Buttons__Button)
+      circle={true}
+      onClick={[Function]}
+      size="large"
+      version={2}
+    >
+      <Styled(MdClose) />
+    </Styled(Buttons__Button)>
+  </styled.div>
+  <styled.div>
+    <div>
+      Mock
+    </div>
+  </styled.div>
+  <styled.div>
+    <Styled(Buttons__Button)
+      onClick={[Function]}
+      version={2}
+    >
+      CANCELAR
+    </Styled(Buttons__Button)>
+    <Buttons__PrimaryButton
+      disabled={false}
+      onClick={[Function]}
+      version={2}
+    >
+      CONFIRMAR NOVO
+    </Buttons__PrimaryButton>
+  </styled.div>
+</Modal>
+`;
+
+exports[`ActionsModal component tests should render ActionsModal correctly with props 1`] = `
+<Modal
+  animateFrom="-150px"
+  animation={
+    Object {
+      "in": "cubic-bezier(.17,1.92,.3,.71)",
+      "out": "cubic-bezier(1,.23,.76,-1.11)",
+    }
+  }
+  closable={true}
+  closeButton={false}
+  closeButtonPadding="10px 14px"
+  duration={270}
+  elementId="modal"
+  fullscreen={false}
+  insertComponent={null}
+  label=""
+  labelAlign="left"
+  onAppearStart={[Function]}
+  onAppeared={[Function]}
+  onLeaveStart={[Function]}
+  onLeaved={[Function]}
+  overflow=""
+  position={null}
+  show={true}
+>
+  <styled.div>
+    <styled.span>
+      Título novo
+    </styled.span>
+    <Styled(Buttons__Button)
+      circle={true}
+      onClick={[Function]}
+      size="large"
+      version={2}
+    >
+      <Styled(MdClose) />
+    </Styled(Buttons__Button)>
+  </styled.div>
+  <styled.div>
+    <div>
+      Mock
+    </div>
+  </styled.div>
+  <styled.div>
+    <Styled(Buttons__Button)
+      onClick={[Function]}
+      version={2}
+    >
+      CANCELAR
+    </Styled(Buttons__Button)>
+    <Buttons__SuccessButton
+      disabled={false}
+      onClick={[Function]}
+      version={2}
+    >
+      CONFIRMAR NOVO
+    </Buttons__SuccessButton>
+  </styled.div>
+</Modal>
+`;
+
+exports[`ActionsModal component tests should render ActionsModal correctly with success button type 1`] = `
+<Modal
+  animateFrom="-150px"
+  animation={
+    Object {
+      "in": "cubic-bezier(.17,1.92,.3,.71)",
+      "out": "cubic-bezier(1,.23,.76,-1.11)",
+    }
+  }
+  closable={true}
+  closeButton={false}
+  closeButtonPadding="10px 14px"
+  duration={270}
+  elementId="modal"
+  fullscreen={false}
+  insertComponent={null}
+  label=""
+  labelAlign="left"
+  onAppearStart={[Function]}
+  onAppeared={[Function]}
+  onLeaveStart={[Function]}
+  onLeaved={[Function]}
+  overflow=""
+  position={null}
+  show={true}
+>
+  <styled.div>
+    <styled.span>
+      Título novo
+    </styled.span>
+    <Styled(Buttons__Button)
+      circle={true}
+      onClick={[Function]}
+      size="large"
+      version={2}
+    >
+      <Styled(MdClose) />
+    </Styled(Buttons__Button)>
+  </styled.div>
+  <styled.div>
+    <div>
+      Mock
+    </div>
+  </styled.div>
+  <styled.div>
+    <Styled(Buttons__Button)
+      onClick={[Function]}
+      version={2}
+    >
+      CANCELAR
+    </Styled(Buttons__Button)>
+    <Buttons__SuccessButton
+      disabled={false}
+      onClick={[Function]}
+      version={2}
+    >
+      CONFIRMAR NOVO
+    </Buttons__SuccessButton>
+  </styled.div>
+</Modal>
+`;
+
+exports[`ActionsModal component tests should render ActionsModal correctly without props 1`] = `
+<Modal
+  animateFrom="-150px"
+  animation={
+    Object {
+      "in": "cubic-bezier(.17,1.92,.3,.71)",
+      "out": "cubic-bezier(1,.23,.76,-1.11)",
+    }
+  }
+  closable={true}
+  closeButton={false}
+  closeButtonPadding="10px 14px"
+  duration={270}
+  elementId="modal"
+  fullscreen={false}
+  insertComponent={null}
+  label=""
+  labelAlign="left"
+  onAppearStart={[Function]}
+  onAppeared={[Function]}
+  onLeaveStart={[Function]}
+  onLeaved={[Function]}
+  overflow=""
+  position={null}
+  show={true}
+>
+  <styled.div>
+    <styled.span>
+      Confirmação
+    </styled.span>
+    <Styled(Buttons__Button)
+      circle={true}
+      onClick={[Function]}
+      size="large"
+      version={2}
+    >
+      <Styled(MdClose) />
+    </Styled(Buttons__Button)>
+  </styled.div>
+  <styled.div>
+    <div />
+  </styled.div>
+  <styled.div>
+    <Styled(Buttons__Button)
+      onClick={[Function]}
+      version={2}
+    >
+      CANCELAR
+    </Styled(Buttons__Button)>
+    <Buttons__SuccessButton
+      disabled={false}
+      onClick={[Function]}
+      version={2}
+    >
+      CONFIRMAR
+    </Buttons__SuccessButton>
+  </styled.div>
+</Modal>
+`;

@@ -1,0 +1,131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing CenterTabs Styles ContentDisplay should renders correctly 1`] = `
+<TabsCtrl
+  active={0}
+  header={
+    <ForwardRef(SimpleTabstyles__SimpleTabs)>
+      <ForwardRef
+        active={true}
+        as="div"
+        label="1"
+        left={false}
+        onClick={[Function]}
+        tooltip={null}
+        tooltipDelay={1000}
+        tooltipDirection="bottom"
+        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+      >
+        1
+      </ForwardRef>
+      <ForwardRef
+        active={false}
+        as="div"
+        label="2"
+        left={false}
+        onClick={[Function]}
+        tooltip={null}
+        tooltipDelay={1000}
+        tooltipDirection="bottom"
+        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+      >
+        2
+      </ForwardRef>
+      <ForwardRef
+        active={false}
+        as="div"
+        label="3"
+        left={false}
+        onClick={[Function]}
+        tooltip={null}
+        tooltipDelay={1000}
+        tooltipDirection="bottom"
+        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+      >
+        3
+      </ForwardRef>
+    </ForwardRef(SimpleTabstyles__SimpleTabs)>
+  }
+  tabs={
+    Array [
+      Object {
+        "content": "1",
+        "key": "12",
+      },
+      Object {
+        "content": "2",
+        "key": "24",
+      },
+      Object {
+        "content": "3",
+        "key": "36",
+      },
+    ]
+  }
+/>
+`;
+
+exports[`Testing CenterTabs Styles ContentDisplay should renders correctly after click on Tab 1`] = `
+<TabsCtrl
+  active={1}
+  header={
+    <ForwardRef(SimpleTabstyles__SimpleTabs)>
+      <ForwardRef
+        active={false}
+        as="div"
+        label="1"
+        left={false}
+        onClick={[Function]}
+        tooltip={null}
+        tooltipDelay={1000}
+        tooltipDirection="bottom"
+        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+      >
+        1
+      </ForwardRef>
+      <ForwardRef
+        active={true}
+        as="div"
+        label="2"
+        left={false}
+        onClick={[Function]}
+        tooltip={null}
+        tooltipDelay={1000}
+        tooltipDirection="bottom"
+        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+      >
+        2
+      </ForwardRef>
+      <ForwardRef
+        active={false}
+        as="div"
+        label="3"
+        left={false}
+        onClick={[Function]}
+        tooltip={null}
+        tooltipDelay={1000}
+        tooltipDirection="bottom"
+        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+      >
+        3
+      </ForwardRef>
+    </ForwardRef(SimpleTabstyles__SimpleTabs)>
+  }
+  tabs={
+    Array [
+      Object {
+        "content": "1",
+        "key": "114",
+      },
+      Object {
+        "content": "2",
+        "key": "216",
+      },
+      Object {
+        "content": "3",
+        "key": "318",
+      },
+    ]
+  }
+/>
+`;

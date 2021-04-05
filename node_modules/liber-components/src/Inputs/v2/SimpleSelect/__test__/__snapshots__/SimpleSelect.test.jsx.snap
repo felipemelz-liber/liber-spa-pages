@@ -1,0 +1,150 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing SimpleSelect Component renders SimpleSelect correctly with props 1`] = `
+<SimpleSelectstyles__Container>
+  <SimpleDropDown
+    autoPosition={true}
+    containerSize={false}
+    customButton={
+      <ForwardRef(SimpleSelectstyles__DisplayBox)
+        onSelect={[Function]}
+        value={null}
+      >
+        <ForwardRef(SimpleSelectstyles__ValueBox)>
+          
+        </ForwardRef(SimpleSelectstyles__ValueBox)>
+        <ForwardRef(SimpleSelectstyles__Chevron) />
+      </ForwardRef(SimpleSelectstyles__DisplayBox)>
+    }
+    hasOutsideLabel={false}
+    label=""
+    open={null}
+    position="bottom-left-down-right"
+    window={[Window]}
+  >
+    <SimpleSelectstyles__Option
+      active={false}
+      key="10"
+      label="10"
+      onClick={[Function]}
+      value="10"
+    >
+      10
+    </SimpleSelectstyles__Option>
+    <SimpleSelectstyles__Option
+      active={false}
+      key="25"
+      label="25"
+      onClick={[Function]}
+      value="25"
+    >
+      25
+    </SimpleSelectstyles__Option>
+    <SimpleSelectstyles__Option
+      active={false}
+      key="50"
+      label="50"
+      onClick={[Function]}
+      value="50"
+    >
+      50
+    </SimpleSelectstyles__Option>
+    <SimpleSelectstyles__Option
+      active={false}
+      key="100"
+      label="100"
+      onClick={[Function]}
+      value="100"
+    >
+      100
+    </SimpleSelectstyles__Option>
+  </SimpleDropDown>
+</SimpleSelectstyles__Container>
+`;
+
+exports[`Testing SimpleSelect Component renders SimpleSelect correctly with value 1`] = `
+<SimpleSelectstyles__Container>
+  <SimpleDropDown
+    autoPosition={true}
+    containerSize={false}
+    customButton={
+      <ForwardRef(SimpleSelectstyles__DisplayBox)
+        onSelect={[Function]}
+        value="50"
+      >
+        <ForwardRef(SimpleSelectstyles__ValueBox)>
+          50
+        </ForwardRef(SimpleSelectstyles__ValueBox)>
+        <ForwardRef(SimpleSelectstyles__Chevron) />
+      </ForwardRef(SimpleSelectstyles__DisplayBox)>
+    }
+    hasOutsideLabel={false}
+    label=""
+    open={null}
+    position="bottom-left-down-right"
+    window={[Window]}
+  >
+    <SimpleSelectstyles__Option
+      active={false}
+      key="10"
+      label="10"
+      onClick={[Function]}
+      value="10"
+    >
+      10
+    </SimpleSelectstyles__Option>
+    <SimpleSelectstyles__Option
+      active={false}
+      key="25"
+      label="25"
+      onClick={[Function]}
+      value="25"
+    >
+      25
+    </SimpleSelectstyles__Option>
+    <SimpleSelectstyles__Option
+      active={true}
+      key="50"
+      label="50"
+      onClick={[Function]}
+      value="50"
+    >
+      50
+    </SimpleSelectstyles__Option>
+    <SimpleSelectstyles__Option
+      active={false}
+      key="100"
+      label="100"
+      onClick={[Function]}
+      value="100"
+    >
+      100
+    </SimpleSelectstyles__Option>
+  </SimpleDropDown>
+</SimpleSelectstyles__Container>
+`;
+
+exports[`Testing SimpleSelect Component renders SimpleSelect correctly without props 1`] = `
+<SimpleSelectstyles__Container>
+  <SimpleDropDown
+    autoPosition={true}
+    containerSize={false}
+    customButton={
+      <ForwardRef(SimpleSelectstyles__DisplayBox)
+        onSelect={[Function]}
+        value={null}
+      >
+        <ForwardRef(SimpleSelectstyles__ValueBox)>
+          
+        </ForwardRef(SimpleSelectstyles__ValueBox)>
+        <ForwardRef(SimpleSelectstyles__Chevron) />
+      </ForwardRef(SimpleSelectstyles__DisplayBox)>
+    }
+    hasOutsideLabel={false}
+    label=""
+    open={null}
+    position="bottom-left-down-right"
+    window={[Window]}
+  />
+</SimpleSelectstyles__Container>
+`;

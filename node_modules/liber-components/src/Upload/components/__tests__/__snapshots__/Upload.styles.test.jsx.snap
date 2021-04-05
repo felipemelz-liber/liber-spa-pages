@@ -1,0 +1,335 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Upload styles Component should render CameraIcon component correctly  1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Uploadstyles__CameraIcon-wiyd81-5",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;width:28px;height:29px;",
+          " fill:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Uploadstyles__CameraIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Uploadstyles__CameraIcon-wiyd81-5",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Upload styles Component should render CheckIcon component correctly  1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Uploadstyles__CheckIcon-wiyd81-3",
+        "isStatic": false,
+        "rules": Array [
+          "width:16px;height:16px;fill:#13ce66;",
+        ],
+      },
+      "displayName": "Uploadstyles__CheckIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Uploadstyles__CheckIcon-wiyd81-3",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Upload styles Component should render Circle component correctly  1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Uploadstyles__Circle-wiyd81-1",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;justify-content:center;flex-direction:column;align-items:center;width:20px;height:20px;border-radius:10px;box-shadow:0 0.5px 2px 0 rgba(0,0,0,0.12);position:relative;top:12px;left:11px;background-color:#ffffff;",
+        ],
+      },
+      "displayName": "Uploadstyles__Circle",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Uploadstyles__Circle-wiyd81-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Upload styles Component should render FileIcon component correctly  1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Uploadstyles__FileIcon-wiyd81-4",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;width:28px;height:29px;",
+          " fill:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Uploadstyles__FileIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Uploadstyles__FileIcon-wiyd81-4",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Upload styles Component should render IconContainer component correctly  1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Uploadstyles__IconContainer-wiyd81-0",
+        "isStatic": false,
+        "rules": Array [
+          "margin-bottom:12px;margin-right:11px;",
+        ],
+      },
+      "displayName": "Uploadstyles__IconContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Uploadstyles__IconContainer-wiyd81-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Upload styles Component should render ImagePreview component correctly  1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Uploadstyles__ImagePreview-wiyd81-12",
+        "isStatic": false,
+        "rules": Array [
+          "background:url(",
+          [Function],
+          ") no-repeat center;background-size:cover;position:absolute;width:100%;height:100%;z-index:99;",
+        ],
+      },
+      "displayName": "Uploadstyles__ImagePreview",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Uploadstyles__ImagePreview-wiyd81-12",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Upload styles Component should render ImagePreviewIconContainer component correctly  1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Uploadstyles__ImagePreviewIconContainer-wiyd81-13",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;background-color:#ffffff;padding:8px;align-items:center;position:absolute;bottom:0px;",
+        ],
+      },
+      "displayName": "Uploadstyles__ImagePreviewIconContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Uploadstyles__ImagePreviewIconContainer-wiyd81-13",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Upload styles Component should render InputFile component correctly  1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Uploadstyles__InputFile-wiyd81-6",
+        "isStatic": false,
+        "rules": Array [
+          "overflow:hidden;position:absolute;z-index:-1;& +label{font-family:Roboto;font-size:16px;color:#8c9fa9;display:inline-block;}",
+        ],
+      },
+      "displayName": "Uploadstyles__InputFile",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Uploadstyles__InputFile-wiyd81-6",
+      "target": "input",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Upload styles Component should render PlusIcon component correctly  1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Uploadstyles__PlusIcon-wiyd81-2",
+        "isStatic": false,
+        "rules": Array [
+          "width:16px;height:16px;fill:#798e9b;",
+        ],
+      },
+      "displayName": "Uploadstyles__PlusIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Uploadstyles__PlusIcon-wiyd81-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Upload styles Component should render UploadFile component correctly  1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Uploadstyles__UploadFile-wiyd81-7",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;border:dashed 1px #e8ebee;background-color:#f9fafa;padding:32px;position:relative;&:hover{cursor:pointer;}",
+        ],
+      },
+      "displayName": "Uploadstyles__UploadFile",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Uploadstyles__UploadFile-wiyd81-7",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Upload styles Component should render UploadLabel component correctly  1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Uploadstyles__UploadLabel-wiyd81-8",
+        "isStatic": false,
+        "rules": Array [
+          "color:#798e9b;cursor:pointer;padding-left:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Uploadstyles__UploadLabel",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Uploadstyles__UploadLabel-wiyd81-8",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Upload styles Component should render UploadProgress component correctly  1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Uploadstyles__UploadProgress-wiyd81-9",
+        "isStatic": false,
+        "rules": Array [
+          "color:#405f71;font-family:Roboto;",
+        ],
+      },
+      "displayName": "Uploadstyles__UploadProgress",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Uploadstyles__UploadProgress-wiyd81-9",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

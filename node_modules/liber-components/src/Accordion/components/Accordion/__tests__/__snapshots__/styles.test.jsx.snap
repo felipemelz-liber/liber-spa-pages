@@ -1,0 +1,445 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Checkbox Styles AccordionAction should render correctly when closed 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__AccordionAction-rhrfqw-2",
+        "isStatic": false,
+        "rules": Array [
+          "padding:20px 50px;cursor:pointer;box-sizing:border-box;display:inline-block;background-color:",
+          [Function],
+          ";width:100%;transition:all 400ms ",
+          [Function],
+          ";position:relative;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    padding: 30px 50px;
+  ",
+          "}",
+          " &:after{position:absolute;top:calc(50% - 4px);left:15px;width:0;height:0;padding:0;content:'';border-left:7px solid transparent;border-right:7px solid transparent;border-top:8px solid ",
+          [Function],
+          ";pointer-events:none;transform:",
+          [Function],
+          ";transition:all 400ms ",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "styles__AccordionAction",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__AccordionAction-rhrfqw-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={false}
+/>
+`;
+
+exports[`Testing Checkbox Styles AccordionAction should render correctly when closed with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__AccordionAction-rhrfqw-2",
+        "isStatic": false,
+        "rules": Array [
+          "padding:20px 50px;cursor:pointer;box-sizing:border-box;display:inline-block;background-color:",
+          [Function],
+          ";width:100%;transition:all 400ms ",
+          [Function],
+          ";position:relative;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    padding: 30px 50px;
+  ",
+          "}",
+          " &:after{position:absolute;top:calc(50% - 4px);left:15px;width:0;height:0;padding:0;content:'';border-left:7px solid transparent;border-right:7px solid transparent;border-top:8px solid ",
+          [Function],
+          ";pointer-events:none;transform:",
+          [Function],
+          ";transition:all 400ms ",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "styles__AccordionAction",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__AccordionAction-rhrfqw-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={false}
+  theme={
+    Object {
+      "accordion": Object {
+        "actionBorderTopClosed": "#bbb",
+        "actionBorderTopOpen": "#aaa",
+        "boxBackgroundClosed": "#ddd",
+        "boxBackgroundHover": "#eee",
+        "boxBackgroundOpen": "#ccc",
+        "boxBorderClosed": "#ggg",
+        "boxBorderOpen": "#fff",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Testing Checkbox Styles AccordionAction should render correctly when open 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__AccordionAction-rhrfqw-2",
+        "isStatic": false,
+        "rules": Array [
+          "padding:20px 50px;cursor:pointer;box-sizing:border-box;display:inline-block;background-color:",
+          [Function],
+          ";width:100%;transition:all 400ms ",
+          [Function],
+          ";position:relative;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    padding: 30px 50px;
+  ",
+          "}",
+          " &:after{position:absolute;top:calc(50% - 4px);left:15px;width:0;height:0;padding:0;content:'';border-left:7px solid transparent;border-right:7px solid transparent;border-top:8px solid ",
+          [Function],
+          ";pointer-events:none;transform:",
+          [Function],
+          ";transition:all 400ms ",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "styles__AccordionAction",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__AccordionAction-rhrfqw-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={true}
+/>
+`;
+
+exports[`Testing Checkbox Styles AccordionAction should render correctly when open with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__AccordionAction-rhrfqw-2",
+        "isStatic": false,
+        "rules": Array [
+          "padding:20px 50px;cursor:pointer;box-sizing:border-box;display:inline-block;background-color:",
+          [Function],
+          ";width:100%;transition:all 400ms ",
+          [Function],
+          ";position:relative;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    padding: 30px 50px;
+  ",
+          "}",
+          " &:after{position:absolute;top:calc(50% - 4px);left:15px;width:0;height:0;padding:0;content:'';border-left:7px solid transparent;border-right:7px solid transparent;border-top:8px solid ",
+          [Function],
+          ";pointer-events:none;transform:",
+          [Function],
+          ";transition:all 400ms ",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "styles__AccordionAction",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__AccordionAction-rhrfqw-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={true}
+  theme={
+    Object {
+      "accordion": Object {
+        "actionBorderTopClosed": "#bbb",
+        "actionBorderTopOpen": "#aaa",
+        "boxBackgroundClosed": "#ddd",
+        "boxBackgroundHover": "#eee",
+        "boxBackgroundOpen": "#ccc",
+        "boxBorderClosed": "#ggg",
+        "boxBorderOpen": "#fff",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Testing Checkbox Styles AccordionBox should render correctly when closed 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__AccordionBox-rhrfqw-0",
+        "isStatic": false,
+        "rules": Array [
+          "overflow:hidden;width:100%;background-color:",
+          [Function],
+          ";border:",
+          [Function],
+          ";transition:all 400ms ",
+          [Function],
+          ";&:hover{background-color:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "styles__AccordionBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__AccordionBox-rhrfqw-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={false}
+/>
+`;
+
+exports[`Testing Checkbox Styles AccordionBox should render correctly when closed with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__AccordionBox-rhrfqw-0",
+        "isStatic": false,
+        "rules": Array [
+          "overflow:hidden;width:100%;background-color:",
+          [Function],
+          ";border:",
+          [Function],
+          ";transition:all 400ms ",
+          [Function],
+          ";&:hover{background-color:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "styles__AccordionBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__AccordionBox-rhrfqw-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={false}
+  theme={
+    Object {
+      "accordion": Object {
+        "actionBorderTopClosed": "#bbb",
+        "actionBorderTopOpen": "#aaa",
+        "boxBackgroundClosed": "#ddd",
+        "boxBackgroundHover": "#eee",
+        "boxBackgroundOpen": "#ccc",
+        "boxBorderClosed": "#ggg",
+        "boxBorderOpen": "#fff",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Testing Checkbox Styles AccordionBox should render correctly when open 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__AccordionBox-rhrfqw-0",
+        "isStatic": false,
+        "rules": Array [
+          "overflow:hidden;width:100%;background-color:",
+          [Function],
+          ";border:",
+          [Function],
+          ";transition:all 400ms ",
+          [Function],
+          ";&:hover{background-color:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "styles__AccordionBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__AccordionBox-rhrfqw-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={true}
+/>
+`;
+
+exports[`Testing Checkbox Styles AccordionBox should render correctly when open with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__AccordionBox-rhrfqw-0",
+        "isStatic": false,
+        "rules": Array [
+          "overflow:hidden;width:100%;background-color:",
+          [Function],
+          ";border:",
+          [Function],
+          ";transition:all 400ms ",
+          [Function],
+          ";&:hover{background-color:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "styles__AccordionBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__AccordionBox-rhrfqw-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={true}
+  theme={
+    Object {
+      "accordion": Object {
+        "actionBorderTopClosed": "#bbb",
+        "actionBorderTopOpen": "#aaa",
+        "boxBackgroundClosed": "#ddd",
+        "boxBackgroundHover": "#eee",
+        "boxBackgroundOpen": "#ccc",
+        "boxBorderClosed": "#ggg",
+        "boxBorderOpen": "#fff",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Testing Checkbox Styles ShowBox should render correctly when closed 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__ShowBox-rhrfqw-1",
+        "isStatic": false,
+        "rules": Array [
+          "max-height:",
+          [Function],
+          ";transition:max-height 400ms ",
+          [Function],
+          ";overflow:hidden;",
+        ],
+      },
+      "displayName": "styles__ShowBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__ShowBox-rhrfqw-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={false}
+/>
+`;
+
+exports[`Testing Checkbox Styles ShowBox should render correctly when open 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__ShowBox-rhrfqw-1",
+        "isStatic": false,
+        "rules": Array [
+          "max-height:",
+          [Function],
+          ";transition:max-height 400ms ",
+          [Function],
+          ";overflow:hidden;",
+        ],
+      },
+      "displayName": "styles__ShowBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__ShowBox-rhrfqw-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={true}
+/>
+`;

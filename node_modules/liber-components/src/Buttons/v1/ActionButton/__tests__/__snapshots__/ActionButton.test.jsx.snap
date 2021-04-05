@@ -1,0 +1,127 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for Action Button should render correctly 1`] = `
+<StyledButtons__Button
+  onBlur={[Function]}
+  onFocus={[Function]}
+  onMouseLeave={[Function]}
+  onMouseOver={[Function]}
+>
+  <styles__Icon
+    hover={false}
+  >
+    <div />
+  </styles__Icon>
+  <styles__Label
+    hover={false}
+    size="0px"
+  >
+    label
+  </styles__Label>
+</StyledButtons__Button>
+`;
+
+exports[`Test for Action Button should render correctly when focus 1`] = `
+<StyledButtons__SuccessButton
+  onBlur={[Function]}
+  onFocus={[Function]}
+  onMouseLeave={[Function]}
+  onMouseOver={[Function]}
+>
+  <styles__Icon
+    hover={true}
+  >
+    <div />
+  </styles__Icon>
+  <styles__Label
+    hover={true}
+    size="0px"
+  >
+    label
+  </styles__Label>
+</StyledButtons__SuccessButton>
+`;
+
+exports[`Test for Action Button should render correctly when hover 1`] = `
+<StyledButtons__SuccessButton
+  onBlur={[Function]}
+  onFocus={[Function]}
+  onMouseLeave={[Function]}
+  onMouseOver={[Function]}
+>
+  <styles__Icon
+    hover={true}
+  >
+    <div />
+  </styles__Icon>
+  <styles__Label
+    hover={true}
+    size="0px"
+  >
+    label
+  </styles__Label>
+</StyledButtons__SuccessButton>
+`;
+
+exports[`Test for Action Button should render correctly when type is primary 1`] = `
+<StyledButtons__PrimaryButton
+  onBlur={[Function]}
+  onFocus={[Function]}
+  onMouseLeave={[Function]}
+  onMouseOver={[Function]}
+>
+  <styles__Icon
+    hover={false}
+  >
+    <div />
+  </styles__Icon>
+  <styles__Label
+    hover={false}
+    size="0px"
+  >
+    label
+  </styles__Label>
+</StyledButtons__PrimaryButton>
+`;
+
+exports[`Test for Action Button should render correctly when type is secondary 1`] = `
+<StyledButtons__SecondaryButton
+  onBlur={[Function]}
+  onFocus={[Function]}
+  onMouseLeave={[Function]}
+  onMouseOver={[Function]}
+>
+  <styles__Icon
+    hover={false}
+  >
+    <div />
+  </styles__Icon>
+  <styles__Label
+    hover={false}
+    size="0px"
+  >
+    label
+  </styles__Label>
+</StyledButtons__SecondaryButton>
+`;
+
+exports[`Test for Action Button should render correctly when type is success 1`] = `
+<StyledButtons__SuccessButton
+  onBlur={[Function]}
+  onFocus={[Function]}
+  onMouseLeave={[Function]}
+  onMouseOver={[Function]}
+>
+  <styles__Icon
+    hover={false}
+  >
+    <div />
+  </styles__Icon>
+  <styles__Label
+    hover={false}
+    size="0px"
+  >
+    label
+  </styles__Label>
+</StyledButtons__SuccessButton>
+`;

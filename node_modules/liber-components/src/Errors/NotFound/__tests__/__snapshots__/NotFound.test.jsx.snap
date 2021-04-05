@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing NotFound should render correctly 1`] = `
+<Fragment>
+  <styles__DesktopContainer>
+    <styles__DesktopBackground />
+    <styles__DesktopIllustration />
+    <styles__DesktopContent>
+      <styles__DesktopMessageBox>
+        <h1>
+          Acho que pegamos uma trilha errada...
+        </h1>
+        <h3>
+          Não encontrei essa página.
+        </h3>
+        <styles__GreenLink
+          href="/"
+        >
+          Voltar à página inicial
+        </styles__GreenLink>
+      </styles__DesktopMessageBox>
+    </styles__DesktopContent>
+  </styles__DesktopContainer>
+  <styles__MobileContainer>
+    <styles__MobileBackground />
+    <styles__MobileIllustration />
+    <styles__MobileContent>
+      <styles__MobileBrand />
+      <styles__MobileMessageBox>
+        <h1>
+          Acho que pegamos uma trilha errada...
+        </h1>
+        <h3>
+          Não encontrei essa página.
+        </h3>
+        <styles__GreenLink
+          href="/"
+        >
+          Voltar à página inicial
+        </styles__GreenLink>
+      </styles__MobileMessageBox>
+    </styles__MobileContent>
+  </styles__MobileContainer>
+</Fragment>
+`;

@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for Action Button should render correctly with bigValue and smallValue 1`] = `
+<styles__Display
+  bigValue="32px"
+  divider={false}
+  hasAction={true}
+  smallValue="30px"
+>
+  <styles__Value
+    prefix="R$"
+  >
+    3
+  </styles__Value>
+  <styles__Label>
+    test
+  </styles__Label>
+  <styles__ActionContainer>
+    <Buttons__SuccessButton>
+      Mock
+    </Buttons__SuccessButton>
+  </styles__ActionContainer>
+</styles__Display>
+`;
+
+exports[`Test for Action Button should render correctly with button 1`] = `
+<styles__Display
+  divider={false}
+  hasAction={true}
+>
+  <styles__Value
+    prefix={null}
+  >
+    0
+  </styles__Value>
+  <styles__Label />
+  <styles__ActionContainer>
+    <Buttons__SuccessButton>
+      Mock
+    </Buttons__SuccessButton>
+  </styles__ActionContainer>
+</styles__Display>
+`;
+
+exports[`Test for Action Button should render correctly with currency 1`] = `
+<styles__Display
+  divider={false}
+  hasAction={true}
+>
+  <styles__Value
+    prefix="R$"
+  >
+    3
+  </styles__Value>
+  <styles__Label>
+    test
+  </styles__Label>
+  <styles__ActionContainer>
+    <Buttons__SuccessButton>
+      Mock
+    </Buttons__SuccessButton>
+  </styles__ActionContainer>
+</styles__Display>
+`;
+
+exports[`Test for Action Button should render correctly with value and label 1`] = `
+<styles__Display
+  divider={false}
+  hasAction={true}
+>
+  <styles__Value
+    prefix={null}
+  >
+    3
+  </styles__Value>
+  <styles__Label>
+    test
+  </styles__Label>
+  <styles__ActionContainer>
+    <Buttons__SuccessButton>
+      Mock
+    </Buttons__SuccessButton>
+  </styles__ActionContainer>
+</styles__Display>
+`;
+
+exports[`Test for Action Button should render correctly without button 1`] = `
+<styles__Display
+  divider={false}
+  hasAction={false}
+>
+  <styles__Value
+    prefix={null}
+  >
+    0
+  </styles__Value>
+  <styles__Label />
+  <styles__ActionContainer />
+</styles__Display>
+`;

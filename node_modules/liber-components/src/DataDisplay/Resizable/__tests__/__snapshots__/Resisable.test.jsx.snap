@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for Bar Display should render correctly big 1`] = `
+<Container>
+  <div
+    style={
+      Object {
+        "width": "100px",
+      }
+    }
+  >
+    <Resizable
+      style={
+        Object {
+          "fontSize": "30px",
+          "width": "200px",
+        }
+      }
+    >
+      <div
+        style={
+          Object {
+            "fontSize": "30px",
+            "width": "200px",
+          }
+        }
+      >
+        <div>
+          child
+        </div>
+      </div>
+    </Resizable>
+  </div>
+</Container>
+`;
+
+exports[`Test for Bar Display should render correctly small 1`] = `
+<Container>
+  <div
+    style={
+      Object {
+        "width": "100px",
+      }
+    }
+  >
+    <Resizable
+      style={
+        Object {
+          "fontSize": "30px",
+        }
+      }
+    >
+      <div
+        style={
+          Object {
+            "fontSize": "30px",
+          }
+        }
+      >
+        <div>
+          child
+        </div>
+      </div>
+    </Resizable>
+  </div>
+</Container>
+`;

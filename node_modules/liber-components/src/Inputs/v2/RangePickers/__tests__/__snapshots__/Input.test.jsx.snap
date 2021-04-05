@@ -1,0 +1,1050 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for Input Component should render correctly 1`] = `
+<Input
+  fields={
+    Array [
+      Object {
+        "id": "max",
+        "maxLength": 2,
+        "onChange": [Function],
+        "separator": "a",
+        "size": "30px",
+        "type": "number",
+        "value": "",
+      },
+      Object {
+        "id": "mask",
+        "mask": "9-9",
+        "maskChar": null,
+        "onChange": [Function],
+        "separator": "a",
+        "value": "",
+      },
+    ]
+  }
+  hide={false}
+  onFocus={[Function]}
+>
+  <Rangestyles__InputContainer
+    full={null}
+    hide={false}
+    key="max"
+  >
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "Rangestyles__InputContainer-sc-1vkdf5k-2",
+            "isStatic": false,
+            "lastClassName": "jLkHxa",
+            "rules": Array [
+              "display:flex;justify-content:flex-start;align-items:center;width:",
+              [Function],
+              ";opacity:",
+              [Function],
+              ";",
+            ],
+          },
+          "displayName": "Rangestyles__InputContainer",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "Rangestyles__InputContainer-sc-1vkdf5k-2",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      full={null}
+      hide={false}
+    >
+      <div
+        className="Rangestyles__InputContainer-sc-1vkdf5k-2 dwJiMk"
+      >
+        <Rangestyles__Input
+          data-max={2}
+          inputRef={[Function]}
+          inputSize="30px"
+          mask={null}
+          maskChar={null}
+          maxLength={2}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onKeyUp={[Function]}
+          type="number"
+          value=""
+        >
+          <StyledComponent
+            data-max={2}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [
+                  [Function],
+                ],
+                "componentStyle": ComponentStyle {
+                  "componentId": "Rangestyles__Input-sc-1vkdf5k-0",
+                  "isStatic": false,
+                  "lastClassName": "dMxXV",
+                  "rules": Array [
+                    "font-family:",
+                    [Function],
+                    ";font-size:",
+                    [Function],
+                    ";line-height:20px;text-align:left;color:",
+                    [Function],
+                    ";outline:0;margin-right:12px;border:0px;background-color:transparent;width:",
+                    [Function],
+                    ";&::-moz-focus-inner{border:0;}&::placeholder{color:",
+                    [Function],
+                    ";}",
+                  ],
+                },
+                "displayName": "Rangestyles__Input",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "Rangestyles__Input-sc-1vkdf5k-0",
+                "target": [Function],
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            inputRef={[Function]}
+            inputSize="30px"
+            mask={null}
+            maskChar={null}
+            maxLength={2}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            type="number"
+            value=""
+          >
+            <ClearInput
+              className="Rangestyles__Input-sc-1vkdf5k-0 ckrTqz"
+              data-max={2}
+              inputRef={[Function]}
+              inputSize="30px"
+              mask={null}
+              maskChar={null}
+              maxLength={2}
+              onChange={[Function]}
+              onFocus={[Function]}
+              onKeyUp={[Function]}
+              size="1"
+              type="number"
+              value=""
+            >
+              <InputElement
+                className="Rangestyles__Input-sc-1vkdf5k-0 ckrTqz"
+                data-max={2}
+                inputRef={[Function]}
+                mask={null}
+                maskChar={null}
+                maxLength={2}
+                onChange={[Function]}
+                onFocus={[Function]}
+                onKeyUp={[Function]}
+                size="1"
+                type="number"
+                value=""
+              >
+                <input
+                  className="Rangestyles__Input-sc-1vkdf5k-0 ckrTqz"
+                  data-max={2}
+                  maxLength={2}
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  onFocus={[Function]}
+                  onKeyUp={[Function]}
+                  size="1"
+                  type="number"
+                  value=""
+                />
+              </InputElement>
+            </ClearInput>
+          </StyledComponent>
+        </Rangestyles__Input>
+        <Rangestyles__Separator
+          show={false}
+        >
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "Rangestyles__Separator-sc-1vkdf5k-1",
+                  "isStatic": false,
+                  "lastClassName": "fZuEor",
+                  "rules": Array [
+                    "font-family:",
+                    [Function],
+                    ";font-size:",
+                    [Function],
+                    ";line-height:20px;text-align:left;color:",
+                    [Function],
+                    ";margin-right:12px;transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;opacity:",
+                    [Function],
+                    ";align-self:center;",
+                  ],
+                },
+                "displayName": "Rangestyles__Separator",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "Rangestyles__Separator-sc-1vkdf5k-1",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            show={false}
+          >
+            <div
+              className="Rangestyles__Separator-sc-1vkdf5k-1 fZuEor"
+            >
+              a
+            </div>
+          </StyledComponent>
+        </Rangestyles__Separator>
+      </div>
+    </StyledComponent>
+  </Rangestyles__InputContainer>
+  <Rangestyles__InputContainer
+    full="100%"
+    hide={false}
+    key="mask"
+  >
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "Rangestyles__InputContainer-sc-1vkdf5k-2",
+            "isStatic": false,
+            "lastClassName": "jLkHxa",
+            "rules": Array [
+              "display:flex;justify-content:flex-start;align-items:center;width:",
+              [Function],
+              ";opacity:",
+              [Function],
+              ";",
+            ],
+          },
+          "displayName": "Rangestyles__InputContainer",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "Rangestyles__InputContainer-sc-1vkdf5k-2",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      full="100%"
+      hide={false}
+    >
+      <div
+        className="Rangestyles__InputContainer-sc-1vkdf5k-2 jLkHxa"
+      >
+        <Rangestyles__Input
+          data-max={3}
+          inputRef={[Function]}
+          inputSize="100%"
+          mask="9-9"
+          maskChar={null}
+          maxLength={null}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onKeyUp={[Function]}
+          type="text"
+          value=""
+        >
+          <StyledComponent
+            data-max={3}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [
+                  [Function],
+                ],
+                "componentStyle": ComponentStyle {
+                  "componentId": "Rangestyles__Input-sc-1vkdf5k-0",
+                  "isStatic": false,
+                  "lastClassName": "dMxXV",
+                  "rules": Array [
+                    "font-family:",
+                    [Function],
+                    ";font-size:",
+                    [Function],
+                    ";line-height:20px;text-align:left;color:",
+                    [Function],
+                    ";outline:0;margin-right:12px;border:0px;background-color:transparent;width:",
+                    [Function],
+                    ";&::-moz-focus-inner{border:0;}&::placeholder{color:",
+                    [Function],
+                    ";}",
+                  ],
+                },
+                "displayName": "Rangestyles__Input",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "Rangestyles__Input-sc-1vkdf5k-0",
+                "target": [Function],
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            inputRef={[Function]}
+            inputSize="100%"
+            mask="9-9"
+            maskChar={null}
+            maxLength={null}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            type="text"
+            value=""
+          >
+            <ClearInput
+              className="Rangestyles__Input-sc-1vkdf5k-0 dMxXV"
+              data-max={3}
+              inputRef={[Function]}
+              inputSize="100%"
+              mask="9-9"
+              maskChar={null}
+              maxLength={null}
+              onChange={[Function]}
+              onFocus={[Function]}
+              onKeyUp={[Function]}
+              size="1"
+              type="text"
+              value=""
+            >
+              <InputElement
+                className="Rangestyles__Input-sc-1vkdf5k-0 dMxXV"
+                data-max={3}
+                inputRef={[Function]}
+                mask="9-9"
+                maskChar={null}
+                maxLength={null}
+                onChange={[Function]}
+                onFocus={[Function]}
+                onKeyUp={[Function]}
+                size="1"
+                type="text"
+                value=""
+              >
+                <input
+                  className="Rangestyles__Input-sc-1vkdf5k-0 dMxXV"
+                  data-max={3}
+                  maxLength={null}
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  onFocus={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onPaste={[Function]}
+                  size="1"
+                  type="text"
+                  value=""
+                />
+              </InputElement>
+            </ClearInput>
+          </StyledComponent>
+        </Rangestyles__Input>
+        <Rangestyles__Separator
+          show={false}
+        >
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "Rangestyles__Separator-sc-1vkdf5k-1",
+                  "isStatic": false,
+                  "lastClassName": "fZuEor",
+                  "rules": Array [
+                    "font-family:",
+                    [Function],
+                    ";font-size:",
+                    [Function],
+                    ";line-height:20px;text-align:left;color:",
+                    [Function],
+                    ";margin-right:12px;transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;opacity:",
+                    [Function],
+                    ";align-self:center;",
+                  ],
+                },
+                "displayName": "Rangestyles__Separator",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "Rangestyles__Separator-sc-1vkdf5k-1",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            show={false}
+          >
+            <div
+              className="Rangestyles__Separator-sc-1vkdf5k-1 fZuEor"
+            >
+              a
+            </div>
+          </StyledComponent>
+        </Rangestyles__Separator>
+      </div>
+    </StyledComponent>
+  </Rangestyles__InputContainer>
+</Input>
+`;
+
+exports[`Test for Input Component should render correctly 2`] = `
+<Input
+  fields={
+    Array [
+      Object {
+        "id": "max",
+        "maxLength": 2,
+        "onChange": [Function],
+        "separator": "a",
+        "size": "30px",
+        "type": "number",
+        "value": "",
+      },
+      Object {
+        "id": "mask",
+        "mask": "9-9",
+        "maskChar": null,
+        "onChange": [Function],
+        "separator": "a",
+        "value": "",
+      },
+    ]
+  }
+  hide={false}
+  onFocus={[Function]}
+>
+  <Rangestyles__InputContainer
+    full={null}
+    hide={false}
+    key="max"
+  >
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "Rangestyles__InputContainer-sc-1vkdf5k-2",
+            "isStatic": false,
+            "lastClassName": "jLkHxa",
+            "rules": Array [
+              "display:flex;justify-content:flex-start;align-items:center;width:",
+              [Function],
+              ";opacity:",
+              [Function],
+              ";",
+            ],
+          },
+          "displayName": "Rangestyles__InputContainer",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "Rangestyles__InputContainer-sc-1vkdf5k-2",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      full={null}
+      hide={false}
+    >
+      <div
+        className="Rangestyles__InputContainer-sc-1vkdf5k-2 dwJiMk"
+      >
+        <Rangestyles__Input
+          data-max={2}
+          inputRef={[Function]}
+          inputSize="30px"
+          mask={null}
+          maskChar={null}
+          maxLength={2}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onKeyUp={[Function]}
+          type="number"
+          value=""
+        >
+          <StyledComponent
+            data-max={2}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [
+                  [Function],
+                ],
+                "componentStyle": ComponentStyle {
+                  "componentId": "Rangestyles__Input-sc-1vkdf5k-0",
+                  "isStatic": false,
+                  "lastClassName": "dMxXV",
+                  "rules": Array [
+                    "font-family:",
+                    [Function],
+                    ";font-size:",
+                    [Function],
+                    ";line-height:20px;text-align:left;color:",
+                    [Function],
+                    ";outline:0;margin-right:12px;border:0px;background-color:transparent;width:",
+                    [Function],
+                    ";&::-moz-focus-inner{border:0;}&::placeholder{color:",
+                    [Function],
+                    ";}",
+                  ],
+                },
+                "displayName": "Rangestyles__Input",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "Rangestyles__Input-sc-1vkdf5k-0",
+                "target": [Function],
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            inputRef={[Function]}
+            inputSize="30px"
+            mask={null}
+            maskChar={null}
+            maxLength={2}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            type="number"
+            value=""
+          >
+            <ClearInput
+              className="Rangestyles__Input-sc-1vkdf5k-0 ckrTqz"
+              data-max={2}
+              inputRef={[Function]}
+              inputSize="30px"
+              mask={null}
+              maskChar={null}
+              maxLength={2}
+              onChange={[Function]}
+              onFocus={[Function]}
+              onKeyUp={[Function]}
+              size="1"
+              type="number"
+              value=""
+            >
+              <InputElement
+                className="Rangestyles__Input-sc-1vkdf5k-0 ckrTqz"
+                data-max={2}
+                inputRef={[Function]}
+                mask={null}
+                maskChar={null}
+                maxLength={2}
+                onChange={[Function]}
+                onFocus={[Function]}
+                onKeyUp={[Function]}
+                size="1"
+                type="number"
+                value=""
+              >
+                <input
+                  className="Rangestyles__Input-sc-1vkdf5k-0 ckrTqz"
+                  data-max={2}
+                  maxLength={2}
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  onFocus={[Function]}
+                  onKeyUp={[Function]}
+                  size="1"
+                  type="number"
+                  value=""
+                />
+              </InputElement>
+            </ClearInput>
+          </StyledComponent>
+        </Rangestyles__Input>
+        <Rangestyles__Separator
+          show={false}
+        >
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "Rangestyles__Separator-sc-1vkdf5k-1",
+                  "isStatic": false,
+                  "lastClassName": "fZuEor",
+                  "rules": Array [
+                    "font-family:",
+                    [Function],
+                    ";font-size:",
+                    [Function],
+                    ";line-height:20px;text-align:left;color:",
+                    [Function],
+                    ";margin-right:12px;transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;opacity:",
+                    [Function],
+                    ";align-self:center;",
+                  ],
+                },
+                "displayName": "Rangestyles__Separator",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "Rangestyles__Separator-sc-1vkdf5k-1",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            show={false}
+          >
+            <div
+              className="Rangestyles__Separator-sc-1vkdf5k-1 fZuEor"
+            >
+              a
+            </div>
+          </StyledComponent>
+        </Rangestyles__Separator>
+      </div>
+    </StyledComponent>
+  </Rangestyles__InputContainer>
+  <Rangestyles__InputContainer
+    full="100%"
+    hide={false}
+    key="mask"
+  >
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "Rangestyles__InputContainer-sc-1vkdf5k-2",
+            "isStatic": false,
+            "lastClassName": "jLkHxa",
+            "rules": Array [
+              "display:flex;justify-content:flex-start;align-items:center;width:",
+              [Function],
+              ";opacity:",
+              [Function],
+              ";",
+            ],
+          },
+          "displayName": "Rangestyles__InputContainer",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "Rangestyles__InputContainer-sc-1vkdf5k-2",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      full="100%"
+      hide={false}
+    >
+      <div
+        className="Rangestyles__InputContainer-sc-1vkdf5k-2 jLkHxa"
+      >
+        <Rangestyles__Input
+          data-max={3}
+          inputRef={[Function]}
+          inputSize="100%"
+          mask="9-9"
+          maskChar={null}
+          maxLength={null}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onKeyUp={[Function]}
+          type="text"
+          value=""
+        >
+          <StyledComponent
+            data-max={3}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [
+                  [Function],
+                ],
+                "componentStyle": ComponentStyle {
+                  "componentId": "Rangestyles__Input-sc-1vkdf5k-0",
+                  "isStatic": false,
+                  "lastClassName": "dMxXV",
+                  "rules": Array [
+                    "font-family:",
+                    [Function],
+                    ";font-size:",
+                    [Function],
+                    ";line-height:20px;text-align:left;color:",
+                    [Function],
+                    ";outline:0;margin-right:12px;border:0px;background-color:transparent;width:",
+                    [Function],
+                    ";&::-moz-focus-inner{border:0;}&::placeholder{color:",
+                    [Function],
+                    ";}",
+                  ],
+                },
+                "displayName": "Rangestyles__Input",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "Rangestyles__Input-sc-1vkdf5k-0",
+                "target": [Function],
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            inputRef={[Function]}
+            inputSize="100%"
+            mask="9-9"
+            maskChar={null}
+            maxLength={null}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            type="text"
+            value=""
+          >
+            <ClearInput
+              className="Rangestyles__Input-sc-1vkdf5k-0 dMxXV"
+              data-max={3}
+              inputRef={[Function]}
+              inputSize="100%"
+              mask="9-9"
+              maskChar={null}
+              maxLength={null}
+              onChange={[Function]}
+              onFocus={[Function]}
+              onKeyUp={[Function]}
+              size="1"
+              type="text"
+              value=""
+            >
+              <InputElement
+                className="Rangestyles__Input-sc-1vkdf5k-0 dMxXV"
+                data-max={3}
+                inputRef={[Function]}
+                mask="9-9"
+                maskChar={null}
+                maxLength={null}
+                onChange={[Function]}
+                onFocus={[Function]}
+                onKeyUp={[Function]}
+                size="1"
+                type="text"
+                value=""
+              >
+                <input
+                  className="Rangestyles__Input-sc-1vkdf5k-0 dMxXV"
+                  data-max={3}
+                  maxLength={null}
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  onFocus={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onPaste={[Function]}
+                  size="1"
+                  type="text"
+                  value=""
+                />
+              </InputElement>
+            </ClearInput>
+          </StyledComponent>
+        </Rangestyles__Input>
+        <Rangestyles__Separator
+          show={false}
+        >
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "Rangestyles__Separator-sc-1vkdf5k-1",
+                  "isStatic": false,
+                  "lastClassName": "fZuEor",
+                  "rules": Array [
+                    "font-family:",
+                    [Function],
+                    ";font-size:",
+                    [Function],
+                    ";line-height:20px;text-align:left;color:",
+                    [Function],
+                    ";margin-right:12px;transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;opacity:",
+                    [Function],
+                    ";align-self:center;",
+                  ],
+                },
+                "displayName": "Rangestyles__Separator",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "Rangestyles__Separator-sc-1vkdf5k-1",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            show={false}
+          >
+            <div
+              className="Rangestyles__Separator-sc-1vkdf5k-1 fZuEor"
+            >
+              a
+            </div>
+          </StyledComponent>
+        </Rangestyles__Separator>
+      </div>
+    </StyledComponent>
+  </Rangestyles__InputContainer>
+</Input>
+`;
+
+exports[`Test for Input Component should render when disabled 1`] = `
+<Input
+  fields={
+    Array [
+      Object {
+        "disabled": true,
+        "id": "max",
+        "maxLength": 2,
+        "onChange": [Function],
+        "separator": "a",
+        "size": "30px",
+        "type": "number",
+        "value": "",
+      },
+    ]
+  }
+  hide={false}
+  onFocus={[Function]}
+>
+  <Rangestyles__InputContainer
+    full={null}
+    hide={false}
+    key="max"
+  >
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "Rangestyles__InputContainer-sc-1vkdf5k-2",
+            "isStatic": false,
+            "lastClassName": "dwJiMk",
+            "rules": Array [
+              "display:flex;justify-content:flex-start;align-items:center;width:",
+              [Function],
+              ";opacity:",
+              [Function],
+              ";",
+            ],
+          },
+          "displayName": "Rangestyles__InputContainer",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "Rangestyles__InputContainer-sc-1vkdf5k-2",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      full={null}
+      hide={false}
+    >
+      <div
+        className="Rangestyles__InputContainer-sc-1vkdf5k-2 dwJiMk"
+      >
+        <Rangestyles__Input
+          data-max={2}
+          disabled={true}
+          inputRef={[Function]}
+          inputSize="30px"
+          mask={null}
+          maskChar={null}
+          maxLength={2}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onKeyUp={[Function]}
+          type="number"
+          value=""
+        >
+          <StyledComponent
+            data-max={2}
+            disabled={true}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [
+                  [Function],
+                ],
+                "componentStyle": ComponentStyle {
+                  "componentId": "Rangestyles__Input-sc-1vkdf5k-0",
+                  "isStatic": false,
+                  "lastClassName": "ckrTqz",
+                  "rules": Array [
+                    "font-family:",
+                    [Function],
+                    ";font-size:",
+                    [Function],
+                    ";line-height:20px;text-align:left;color:",
+                    [Function],
+                    ";outline:0;margin-right:12px;border:0px;background-color:transparent;width:",
+                    [Function],
+                    ";&::-moz-focus-inner{border:0;}&::placeholder{color:",
+                    [Function],
+                    ";}",
+                  ],
+                },
+                "displayName": "Rangestyles__Input",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "Rangestyles__Input-sc-1vkdf5k-0",
+                "target": [Function],
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            inputRef={[Function]}
+            inputSize="30px"
+            mask={null}
+            maskChar={null}
+            maxLength={2}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            type="number"
+            value=""
+          >
+            <ClearInput
+              className="Rangestyles__Input-sc-1vkdf5k-0 ckrTqz"
+              data-max={2}
+              disabled={true}
+              inputRef={[Function]}
+              inputSize="30px"
+              mask={null}
+              maskChar={null}
+              maxLength={2}
+              onChange={[Function]}
+              onFocus={[Function]}
+              onKeyUp={[Function]}
+              size="1"
+              type="number"
+              value=""
+            >
+              <InputElement
+                className="Rangestyles__Input-sc-1vkdf5k-0 ckrTqz"
+                data-max={2}
+                disabled={true}
+                inputRef={[Function]}
+                mask={null}
+                maskChar={null}
+                maxLength={2}
+                onChange={[Function]}
+                onFocus={[Function]}
+                onKeyUp={[Function]}
+                size="1"
+                type="number"
+                value=""
+              >
+                <input
+                  className="Rangestyles__Input-sc-1vkdf5k-0 ckrTqz"
+                  data-max={2}
+                  disabled={true}
+                  maxLength={2}
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  onFocus={[Function]}
+                  onKeyUp={[Function]}
+                  size="1"
+                  type="number"
+                  value=""
+                />
+              </InputElement>
+            </ClearInput>
+          </StyledComponent>
+        </Rangestyles__Input>
+        <Rangestyles__Separator
+          show={false}
+        >
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "Rangestyles__Separator-sc-1vkdf5k-1",
+                  "isStatic": false,
+                  "lastClassName": "fZuEor",
+                  "rules": Array [
+                    "font-family:",
+                    [Function],
+                    ";font-size:",
+                    [Function],
+                    ";line-height:20px;text-align:left;color:",
+                    [Function],
+                    ";margin-right:12px;transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;opacity:",
+                    [Function],
+                    ";align-self:center;",
+                  ],
+                },
+                "displayName": "Rangestyles__Separator",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "Rangestyles__Separator-sc-1vkdf5k-1",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            show={false}
+          >
+            <div
+              className="Rangestyles__Separator-sc-1vkdf5k-1 fZuEor"
+            >
+              a
+            </div>
+          </StyledComponent>
+        </Rangestyles__Separator>
+      </div>
+    </StyledComponent>
+  </Rangestyles__InputContainer>
+</Input>
+`;

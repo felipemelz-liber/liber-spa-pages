@@ -1,0 +1,307 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MonthSelect tests should render correctly disabled 1`] = `
+<Fragment>
+  <GlobalStyleComponent />
+  <ClickOutside
+    onOutsideClick={[Function]}
+  >
+    <SelectFieldstyles__Container>
+      <SimpleDropDown
+        autoPosition={true}
+        containerSize={false}
+        customButton={
+          <ForwardRef(MonthSelectstyles__Shell)
+            disabled={true}
+            error={false}
+            hasValue={false}
+            onClick={[Function]}
+            open={false}
+            tabIndex="0"
+          >
+            <ForwardRef(MonthSelectstyles__CalendarIcon)
+              error={false}
+              open={false}
+            />
+          </ForwardRef(MonthSelectstyles__Shell)>
+        }
+        hasOutsideLabel={false}
+        label=""
+        open={false}
+        position="bottom-left"
+        window={[Window]}
+      >
+        <MonthSelectstyles__DropdownContent>
+          <MonthSelectstyles__YearSelection>
+            <MonthSelectstyles__IconButton
+              color="primary"
+              onClick={[Function]}
+            >
+              <MonthSelectstyles__Arrow />
+            </MonthSelectstyles__IconButton>
+            <MonthSelectstyles__TextContainer>
+              <Transition
+                appear={false}
+                enter={true}
+                exit={true}
+                in={false}
+                mountOnEnter={false}
+                onEnter={[Function]}
+                onEntered={[Function]}
+                onEntering={[Function]}
+                onExit={[Function]}
+                onExited={[Function]}
+                onExiting={[Function]}
+                timeout={150}
+                unmountOnExit={false}
+              >
+                <Component />
+              </Transition>
+            </MonthSelectstyles__TextContainer>
+            <MonthSelectstyles__IconButton
+              color="primary"
+              onClick={[Function]}
+            >
+              <MonthSelectstyles__Arrow
+                direction="right"
+              />
+            </MonthSelectstyles__IconButton>
+          </MonthSelectstyles__YearSelection>
+          <MonthSelectstyles__OptionsContainer />
+        </MonthSelectstyles__DropdownContent>
+      </SimpleDropDown>
+    </SelectFieldstyles__Container>
+  </ClickOutside>
+</Fragment>
+`;
+
+exports[`MonthSelect tests should render correctly with error 1`] = `
+<Fragment>
+  <GlobalStyleComponent />
+  <ClickOutside
+    onOutsideClick={[Function]}
+  >
+    <SelectFieldstyles__Container>
+      <SelectFieldstyles__Error
+        visible={true}
+      >
+        error
+      </SelectFieldstyles__Error>
+      <SimpleDropDown
+        autoPosition={true}
+        containerSize={false}
+        customButton={
+          <ForwardRef(MonthSelectstyles__Shell)
+            disabled={false}
+            error={true}
+            hasValue={false}
+            onClick={[Function]}
+            open={false}
+            tabIndex="0"
+          >
+            <ForwardRef(MonthSelectstyles__CalendarIcon)
+              error={true}
+              open={false}
+            />
+          </ForwardRef(MonthSelectstyles__Shell)>
+        }
+        hasOutsideLabel={false}
+        label=""
+        open={false}
+        position="bottom-left"
+        window={[Window]}
+      >
+        <MonthSelectstyles__DropdownContent>
+          <MonthSelectstyles__YearSelection>
+            <MonthSelectstyles__IconButton
+              color="primary"
+              onClick={[Function]}
+            >
+              <MonthSelectstyles__Arrow />
+            </MonthSelectstyles__IconButton>
+            <MonthSelectstyles__TextContainer>
+              <Transition
+                appear={false}
+                enter={true}
+                exit={true}
+                in={false}
+                mountOnEnter={false}
+                onEnter={[Function]}
+                onEntered={[Function]}
+                onEntering={[Function]}
+                onExit={[Function]}
+                onExited={[Function]}
+                onExiting={[Function]}
+                timeout={150}
+                unmountOnExit={false}
+              >
+                <Component />
+              </Transition>
+            </MonthSelectstyles__TextContainer>
+            <MonthSelectstyles__IconButton
+              color="primary"
+              onClick={[Function]}
+            >
+              <MonthSelectstyles__Arrow
+                direction="right"
+              />
+            </MonthSelectstyles__IconButton>
+          </MonthSelectstyles__YearSelection>
+          <MonthSelectstyles__OptionsContainer />
+        </MonthSelectstyles__DropdownContent>
+      </SimpleDropDown>
+    </SelectFieldstyles__Container>
+  </ClickOutside>
+</Fragment>
+`;
+
+exports[`MonthSelect tests should render correctly with value 1`] = `
+<Fragment>
+  <GlobalStyleComponent />
+  <ClickOutside
+    onOutsideClick={[Function]}
+  >
+    <SelectFieldstyles__Container>
+      <SimpleDropDown
+        autoPosition={true}
+        containerSize={false}
+        customButton={
+          <ForwardRef(MonthSelectstyles__Shell)
+            disabled={false}
+            error={false}
+            hasValue={true}
+            onClick={[Function]}
+            open={false}
+            tabIndex="0"
+          >
+            April de 2020
+            <ForwardRef(MonthSelectstyles__CalendarIcon)
+              error={false}
+              open={false}
+            />
+          </ForwardRef(MonthSelectstyles__Shell)>
+        }
+        hasOutsideLabel={false}
+        label=""
+        open={false}
+        position="bottom-left"
+        window={[Window]}
+      >
+        <MonthSelectstyles__DropdownContent>
+          <MonthSelectstyles__YearSelection>
+            <MonthSelectstyles__IconButton
+              color="primary"
+              onClick={[Function]}
+            >
+              <MonthSelectstyles__Arrow />
+            </MonthSelectstyles__IconButton>
+            <MonthSelectstyles__TextContainer>
+              <Transition
+                appear={false}
+                enter={true}
+                exit={true}
+                in={false}
+                mountOnEnter={false}
+                onEnter={[Function]}
+                onEntered={[Function]}
+                onEntering={[Function]}
+                onExit={[Function]}
+                onExited={[Function]}
+                onExiting={[Function]}
+                timeout={150}
+                unmountOnExit={false}
+              >
+                <Component />
+              </Transition>
+            </MonthSelectstyles__TextContainer>
+            <MonthSelectstyles__IconButton
+              color="primary"
+              onClick={[Function]}
+            >
+              <MonthSelectstyles__Arrow
+                direction="right"
+              />
+            </MonthSelectstyles__IconButton>
+          </MonthSelectstyles__YearSelection>
+          <MonthSelectstyles__OptionsContainer />
+        </MonthSelectstyles__DropdownContent>
+      </SimpleDropDown>
+    </SelectFieldstyles__Container>
+  </ClickOutside>
+</Fragment>
+`;
+
+exports[`MonthSelect tests should render correctly without props 1`] = `
+<Fragment>
+  <GlobalStyleComponent />
+  <ClickOutside
+    onOutsideClick={[Function]}
+  >
+    <SelectFieldstyles__Container>
+      <SimpleDropDown
+        autoPosition={true}
+        containerSize={false}
+        customButton={
+          <ForwardRef(MonthSelectstyles__Shell)
+            disabled={false}
+            error={false}
+            hasValue={false}
+            onClick={[Function]}
+            open={false}
+            tabIndex="0"
+          >
+            <ForwardRef(MonthSelectstyles__CalendarIcon)
+              error={false}
+              open={false}
+            />
+          </ForwardRef(MonthSelectstyles__Shell)>
+        }
+        hasOutsideLabel={false}
+        label=""
+        open={false}
+        position="bottom-left"
+        window={[Window]}
+      >
+        <MonthSelectstyles__DropdownContent>
+          <MonthSelectstyles__YearSelection>
+            <MonthSelectstyles__IconButton
+              color="primary"
+              onClick={[Function]}
+            >
+              <MonthSelectstyles__Arrow />
+            </MonthSelectstyles__IconButton>
+            <MonthSelectstyles__TextContainer>
+              <Transition
+                appear={false}
+                enter={true}
+                exit={true}
+                in={false}
+                mountOnEnter={false}
+                onEnter={[Function]}
+                onEntered={[Function]}
+                onEntering={[Function]}
+                onExit={[Function]}
+                onExited={[Function]}
+                onExiting={[Function]}
+                timeout={150}
+                unmountOnExit={false}
+              >
+                <Component />
+              </Transition>
+            </MonthSelectstyles__TextContainer>
+            <MonthSelectstyles__IconButton
+              color="primary"
+              onClick={[Function]}
+            >
+              <MonthSelectstyles__Arrow
+                direction="right"
+              />
+            </MonthSelectstyles__IconButton>
+          </MonthSelectstyles__YearSelection>
+          <MonthSelectstyles__OptionsContainer />
+        </MonthSelectstyles__DropdownContent>
+      </SimpleDropDown>
+    </SelectFieldstyles__Container>
+  </ClickOutside>
+</Fragment>
+`;

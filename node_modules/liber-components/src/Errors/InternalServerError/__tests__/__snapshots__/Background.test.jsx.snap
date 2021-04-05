@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Background should render correctly 1`] = `
+<svg
+  className=""
+  preserveAspectRatio="none"
+  viewBox="0 0 1366 768"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <g
+    data-name="Fundo 500"
+    id="Fundo_500"
+    transform="translate(0 -815)"
+  >
+    <Background__Cls1
+      height="768"
+      id="Tela"
+      transform="translate(0 815)"
+      width="1366"
+    />
+    <g
+      data-name="Group 21"
+      id="Group_21"
+    >
+      <Background__Cls2
+        d="M1252.518,1201.6,1029.315,815H114.627L0,1013.54v376.116L111.627,1583h920.688Z"
+        data-name="Path 126"
+        id="Path_126"
+      />
+    </g>
+    <Background__Cls3
+      d="M970.227,1583,1190.3,1201.831,966.958,815H158.41L0,1089.374v224.916L155.14,1583Z"
+      data-name="Path 127"
+      id="Path_127"
+    />
+  </g>
+</svg>
+`;

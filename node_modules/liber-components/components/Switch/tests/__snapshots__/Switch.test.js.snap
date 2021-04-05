@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Switch component tests should render Switch component correctly with checked prop 1`] = `
+<Switchstyles__Container
+  checked={true}
+  onClick={[Function]}
+>
+  <Switchstyles__Circle />
+</Switchstyles__Container>
+`;
+
+exports[`Switch component tests should render Switch component correctly without props 1`] = `
+<Switchstyles__Container
+  checked={false}
+  onClick={[Function]}
+>
+  <Switchstyles__Circle />
+</Switchstyles__Container>
+`;

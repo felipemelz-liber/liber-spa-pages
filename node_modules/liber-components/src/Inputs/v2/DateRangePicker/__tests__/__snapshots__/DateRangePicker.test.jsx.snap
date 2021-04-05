@@ -1,0 +1,773 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for DateRangePicker should render correctly disabled 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <DateRangePickerstyles__Container>
+    <Rangestyles__Hint
+      visible={true}
+    />
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={
+        <ForwardRef(Rangestyles__InputShell)
+          disabled={true}
+          error={false}
+          handleOnMouseLeave={[Function]}
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          open={false}
+        >
+          <Input
+            fields={
+              Array [
+                Object {
+                  "disabled": true,
+                  "id": "start_day_field",
+                  "mask": "99/99/9999",
+                  "onChange": undefined,
+                  "separator": "a",
+                  "size": "87px",
+                  "value": "",
+                },
+                Object {
+                  "disabled": true,
+                  "id": "end_day_field",
+                  "mask": "99/99/9999",
+                  "onChange": undefined,
+                  "size": "87px",
+                  "value": "",
+                },
+              ]
+            }
+            hide={false}
+            onFocus={[Function]}
+          />
+        </ForwardRef(Rangestyles__InputShell)>
+      }
+      hasOutsideLabel={false}
+      label=""
+      open={false}
+      position="bottom-left"
+      window={[Window]}
+    >
+      <Range
+        displayDate={"2019-06-07T00:00:00.000Z"}
+        endDate={null}
+        onNavigate={[Function]}
+        showTime={false}
+        startDate={null}
+      />
+    </SimpleDropDown>
+    <DateRangePickerstyles__Icon
+      error={false}
+      hide={false}
+    />
+    <DateRangePickerstyles__Close
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+      show={false}
+    />
+  </DateRangePickerstyles__Container>
+</ClickOutside>
+`;
+
+exports[`Test for DateRangePicker should render correctly with defaultDisplayDate 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <DateRangePickerstyles__Container>
+    <Rangestyles__Hint
+      visible={true}
+    />
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={
+        <ForwardRef(Rangestyles__InputShell)
+          disabled={false}
+          error={false}
+          handleOnMouseLeave={[Function]}
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          open={false}
+        >
+          <Input
+            fields={
+              Array [
+                Object {
+                  "disabled": false,
+                  "id": "start_day_field",
+                  "mask": "99/99/9999",
+                  "onChange": [Function],
+                  "separator": "a",
+                  "size": "87px",
+                  "value": "",
+                },
+                Object {
+                  "disabled": false,
+                  "id": "end_day_field",
+                  "mask": "99/99/9999",
+                  "onChange": [Function],
+                  "size": "87px",
+                  "value": "",
+                },
+              ]
+            }
+            hide={false}
+            onFocus={[Function]}
+          />
+        </ForwardRef(Rangestyles__InputShell)>
+      }
+      hasOutsideLabel={false}
+      label=""
+      open={false}
+      position="bottom-left"
+      window={[Window]}
+    >
+      <Range
+        displayDate={"2019-07-07T03:00:00.000Z"}
+        endDate={null}
+        onChangeDates={[Function]}
+        onNavigate={[Function]}
+        showTime={false}
+        startDate={null}
+      />
+    </SimpleDropDown>
+    <DateRangePickerstyles__Icon
+      error={false}
+      hide={false}
+    />
+    <DateRangePickerstyles__Close
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+      show={false}
+    />
+  </DateRangePickerstyles__Container>
+</ClickOutside>
+`;
+
+exports[`Test for DateRangePicker should render correctly with displayDate 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <DateRangePickerstyles__Container>
+    <Rangestyles__Hint
+      visible={true}
+    />
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={
+        <ForwardRef(Rangestyles__InputShell)
+          disabled={false}
+          error={false}
+          handleOnMouseLeave={[Function]}
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          open={false}
+        >
+          <Input
+            fields={
+              Array [
+                Object {
+                  "disabled": false,
+                  "id": "start_day_field",
+                  "mask": "99/99/9999",
+                  "onChange": [Function],
+                  "separator": "a",
+                  "size": "87px",
+                  "value": "",
+                },
+                Object {
+                  "disabled": false,
+                  "id": "end_day_field",
+                  "mask": "99/99/9999",
+                  "onChange": [Function],
+                  "size": "87px",
+                  "value": "",
+                },
+              ]
+            }
+            hide={false}
+            onFocus={[Function]}
+          />
+        </ForwardRef(Rangestyles__InputShell)>
+      }
+      hasOutsideLabel={false}
+      label=""
+      open={false}
+      position="bottom-left"
+      window={[Window]}
+    >
+      <Range
+        displayDate={"2019-07-07T03:00:00.000Z"}
+        endDate={null}
+        onChangeDates={[Function]}
+        onNavigate={[Function]}
+        showTime={false}
+        startDate={null}
+      />
+    </SimpleDropDown>
+    <DateRangePickerstyles__Icon
+      error={false}
+      hide={false}
+    />
+    <DateRangePickerstyles__Close
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+      show={false}
+    />
+  </DateRangePickerstyles__Container>
+</ClickOutside>
+`;
+
+exports[`Test for DateRangePicker should render correctly with erro Message 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <DateRangePickerstyles__Container>
+    <Rangestyles__Hint
+      visible={true}
+    />
+    <Rangestyles__Error
+      visible={true}
+    >
+      Error Message
+    </Rangestyles__Error>
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={
+        <ForwardRef(Rangestyles__InputShell)
+          disabled={false}
+          error={true}
+          handleOnMouseLeave={[Function]}
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          open={false}
+        >
+          <Input
+            fields={
+              Array [
+                Object {
+                  "disabled": false,
+                  "id": "start_day_field",
+                  "mask": "99/99/9999",
+                  "onChange": [Function],
+                  "separator": "a",
+                  "size": "87px",
+                  "value": "",
+                },
+                Object {
+                  "disabled": false,
+                  "id": "end_day_field",
+                  "mask": "99/99/9999",
+                  "onChange": [Function],
+                  "size": "87px",
+                  "value": "",
+                },
+              ]
+            }
+            hide={false}
+            onFocus={[Function]}
+          />
+        </ForwardRef(Rangestyles__InputShell)>
+      }
+      hasOutsideLabel={false}
+      label=""
+      open={false}
+      position="bottom-left"
+      window={[Window]}
+    >
+      <Range
+        displayDate={"2019-06-07T00:00:00.000Z"}
+        endDate={null}
+        onChangeDates={[Function]}
+        onNavigate={[Function]}
+        showTime={false}
+        startDate={null}
+      />
+    </SimpleDropDown>
+    <DateRangePickerstyles__Icon
+      error={true}
+      hide={false}
+    />
+    <DateRangePickerstyles__Close
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+      show={false}
+    />
+  </DateRangePickerstyles__Container>
+</ClickOutside>
+`;
+
+exports[`Test for DateRangePicker should render correctly with hintText 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <DateRangePickerstyles__Container>
+    <Rangestyles__Hint
+      visible={true}
+    >
+      Hint Message
+    </Rangestyles__Hint>
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={
+        <ForwardRef(Rangestyles__InputShell)
+          disabled={false}
+          error={false}
+          handleOnMouseLeave={[Function]}
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          open={false}
+        >
+          <Input
+            fields={
+              Array [
+                Object {
+                  "disabled": false,
+                  "id": "start_day_field",
+                  "mask": "99/99/9999",
+                  "onChange": [Function],
+                  "separator": "a",
+                  "size": "87px",
+                  "value": "",
+                },
+                Object {
+                  "disabled": false,
+                  "id": "end_day_field",
+                  "mask": "99/99/9999",
+                  "onChange": [Function],
+                  "size": "87px",
+                  "value": "",
+                },
+              ]
+            }
+            hide={false}
+            onFocus={[Function]}
+          />
+        </ForwardRef(Rangestyles__InputShell)>
+      }
+      hasOutsideLabel={false}
+      label=""
+      open={false}
+      position="bottom-left"
+      window={[Window]}
+    >
+      <Range
+        displayDate={"2019-06-07T00:00:00.000Z"}
+        endDate={null}
+        onChangeDates={[Function]}
+        onNavigate={[Function]}
+        showTime={false}
+        startDate={null}
+      />
+    </SimpleDropDown>
+    <DateRangePickerstyles__Icon
+      error={false}
+      hide={false}
+    />
+    <DateRangePickerstyles__Close
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+      show={false}
+    />
+  </DateRangePickerstyles__Container>
+</ClickOutside>
+`;
+
+exports[`Test for DateRangePicker should render correctly with label 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <DateRangePickerstyles__Container>
+    <Rangestyles__Label
+      disabled={false}
+      error={false}
+      open={false}
+    >
+      label
+    </Rangestyles__Label>
+    <Rangestyles__Hint
+      visible={false}
+    />
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={
+        <ForwardRef(Rangestyles__InputShell)
+          disabled={false}
+          error={false}
+          handleOnMouseLeave={[Function]}
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          open={false}
+        >
+          <Input
+            fields={
+              Array [
+                Object {
+                  "disabled": false,
+                  "id": "start_day_field",
+                  "mask": "99/99/9999",
+                  "onChange": [Function],
+                  "separator": "a",
+                  "size": "87px",
+                  "value": "",
+                },
+                Object {
+                  "disabled": false,
+                  "id": "end_day_field",
+                  "mask": "99/99/9999",
+                  "onChange": [Function],
+                  "size": "87px",
+                  "value": "",
+                },
+              ]
+            }
+            hide={false}
+            onFocus={[Function]}
+          />
+        </ForwardRef(Rangestyles__InputShell)>
+      }
+      hasOutsideLabel={true}
+      label=""
+      open={false}
+      position="bottom-left"
+      window={[Window]}
+    >
+      <Range
+        displayDate={"2019-06-07T00:00:00.000Z"}
+        endDate={null}
+        onChangeDates={[Function]}
+        onNavigate={[Function]}
+        showTime={false}
+        startDate={null}
+      />
+    </SimpleDropDown>
+    <DateRangePickerstyles__Icon
+      error={false}
+      hide={false}
+    />
+    <DateRangePickerstyles__Close
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+      show={false}
+    />
+  </DateRangePickerstyles__Container>
+</ClickOutside>
+`;
+
+exports[`Test for DateRangePicker should render correctly with label and openLabel 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <DateRangePickerstyles__Container>
+    <Rangestyles__Label
+      disabled={false}
+      error={false}
+      open={true}
+    >
+      label
+    </Rangestyles__Label>
+    <Rangestyles__Hint
+      visible={false}
+    />
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={
+        <ForwardRef(Rangestyles__InputShell)
+          disabled={false}
+          error={false}
+          handleOnMouseLeave={[Function]}
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          open={false}
+        >
+          <Input
+            fields={
+              Array [
+                Object {
+                  "disabled": false,
+                  "id": "start_day_field",
+                  "mask": "99/99/9999",
+                  "onChange": [Function],
+                  "separator": "a",
+                  "size": "87px",
+                  "value": "",
+                },
+                Object {
+                  "disabled": false,
+                  "id": "end_day_field",
+                  "mask": "99/99/9999",
+                  "onChange": [Function],
+                  "size": "87px",
+                  "value": "",
+                },
+              ]
+            }
+            hide={false}
+            onFocus={[Function]}
+          />
+        </ForwardRef(Rangestyles__InputShell)>
+      }
+      hasOutsideLabel={true}
+      label=""
+      open={false}
+      position="bottom-left"
+      window={[Window]}
+    >
+      <Range
+        displayDate={"2019-06-07T00:00:00.000Z"}
+        endDate={null}
+        onChangeDates={[Function]}
+        onNavigate={[Function]}
+        showTime={false}
+        startDate={null}
+      />
+    </SimpleDropDown>
+    <DateRangePickerstyles__Icon
+      error={false}
+      hide={false}
+    />
+    <DateRangePickerstyles__Close
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+      show={false}
+    />
+  </DateRangePickerstyles__Container>
+</ClickOutside>
+`;
+
+exports[`Test for DateRangePicker should render correctly with placeholder 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <DateRangePickerstyles__Container>
+    <Rangestyles__Hint
+      visible={true}
+    >
+      placeholder
+    </Rangestyles__Hint>
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={
+        <ForwardRef(Rangestyles__InputShell)
+          disabled={false}
+          error={false}
+          handleOnMouseLeave={[Function]}
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          open={false}
+        >
+          <Input
+            fields={
+              Array [
+                Object {
+                  "disabled": false,
+                  "id": "start_day_field",
+                  "mask": "99/99/9999",
+                  "onChange": [Function],
+                  "separator": "a",
+                  "size": "87px",
+                  "value": "",
+                },
+                Object {
+                  "disabled": false,
+                  "id": "end_day_field",
+                  "mask": "99/99/9999",
+                  "onChange": [Function],
+                  "size": "87px",
+                  "value": "",
+                },
+              ]
+            }
+            hide={false}
+            onFocus={[Function]}
+          />
+        </ForwardRef(Rangestyles__InputShell)>
+      }
+      hasOutsideLabel={false}
+      label=""
+      open={false}
+      position="bottom-left"
+      window={[Window]}
+    >
+      <Range
+        displayDate={"2019-06-07T00:00:00.000Z"}
+        endDate={null}
+        onChangeDates={[Function]}
+        onNavigate={[Function]}
+        showTime={false}
+        startDate={null}
+      />
+    </SimpleDropDown>
+    <DateRangePickerstyles__Icon
+      error={false}
+      hide={false}
+    />
+    <DateRangePickerstyles__Close
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+      show={false}
+    />
+  </DateRangePickerstyles__Container>
+</ClickOutside>
+`;
+
+exports[`Test for DateRangePicker should render correctly with value 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <DateRangePickerstyles__Container>
+    <Rangestyles__Hint
+      visible={false}
+    />
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={
+        <ForwardRef(Rangestyles__InputShell)
+          disabled={false}
+          error={false}
+          handleOnMouseLeave={[Function]}
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          open={false}
+        >
+          <Input
+            fields={
+              Array [
+                Object {
+                  "disabled": false,
+                  "id": "start_day_field",
+                  "mask": "99/99/9999",
+                  "onChange": [Function],
+                  "separator": "a",
+                  "size": "87px",
+                  "value": "15/05/2019",
+                },
+                Object {
+                  "disabled": false,
+                  "id": "end_day_field",
+                  "mask": "99/99/9999",
+                  "onChange": [Function],
+                  "size": "87px",
+                  "value": "16/05/2019",
+                },
+              ]
+            }
+            hide={false}
+            onFocus={[Function]}
+          />
+        </ForwardRef(Rangestyles__InputShell)>
+      }
+      hasOutsideLabel={false}
+      label=""
+      open={false}
+      position="bottom-left"
+      window={[Window]}
+    >
+      <Range
+        displayDate={"2019-06-07T00:00:00.000Z"}
+        endDate={"2019-05-16T03:00:00.000Z"}
+        onChangeDates={[Function]}
+        onNavigate={[Function]}
+        showTime={false}
+        startDate={"2019-05-15T03:00:00.000Z"}
+      />
+    </SimpleDropDown>
+    <DateRangePickerstyles__Icon
+      error={false}
+      hide={false}
+    />
+    <DateRangePickerstyles__Close
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+      show={false}
+    />
+  </DateRangePickerstyles__Container>
+</ClickOutside>
+`;
+
+exports[`Test for DateRangePicker should render correctly without props 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <DateRangePickerstyles__Container>
+    <Rangestyles__Hint
+      visible={true}
+    />
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={
+        <ForwardRef(Rangestyles__InputShell)
+          disabled={false}
+          error={false}
+          handleOnMouseLeave={[Function]}
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          open={false}
+        >
+          <Input
+            fields={
+              Array [
+                Object {
+                  "disabled": false,
+                  "id": "start_day_field",
+                  "mask": "99/99/9999",
+                  "onChange": [Function],
+                  "separator": "a",
+                  "size": "87px",
+                  "value": "",
+                },
+                Object {
+                  "disabled": false,
+                  "id": "end_day_field",
+                  "mask": "99/99/9999",
+                  "onChange": [Function],
+                  "size": "87px",
+                  "value": "",
+                },
+              ]
+            }
+            hide={false}
+            onFocus={[Function]}
+          />
+        </ForwardRef(Rangestyles__InputShell)>
+      }
+      hasOutsideLabel={false}
+      label=""
+      open={false}
+      position="bottom-left"
+      window={[Window]}
+    >
+      <Range
+        displayDate={"2019-06-07T00:00:00.000Z"}
+        endDate={null}
+        onChangeDates={[Function]}
+        onNavigate={[Function]}
+        showTime={false}
+        startDate={null}
+      />
+    </SimpleDropDown>
+    <DateRangePickerstyles__Icon
+      error={false}
+      hide={false}
+    />
+    <DateRangePickerstyles__Close
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+      show={false}
+    />
+  </DateRangePickerstyles__Container>
+</ClickOutside>
+`;

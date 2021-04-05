@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing NumberField Component renders NumberField correctly without props 1`] = `
+<ForwardRef
+  type="number"
+  version={2}
+/>
+`;

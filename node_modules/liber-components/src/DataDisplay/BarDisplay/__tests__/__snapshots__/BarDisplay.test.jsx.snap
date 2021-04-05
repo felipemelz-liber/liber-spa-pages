@@ -1,0 +1,131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for Bar Display should render correctly with prefix 1`] = `
+<Fragment>
+  <styles__Container>
+    <styles__Title>
+      test
+    </styles__Title>
+    <styles__Value
+      prefix="R$"
+    >
+      3
+    </styles__Value>
+    <styles__Title>
+      test
+    </styles__Title>
+    <styles__Bar>
+      <styles__BarShadows />
+      <styles__BarSectors />
+    </styles__Bar>
+  </styles__Container>
+</Fragment>
+`;
+
+exports[`Test for Bar Display should render correctly with sectors 1`] = `
+<Fragment>
+  <styles__Container>
+    <styles__Title>
+      test
+    </styles__Title>
+    <styles__Value
+      prefix=""
+    >
+      3
+    </styles__Value>
+    <styles__Title>
+      test
+    </styles__Title>
+    <styles__Bar>
+      <styles__BarShadows>
+        <styles__BarShadow
+          color={
+            Array [
+              "#00ccff",
+              "#009dff",
+            ]
+          }
+          key="#00ccff,#009dff_60%_shadow"
+          percentage="60%"
+        />
+        <styles__BarShadow
+          color={
+            Array [
+              "#88f3e2",
+              "#50e3c2",
+            ]
+          }
+          key="#88f3e2,#50e3c2_40%_shadow"
+          percentage="40%"
+        />
+      </styles__BarShadows>
+      <styles__BarSectors>
+        <styles__BarSector
+          color={
+            Array [
+              "#00ccff",
+              "#009dff",
+            ]
+          }
+          highlight={false}
+          key="#00ccff,#009dff_60%_sector"
+          onEvent1={[Function]}
+          onMouseLeave={[Function]}
+          onMouseMove={[Function]}
+          percentage="60%"
+        />
+        <styles__BarSector
+          color={
+            Array [
+              "#88f3e2",
+              "#50e3c2",
+            ]
+          }
+          highlight={false}
+          key="#88f3e2,#50e3c2_40%_sector"
+          onEvent2={[Function]}
+          percentage="40%"
+        />
+      </styles__BarSectors>
+    </styles__Bar>
+  </styles__Container>
+</Fragment>
+`;
+
+exports[`Test for Bar Display should render correctly with value and label 1`] = `
+<Fragment>
+  <styles__Container>
+    <styles__Title>
+      test
+    </styles__Title>
+    <styles__Value
+      prefix=""
+    >
+      3
+    </styles__Value>
+    <styles__Title>
+      test
+    </styles__Title>
+    <styles__Bar>
+      <styles__BarShadows />
+      <styles__BarSectors />
+    </styles__Bar>
+  </styles__Container>
+</Fragment>
+`;
+
+exports[`Test for Bar Display should render correctly without props 1`] = `
+<Fragment>
+  <styles__Container>
+    <styles__Title />
+    <styles__Value
+      prefix=""
+    />
+    <styles__Title />
+    <styles__Bar>
+      <styles__BarShadows />
+      <styles__BarSectors />
+    </styles__Bar>
+  </styles__Container>
+</Fragment>
+`;

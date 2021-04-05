@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing SortIcon Styles renders Ascending correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SortIconstyles__Ascending-sc-44mptq-0",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+        ],
+      },
+      "displayName": "SortIconstyles__Ascending",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SortIconstyles__Ascending-sc-44mptq-0",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SortIcon Styles renders Descending correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SortIconstyles__Descending-sc-44mptq-1",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+        ],
+      },
+      "displayName": "SortIconstyles__Descending",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SortIconstyles__Descending-sc-44mptq-1",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SortIcon Styles renders Neutral correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SortIconstyles__Neutral-sc-44mptq-2",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+        ],
+      },
+      "displayName": "SortIconstyles__Neutral",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SortIconstyles__Neutral-sc-44mptq-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

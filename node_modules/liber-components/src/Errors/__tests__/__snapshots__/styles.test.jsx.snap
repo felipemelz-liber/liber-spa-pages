@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Errors styles DesktopContainer Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__DesktopContainer-sc-1f8nl4c-1",
+        "isStatic": false,
+        "rules": Array [
+          "color:#2E2F30;text-align:center;line-height:2em;font-family:Roboto,sans-serif;margin:0;position:relative;width:100vw;height:100vh;overflow:hidden;",
+          "display:none;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    display: block;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__DesktopContainer",
+      "foldedComponentIds": Array [
+        "styles__Container-sc-1f8nl4c-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__DesktopContainer-sc-1f8nl4c-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Errors styles MobileBackground Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__MobileBackground-sc-1f8nl4c-3",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:0;left:0;width:100vw;height:100vh;z-index:-1;",
+        ],
+      },
+      "displayName": "styles__MobileBackground",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__MobileBackground-sc-1f8nl4c-3",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Errors styles MobileContainer Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__MobileContainer-sc-1f8nl4c-2",
+        "isStatic": false,
+        "rules": Array [
+          "color:#2E2F30;text-align:center;line-height:2em;font-family:Roboto,sans-serif;margin:0;position:relative;width:100vw;height:100vh;overflow:hidden;",
+          "display:block;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    display: none;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__MobileContainer",
+      "foldedComponentIds": Array [
+        "styles__Container-sc-1f8nl4c-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__MobileContainer-sc-1f8nl4c-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

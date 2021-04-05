@@ -1,0 +1,167 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for TimeLabelComponent should render correctly not today 1`] = `
+<Fragment>
+  <VictoryLabel
+    capHeight={0.71}
+    direction="inherit"
+    index={0}
+    lineHeight={1}
+    style={Object {}}
+    text={null}
+    textComponent={<Text />}
+    tspanComponent={<TSpan />}
+  />
+</Fragment>
+`;
+
+exports[`Test for TimeLabelComponent should render correctly not today with theme 1`] = `
+<Fragment>
+  <VictoryLabel
+    capHeight={0.71}
+    direction="inherit"
+    index={0}
+    lineHeight={1}
+    style={Object {}}
+    text={null}
+    textComponent={<Text />}
+    theme={
+      Object {
+        "barChart": Object {
+          "timeComponents": Object {
+            "label": "#aaa",
+            "line": "#bbb",
+            "markedDay": "#ccc",
+            "rect": "#ddd",
+          },
+        },
+      }
+    }
+    tspanComponent={<TSpan />}
+  />
+</Fragment>
+`;
+
+exports[`Test for TimeLabelComponent should render correctly today 1`] = `
+<Fragment>
+  <line
+    stroke="#009dff"
+    strokeDasharray="4, 4"
+    y1={NaN}
+    y2={NaN}
+  />
+  <rect
+    fill="#dfe3eb"
+    height={100}
+    opacity={0.4}
+    style={
+      Object {
+        "pointerEvents": "none",
+      }
+    }
+    width={16}
+    y={NaN}
+  />
+  <text
+    dy={25}
+  >
+    <tspan
+      index={0}
+      style={
+        Object {
+          "fill": "#009dff",
+          "fontSize": "11px",
+        }
+      }
+    >
+      (dia atual)
+    </tspan>
+  </text>
+  <VictoryLabel
+    capHeight={0.71}
+    direction="inherit"
+    index={0}
+    lineHeight={1}
+    style={
+      Object {
+        "fill": "#009dff",
+      }
+    }
+    text={null}
+    textComponent={<Text />}
+    tspanComponent={<TSpan />}
+  />
+</Fragment>
+`;
+
+exports[`Test for TimeLabelComponent should render correctly today with theme 1`] = `
+<Fragment>
+  <line
+    stroke="#bbb"
+    strokeDasharray="4, 4"
+    y1={NaN}
+    y2={NaN}
+  />
+  <rect
+    fill="#ddd"
+    height={100}
+    opacity={0.4}
+    style={
+      Object {
+        "pointerEvents": "none",
+      }
+    }
+    width={16}
+    y={NaN}
+  />
+  <text
+    dy={25}
+  >
+    <tspan
+      index={0}
+      style={
+        Object {
+          "fill": "#ccc",
+          "fontSize": "11px",
+        }
+      }
+    >
+      (dia atual)
+    </tspan>
+  </text>
+  <VictoryLabel
+    capHeight={0.71}
+    direction="inherit"
+    index={0}
+    lineHeight={1}
+    style={
+      Object {
+        "fill": "#aaa",
+      }
+    }
+    text={null}
+    textComponent={<Text />}
+    theme={
+      Object {
+        "barChart": Object {
+          "timeComponents": Object {
+            "label": "#aaa",
+            "line": "#bbb",
+            "markedDay": "#ccc",
+            "rect": "#ddd",
+          },
+        },
+      }
+    }
+    tspanComponent={<TSpan />}
+  />
+</Fragment>
+`;
+
+exports[`Test for TimeTickComponent should render correctly with tick 1`] = `
+<line
+  index={0}
+/>
+`;
+
+exports[`Test for TimeTickComponent should render correctly withou tick 1`] = `""`;

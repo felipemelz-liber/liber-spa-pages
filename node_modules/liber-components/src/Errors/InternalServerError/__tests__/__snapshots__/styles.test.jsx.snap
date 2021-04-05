@@ -1,0 +1,353 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing InternalServerError styles DesktopBackground Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__DesktopBackground-sc-8r0jx-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:0;left:0;width:100vw;height:100vh;z-index:-1;",
+        ],
+      },
+      "displayName": "styles__DesktopBackground",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__DesktopBackground-sc-8r0jx-0",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing InternalServerError styles DesktopContent Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__DesktopContent-sc-8r0jx-2",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;display:flex;align-items:center;justify-content:center;top:23.5vh;left:56vw;",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    top: 28vh;
+    left: 52.5vw;
+  ",
+          "}",
+          " top:25vh;left:57vw;",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    top: 29vh;
+    left: 57vw;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__DesktopContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__DesktopContent-sc-8r0jx-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing InternalServerError styles DesktopIllustration Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__DesktopIllustration-sc-8r0jx-1",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:20vh;left:10vw;width:50vw;z-index:-1;",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    top: 20vh;
+    left: 15vw;
+    width: 40vw;
+  ",
+          "}",
+          " top:20vh;left:13vw;width:42.5vw;",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    top: 20vh;
+    left: 15vw;
+    width: 40vw;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__DesktopIllustration",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__DesktopIllustration-sc-8r0jx-1",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing InternalServerError styles DesktopMessageBox Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__DesktopMessageBox-sc-8r0jx-3",
+        "isStatic": false,
+        "rules": Array [
+          "max-width:20vw;& h1,h3{text-align:justify;letter-spacing:-0.04em;}& h1{color:#c7cfd3;font-size:2.25vw;font-weight:500;margin-bottom:0;}& h3{color:#8f9ea7;font-size:1.8vw;font-weight:300;margin-top:0.3vw;margin-bottom:1.5vw;}& a{text-align:center;background-color:#13CE66;color:#ffffff;text-decoration:none;border:0px;border-radius:0.25vw;font-size:1.5vw;font-weight:600;padding:0.25vw 2.15vw;box-sizing:border-box;white-space:nowrap;&:hover{background-color:#0DAB53;}}",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    max-width: 15.5vw;
+    & h1 {
+      font-size: 1.7vw;
+    }
+
+    & h3 {
+      font-size: 1.35vw;
+    }
+
+    & a {
+      font-size: 0.9vw;
+    }
+  ",
+          "}",
+          " max-width:20vw;& h1{font-size:2.75vw;margin-top:0.3vw;margin-bottom:1.9vw;}& h3{font-size:1.9vw;margin-top:unset;margin-bottom:unset;}",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    max-width: 15vw;
+    & h1 { font-size: 2.15vw; }
+    & h3 { font-size: 1.4vw; }
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__DesktopMessageBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__DesktopMessageBox-sc-8r0jx-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing InternalServerError styles MobileBrand Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__MobileBrand-sc-8r0jx-6",
+        "isStatic": false,
+        "rules": Array [
+          "margin-top:10%;width:30vh;",
+        ],
+      },
+      "displayName": "styles__MobileBrand",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__MobileBrand-sc-8r0jx-6",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing InternalServerError styles MobileContent Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__MobileContent-sc-8r0jx-5",
+        "isStatic": false,
+        "rules": Array [
+          "margin:auto;height:100%;width:77.75%;",
+        ],
+      },
+      "displayName": "styles__MobileContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__MobileContent-sc-8r0jx-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing InternalServerError styles MobileIllustration Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__MobileIllustration-sc-8r0jx-4",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;left:10.75%;bottom:0;height:auto;width:40vh;z-index:-1;",
+          " left:0;bottom:0;width:40vh;",
+          "@media (min-width:",
+          "768px",
+          "){",
+          "
+    width: 45vh;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__MobileIllustration",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__MobileIllustration-sc-8r0jx-4",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing InternalServerError styles MobileMessageBox Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__MobileMessageBox-sc-8r0jx-7",
+        "isStatic": false,
+        "rules": Array [
+          "max-width:20vw;& h1,h3{text-align:justify;letter-spacing:-0.04em;}& h1{color:#c7cfd3;font-size:2.25vw;font-weight:500;margin-bottom:0;}& h3{color:#8f9ea7;font-size:1.8vw;font-weight:300;margin-top:0.3vw;margin-bottom:1.5vw;}& a{text-align:center;background-color:#13CE66;color:#ffffff;text-decoration:none;border:0px;border-radius:0.25vw;font-size:1.5vw;font-weight:600;padding:0.25vw 2.15vw;box-sizing:border-box;white-space:nowrap;&:hover{background-color:#0DAB53;}}",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    max-width: 15.5vw;
+    & h1 {
+      font-size: 1.7vw;
+    }
+
+    & h3 {
+      font-size: 1.35vw;
+    }
+
+    & a {
+      font-size: 0.9vw;
+    }
+  ",
+          "}",
+          " max-width:20vw;& h1{font-size:2.75vw;margin-top:0.3vw;margin-bottom:1.9vw;}& h3{font-size:1.9vw;margin-top:unset;margin-bottom:unset;}",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    max-width: 15vw;
+    & h1 { font-size: 2.15vw; }
+    & h3 { font-size: 1.4vw; }
+  ",
+          "}",
+          "margin:auto;max-width:200px;& h1{font-size:24px;}& h3{font-size:18px;margin-bottom:20px;}& a{font-size:14px;padding:5px 28px;}",
+          "@media (min-width:",
+          "768px",
+          "){",
+          "
+    max-width: 275px;
+    & h1 { font-size: 34px; }
+    & h3 {
+      font-size: 24px;
+      margin-bottom: 32px;
+    }
+    & a { font-size: 18px; }
+  ",
+          "}",
+          " margin-top:25px;& h1{font-size:26px;margin-bottom:20px;}& h3{font-size:20px;margin-top:unset;margin-bottom:unset;}& a{font-size:14px;padding:5px 28px;}",
+          "@media (min-width:",
+          "768px",
+          "){",
+          "
+    max-width: 225px;
+    & h1 {
+      font-size: 30px;
+      margin-bottom: 32px;
+    }
+    & h3 {
+      font-size: 24px;
+      margin-top: unset;
+      margin-bottom: unset;
+    }
+    & a {
+      font-size: 18px;
+    }
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__MobileMessageBox",
+      "foldedComponentIds": Array [
+        "styles__DesktopMessageBox-sc-8r0jx-3",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__MobileMessageBox-sc-8r0jx-7",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

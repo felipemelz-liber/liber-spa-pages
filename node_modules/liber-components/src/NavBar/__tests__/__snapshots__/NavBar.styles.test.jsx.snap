@@ -1,0 +1,198 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing NavBar Styles Controled styles CurrentBox should renders correctly with contentSize=200px 1`] = `
+<StyledComponent
+  contentSize="200px"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "NavBarstyles__Content-sc-1m4mju1-1",
+        "isStatic": false,
+        "rules": Array [
+          "height:100%;width:",
+          [Function],
+          ";max-width:100%;display:flex;justify-content:flex-start;align-items:center;",
+        ],
+      },
+      "displayName": "NavBarstyles__Content",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "NavBarstyles__Content-sc-1m4mju1-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing NavBar Styles Controled styles CurrentBox should renders correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "NavBarstyles__Content-sc-1m4mju1-1",
+        "isStatic": false,
+        "rules": Array [
+          "height:100%;width:",
+          [Function],
+          ";max-width:100%;display:flex;justify-content:flex-start;align-items:center;",
+        ],
+      },
+      "displayName": "NavBarstyles__Content",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "NavBarstyles__Content-sc-1m4mju1-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={false}
+/>
+`;
+
+exports[`Testing NavBar Styles Uncontroled Styles renders Label correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "NavBarstyles__Label-sc-1m4mju1-4",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:Roboto;font-size:16px;font-weight:500;line-height:22px;text-align:right;color:#405f71;margin:0px;list-style-type:none;& > li > svg{fill:#798e9b;}& > li > span{font-family:Roboto;font-size:12px;line-height:17px;letter-spacing:0px;text-align:right;color:#b6c2c9;}",
+        ],
+      },
+      "displayName": "NavBarstyles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "NavBarstyles__Label-sc-1m4mju1-4",
+      "target": "ul",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing NavBar Styles Uncontroled Styles renders Logo correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "NavBarstyles__Logo-sc-1m4mju1-2",
+        "isStatic": false,
+        "rules": Array [
+          "--size:96px;min-width:var(--size);min-height:var(--size);max-width:var(--size);max-height:var(--size);",
+        ],
+      },
+      "displayName": "NavBarstyles__Logo",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "NavBarstyles__Logo-sc-1m4mju1-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing NavBar Styles Uncontroled Styles renders Menu correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "NavBarstyles__Menu-sc-1m4mju1-3",
+        "isStatic": false,
+        "rules": Array [
+          "margin-left:auto;margin-right:32px;display:flex;justify-content:center;align-items:center;position:relative;",
+        ],
+      },
+      "displayName": "NavBarstyles__Menu",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "NavBarstyles__Menu-sc-1m4mju1-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing NavBar Styles Uncontroled Styles renders Nav correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "NavBarstyles__Nav-sc-1m4mju1-0",
+        "isStatic": false,
+        "rules": Array [
+          "width:100vw;max-width:100%;min-height:96px;max-height:96px;background-color:",
+          [Function],
+          ";margin-bottom:12px;display:flex;justify-content:center;align-items:center;",
+        ],
+      },
+      "displayName": "NavBarstyles__Nav",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "NavBarstyles__Nav-sc-1m4mju1-0",
+      "target": "nav",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing NavBar Styles Uncontroled Styles renders Sandwich correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "NavBarstyles__Sandwich-sc-1m4mju1-5",
+        "isStatic": false,
+        "rules": Array [
+          "--size:32px;min-width:var(--size);min-height:var(--size);max-width:var(--size);max-height:var(--size);fill:#798e9b;",
+        ],
+      },
+      "displayName": "NavBarstyles__Sandwich",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "NavBarstyles__Sandwich-sc-1m4mju1-5",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

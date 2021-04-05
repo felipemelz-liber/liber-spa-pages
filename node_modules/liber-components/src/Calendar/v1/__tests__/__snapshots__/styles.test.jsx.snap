@@ -1,0 +1,2203 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for Calendar Styles BiggerDot should render with color 1`] = `
+<StyledComponent
+  color="#000"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__BiggerDot-sc-1yh8cx8-1",
+        "isStatic": false,
+        "rules": Array [
+          "width:6px;height:6px;background-color:",
+          [Function],
+          ";box-shadow:0 2px 4px 0 rgba(0,0,0,0.12);display:inline-block;border-radius:3px;margin-right:8px;",
+          "width:unset;height:18px;width:unset;min-width:18px;border-radius:9px;display:inline-flex;justify-content:center;align-items:center;font-size:14px;color:",
+          [Function],
+          ";margin-right:0px;margin-bottom:5px;font-weight:bold;padding:0 5px;overflow:hidden;box-sizing:border-box;",
+        ],
+      },
+      "displayName": "styles__BiggerDot",
+      "foldedComponentIds": Array [
+        "styles__Dot-sc-1yh8cx8-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__BiggerDot-sc-1yh8cx8-1",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles BiggerDot should render with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__BiggerDot-sc-1yh8cx8-1",
+        "isStatic": false,
+        "rules": Array [
+          "width:6px;height:6px;background-color:",
+          [Function],
+          ";box-shadow:0 2px 4px 0 rgba(0,0,0,0.12);display:inline-block;border-radius:3px;margin-right:8px;",
+          "width:unset;height:18px;width:unset;min-width:18px;border-radius:9px;display:inline-flex;justify-content:center;align-items:center;font-size:14px;color:",
+          [Function],
+          ";margin-right:0px;margin-bottom:5px;font-weight:bold;padding:0 5px;overflow:hidden;box-sizing:border-box;",
+        ],
+      },
+      "displayName": "styles__BiggerDot",
+      "foldedComponentIds": Array [
+        "styles__Dot-sc-1yh8cx8-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__BiggerDot-sc-1yh8cx8-1",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "calendar": Object {
+        "biggerDot": "#000",
+        "dataContainer": "#002",
+        "date": Object {
+          "background": "#009",
+          "default": "#007",
+          "disabled": "#006",
+          "link": Object {
+            "background": "#00d",
+            "default": "#00c",
+            "disabled": "#00b",
+            "today": "#00a",
+          },
+          "today": "#005",
+        },
+        "dot": "#001",
+        "filterLabel": "#011",
+        "filterRow": "#010",
+        "left": "#012",
+        "month": "#00e",
+        "right": "#013",
+        "tooltip": Object {
+          "background": "#003",
+          "color": "#004",
+        },
+        "week": "#00f",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Calendar Styles BiggerDot should render without color 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__BiggerDot-sc-1yh8cx8-1",
+        "isStatic": false,
+        "rules": Array [
+          "width:6px;height:6px;background-color:",
+          [Function],
+          ";box-shadow:0 2px 4px 0 rgba(0,0,0,0.12);display:inline-block;border-radius:3px;margin-right:8px;",
+          "width:unset;height:18px;width:unset;min-width:18px;border-radius:9px;display:inline-flex;justify-content:center;align-items:center;font-size:14px;color:",
+          [Function],
+          ";margin-right:0px;margin-bottom:5px;font-weight:bold;padding:0 5px;overflow:hidden;box-sizing:border-box;",
+        ],
+      },
+      "displayName": "styles__BiggerDot",
+      "foldedComponentIds": Array [
+        "styles__Dot-sc-1yh8cx8-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__BiggerDot-sc-1yh8cx8-1",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles DataContainer should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__DataContainer-sc-1yh8cx8-3",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;flex-direction:column;justify-content:flex-start;align-items:center;font-family:inherit;font-size:11px;text-align:center;color:",
+          [Function],
+          ";text-transform:none;margin-bottom:12px;width:unset;",
+          "@media (min-width:",
+          "576px",
+          "){",
+          "
+    font-size: 11px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "768px",
+          "){",
+          "
+    font-size: 11px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    width: 65px;
+    font-size: 13px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    width: 65px;
+    font-size: 13px;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__DataContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__DataContainer-sc-1yh8cx8-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles DataContainer should render with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__DataContainer-sc-1yh8cx8-3",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;flex-direction:column;justify-content:flex-start;align-items:center;font-family:inherit;font-size:11px;text-align:center;color:",
+          [Function],
+          ";text-transform:none;margin-bottom:12px;width:unset;",
+          "@media (min-width:",
+          "576px",
+          "){",
+          "
+    font-size: 11px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "768px",
+          "){",
+          "
+    font-size: 11px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    width: 65px;
+    font-size: 13px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    width: 65px;
+    font-size: 13px;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__DataContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__DataContainer-sc-1yh8cx8-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "calendar": Object {
+        "biggerDot": "#000",
+        "dataContainer": "#002",
+        "date": Object {
+          "background": "#009",
+          "default": "#007",
+          "disabled": "#006",
+          "link": Object {
+            "background": "#00d",
+            "default": "#00c",
+            "disabled": "#00b",
+            "today": "#00a",
+          },
+          "today": "#005",
+        },
+        "dot": "#001",
+        "filterLabel": "#011",
+        "filterRow": "#010",
+        "left": "#012",
+        "month": "#00e",
+        "right": "#013",
+        "tooltip": Object {
+          "background": "#003",
+          "color": "#004",
+        },
+        "week": "#00f",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Calendar Styles Day should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Day-sc-1yh8cx8-5",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";width:28px;height:28px;border:0px;margin:0px;padding:0px;border-radius:20px;user-select:none;cursor:",
+          [Function],
+          ";background:",
+          [Function],
+          ";box-shadow:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";color:",
+          [Function],
+          ";display:flex;justify-content:center;align-items:center;&:hover{background-color:rgba(230,230,230,0.5);font-weight:",
+          [Function],
+          ";}&:hover > ",
+          ".styles__Tooltip-sc-1yh8cx8-4",
+          "{display:block;}&:hover ",
+          ".styles__FloatingDots-sc-1yh8cx8-2",
+          "{display:",
+          [Function],
+          ";}",
+          "@media (min-width:",
+          "576px",
+          "){",
+          "
+    font-size: 18px;
+    width: 36px;
+    height: 36px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__Day",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Day-sc-1yh8cx8-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles Day should render correctly when disabled 1`] = `
+<StyledComponent
+  disabled={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Day-sc-1yh8cx8-5",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";width:28px;height:28px;border:0px;margin:0px;padding:0px;border-radius:20px;user-select:none;cursor:",
+          [Function],
+          ";background:",
+          [Function],
+          ";box-shadow:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";color:",
+          [Function],
+          ";display:flex;justify-content:center;align-items:center;&:hover{background-color:rgba(230,230,230,0.5);font-weight:",
+          [Function],
+          ";}&:hover > ",
+          ".styles__Tooltip-sc-1yh8cx8-4",
+          "{display:block;}&:hover ",
+          ".styles__FloatingDots-sc-1yh8cx8-2",
+          "{display:",
+          [Function],
+          ";}",
+          "@media (min-width:",
+          "576px",
+          "){",
+          "
+    font-size: 18px;
+    width: 36px;
+    height: 36px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__Day",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Day-sc-1yh8cx8-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles Day should render correctly when today is true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Day-sc-1yh8cx8-5",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";width:28px;height:28px;border:0px;margin:0px;padding:0px;border-radius:20px;user-select:none;cursor:",
+          [Function],
+          ";background:",
+          [Function],
+          ";box-shadow:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";color:",
+          [Function],
+          ";display:flex;justify-content:center;align-items:center;&:hover{background-color:rgba(230,230,230,0.5);font-weight:",
+          [Function],
+          ";}&:hover > ",
+          ".styles__Tooltip-sc-1yh8cx8-4",
+          "{display:block;}&:hover ",
+          ".styles__FloatingDots-sc-1yh8cx8-2",
+          "{display:",
+          [Function],
+          ";}",
+          "@media (min-width:",
+          "576px",
+          "){",
+          "
+    font-size: 18px;
+    width: 36px;
+    height: 36px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__Day",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Day-sc-1yh8cx8-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  today={true}
+/>
+`;
+
+exports[`Test for Calendar Styles Day should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Day-sc-1yh8cx8-5",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";width:28px;height:28px;border:0px;margin:0px;padding:0px;border-radius:20px;user-select:none;cursor:",
+          [Function],
+          ";background:",
+          [Function],
+          ";box-shadow:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";color:",
+          [Function],
+          ";display:flex;justify-content:center;align-items:center;&:hover{background-color:rgba(230,230,230,0.5);font-weight:",
+          [Function],
+          ";}&:hover > ",
+          ".styles__Tooltip-sc-1yh8cx8-4",
+          "{display:block;}&:hover ",
+          ".styles__FloatingDots-sc-1yh8cx8-2",
+          "{display:",
+          [Function],
+          ";}",
+          "@media (min-width:",
+          "576px",
+          "){",
+          "
+    font-size: 18px;
+    width: 36px;
+    height: 36px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__Day",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Day-sc-1yh8cx8-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "calendar": Object {
+        "biggerDot": "#000",
+        "dataContainer": "#002",
+        "date": Object {
+          "background": "#009",
+          "default": "#007",
+          "disabled": "#006",
+          "link": Object {
+            "background": "#00d",
+            "default": "#00c",
+            "disabled": "#00b",
+            "today": "#00a",
+          },
+          "today": "#005",
+        },
+        "dot": "#001",
+        "filterLabel": "#011",
+        "filterRow": "#010",
+        "left": "#012",
+        "month": "#00e",
+        "right": "#013",
+        "tooltip": Object {
+          "background": "#003",
+          "color": "#004",
+        },
+        "week": "#00f",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Calendar Styles Dot should render with color 1`] = `
+<StyledComponent
+  color="#000"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Dot-sc-1yh8cx8-0",
+        "isStatic": false,
+        "rules": Array [
+          "width:6px;height:6px;background-color:",
+          [Function],
+          ";box-shadow:0 2px 4px 0 rgba(0,0,0,0.12);display:inline-block;border-radius:3px;margin-right:8px;",
+        ],
+      },
+      "displayName": "styles__Dot",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Dot-sc-1yh8cx8-0",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles Dot should render with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Dot-sc-1yh8cx8-0",
+        "isStatic": false,
+        "rules": Array [
+          "width:6px;height:6px;background-color:",
+          [Function],
+          ";box-shadow:0 2px 4px 0 rgba(0,0,0,0.12);display:inline-block;border-radius:3px;margin-right:8px;",
+        ],
+      },
+      "displayName": "styles__Dot",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Dot-sc-1yh8cx8-0",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "calendar": Object {
+        "biggerDot": "#000",
+        "dataContainer": "#002",
+        "date": Object {
+          "background": "#009",
+          "default": "#007",
+          "disabled": "#006",
+          "link": Object {
+            "background": "#00d",
+            "default": "#00c",
+            "disabled": "#00b",
+            "today": "#00a",
+          },
+          "today": "#005",
+        },
+        "dot": "#001",
+        "filterLabel": "#011",
+        "filterRow": "#010",
+        "left": "#012",
+        "month": "#00e",
+        "right": "#013",
+        "tooltip": Object {
+          "background": "#003",
+          "color": "#004",
+        },
+        "week": "#00f",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Calendar Styles Dot should render without color 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Dot-sc-1yh8cx8-0",
+        "isStatic": false,
+        "rules": Array [
+          "width:6px;height:6px;background-color:",
+          [Function],
+          ";box-shadow:0 2px 4px 0 rgba(0,0,0,0.12);display:inline-block;border-radius:3px;margin-right:8px;",
+        ],
+      },
+      "displayName": "styles__Dot",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Dot-sc-1yh8cx8-0",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles FilterLabel should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__FilterLabel-sc-1yh8cx8-13",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:inherit;font-size:14px;font-weight:900;text-align:center;color:",
+          [Function],
+          ";margin-right:20px;",
+        ],
+      },
+      "displayName": "styles__FilterLabel",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__FilterLabel-sc-1yh8cx8-13",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles FilterLabel should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__FilterLabel-sc-1yh8cx8-13",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:inherit;font-size:14px;font-weight:900;text-align:center;color:",
+          [Function],
+          ";margin-right:20px;",
+        ],
+      },
+      "displayName": "styles__FilterLabel",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__FilterLabel-sc-1yh8cx8-13",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "calendar": Object {
+        "biggerDot": "#000",
+        "dataContainer": "#002",
+        "date": Object {
+          "background": "#009",
+          "default": "#007",
+          "disabled": "#006",
+          "link": Object {
+            "background": "#00d",
+            "default": "#00c",
+            "disabled": "#00b",
+            "today": "#00a",
+          },
+          "today": "#005",
+        },
+        "dot": "#001",
+        "filterLabel": "#011",
+        "filterRow": "#010",
+        "left": "#012",
+        "month": "#00e",
+        "right": "#013",
+        "tooltip": Object {
+          "background": "#003",
+          "color": "#004",
+        },
+        "week": "#00f",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Calendar Styles FilterRow should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__FilterRow-sc-1yh8cx8-11",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;justify-content:space-between;align-items:center;width:100%;min-height:36px;max-height:36px;",
+          "@media (min-width:",
+          "576px",
+          "){",
+          "
+    min-height: 40px;
+    max-height: 40px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "768px",
+          "){",
+          "
+    min-height: 40px;
+    max-height: 40px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    min-height: 43px;
+    max-height: 43px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    min-height: 43px;
+    max-height: 43px;
+  ",
+          "}",
+          "justify-content:flex-start;color:",
+          [Function],
+          " !important;font-size:14px;font-weight:500;align-items:flex-start;min-height:unset;max-height:unset;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    align-items: center;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    align-items: center;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__FilterRow",
+      "foldedComponentIds": Array [
+        "styles__Row-sc-1yh8cx8-10",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__FilterRow-sc-1yh8cx8-11",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles FilterRow should render correctly with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__FilterRow-sc-1yh8cx8-11",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;justify-content:space-between;align-items:center;width:100%;min-height:36px;max-height:36px;",
+          "@media (min-width:",
+          "576px",
+          "){",
+          "
+    min-height: 40px;
+    max-height: 40px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "768px",
+          "){",
+          "
+    min-height: 40px;
+    max-height: 40px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    min-height: 43px;
+    max-height: 43px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    min-height: 43px;
+    max-height: 43px;
+  ",
+          "}",
+          "justify-content:flex-start;color:",
+          [Function],
+          " !important;font-size:14px;font-weight:500;align-items:flex-start;min-height:unset;max-height:unset;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    align-items: center;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    align-items: center;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__FilterRow",
+      "foldedComponentIds": Array [
+        "styles__Row-sc-1yh8cx8-10",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__FilterRow-sc-1yh8cx8-11",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "calendar": Object {
+        "biggerDot": "#000",
+        "dataContainer": "#002",
+        "date": Object {
+          "background": "#009",
+          "default": "#007",
+          "disabled": "#006",
+          "link": Object {
+            "background": "#00d",
+            "default": "#00c",
+            "disabled": "#00b",
+            "today": "#00a",
+          },
+          "today": "#005",
+        },
+        "dot": "#001",
+        "filterLabel": "#011",
+        "filterRow": "#010",
+        "left": "#012",
+        "month": "#00e",
+        "right": "#013",
+        "tooltip": Object {
+          "background": "#003",
+          "color": "#004",
+        },
+        "week": "#00f",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Calendar Styles Left should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Left-sc-1yh8cx8-16",
+        "isStatic": false,
+        "rules": Array [
+          "width:24px;height:24px;fill:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "styles__Left",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Left-sc-1yh8cx8-16",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles Left should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Left-sc-1yh8cx8-16",
+        "isStatic": false,
+        "rules": Array [
+          "width:24px;height:24px;fill:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "styles__Left",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Left-sc-1yh8cx8-16",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "calendar": Object {
+        "biggerDot": "#000",
+        "dataContainer": "#002",
+        "date": Object {
+          "background": "#009",
+          "default": "#007",
+          "disabled": "#006",
+          "link": Object {
+            "background": "#00d",
+            "default": "#00c",
+            "disabled": "#00b",
+            "today": "#00a",
+          },
+          "today": "#005",
+        },
+        "dot": "#001",
+        "filterLabel": "#011",
+        "filterRow": "#010",
+        "left": "#012",
+        "month": "#00e",
+        "right": "#013",
+        "tooltip": Object {
+          "background": "#003",
+          "color": "#004",
+        },
+        "week": "#00f",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Calendar Styles Month should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Month-sc-1yh8cx8-8",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";text-align:center;color:",
+          [Function],
+          ";text-transform:uppercase;width:unset;flex-grow:1;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    width: 260px;
+    flex-grow: 0;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__Month",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Month-sc-1yh8cx8-8",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles Month should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Month-sc-1yh8cx8-8",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";text-align:center;color:",
+          [Function],
+          ";text-transform:uppercase;width:unset;flex-grow:1;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    width: 260px;
+    flex-grow: 0;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__Month",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Month-sc-1yh8cx8-8",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "calendar": Object {
+        "biggerDot": "#000",
+        "dataContainer": "#002",
+        "date": Object {
+          "background": "#009",
+          "default": "#007",
+          "disabled": "#006",
+          "link": Object {
+            "background": "#00d",
+            "default": "#00c",
+            "disabled": "#00b",
+            "today": "#00a",
+          },
+          "today": "#005",
+        },
+        "dot": "#001",
+        "filterLabel": "#011",
+        "filterRow": "#010",
+        "left": "#012",
+        "month": "#00e",
+        "right": "#013",
+        "tooltip": Object {
+          "background": "#003",
+          "color": "#004",
+        },
+        "week": "#00f",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Calendar Styles Right should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Right-sc-1yh8cx8-17",
+        "isStatic": false,
+        "rules": Array [
+          "width:24px;height:24px;fill:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "styles__Right",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Right-sc-1yh8cx8-17",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles Right should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Right-sc-1yh8cx8-17",
+        "isStatic": false,
+        "rules": Array [
+          "width:24px;height:24px;fill:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "styles__Right",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Right-sc-1yh8cx8-17",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "calendar": Object {
+        "biggerDot": "#000",
+        "dataContainer": "#002",
+        "date": Object {
+          "background": "#009",
+          "default": "#007",
+          "disabled": "#006",
+          "link": Object {
+            "background": "#00d",
+            "default": "#00c",
+            "disabled": "#00b",
+            "today": "#00a",
+          },
+          "today": "#005",
+        },
+        "dot": "#001",
+        "filterLabel": "#011",
+        "filterRow": "#010",
+        "left": "#012",
+        "month": "#00e",
+        "right": "#013",
+        "tooltip": Object {
+          "background": "#003",
+          "color": "#004",
+        },
+        "week": "#00f",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Calendar Styles Tooltip should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Tooltip-sc-1yh8cx8-4",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;",
+          [Function],
+          " font-family:inherit;font-size:12px;font-weight:500;width:148px;border-radius:4px;background-color:",
+          [Function],
+          ";box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);color:",
+          [Function],
+          ";padding:8px;display:",
+          [Function],
+          ";z-index:1000;box-sizing:border-box;& > h6{margin:0px;opacity:0.75;font-family:inherit;font-size:12px;font-weight:bold;text-align:left;color:",
+          [Function],
+          ";text-transform:capitalize;text-align:center;}& > div{display:flex;justify-content:flex-start;align-items:center;}",
+        ],
+      },
+      "displayName": "styles__Tooltip",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Tooltip-sc-1yh8cx8-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles Tooltip should render with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Tooltip-sc-1yh8cx8-4",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;",
+          [Function],
+          " font-family:inherit;font-size:12px;font-weight:500;width:148px;border-radius:4px;background-color:",
+          [Function],
+          ";box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);color:",
+          [Function],
+          ";padding:8px;display:",
+          [Function],
+          ";z-index:1000;box-sizing:border-box;& > h6{margin:0px;opacity:0.75;font-family:inherit;font-size:12px;font-weight:bold;text-align:left;color:",
+          [Function],
+          ";text-transform:capitalize;text-align:center;}& > div{display:flex;justify-content:flex-start;align-items:center;}",
+        ],
+      },
+      "displayName": "styles__Tooltip",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Tooltip-sc-1yh8cx8-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "calendar": Object {
+        "biggerDot": "#000",
+        "dataContainer": "#002",
+        "date": Object {
+          "background": "#009",
+          "default": "#007",
+          "disabled": "#006",
+          "link": Object {
+            "background": "#00d",
+            "default": "#00c",
+            "disabled": "#00b",
+            "today": "#00a",
+          },
+          "today": "#005",
+        },
+        "dot": "#001",
+        "filterLabel": "#011",
+        "filterRow": "#010",
+        "left": "#012",
+        "month": "#00e",
+        "right": "#013",
+        "tooltip": Object {
+          "background": "#003",
+          "color": "#004",
+        },
+        "week": "#00f",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Calendar Styles WeekDay should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__WeekDay-sc-1yh8cx8-7",
+        "isStatic": false,
+        "rules": Array [
+          "width:30px;height:24px;font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";text-align:center;color:",
+          [Function],
+          ";text-transform:uppercase;",
+          "@media (min-width:",
+          "576px",
+          "){",
+          "
+    width: 35.1px;
+    font-size: ",
+          [Function],
+          ";
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    width: 54.1px;
+    font-size: ",
+          [Function],
+          ";
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__WeekDay",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__WeekDay-sc-1yh8cx8-7",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles WeekDay should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__WeekDay-sc-1yh8cx8-7",
+        "isStatic": false,
+        "rules": Array [
+          "width:30px;height:24px;font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";text-align:center;color:",
+          [Function],
+          ";text-transform:uppercase;",
+          "@media (min-width:",
+          "576px",
+          "){",
+          "
+    width: 35.1px;
+    font-size: ",
+          [Function],
+          ";
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    width: 54.1px;
+    font-size: ",
+          [Function],
+          ";
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__WeekDay",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__WeekDay-sc-1yh8cx8-7",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "calendar": Object {
+        "biggerDot": "#000",
+        "dataContainer": "#002",
+        "date": Object {
+          "background": "#009",
+          "default": "#007",
+          "disabled": "#006",
+          "link": Object {
+            "background": "#00d",
+            "default": "#00c",
+            "disabled": "#00b",
+            "today": "#00a",
+          },
+          "today": "#005",
+        },
+        "dot": "#001",
+        "filterLabel": "#011",
+        "filterRow": "#010",
+        "left": "#012",
+        "month": "#00e",
+        "right": "#013",
+        "tooltip": Object {
+          "background": "#003",
+          "color": "#004",
+        },
+        "week": "#00f",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Calendar Styles WeekDayValue should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__WeekDayValue-sc-1yh8cx8-20",
+        "isStatic": false,
+        "rules": Array [
+          "display:inline-flex;flex-direction:column;font-family:inherit;font-size:18px;width:47px;font-weight:500;margin-bottom:12px;color:",
+          [Function],
+          ";align-items:center;text-transform:uppercase;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    font-size: 20px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    font-size: 20px;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__WeekDayValue",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__WeekDayValue-sc-1yh8cx8-20",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles WeekDayValue should render correctly when disabled 1`] = `
+<StyledComponent
+  disabled={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__WeekDayValue-sc-1yh8cx8-20",
+        "isStatic": false,
+        "rules": Array [
+          "display:inline-flex;flex-direction:column;font-family:inherit;font-size:18px;width:47px;font-weight:500;margin-bottom:12px;color:",
+          [Function],
+          ";align-items:center;text-transform:uppercase;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    font-size: 20px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    font-size: 20px;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__WeekDayValue",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__WeekDayValue-sc-1yh8cx8-20",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles WeekDayValue should render correctly when today 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__WeekDayValue-sc-1yh8cx8-20",
+        "isStatic": false,
+        "rules": Array [
+          "display:inline-flex;flex-direction:column;font-family:inherit;font-size:18px;width:47px;font-weight:500;margin-bottom:12px;color:",
+          [Function],
+          ";align-items:center;text-transform:uppercase;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    font-size: 20px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    font-size: 20px;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__WeekDayValue",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__WeekDayValue-sc-1yh8cx8-20",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  today={true}
+/>
+`;
+
+exports[`Test for Calendar Styles WeekDayValue should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__WeekDayValue-sc-1yh8cx8-20",
+        "isStatic": false,
+        "rules": Array [
+          "display:inline-flex;flex-direction:column;font-family:inherit;font-size:18px;width:47px;font-weight:500;margin-bottom:12px;color:",
+          [Function],
+          ";align-items:center;text-transform:uppercase;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    font-size: 20px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    font-size: 20px;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__WeekDayValue",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__WeekDayValue-sc-1yh8cx8-20",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "calendar": Object {
+        "biggerDot": "#000",
+        "dataContainer": "#002",
+        "date": Object {
+          "background": "#009",
+          "default": "#007",
+          "disabled": "#006",
+          "link": Object {
+            "background": "#00d",
+            "default": "#00c",
+            "disabled": "#00b",
+            "today": "#00a",
+          },
+          "today": "#005",
+        },
+        "dot": "#001",
+        "filterLabel": "#011",
+        "filterRow": "#010",
+        "left": "#012",
+        "month": "#00e",
+        "right": "#013",
+        "tooltip": Object {
+          "background": "#003",
+          "color": "#004",
+        },
+        "week": "#00f",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Calendar Styles should render CalendarBody correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__CalendarBody-sc-1yh8cx8-15",
+        "isStatic": false,
+        "rules": Array [
+          "flex-grow:1;display:flex;flex-direction:column;align-items:center;padding:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "styles__CalendarBody",
+      "foldedComponentIds": Array [
+        "Cards__CardContent-sc-1kn0psw-2",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__CalendarBody-sc-1yh8cx8-15",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles should render Cell correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Cell-sc-1yh8cx8-14",
+        "isStatic": false,
+        "rules": Array [
+          "flex-grow:1;display:flex;justify-content:center;align-items:center;",
+        ],
+      },
+      "displayName": "styles__Cell",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Cell-sc-1yh8cx8-14",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles should render FloatingDots correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__FloatingDots-sc-1yh8cx8-2",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:4px;left:",
+          [Function],
+          ";width:18px;display:flex;overflow:hidden;flex-wrap:wrap;& ",
+          ".styles__Dot-sc-1yh8cx8-0",
+          "{margin-bottom:2px;margin-right:2px;}",
+          "@media (min-width:",
+          "576px",
+          "){",
+          "
+    left: ",
+          [Function],
+          ";
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "768px",
+          "){",
+          "
+    left: ",
+          [Function],
+          ";
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    left: ",
+          [Function],
+          ";
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    left: ",
+          [Function],
+          ";
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__FloatingDots",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__FloatingDots-sc-1yh8cx8-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles should render NavButton correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__NavButton-sc-1yh8cx8-18",
+        "isStatic": false,
+        "rules": Array [
+          "background-color:transparent;border-radius:50%;padding:0px;width:40px;height:40px;&:hover{background-color:",
+          [Function],
+          ";}margin:0px;& > svg{fill:",
+          [Function],
+          ";}",
+          "@media (min-width:",
+          "576px",
+          "){",
+          "
+    margin: 0 15px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "768px",
+          "){",
+          "
+    margin: 0 15px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    margin: 0 10px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    margin: 0 10px;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__NavButton",
+      "foldedComponentIds": Array [
+        "Buttons__Button-u35aut-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__NavButton-sc-1yh8cx8-18",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles should render NavButton correctly when disabled 1`] = `
+<StyledComponent
+  disabled={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__NavButton-sc-1yh8cx8-18",
+        "isStatic": false,
+        "rules": Array [
+          "background-color:transparent;border-radius:50%;padding:0px;width:40px;height:40px;&:hover{background-color:",
+          [Function],
+          ";}margin:0px;& > svg{fill:",
+          [Function],
+          ";}",
+          "@media (min-width:",
+          "576px",
+          "){",
+          "
+    margin: 0 15px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "768px",
+          "){",
+          "
+    margin: 0 15px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    margin: 0 10px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    margin: 0 10px;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__NavButton",
+      "foldedComponentIds": Array [
+        "Buttons__Button-u35aut-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__NavButton-sc-1yh8cx8-18",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles should render Row correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Row-sc-1yh8cx8-10",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;justify-content:space-between;align-items:center;width:100%;min-height:36px;max-height:36px;",
+          "@media (min-width:",
+          "576px",
+          "){",
+          "
+    min-height: 40px;
+    max-height: 40px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "768px",
+          "){",
+          "
+    min-height: 40px;
+    max-height: 40px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    min-height: 43px;
+    max-height: 43px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    min-height: 43px;
+    max-height: 43px;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__Row",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Row-sc-1yh8cx8-10",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles should render WeekBody correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__WeekBody-sc-1yh8cx8-19",
+        "isStatic": false,
+        "rules": Array [
+          "flex-grow:1;display:flex;justify-content:space-evenly;width:100%;",
+        ],
+      },
+      "displayName": "styles__WeekBody",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__WeekBody-sc-1yh8cx8-19",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles should render WeekCell correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__WeekCell-sc-1yh8cx8-21",
+        "isStatic": false,
+        "rules": Array [
+          "flex-basis:20%;display:flex;justify-content:flex-start;align-items:center;flex-direction:column;border-width:2px;border-style:solid;min-height:300px;border-image:linear-gradient(to bottom,rgba(230,230,230,0.3),rgba(230,230,230,0)) 1 100%;&:last-child{border:0px;}padding-top:5px;cursor:",
+          [Function],
+          ";border-top:0px;border-left:0px;&:hover{background-image:linear-gradient(to bottom,rgba(230,230,230,0.3),rgba(230,230,230,0));}&:hover > ",
+          ".styles__WeekDayValue-sc-1yh8cx8-20",
+          "{font-weight:900;}&:hover ",
+          ".styles__DataContainer-sc-1yh8cx8-3",
+          "{font-weight:900;}",
+        ],
+      },
+      "displayName": "styles__WeekCell",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__WeekCell-sc-1yh8cx8-21",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Calendar Styles should render WeekNav correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__WeekNav-sc-1yh8cx8-23",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;justify-content:space-between;align-items:center;width:100%;min-height:36px;max-height:36px;",
+          "@media (min-width:",
+          "576px",
+          "){",
+          "
+    min-height: 40px;
+    max-height: 40px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "768px",
+          "){",
+          "
+    min-height: 40px;
+    max-height: 40px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    min-height: 43px;
+    max-height: 43px;
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    min-height: 43px;
+    max-height: 43px;
+  ",
+          "}",
+          "padding:15px 0px;border-bottom:2px solid rgba(230,230,230,0.3);",
+        ],
+      },
+      "displayName": "styles__WeekNav",
+      "foldedComponentIds": Array [
+        "styles__Row-sc-1yh8cx8-10",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__WeekNav-sc-1yh8cx8-23",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

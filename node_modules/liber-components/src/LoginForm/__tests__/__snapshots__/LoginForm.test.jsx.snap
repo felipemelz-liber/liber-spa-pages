@@ -1,0 +1,300 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for LoginForm shoudl render with custom props 1`] = `
+<LoginContainer
+  container="#root"
+  footer={
+    <Footer
+      email="contato@libercapital.com.br"
+      logoUrl={null}
+      phone="+55 (11) 4858-1265"
+    />
+  }
+>
+  <LoginFormstyles__Form
+    onSubmit={[Function]}
+  >
+    <LoginFormstyles__Title>
+      Título
+    </LoginFormstyles__Title>
+    <ForwardRef
+      errorMessage=""
+      fullWidth={true}
+      label="CPF"
+      mask="999.999.999-99"
+      maskChar={null}
+      onChange={[Function]}
+      openLabel={true}
+      type="text"
+      value=""
+    />
+    <ForwardRef
+      errorMessage=""
+      fullWidth={true}
+      label="PIN"
+      maxLength={4}
+      onChange={[Function]}
+      openLabel={true}
+      type="password"
+      value=""
+    />
+    <ForwardRef
+      errorMessage=""
+      fullWidth={true}
+      label="OTP"
+      onChange={[Function]}
+      openLabel={true}
+      type="number"
+      value=""
+    />
+    <button
+      id="mock_button"
+      type="submit"
+    >
+      mock
+    </button>
+  </LoginFormstyles__Form>
+  <LoginFormstyles__FormSeparator />
+  <div>
+    LOGO
+  </div>
+</LoginContainer>
+`;
+
+exports[`Test for LoginForm should render correctly with callbacks 1`] = `
+<LoginContainer
+  container="#root"
+  footer={
+    <Footer
+      email="contato@libercapital.com.br"
+      logoUrl={null}
+      phone="+55 (11) 4858-1265"
+    />
+  }
+>
+  <LoginFormstyles__Form
+    onSubmit={[Function]}
+  >
+    <LoginFormstyles__Title>
+      Autenticação
+    </LoginFormstyles__Title>
+    <ForwardRef
+      errorMessage=""
+      fullWidth={true}
+      label="CPF"
+      mask="999.999.999-99"
+      maskChar={null}
+      onChange={[Function]}
+      openLabel={true}
+      type="text"
+      value=""
+    />
+    <ForwardRef
+      errorMessage=""
+      fullWidth={true}
+      label="PIN"
+      maxLength={4}
+      onChange={[Function]}
+      openLabel={true}
+      type="password"
+      value=""
+    />
+    <ForwardRef
+      errorMessage=""
+      fullWidth={true}
+      label="OTP"
+      onChange={[Function]}
+      openLabel={true}
+      type="number"
+      value=""
+    />
+    <LoginFormstyles__Button
+      size="large"
+      type="submit"
+      version={2}
+    >
+      Entrar
+    </LoginFormstyles__Button>
+  </LoginFormstyles__Form>
+  <LoginFormstyles__FormSeparator />
+  <LoginFormstyles__Logo />
+</LoginContainer>
+`;
+
+exports[`Test for LoginForm should render correctly without props 1`] = `
+<LoginContainer
+  container="#root"
+  footer={
+    <Footer
+      email="contato@libercapital.com.br"
+      logoUrl={null}
+      phone="+55 (11) 4858-1265"
+    />
+  }
+>
+  <LoginFormstyles__Form
+    onSubmit={[Function]}
+  >
+    <LoginFormstyles__Title>
+      Autenticação
+    </LoginFormstyles__Title>
+    <ForwardRef
+      errorMessage=""
+      fullWidth={true}
+      label="CPF"
+      mask="999.999.999-99"
+      maskChar={null}
+      onChange={[Function]}
+      openLabel={true}
+      type="text"
+      value=""
+    />
+    <ForwardRef
+      errorMessage=""
+      fullWidth={true}
+      label="PIN"
+      maxLength={4}
+      onChange={[Function]}
+      openLabel={true}
+      type="password"
+      value=""
+    />
+    <ForwardRef
+      errorMessage=""
+      fullWidth={true}
+      label="OTP"
+      onChange={[Function]}
+      openLabel={true}
+      type="number"
+      value=""
+    />
+    <LoginFormstyles__Button
+      size="large"
+      type="submit"
+      version={2}
+    >
+      Entrar
+    </LoginFormstyles__Button>
+  </LoginFormstyles__Form>
+  <LoginFormstyles__FormSeparator />
+  <LoginFormstyles__Logo />
+</LoginContainer>
+`;
+
+exports[`Test for LoginForm should show error with invalid values (empty) 1`] = `
+<LoginContainer
+  container="#root"
+  footer={
+    <Footer
+      email="contato@libercapital.com.br"
+      logoUrl={null}
+      phone="+55 (11) 4858-1265"
+    />
+  }
+>
+  <LoginFormstyles__Form
+    onSubmit={[Function]}
+  >
+    <LoginFormstyles__Title>
+      Autenticação
+    </LoginFormstyles__Title>
+    <ForwardRef
+      errorMessage="Campo obrigatório"
+      fullWidth={true}
+      label="CPF"
+      mask="999.999.999-99"
+      maskChar={null}
+      onChange={[Function]}
+      openLabel={true}
+      type="text"
+      value=""
+    />
+    <ForwardRef
+      errorMessage="Campo obrigatório"
+      fullWidth={true}
+      label="PIN"
+      maxLength={4}
+      onChange={[Function]}
+      openLabel={true}
+      type="password"
+      value=""
+    />
+    <ForwardRef
+      errorMessage="Campo obrigatório"
+      fullWidth={true}
+      label="OTP"
+      onChange={[Function]}
+      openLabel={true}
+      type="number"
+      value=""
+    />
+    <LoginFormstyles__Button
+      size="large"
+      type="submit"
+      version={2}
+    >
+      Entrar
+    </LoginFormstyles__Button>
+  </LoginFormstyles__Form>
+  <LoginFormstyles__FormSeparator />
+  <LoginFormstyles__Logo />
+</LoginContainer>
+`;
+
+exports[`Test for LoginForm should show error with invalid values (invalid CPF) 1`] = `
+<LoginContainer
+  container="#root"
+  footer={
+    <Footer
+      email="contato@libercapital.com.br"
+      logoUrl={null}
+      phone="+55 (11) 4858-1265"
+    />
+  }
+>
+  <LoginFormstyles__Form
+    onSubmit={[Function]}
+  >
+    <LoginFormstyles__Title>
+      Autenticação
+    </LoginFormstyles__Title>
+    <ForwardRef
+      errorMessage="CPF Inválido"
+      fullWidth={true}
+      label="CPF"
+      mask="999.999.999-99"
+      maskChar={null}
+      onChange={[Function]}
+      openLabel={true}
+      type="text"
+      value="99999999999"
+    />
+    <ForwardRef
+      fullWidth={true}
+      label="PIN"
+      maxLength={4}
+      onChange={[Function]}
+      openLabel={true}
+      type="password"
+      value="1234"
+    />
+    <ForwardRef
+      fullWidth={true}
+      label="OTP"
+      onChange={[Function]}
+      openLabel={true}
+      type="number"
+      value="12345678"
+    />
+    <LoginFormstyles__Button
+      size="large"
+      type="submit"
+      version={2}
+    >
+      Entrar
+    </LoginFormstyles__Button>
+  </LoginFormstyles__Form>
+  <LoginFormstyles__FormSeparator />
+  <LoginFormstyles__Logo />
+</LoginContainer>
+`;

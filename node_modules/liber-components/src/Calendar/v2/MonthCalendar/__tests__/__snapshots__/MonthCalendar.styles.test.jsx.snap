@@ -1,0 +1,472 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Version 2.0 MonthCalendar Styles Controlled Styles Unit renders correctly with type=basic 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthCalendarstyles__Unit-sc-1afnfnl-3",
+        "isStatic": false,
+        "rules": Array [
+          "--size:36px;width:var(--size);height:var(--size);display:flex;justify-content:center;align-items:center;border-radius:2px;font-family:",
+          [Function],
+          ";cursor:",
+          [Function],
+          ";",
+          [Function],
+          " margin-right:4px;transition:background-color 250ms cubic-bezier(0.23,1,0.32,1) 0ms,color 250ms cubic-bezier(0.23,1,0.32,1) 0ms;&:last-child{margin-right:0px;}",
+        ],
+      },
+      "displayName": "MonthCalendarstyles__Unit",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "MonthCalendarstyles__Unit-sc-1afnfnl-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="basic"
+/>
+`;
+
+exports[`Testing Version 2.0 MonthCalendar Styles Controlled Styles Unit renders correctly with type=label 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthCalendarstyles__Unit-sc-1afnfnl-3",
+        "isStatic": false,
+        "rules": Array [
+          "--size:36px;width:var(--size);height:var(--size);display:flex;justify-content:center;align-items:center;border-radius:2px;font-family:",
+          [Function],
+          ";cursor:",
+          [Function],
+          ";",
+          [Function],
+          " margin-right:4px;transition:background-color 250ms cubic-bezier(0.23,1,0.32,1) 0ms,color 250ms cubic-bezier(0.23,1,0.32,1) 0ms;&:last-child{margin-right:0px;}",
+        ],
+      },
+      "displayName": "MonthCalendarstyles__Unit",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "MonthCalendarstyles__Unit-sc-1afnfnl-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="label"
+/>
+`;
+
+exports[`Testing Version 2.0 MonthCalendar Styles Controlled Styles Unit renders correctly with type=other 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthCalendarstyles__Unit-sc-1afnfnl-3",
+        "isStatic": false,
+        "rules": Array [
+          "--size:36px;width:var(--size);height:var(--size);display:flex;justify-content:center;align-items:center;border-radius:2px;font-family:",
+          [Function],
+          ";cursor:",
+          [Function],
+          ";",
+          [Function],
+          " margin-right:4px;transition:background-color 250ms cubic-bezier(0.23,1,0.32,1) 0ms,color 250ms cubic-bezier(0.23,1,0.32,1) 0ms;&:last-child{margin-right:0px;}",
+        ],
+      },
+      "displayName": "MonthCalendarstyles__Unit",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "MonthCalendarstyles__Unit-sc-1afnfnl-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="other"
+/>
+`;
+
+exports[`Testing Version 2.0 MonthCalendar Styles Controlled Styles Unit renders correctly with type=past 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthCalendarstyles__Unit-sc-1afnfnl-3",
+        "isStatic": false,
+        "rules": Array [
+          "--size:36px;width:var(--size);height:var(--size);display:flex;justify-content:center;align-items:center;border-radius:2px;font-family:",
+          [Function],
+          ";cursor:",
+          [Function],
+          ";",
+          [Function],
+          " margin-right:4px;transition:background-color 250ms cubic-bezier(0.23,1,0.32,1) 0ms,color 250ms cubic-bezier(0.23,1,0.32,1) 0ms;&:last-child{margin-right:0px;}",
+        ],
+      },
+      "displayName": "MonthCalendarstyles__Unit",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "MonthCalendarstyles__Unit-sc-1afnfnl-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="past"
+/>
+`;
+
+exports[`Testing Version 2.0 MonthCalendar Styles Controlled Styles Unit renders correctly with type=range 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthCalendarstyles__Unit-sc-1afnfnl-3",
+        "isStatic": false,
+        "rules": Array [
+          "--size:36px;width:var(--size);height:var(--size);display:flex;justify-content:center;align-items:center;border-radius:2px;font-family:",
+          [Function],
+          ";cursor:",
+          [Function],
+          ";",
+          [Function],
+          " margin-right:4px;transition:background-color 250ms cubic-bezier(0.23,1,0.32,1) 0ms,color 250ms cubic-bezier(0.23,1,0.32,1) 0ms;&:last-child{margin-right:0px;}",
+        ],
+      },
+      "displayName": "MonthCalendarstyles__Unit",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "MonthCalendarstyles__Unit-sc-1afnfnl-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="range"
+/>
+`;
+
+exports[`Testing Version 2.0 MonthCalendar Styles Controlled Styles Unit renders correctly with type=today 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthCalendarstyles__Unit-sc-1afnfnl-3",
+        "isStatic": false,
+        "rules": Array [
+          "--size:36px;width:var(--size);height:var(--size);display:flex;justify-content:center;align-items:center;border-radius:2px;font-family:",
+          [Function],
+          ";cursor:",
+          [Function],
+          ";",
+          [Function],
+          " margin-right:4px;transition:background-color 250ms cubic-bezier(0.23,1,0.32,1) 0ms,color 250ms cubic-bezier(0.23,1,0.32,1) 0ms;&:last-child{margin-right:0px;}",
+        ],
+      },
+      "displayName": "MonthCalendarstyles__Unit",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "MonthCalendarstyles__Unit-sc-1afnfnl-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="today"
+/>
+`;
+
+exports[`Testing Version 2.0 MonthCalendar Styles Controlled Styles Unit renders correctly without type 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthCalendarstyles__Unit-sc-1afnfnl-3",
+        "isStatic": false,
+        "rules": Array [
+          "--size:36px;width:var(--size);height:var(--size);display:flex;justify-content:center;align-items:center;border-radius:2px;font-family:",
+          [Function],
+          ";cursor:",
+          [Function],
+          ";",
+          [Function],
+          " margin-right:4px;transition:background-color 250ms cubic-bezier(0.23,1,0.32,1) 0ms,color 250ms cubic-bezier(0.23,1,0.32,1) 0ms;&:last-child{margin-right:0px;}",
+        ],
+      },
+      "displayName": "MonthCalendarstyles__Unit",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "MonthCalendarstyles__Unit-sc-1afnfnl-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Version 2.0 MonthCalendar Styles Uncontrolled styles renders Column correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthCalendarstyles__Column-sc-1afnfnl-0",
+        "isStatic": false,
+        "rules": Array [
+          "display:inline-flex;flex-direction:column;justify-content:flex-start;align-items:center;",
+        ],
+      },
+      "displayName": "MonthCalendarstyles__Column",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "MonthCalendarstyles__Column-sc-1afnfnl-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Version 2.0 MonthCalendar Styles Uncontrolled styles renders Controls correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthCalendarstyles__Controls-sc-1afnfnl-2",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;display:flex;justify-content:flex-start;align-items:center;",
+          "margin-bottom:32px;font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "MonthCalendarstyles__Controls",
+      "foldedComponentIds": Array [
+        "MonthCalendarstyles__Row-sc-1afnfnl-1",
+      ],
+      "render": [Function],
+      "styledComponentId": "MonthCalendarstyles__Controls-sc-1afnfnl-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Version 2.0 MonthCalendar Styles Uncontrolled styles renders Next correctly 1`] = `
+<MonthCalendarstyles__NextUnit>
+  <MonthCalendarstyles__NextIcon />
+</MonthCalendarstyles__NextUnit>
+`;
+
+exports[`Testing Version 2.0 MonthCalendar Styles Uncontrolled styles renders NextIcon correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthCalendarstyles__NextIcon-sc-1afnfnl-5",
+        "isStatic": false,
+        "rules": Array [
+          "--size:24px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "MonthCalendarstyles__NextIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "MonthCalendarstyles__NextIcon-sc-1afnfnl-5",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Version 2.0 MonthCalendar Styles Uncontrolled styles renders NextUnit correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthCalendarstyles__NextUnit-sc-1afnfnl-7",
+        "isStatic": false,
+        "rules": Array [
+          "--size:36px;width:var(--size);height:var(--size);display:flex;justify-content:center;align-items:center;border-radius:2px;font-family:",
+          [Function],
+          ";cursor:",
+          [Function],
+          ";",
+          [Function],
+          " margin-right:4px;transition:background-color 250ms cubic-bezier(0.23,1,0.32,1) 0ms,color 250ms cubic-bezier(0.23,1,0.32,1) 0ms;&:last-child{margin-right:0px;}",
+          "margin-left:auto;",
+        ],
+      },
+      "displayName": "MonthCalendarstyles__NextUnit",
+      "foldedComponentIds": Array [
+        "MonthCalendarstyles__Unit-sc-1afnfnl-3",
+      ],
+      "render": [Function],
+      "styledComponentId": "MonthCalendarstyles__NextUnit-sc-1afnfnl-7",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Version 2.0 MonthCalendar Styles Uncontrolled styles renders Prev correctly 1`] = `
+<MonthCalendarstyles__PrevUnit>
+  <MonthCalendarstyles__PrevIcon />
+</MonthCalendarstyles__PrevUnit>
+`;
+
+exports[`Testing Version 2.0 MonthCalendar Styles Uncontrolled styles renders PrevIcon correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthCalendarstyles__PrevIcon-sc-1afnfnl-4",
+        "isStatic": false,
+        "rules": Array [
+          "--size:24px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "MonthCalendarstyles__PrevIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "MonthCalendarstyles__PrevIcon-sc-1afnfnl-4",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Version 2.0 MonthCalendar Styles Uncontrolled styles renders PrevUnit correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthCalendarstyles__PrevUnit-sc-1afnfnl-6",
+        "isStatic": false,
+        "rules": Array [
+          "--size:36px;width:var(--size);height:var(--size);display:flex;justify-content:center;align-items:center;border-radius:2px;font-family:",
+          [Function],
+          ";cursor:",
+          [Function],
+          ";",
+          [Function],
+          " margin-right:4px;transition:background-color 250ms cubic-bezier(0.23,1,0.32,1) 0ms,color 250ms cubic-bezier(0.23,1,0.32,1) 0ms;&:last-child{margin-right:0px;}",
+          "margin-right:auto;",
+        ],
+      },
+      "displayName": "MonthCalendarstyles__PrevUnit",
+      "foldedComponentIds": Array [
+        "MonthCalendarstyles__Unit-sc-1afnfnl-3",
+      ],
+      "render": [Function],
+      "styledComponentId": "MonthCalendarstyles__PrevUnit-sc-1afnfnl-6",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Version 2.0 MonthCalendar Styles Uncontrolled styles renders Row correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthCalendarstyles__Row-sc-1afnfnl-1",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;display:flex;justify-content:flex-start;align-items:center;",
+        ],
+      },
+      "displayName": "MonthCalendarstyles__Row",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "MonthCalendarstyles__Row-sc-1afnfnl-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

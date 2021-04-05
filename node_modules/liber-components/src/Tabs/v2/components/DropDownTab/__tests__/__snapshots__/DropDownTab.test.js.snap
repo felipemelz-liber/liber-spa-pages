@@ -1,0 +1,212 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing DropDownTab Component renders DropDownTab correctly with active = true 1`] = `
+<DropDownTabstyles__Tab
+  active={true}
+  as="div"
+  onClick={[Function]}
+  strongBorder={false}
+>
+  <ClickOutside
+    onOutsideClick={[Function]}
+  >
+    Opções
+    <DropDownTabstyles__Content
+      open={false}
+      strongBorder={false}
+    >
+      <ForwardRef
+        key=".0"
+        label="tab 1"
+        left={false}
+        tooltip={null}
+        tooltipDelay={1000}
+        tooltipDirection="bottom"
+        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+      >
+        content
+      </ForwardRef>
+      <ForwardRef
+        key=".1"
+        label="tab 1"
+        left={false}
+        tooltip={null}
+        tooltipDelay={1000}
+        tooltipDirection="bottom"
+        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+      >
+        content
+      </ForwardRef>
+    </DropDownTabstyles__Content>
+  </ClickOutside>
+</DropDownTabstyles__Tab>
+`;
+
+exports[`Testing DropDownTab Component renders DropDownTab correctly with label set 1`] = `
+<DropDownTabstyles__Tab
+  active={false}
+  as="div"
+  onClick={[Function]}
+  strongBorder={false}
+>
+  <ClickOutside
+    onOutsideClick={[Function]}
+  >
+    Test label
+    <DropDownTabstyles__Content
+      open={false}
+      strongBorder={false}
+    >
+      <ForwardRef
+        key=".0"
+        label="tab 1"
+        left={false}
+        tooltip={null}
+        tooltipDelay={1000}
+        tooltipDirection="bottom"
+        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+      >
+        content
+      </ForwardRef>
+      <ForwardRef
+        key=".1"
+        label="tab 1"
+        left={false}
+        tooltip={null}
+        tooltipDelay={1000}
+        tooltipDirection="bottom"
+        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+      >
+        content
+      </ForwardRef>
+    </DropDownTabstyles__Content>
+  </ClickOutside>
+</DropDownTabstyles__Tab>
+`;
+
+exports[`Testing DropDownTab Component renders DropDownTab correctly with minWidth set 1`] = `
+<DropDownTabstyles__Tab
+  active={false}
+  as="div"
+  minWidth={275}
+  onClick={[Function]}
+  strongBorder={false}
+>
+  <ClickOutside
+    onOutsideClick={[Function]}
+  >
+    Opções
+    <DropDownTabstyles__Content
+      open={false}
+      strongBorder={false}
+    >
+      <ForwardRef
+        key=".0"
+        label="tab 1"
+        left={false}
+        tooltip={null}
+        tooltipDelay={1000}
+        tooltipDirection="bottom"
+        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+      >
+        content
+      </ForwardRef>
+      <ForwardRef
+        key=".1"
+        label="tab 1"
+        left={false}
+        tooltip={null}
+        tooltipDelay={1000}
+        tooltipDirection="bottom"
+        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+      >
+        content
+      </ForwardRef>
+    </DropDownTabstyles__Content>
+  </ClickOutside>
+</DropDownTabstyles__Tab>
+`;
+
+exports[`Testing DropDownTab Component renders DropDownTab correctly with strongBorder 1`] = `
+<DropDownTabstyles__Tab
+  active={false}
+  as="div"
+  onClick={[Function]}
+  strongBorder={true}
+>
+  <ClickOutside
+    onOutsideClick={[Function]}
+  >
+    Opções
+    <DropDownTabstyles__Content
+      open={false}
+      strongBorder={true}
+    >
+      <ForwardRef
+        key=".0"
+        label="tab 1"
+        left={false}
+        tooltip={null}
+        tooltipDelay={1000}
+        tooltipDirection="bottom"
+        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+      >
+        content
+      </ForwardRef>
+      <ForwardRef
+        key=".1"
+        label="tab 1"
+        left={false}
+        tooltip={null}
+        tooltipDelay={1000}
+        tooltipDirection="bottom"
+        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+      >
+        content
+      </ForwardRef>
+    </DropDownTabstyles__Content>
+  </ClickOutside>
+</DropDownTabstyles__Tab>
+`;
+
+exports[`Testing DropDownTab Component renders DropDownTab correctly without props 1`] = `
+<DropDownTabstyles__Tab
+  active={false}
+  as="div"
+  onClick={[Function]}
+  strongBorder={false}
+>
+  <ClickOutside
+    onOutsideClick={[Function]}
+  >
+    Opções
+    <DropDownTabstyles__Content
+      open={false}
+      strongBorder={false}
+    >
+      <ForwardRef
+        key=".0"
+        label="tab 1"
+        left={false}
+        tooltip={null}
+        tooltipDelay={1000}
+        tooltipDirection="bottom"
+        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+      >
+        content
+      </ForwardRef>
+      <ForwardRef
+        key=".1"
+        label="tab 1"
+        left={false}
+        tooltip={null}
+        tooltipDelay={1000}
+        tooltipDirection="bottom"
+        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+      >
+        content
+      </ForwardRef>
+    </DropDownTabstyles__Content>
+  </ClickOutside>
+</DropDownTabstyles__Tab>
+`;

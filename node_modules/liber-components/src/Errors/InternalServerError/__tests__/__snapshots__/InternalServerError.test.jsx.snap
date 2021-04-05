@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing InternalServerError should render correctly 1`] = `
+<Fragment>
+  <styles__DesktopContainer>
+    <styles__DesktopBackground />
+    <styles__DesktopIllustration />
+    <styles__DesktopContent>
+      <styles__DesktopMessageBox>
+        <h3>
+          Desculpe, tivemos um problema interno...
+        </h3>
+        <h1>
+          Mas já estamos arrumando tudo!
+        </h1>
+        <a
+          href="/"
+        >
+          Voltar à página inicial
+        </a>
+      </styles__DesktopMessageBox>
+    </styles__DesktopContent>
+  </styles__DesktopContainer>
+  <styles__MobileContainer>
+    <styles__MobileBackground />
+    <styles__MobileIllustration />
+    <styles__MobileContent>
+      <styles__MobileBrand />
+      <styles__MobileMessageBox>
+        <h3>
+          Desculpe, tivemos um problema interno...
+        </h3>
+        <h1>
+          Mas já estamos arrumando tudo!
+        </h1>
+        <a
+          href="/"
+        >
+          Voltar à página inicial
+        </a>
+      </styles__MobileMessageBox>
+    </styles__MobileContent>
+  </styles__MobileContainer>
+</Fragment>
+`;

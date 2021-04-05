@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArrayFieldFilter tests should render correctly with props 1`] = `
+<FilterTag
+  formatSelected={[Function]}
+  label="mock"
+  onChange={[Function]}
+  onClear={[Function]}
+  selected={
+    Array [
+      Array [
+        "mock",
+        "mock",
+        "mock",
+      ],
+    ]
+  }
+  show={false}
+>
+  <form>
+    <styled.div>
+      <styled.div>
+        <Styled(Component)
+          autoFocus={true}
+          hintText=""
+          onChange={[Function]}
+          value=""
+          width="100%"
+        />
+      </styled.div>
+      <styled.div>
+        <TagsDisplay
+          tags={
+            Array [
+              "mock",
+              "mock",
+              "mock",
+            ]
+          }
+          tagsPerLine={6}
+          tagsThreshold={18}
+        />
+      </styled.div>
+    </styled.div>
+    <Styled(Cards__CardFooter)>
+      <Styled(Buttons__Button)
+        disabled={true}
+        onClick={[Function]}
+      >
+        FILTRAR
+      </Styled(Buttons__Button)>
+      <Styled(Buttons__Button)
+        disabled={false}
+        onClick={[Function]}
+      >
+        LIMPAR
+      </Styled(Buttons__Button)>
+    </Styled(Cards__CardFooter)>
+  </form>
+</FilterTag>
+`;
+
+exports[`ArrayFieldFilter tests should render correctly without props 1`] = `
+<FilterTag
+  formatSelected={[Function]}
+  label=""
+  onChange={[Function]}
+  onClear={[Function]}
+  selected={
+    Array [
+      null,
+    ]
+  }
+  show={false}
+>
+  <form>
+    <styled.div>
+      <styled.div>
+        <Styled(Component)
+          autoFocus={true}
+          hintText=""
+          onChange={[Function]}
+          value=""
+          width="100%"
+        />
+      </styled.div>
+      <styled.div>
+        <TagsDisplay
+          tags={Array []}
+          tagsPerLine={6}
+          tagsThreshold={18}
+        />
+      </styled.div>
+    </styled.div>
+    <Styled(Cards__CardFooter)>
+      <Styled(Buttons__Button)
+        disabled={true}
+        onClick={[Function]}
+      >
+        FILTRAR
+      </Styled(Buttons__Button)>
+      <Styled(Buttons__Button)
+        disabled={true}
+        onClick={[Function]}
+      >
+        LIMPAR
+      </Styled(Buttons__Button)>
+    </Styled(Cards__CardFooter)>
+  </form>
+</FilterTag>
+`;

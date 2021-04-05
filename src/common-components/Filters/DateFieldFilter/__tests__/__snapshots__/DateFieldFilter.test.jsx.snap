@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing DateFieldFilter Component should render correctly with props 1`] = `
+<FilterTag
+  formatSelected={[Function]}
+  label="Date label"
+  onChange={[Function]}
+  onClear={[Function]}
+  overflow="center"
+  selected={Array []}
+  show={false}
+>
+  <styled.div>
+    <styled.p>
+      Selecione o período:
+    </styled.p>
+    <Range
+      displayDate={"1234-01-01T00:00:00.000Z"}
+      endDate={null}
+      onChangeDates={[Function]}
+      onNavigate={[Function]}
+      showTime={false}
+      startDate={null}
+    />
+  </styled.div>
+  <FilterFooter
+    disabled={true}
+    onClear={[Function]}
+    onFilter={[Function]}
+  />
+</FilterTag>
+`;
+
+exports[`Testing DateFieldFilter Component should render correctly without props 1`] = `
+<FilterTag
+  formatSelected={[Function]}
+  label="Data"
+  onChange={[Function]}
+  onClear={[Function]}
+  overflow="center"
+  selected={Array []}
+  show={false}
+>
+  <styled.div>
+    <styled.p>
+      Selecione uma data de início e uma data de fim para o período desejado:
+    </styled.p>
+    <Range
+      displayDate={"1234-01-01T00:00:00.000Z"}
+      endDate={null}
+      onChangeDates={[Function]}
+      onNavigate={[Function]}
+      showTime={false}
+      startDate={null}
+    />
+  </styled.div>
+  <FilterFooter
+    disabled={true}
+    onClear={[Function]}
+    onFilter={[Function]}
+  />
+</FilterTag>
+`;

@@ -1,0 +1,699 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing KeyValueDisplay Styles Controlled Currency should render correctly with type=empty 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableSelectControlstyles__Currency-dcx62t-3",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";display:flex;flex-direction:column;justify-content:center;margin-right:4px;",
+        ],
+      },
+      "displayName": "TableSelectControlstyles__Currency",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "TableSelectControlstyles__Currency-dcx62t-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="empty"
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled Currency should render correctly with type=multiple 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableSelectControlstyles__Currency-dcx62t-3",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";display:flex;flex-direction:column;justify-content:center;margin-right:4px;",
+        ],
+      },
+      "displayName": "TableSelectControlstyles__Currency",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "TableSelectControlstyles__Currency-dcx62t-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="multiple"
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled Currency should render correctly with type=other 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableSelectControlstyles__Currency-dcx62t-3",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";display:flex;flex-direction:column;justify-content:center;margin-right:4px;",
+        ],
+      },
+      "displayName": "TableSelectControlstyles__Currency",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "TableSelectControlstyles__Currency-dcx62t-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="other"
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled Currency should render correctly with type=single 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableSelectControlstyles__Currency-dcx62t-3",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";display:flex;flex-direction:column;justify-content:center;margin-right:4px;",
+        ],
+      },
+      "displayName": "TableSelectControlstyles__Currency",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "TableSelectControlstyles__Currency-dcx62t-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="single"
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled Currency should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableSelectControlstyles__Currency-dcx62t-3",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";display:flex;flex-direction:column;justify-content:center;margin-right:4px;",
+        ],
+      },
+      "displayName": "TableSelectControlstyles__Currency",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "TableSelectControlstyles__Currency-dcx62t-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled DeselectIndicator should render correctly with type=empty 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "children": <ForwardRef(TableSelectControlstyles__Close) />,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableSelectControlstyles__DeselectIndicator-dcx62t-5",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " border-radius:4px;box-shadow:0 1px 2px 0 rgba(0,0,0,0.12);background-color:#ffffff;margin-left:10px;border:0px;width:20px;height:20px;display:flex;justify-content:center;align-items:center;",
+        ],
+      },
+      "displayName": "TableSelectControlstyles__DeselectIndicator",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "TableSelectControlstyles__DeselectIndicator-dcx62t-5",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="empty"
+>
+  <TableSelectControlstyles__Close />
+</StyledComponent>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled DeselectIndicator should render correctly with type=multiple 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "children": <ForwardRef(TableSelectControlstyles__Close) />,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableSelectControlstyles__DeselectIndicator-dcx62t-5",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " border-radius:4px;box-shadow:0 1px 2px 0 rgba(0,0,0,0.12);background-color:#ffffff;margin-left:10px;border:0px;width:20px;height:20px;display:flex;justify-content:center;align-items:center;",
+        ],
+      },
+      "displayName": "TableSelectControlstyles__DeselectIndicator",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "TableSelectControlstyles__DeselectIndicator-dcx62t-5",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="multiple"
+>
+  <TableSelectControlstyles__Close />
+</StyledComponent>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled DeselectIndicator should render correctly with type=other 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "children": <ForwardRef(TableSelectControlstyles__Close) />,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableSelectControlstyles__DeselectIndicator-dcx62t-5",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " border-radius:4px;box-shadow:0 1px 2px 0 rgba(0,0,0,0.12);background-color:#ffffff;margin-left:10px;border:0px;width:20px;height:20px;display:flex;justify-content:center;align-items:center;",
+        ],
+      },
+      "displayName": "TableSelectControlstyles__DeselectIndicator",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "TableSelectControlstyles__DeselectIndicator-dcx62t-5",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="other"
+>
+  <TableSelectControlstyles__Close />
+</StyledComponent>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled DeselectIndicator should render correctly with type=single 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "children": <ForwardRef(TableSelectControlstyles__Close) />,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableSelectControlstyles__DeselectIndicator-dcx62t-5",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " border-radius:4px;box-shadow:0 1px 2px 0 rgba(0,0,0,0.12);background-color:#ffffff;margin-left:10px;border:0px;width:20px;height:20px;display:flex;justify-content:center;align-items:center;",
+        ],
+      },
+      "displayName": "TableSelectControlstyles__DeselectIndicator",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "TableSelectControlstyles__DeselectIndicator-dcx62t-5",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="single"
+>
+  <TableSelectControlstyles__Close />
+</StyledComponent>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled DeselectIndicator should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "children": <ForwardRef(TableSelectControlstyles__Close) />,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableSelectControlstyles__DeselectIndicator-dcx62t-5",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " border-radius:4px;box-shadow:0 1px 2px 0 rgba(0,0,0,0.12);background-color:#ffffff;margin-left:10px;border:0px;width:20px;height:20px;display:flex;justify-content:center;align-items:center;",
+        ],
+      },
+      "displayName": "TableSelectControlstyles__DeselectIndicator",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "TableSelectControlstyles__DeselectIndicator-dcx62t-5",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  <TableSelectControlstyles__Close />
+</StyledComponent>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled SelectedTitles should render correctly with type=empty 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableSelectControlstyles__SelectedTitles-dcx62t-1",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";padding:0 12px;border-radius:4px 0px 0px 4px;height:36px;display:flex;justify-content:flex-start;align-items:center;box-sizing:border-box;white-space:nowrap;transition:all 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "TableSelectControlstyles__SelectedTitles",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "TableSelectControlstyles__SelectedTitles-dcx62t-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="empty"
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled SelectedTitles should render correctly with type=multiple 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableSelectControlstyles__SelectedTitles-dcx62t-1",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";padding:0 12px;border-radius:4px 0px 0px 4px;height:36px;display:flex;justify-content:flex-start;align-items:center;box-sizing:border-box;white-space:nowrap;transition:all 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "TableSelectControlstyles__SelectedTitles",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "TableSelectControlstyles__SelectedTitles-dcx62t-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="multiple"
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled SelectedTitles should render correctly with type=other 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableSelectControlstyles__SelectedTitles-dcx62t-1",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";padding:0 12px;border-radius:4px 0px 0px 4px;height:36px;display:flex;justify-content:flex-start;align-items:center;box-sizing:border-box;white-space:nowrap;transition:all 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "TableSelectControlstyles__SelectedTitles",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "TableSelectControlstyles__SelectedTitles-dcx62t-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="other"
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled SelectedTitles should render correctly with type=single 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableSelectControlstyles__SelectedTitles-dcx62t-1",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";padding:0 12px;border-radius:4px 0px 0px 4px;height:36px;display:flex;justify-content:flex-start;align-items:center;box-sizing:border-box;white-space:nowrap;transition:all 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "TableSelectControlstyles__SelectedTitles",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "TableSelectControlstyles__SelectedTitles-dcx62t-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="single"
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled SelectedTitles should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableSelectControlstyles__SelectedTitles-dcx62t-1",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";padding:0 12px;border-radius:4px 0px 0px 4px;height:36px;display:flex;justify-content:flex-start;align-items:center;box-sizing:border-box;white-space:nowrap;transition:all 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "TableSelectControlstyles__SelectedTitles",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "TableSelectControlstyles__SelectedTitles-dcx62t-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled TotalSelectedTitles should render correctly with type=empty 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableSelectControlstyles__TotalSelectedTitles-dcx62t-2",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";padding:0px 12px 0px 11px;display:flex;justify-content:flex-start;align-items:center;border-radius:0px 4px 4px 0px;transition:all 250ms cubic-bezier(0.23,1,0.32,1) 0ms;white-space:nowrap;",
+        ],
+      },
+      "displayName": "TableSelectControlstyles__TotalSelectedTitles",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "TableSelectControlstyles__TotalSelectedTitles-dcx62t-2",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="empty"
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled TotalSelectedTitles should render correctly with type=multiple 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableSelectControlstyles__TotalSelectedTitles-dcx62t-2",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";padding:0px 12px 0px 11px;display:flex;justify-content:flex-start;align-items:center;border-radius:0px 4px 4px 0px;transition:all 250ms cubic-bezier(0.23,1,0.32,1) 0ms;white-space:nowrap;",
+        ],
+      },
+      "displayName": "TableSelectControlstyles__TotalSelectedTitles",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "TableSelectControlstyles__TotalSelectedTitles-dcx62t-2",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="multiple"
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled TotalSelectedTitles should render correctly with type=other 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableSelectControlstyles__TotalSelectedTitles-dcx62t-2",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";padding:0px 12px 0px 11px;display:flex;justify-content:flex-start;align-items:center;border-radius:0px 4px 4px 0px;transition:all 250ms cubic-bezier(0.23,1,0.32,1) 0ms;white-space:nowrap;",
+        ],
+      },
+      "displayName": "TableSelectControlstyles__TotalSelectedTitles",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "TableSelectControlstyles__TotalSelectedTitles-dcx62t-2",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="other"
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled TotalSelectedTitles should render correctly with type=single 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableSelectControlstyles__TotalSelectedTitles-dcx62t-2",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";padding:0px 12px 0px 11px;display:flex;justify-content:flex-start;align-items:center;border-radius:0px 4px 4px 0px;transition:all 250ms cubic-bezier(0.23,1,0.32,1) 0ms;white-space:nowrap;",
+        ],
+      },
+      "displayName": "TableSelectControlstyles__TotalSelectedTitles",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "TableSelectControlstyles__TotalSelectedTitles-dcx62t-2",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="single"
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled TotalSelectedTitles should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableSelectControlstyles__TotalSelectedTitles-dcx62t-2",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";padding:0px 12px 0px 11px;display:flex;justify-content:flex-start;align-items:center;border-radius:0px 4px 4px 0px;transition:all 250ms cubic-bezier(0.23,1,0.32,1) 0ms;white-space:nowrap;",
+        ],
+      },
+      "displayName": "TableSelectControlstyles__TotalSelectedTitles",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "TableSelectControlstyles__TotalSelectedTitles-dcx62t-2",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles Uncontrolled renders Container correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableSelectControlstyles__Container-dcx62t-0",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;max-height:320px;display:flex;flex-direction:row;",
+        ],
+      },
+      "displayName": "TableSelectControlstyles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "TableSelectControlstyles__Container-dcx62t-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

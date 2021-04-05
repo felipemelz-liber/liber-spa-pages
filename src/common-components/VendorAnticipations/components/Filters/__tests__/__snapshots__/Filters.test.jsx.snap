@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Filters tests should render correctly without props 1`] = `
+<Fragment>
+  <styled.span>
+    Filtrar por
+  </styled.span>
+  <DateFieldFilter
+    description="Selecione uma data de início e uma data de fim para o período desejado:"
+    label="Solicitação"
+    onClear={[Function]}
+    onFilter={[Function]}
+    selectedItems={
+      Array [
+        undefined,
+        undefined,
+      ]
+    }
+  />
+  <OptionsFilter
+    filterValues={null}
+    label="Status"
+    onClear={[Function]}
+    onFilter={[Function]}
+    options={
+      Array [
+        Object {
+          "option": "Concluída",
+          "value": 3,
+        },
+        Object {
+          "option": "Cancelada",
+          "value": 4,
+        },
+      ]
+    }
+  />
+</Fragment>
+`;

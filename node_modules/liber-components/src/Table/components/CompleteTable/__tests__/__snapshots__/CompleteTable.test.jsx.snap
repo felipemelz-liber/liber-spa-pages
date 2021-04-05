@@ -1,0 +1,1479 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing CompleteTable component renders CompleteTable correctly with all the props 1`] = `
+<Fragment>
+  <CompleteTablestyles__StickyContainer>
+    <CompleteTablestyles__FilterContainer
+      borderBottom={false}
+      borderTop={true}
+    >
+      <div>
+        Filtros
+      </div>
+    </CompleteTablestyles__FilterContainer>
+    <TableHeader
+      allChecked={false}
+      availableSpace={0.87}
+      borderTop={true}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasActions={true}
+      hiddenColumns={Array []}
+      onSelectAll={[Function]}
+      sortingProps={
+        Object {
+          "onSort": [Function],
+          "sortedColumns": false,
+          "sorting": Array [],
+        }
+      }
+      weightedColumns={false}
+    />
+  </CompleteTablestyles__StickyContainer>
+  <TableBody
+    actions={
+      <div>
+        Ações
+      </div>
+    }
+    availableSpace={0.87}
+    columns={
+      Array [
+        Object {
+          "align": "center",
+          "label": "Nome",
+          "name": "name",
+          "width": 12,
+        },
+        Object {
+          "align": "right",
+          "label": "Data",
+          "name": "date",
+          "width": 20,
+        },
+        Object {
+          "align": "left",
+          "getCellValue": [Function],
+          "label": "Valor",
+          "name": "value",
+          "width": 25,
+        },
+      ]
+    }
+    hasSelection={true}
+    hiddenColumns={Array []}
+    isItemSelectable={[Function]}
+    isItemSelected={[Function]}
+    items={
+      Array [
+        Object {
+          "date": "01/01/2020",
+          "id": 1,
+          "name": "Item 1",
+          "value": 100,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 2,
+          "name": "Item 2",
+          "value": 200,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 3,
+          "name": "Item 3",
+          "value": 700,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 4,
+          "name": "Item 4",
+          "value": 300,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 5,
+          "name": "Item 5",
+          "value": 450,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 6,
+          "name": "Item 6",
+          "value": 905,
+        },
+      ]
+    }
+    onSelect={[Function]}
+    tooltipContent={[Function]}
+    weightedColumns={false}
+  />
+  <CompleteTablestyles__PaginationContainer>
+    <Pagination
+      listingProps={
+        Object {
+          "listing": "10",
+          "listingLabelPlural": "itens",
+          "listingLabelSingular": "item",
+          "onSelectListing": [Function],
+          "total": "6",
+        }
+      }
+      onChangePage={[Function]}
+      onClickNext={[Function]}
+      onClickPrev={[Function]}
+      onKeyDownPage={[Function]}
+      page="1"
+      pageRef={[Function]}
+      pageTotal="10"
+      style={
+        Object {
+          "marginTop": 24,
+        }
+      }
+      withListing={true}
+    />
+  </CompleteTablestyles__PaginationContainer>
+</Fragment>
+`;
+
+exports[`Testing CompleteTable component renders CompleteTable correctly with tooltip on unselctable items 1`] = `
+<Fragment>
+  <CompleteTablestyles__StickyContainer>
+    <CompleteTablestyles__FilterContainer
+      borderBottom={false}
+      borderTop={true}
+    >
+      <div>
+        Filtros
+      </div>
+    </CompleteTablestyles__FilterContainer>
+    <TableHeader
+      allChecked={false}
+      availableSpace={0.87}
+      borderTop={true}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasActions={true}
+      hiddenColumns={Array []}
+      onSelectAll={[Function]}
+      sortingProps={
+        Object {
+          "onSort": [Function],
+          "sortedColumns": false,
+          "sorting": Array [],
+        }
+      }
+      weightedColumns={false}
+    />
+  </CompleteTablestyles__StickyContainer>
+  <TableBody
+    actions={
+      <div>
+        Ações
+      </div>
+    }
+    availableSpace={0.87}
+    columns={
+      Array [
+        Object {
+          "align": "center",
+          "label": "Nome",
+          "name": "name",
+          "width": 12,
+        },
+        Object {
+          "align": "right",
+          "label": "Data",
+          "name": "date",
+          "width": 20,
+        },
+        Object {
+          "align": "left",
+          "getCellValue": [Function],
+          "label": "Valor",
+          "name": "value",
+          "width": 25,
+        },
+      ]
+    }
+    hasSelection={true}
+    hiddenColumns={Array []}
+    isItemSelectable={[Function]}
+    isItemSelected={[Function]}
+    items={
+      Array [
+        Object {
+          "date": "01/01/2020",
+          "id": 1,
+          "name": "Item 1",
+          "value": 100,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 2,
+          "name": "Item 2",
+          "value": 200,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 3,
+          "name": "Item 3",
+          "value": 700,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 4,
+          "name": "Item 4",
+          "value": 300,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 5,
+          "name": "Item 5",
+          "value": 450,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 6,
+          "name": "Item 6",
+          "value": 905,
+        },
+      ]
+    }
+    onSelect={[Function]}
+    tooltipContent={[Function]}
+    weightedColumns={false}
+  />
+  <CompleteTablestyles__PaginationContainer>
+    <Pagination
+      listingProps={
+        Object {
+          "listing": "10",
+          "listingLabelPlural": "itens",
+          "listingLabelSingular": "item",
+          "onSelectListing": [Function],
+          "total": "6",
+        }
+      }
+      onChangePage={[Function]}
+      onClickNext={[Function]}
+      onClickPrev={[Function]}
+      onKeyDownPage={[Function]}
+      page="1"
+      pageRef={[Function]}
+      pageTotal="10"
+      style={
+        Object {
+          "marginTop": 24,
+        }
+      }
+      withListing={true}
+    />
+  </CompleteTablestyles__PaginationContainer>
+</Fragment>
+`;
+
+exports[`Testing CompleteTable component renders CompleteTable correctly with unselctable items 1`] = `
+<Fragment>
+  <CompleteTablestyles__StickyContainer>
+    <CompleteTablestyles__FilterContainer
+      borderBottom={false}
+      borderTop={true}
+    >
+      <div>
+        Filtros
+      </div>
+    </CompleteTablestyles__FilterContainer>
+    <TableHeader
+      allChecked={false}
+      availableSpace={0.87}
+      borderTop={true}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasActions={true}
+      hiddenColumns={Array []}
+      onSelectAll={[Function]}
+      sortingProps={
+        Object {
+          "onSort": [Function],
+          "sortedColumns": false,
+          "sorting": Array [],
+        }
+      }
+      weightedColumns={false}
+    />
+  </CompleteTablestyles__StickyContainer>
+  <TableBody
+    actions={
+      <div>
+        Ações
+      </div>
+    }
+    availableSpace={0.87}
+    columns={
+      Array [
+        Object {
+          "align": "center",
+          "label": "Nome",
+          "name": "name",
+          "width": 12,
+        },
+        Object {
+          "align": "right",
+          "label": "Data",
+          "name": "date",
+          "width": 20,
+        },
+        Object {
+          "align": "left",
+          "getCellValue": [Function],
+          "label": "Valor",
+          "name": "value",
+          "width": 25,
+        },
+      ]
+    }
+    hasSelection={true}
+    hiddenColumns={Array []}
+    isItemSelectable={[Function]}
+    isItemSelected={[Function]}
+    items={
+      Array [
+        Object {
+          "date": "01/01/2020",
+          "id": 1,
+          "name": "Item 1",
+          "value": 100,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 2,
+          "name": "Item 2",
+          "value": 200,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 3,
+          "name": "Item 3",
+          "value": 700,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 4,
+          "name": "Item 4",
+          "value": 300,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 5,
+          "name": "Item 5",
+          "value": 450,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 6,
+          "name": "Item 6",
+          "value": 905,
+        },
+      ]
+    }
+    onSelect={[Function]}
+    tooltipContent={[Function]}
+    weightedColumns={false}
+  />
+  <CompleteTablestyles__PaginationContainer>
+    <Pagination
+      listingProps={
+        Object {
+          "listing": "10",
+          "listingLabelPlural": "itens",
+          "listingLabelSingular": "item",
+          "onSelectListing": [Function],
+          "total": "6",
+        }
+      }
+      onChangePage={[Function]}
+      onClickNext={[Function]}
+      onClickPrev={[Function]}
+      onKeyDownPage={[Function]}
+      page="1"
+      pageRef={[Function]}
+      pageTotal="10"
+      style={
+        Object {
+          "marginTop": 24,
+        }
+      }
+      withListing={true}
+    />
+  </CompleteTablestyles__PaginationContainer>
+</Fragment>
+`;
+
+exports[`Testing CompleteTable component renders CompleteTable correctly without actions 1`] = `
+<Fragment>
+  <CompleteTablestyles__StickyContainer>
+    <CompleteTablestyles__FilterContainer
+      borderBottom={false}
+      borderTop={true}
+    >
+      <div>
+        Filtros
+      </div>
+    </CompleteTablestyles__FilterContainer>
+    <TableHeader
+      allChecked={false}
+      availableSpace={0.97}
+      borderTop={true}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasActions={false}
+      hiddenColumns={Array []}
+      onSelectAll={[Function]}
+      sortingProps={
+        Object {
+          "onSort": [Function],
+          "sortedColumns": false,
+          "sorting": Array [],
+        }
+      }
+      weightedColumns={false}
+    />
+  </CompleteTablestyles__StickyContainer>
+  <TableBody
+    actions={null}
+    availableSpace={0.97}
+    columns={
+      Array [
+        Object {
+          "align": "center",
+          "label": "Nome",
+          "name": "name",
+          "width": 12,
+        },
+        Object {
+          "align": "right",
+          "label": "Data",
+          "name": "date",
+          "width": 20,
+        },
+        Object {
+          "align": "left",
+          "getCellValue": [Function],
+          "label": "Valor",
+          "name": "value",
+          "width": 25,
+        },
+      ]
+    }
+    hasSelection={true}
+    hiddenColumns={Array []}
+    isItemSelectable={[Function]}
+    isItemSelected={[Function]}
+    items={
+      Array [
+        Object {
+          "date": "01/01/2020",
+          "id": 1,
+          "name": "Item 1",
+          "value": 100,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 2,
+          "name": "Item 2",
+          "value": 200,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 3,
+          "name": "Item 3",
+          "value": 700,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 4,
+          "name": "Item 4",
+          "value": 300,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 5,
+          "name": "Item 5",
+          "value": 450,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 6,
+          "name": "Item 6",
+          "value": 905,
+        },
+      ]
+    }
+    onSelect={[Function]}
+    tooltipContent={[Function]}
+    weightedColumns={false}
+  />
+  <CompleteTablestyles__PaginationContainer>
+    <Pagination
+      listingProps={
+        Object {
+          "listing": "10",
+          "listingLabelPlural": "itens",
+          "listingLabelSingular": "item",
+          "onSelectListing": [Function],
+          "total": "6",
+        }
+      }
+      onChangePage={[Function]}
+      onClickNext={[Function]}
+      onClickPrev={[Function]}
+      onKeyDownPage={[Function]}
+      page="1"
+      pageRef={[Function]}
+      pageTotal="10"
+      style={
+        Object {
+          "marginTop": 24,
+        }
+      }
+      withListing={true}
+    />
+  </CompleteTablestyles__PaginationContainer>
+</Fragment>
+`;
+
+exports[`Testing CompleteTable component renders CompleteTable correctly without filter border-top 1`] = `
+<Fragment>
+  <CompleteTablestyles__StickyContainer>
+    <CompleteTablestyles__FilterContainer
+      borderBottom={false}
+      borderTop={false}
+    >
+      <div>
+        Filtros
+      </div>
+    </CompleteTablestyles__FilterContainer>
+    <TableHeader
+      allChecked={false}
+      availableSpace={0.87}
+      borderTop={true}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasActions={true}
+      hiddenColumns={Array []}
+      onSelectAll={[Function]}
+      sortingProps={
+        Object {
+          "onSort": [Function],
+          "sortedColumns": false,
+          "sorting": Array [],
+        }
+      }
+      weightedColumns={false}
+    />
+  </CompleteTablestyles__StickyContainer>
+  <TableBody
+    actions={
+      <div>
+        Ações
+      </div>
+    }
+    availableSpace={0.87}
+    columns={
+      Array [
+        Object {
+          "align": "center",
+          "label": "Nome",
+          "name": "name",
+          "width": 12,
+        },
+        Object {
+          "align": "right",
+          "label": "Data",
+          "name": "date",
+          "width": 20,
+        },
+        Object {
+          "align": "left",
+          "getCellValue": [Function],
+          "label": "Valor",
+          "name": "value",
+          "width": 25,
+        },
+      ]
+    }
+    hasSelection={true}
+    hiddenColumns={Array []}
+    isItemSelectable={[Function]}
+    isItemSelected={[Function]}
+    items={
+      Array [
+        Object {
+          "date": "01/01/2020",
+          "id": 1,
+          "name": "Item 1",
+          "value": 100,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 2,
+          "name": "Item 2",
+          "value": 200,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 3,
+          "name": "Item 3",
+          "value": 700,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 4,
+          "name": "Item 4",
+          "value": 300,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 5,
+          "name": "Item 5",
+          "value": 450,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 6,
+          "name": "Item 6",
+          "value": 905,
+        },
+      ]
+    }
+    onSelect={[Function]}
+    tooltipContent={[Function]}
+    weightedColumns={false}
+  />
+  <CompleteTablestyles__PaginationContainer>
+    <Pagination
+      listingProps={
+        Object {
+          "listing": "10",
+          "listingLabelPlural": "itens",
+          "listingLabelSingular": "item",
+          "onSelectListing": [Function],
+          "total": "6",
+        }
+      }
+      onChangePage={[Function]}
+      onClickNext={[Function]}
+      onClickPrev={[Function]}
+      onKeyDownPage={[Function]}
+      page="1"
+      pageRef={[Function]}
+      pageTotal="10"
+      style={
+        Object {
+          "marginTop": 24,
+        }
+      }
+      withListing={true}
+    />
+  </CompleteTablestyles__PaginationContainer>
+</Fragment>
+`;
+
+exports[`Testing CompleteTable component renders CompleteTable correctly without filters 1`] = `
+<Fragment>
+  <CompleteTablestyles__StickyContainer>
+    <TableHeader
+      allChecked={false}
+      availableSpace={0.87}
+      borderTop={true}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasActions={true}
+      hiddenColumns={Array []}
+      onSelectAll={[Function]}
+      sortingProps={
+        Object {
+          "onSort": [Function],
+          "sortedColumns": false,
+          "sorting": Array [],
+        }
+      }
+      weightedColumns={false}
+    />
+  </CompleteTablestyles__StickyContainer>
+  <TableBody
+    actions={
+      <div>
+        Ações
+      </div>
+    }
+    availableSpace={0.87}
+    columns={
+      Array [
+        Object {
+          "align": "center",
+          "label": "Nome",
+          "name": "name",
+          "width": 12,
+        },
+        Object {
+          "align": "right",
+          "label": "Data",
+          "name": "date",
+          "width": 20,
+        },
+        Object {
+          "align": "left",
+          "getCellValue": [Function],
+          "label": "Valor",
+          "name": "value",
+          "width": 25,
+        },
+      ]
+    }
+    hasSelection={true}
+    hiddenColumns={Array []}
+    isItemSelectable={[Function]}
+    isItemSelected={[Function]}
+    items={
+      Array [
+        Object {
+          "date": "01/01/2020",
+          "id": 1,
+          "name": "Item 1",
+          "value": 100,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 2,
+          "name": "Item 2",
+          "value": 200,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 3,
+          "name": "Item 3",
+          "value": 700,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 4,
+          "name": "Item 4",
+          "value": 300,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 5,
+          "name": "Item 5",
+          "value": 450,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 6,
+          "name": "Item 6",
+          "value": 905,
+        },
+      ]
+    }
+    onSelect={[Function]}
+    tooltipContent={[Function]}
+    weightedColumns={false}
+  />
+  <CompleteTablestyles__PaginationContainer>
+    <Pagination
+      listingProps={
+        Object {
+          "listing": "10",
+          "listingLabelPlural": "itens",
+          "listingLabelSingular": "item",
+          "onSelectListing": [Function],
+          "total": "6",
+        }
+      }
+      onChangePage={[Function]}
+      onClickNext={[Function]}
+      onClickPrev={[Function]}
+      onKeyDownPage={[Function]}
+      page="1"
+      pageRef={[Function]}
+      pageTotal="10"
+      style={
+        Object {
+          "marginTop": 24,
+        }
+      }
+      withListing={true}
+    />
+  </CompleteTablestyles__PaginationContainer>
+</Fragment>
+`;
+
+exports[`Testing CompleteTable component renders CompleteTable correctly without header border-top 1`] = `
+<Fragment>
+  <CompleteTablestyles__StickyContainer>
+    <CompleteTablestyles__FilterContainer
+      borderBottom={false}
+      borderTop={true}
+    >
+      <div>
+        Filtros
+      </div>
+    </CompleteTablestyles__FilterContainer>
+    <TableHeader
+      allChecked={false}
+      availableSpace={0.87}
+      borderTop={false}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasActions={true}
+      hiddenColumns={Array []}
+      onSelectAll={[Function]}
+      sortingProps={
+        Object {
+          "onSort": [Function],
+          "sortedColumns": false,
+          "sorting": Array [],
+        }
+      }
+      weightedColumns={false}
+    />
+  </CompleteTablestyles__StickyContainer>
+  <TableBody
+    actions={
+      <div>
+        Ações
+      </div>
+    }
+    availableSpace={0.87}
+    columns={
+      Array [
+        Object {
+          "align": "center",
+          "label": "Nome",
+          "name": "name",
+          "width": 12,
+        },
+        Object {
+          "align": "right",
+          "label": "Data",
+          "name": "date",
+          "width": 20,
+        },
+        Object {
+          "align": "left",
+          "getCellValue": [Function],
+          "label": "Valor",
+          "name": "value",
+          "width": 25,
+        },
+      ]
+    }
+    hasSelection={true}
+    hiddenColumns={Array []}
+    isItemSelectable={[Function]}
+    isItemSelected={[Function]}
+    items={
+      Array [
+        Object {
+          "date": "01/01/2020",
+          "id": 1,
+          "name": "Item 1",
+          "value": 100,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 2,
+          "name": "Item 2",
+          "value": 200,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 3,
+          "name": "Item 3",
+          "value": 700,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 4,
+          "name": "Item 4",
+          "value": 300,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 5,
+          "name": "Item 5",
+          "value": 450,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 6,
+          "name": "Item 6",
+          "value": 905,
+        },
+      ]
+    }
+    onSelect={[Function]}
+    tooltipContent={[Function]}
+    weightedColumns={false}
+  />
+  <CompleteTablestyles__PaginationContainer>
+    <Pagination
+      listingProps={
+        Object {
+          "listing": "10",
+          "listingLabelPlural": "itens",
+          "listingLabelSingular": "item",
+          "onSelectListing": [Function],
+          "total": "6",
+        }
+      }
+      onChangePage={[Function]}
+      onClickNext={[Function]}
+      onClickPrev={[Function]}
+      onKeyDownPage={[Function]}
+      page="1"
+      pageRef={[Function]}
+      pageTotal="10"
+      style={
+        Object {
+          "marginTop": 24,
+        }
+      }
+      withListing={true}
+    />
+  </CompleteTablestyles__PaginationContainer>
+</Fragment>
+`;
+
+exports[`Testing CompleteTable component renders CompleteTable correctly without items 1`] = `
+<Fragment>
+  <CompleteTablestyles__StickyContainer>
+    <CompleteTablestyles__FilterContainer
+      borderBottom={false}
+      borderTop={true}
+    >
+      <div>
+        Filtros
+      </div>
+    </CompleteTablestyles__FilterContainer>
+    <TableHeader
+      allChecked={false}
+      availableSpace={0.9}
+      borderTop={true}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasActions={true}
+      hiddenColumns={Array []}
+      onSelectAll={null}
+      sortingProps={
+        Object {
+          "onSort": [Function],
+          "sortedColumns": false,
+          "sorting": Array [],
+        }
+      }
+      weightedColumns={false}
+    />
+  </CompleteTablestyles__StickyContainer>
+  <TableBody
+    actions={
+      <div>
+        Ações
+      </div>
+    }
+    availableSpace={0.9}
+    columns={
+      Array [
+        Object {
+          "align": "center",
+          "label": "Nome",
+          "name": "name",
+          "width": 12,
+        },
+        Object {
+          "align": "right",
+          "label": "Data",
+          "name": "date",
+          "width": 20,
+        },
+        Object {
+          "align": "left",
+          "getCellValue": [Function],
+          "label": "Valor",
+          "name": "value",
+          "width": 25,
+        },
+      ]
+    }
+    hasSelection={false}
+    hiddenColumns={Array []}
+    isItemSelectable={[Function]}
+    isItemSelected={[Function]}
+    items={Array []}
+    onSelect={[Function]}
+    tooltipContent={[Function]}
+    weightedColumns={false}
+  />
+  <Empty />
+</Fragment>
+`;
+
+exports[`Testing CompleteTable component renders CompleteTable correctly without pagination 1`] = `
+<Fragment>
+  <CompleteTablestyles__StickyContainer>
+    <CompleteTablestyles__FilterContainer
+      borderBottom={false}
+      borderTop={true}
+    >
+      <div>
+        Filtros
+      </div>
+    </CompleteTablestyles__FilterContainer>
+    <TableHeader
+      allChecked={false}
+      availableSpace={0.87}
+      borderTop={true}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasActions={true}
+      hiddenColumns={Array []}
+      onSelectAll={[Function]}
+      sortingProps={
+        Object {
+          "onSort": [Function],
+          "sortedColumns": false,
+          "sorting": Array [],
+        }
+      }
+      weightedColumns={false}
+    />
+  </CompleteTablestyles__StickyContainer>
+  <TableBody
+    actions={
+      <div>
+        Ações
+      </div>
+    }
+    availableSpace={0.87}
+    columns={
+      Array [
+        Object {
+          "align": "center",
+          "label": "Nome",
+          "name": "name",
+          "width": 12,
+        },
+        Object {
+          "align": "right",
+          "label": "Data",
+          "name": "date",
+          "width": 20,
+        },
+        Object {
+          "align": "left",
+          "getCellValue": [Function],
+          "label": "Valor",
+          "name": "value",
+          "width": 25,
+        },
+      ]
+    }
+    hasSelection={true}
+    hiddenColumns={Array []}
+    isItemSelectable={[Function]}
+    isItemSelected={[Function]}
+    items={
+      Array [
+        Object {
+          "date": "01/01/2020",
+          "id": 1,
+          "name": "Item 1",
+          "value": 100,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 2,
+          "name": "Item 2",
+          "value": 200,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 3,
+          "name": "Item 3",
+          "value": 700,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 4,
+          "name": "Item 4",
+          "value": 300,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 5,
+          "name": "Item 5",
+          "value": 450,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 6,
+          "name": "Item 6",
+          "value": 905,
+        },
+      ]
+    }
+    onSelect={[Function]}
+    tooltipContent={[Function]}
+    weightedColumns={false}
+  />
+</Fragment>
+`;
+
+exports[`Testing CompleteTable component renders CompleteTable correctly without selection 1`] = `
+<Fragment>
+  <CompleteTablestyles__StickyContainer>
+    <CompleteTablestyles__FilterContainer
+      borderBottom={false}
+      borderTop={true}
+    >
+      <div>
+        Filtros
+      </div>
+    </CompleteTablestyles__FilterContainer>
+    <TableHeader
+      allChecked={false}
+      availableSpace={0.9}
+      borderTop={true}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasActions={true}
+      hiddenColumns={Array []}
+      onSelectAll={null}
+      sortingProps={
+        Object {
+          "onSort": [Function],
+          "sortedColumns": false,
+          "sorting": Array [],
+        }
+      }
+      weightedColumns={false}
+    />
+  </CompleteTablestyles__StickyContainer>
+  <TableBody
+    actions={
+      <div>
+        Ações
+      </div>
+    }
+    availableSpace={0.9}
+    columns={
+      Array [
+        Object {
+          "align": "center",
+          "label": "Nome",
+          "name": "name",
+          "width": 12,
+        },
+        Object {
+          "align": "right",
+          "label": "Data",
+          "name": "date",
+          "width": 20,
+        },
+        Object {
+          "align": "left",
+          "getCellValue": [Function],
+          "label": "Valor",
+          "name": "value",
+          "width": 25,
+        },
+      ]
+    }
+    hasSelection={false}
+    hiddenColumns={Array []}
+    isItemSelectable={[Function]}
+    isItemSelected={[Function]}
+    items={
+      Array [
+        Object {
+          "date": "01/01/2020",
+          "id": 1,
+          "name": "Item 1",
+          "value": 100,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 2,
+          "name": "Item 2",
+          "value": 200,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 3,
+          "name": "Item 3",
+          "value": 700,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 4,
+          "name": "Item 4",
+          "value": 300,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 5,
+          "name": "Item 5",
+          "value": 450,
+        },
+        Object {
+          "date": "01/01/2020",
+          "id": 6,
+          "name": "Item 6",
+          "value": 905,
+        },
+      ]
+    }
+    onSelect={[Function]}
+    tooltipContent={[Function]}
+    weightedColumns={false}
+  />
+  <CompleteTablestyles__PaginationContainer>
+    <Pagination
+      listingProps={
+        Object {
+          "listing": "10",
+          "listingLabelPlural": "itens",
+          "listingLabelSingular": "item",
+          "onSelectListing": [Function],
+          "total": "6",
+        }
+      }
+      onChangePage={[Function]}
+      onClickNext={[Function]}
+      onClickPrev={[Function]}
+      onKeyDownPage={[Function]}
+      page="1"
+      pageRef={[Function]}
+      pageTotal="10"
+      style={
+        Object {
+          "marginTop": 24,
+        }
+      }
+      withListing={true}
+    />
+  </CompleteTablestyles__PaginationContainer>
+</Fragment>
+`;

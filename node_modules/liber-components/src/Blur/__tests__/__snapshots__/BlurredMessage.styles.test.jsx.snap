@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing BlurredMessage Styles renders BlurredBackground correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "BlurredMessagestyles__BlurredBackground-sc-39fv6a-0",
+        "isStatic": false,
+        "rules": Array [
+          "--blur:",
+          [Function],
+          "px;filter:blur(var(--blur));width:100%;height:100%;pointer-events:",
+          [Function],
+          ";position:relative;user-select:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "BlurredMessagestyles__BlurredBackground",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "BlurredMessagestyles__BlurredBackground-sc-39fv6a-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing BlurredMessage Styles renders Overlay correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "BlurredMessagestyles__Overlay-sc-39fv6a-1",
+        "isStatic": false,
+        "rules": Array [
+          "z-index:200;position:absolute;top:",
+          [Function],
+          "px;left:",
+          [Function],
+          "px;max-height:",
+          [Function],
+          "px;max-width:",
+          [Function],
+          "px;",
+        ],
+      },
+      "displayName": "BlurredMessagestyles__Overlay",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "BlurredMessagestyles__Overlay-sc-39fv6a-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

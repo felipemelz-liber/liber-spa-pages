@@ -1,0 +1,535 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Pagination Styles renders Label correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ProgressBar__Label-sc-16j1djs-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:calc(100% + 12px);font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:15px;text-align:center;white-space:nowrap;transition:color ",
+          [Function],
+          " cubic-bezier(0.23,1,0.32,1) 0ms;",
+          [Function],
+        ],
+      },
+      "displayName": "ProgressBar__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "ProgressBar__Label-sc-16j1djs-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Pagination Styles renders Label correctly with animationTime 1`] = `
+<StyledComponent
+  animationTime="100ms"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ProgressBar__Label-sc-16j1djs-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:calc(100% + 12px);font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:15px;text-align:center;white-space:nowrap;transition:color ",
+          [Function],
+          " cubic-bezier(0.23,1,0.32,1) 0ms;",
+          [Function],
+        ],
+      },
+      "displayName": "ProgressBar__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "ProgressBar__Label-sc-16j1djs-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Pagination Styles renders Label correctly with checked = false 1`] = `
+<StyledComponent
+  checked={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ProgressBar__Label-sc-16j1djs-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:calc(100% + 12px);font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:15px;text-align:center;white-space:nowrap;transition:color ",
+          [Function],
+          " cubic-bezier(0.23,1,0.32,1) 0ms;",
+          [Function],
+        ],
+      },
+      "displayName": "ProgressBar__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "ProgressBar__Label-sc-16j1djs-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Pagination Styles renders Label correctly with checked = true 1`] = `
+<StyledComponent
+  checked={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ProgressBar__Label-sc-16j1djs-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:calc(100% + 12px);font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:15px;text-align:center;white-space:nowrap;transition:color ",
+          [Function],
+          " cubic-bezier(0.23,1,0.32,1) 0ms;",
+          [Function],
+        ],
+      },
+      "displayName": "ProgressBar__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "ProgressBar__Label-sc-16j1djs-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Pagination Styles renders ProgressContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ProgressBar__ProgressContainer-sc-16j1djs-3",
+        "isStatic": false,
+        "rules": Array [
+          "margin:0 140px;height:100%;display:flex;justify-content:space-between;align-items:center;",
+        ],
+      },
+      "displayName": "ProgressBar__ProgressContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "ProgressBar__ProgressContainer-sc-16j1djs-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Pagination Styles renders Separator correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ProgressBar__Separator-sc-16j1djs-2",
+        "isStatic": false,
+        "rules": Array [
+          "--base-color:",
+          [Function],
+          ";--selected-color:",
+          [Function],
+          ";flex-grow:1;height:2px;background-color:var(--base-color);position:relative;&:after{content:'';position:absolute;height:2px;width:",
+          [Function],
+          ";background-color:var(--selected-color);top:0px;left:0px;transition:width ",
+          [Function],
+          " cubic-bezier(0.23,1,0.32,1) 0ms;transition-delay:",
+          [Function],
+          ";will-change:width;}",
+        ],
+      },
+      "displayName": "ProgressBar__Separator",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "ProgressBar__Separator-sc-16j1djs-2",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Pagination Styles renders Separator correctly with animationTime 1`] = `
+<StyledComponent
+  animationTime="100ms"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ProgressBar__Separator-sc-16j1djs-2",
+        "isStatic": false,
+        "rules": Array [
+          "--base-color:",
+          [Function],
+          ";--selected-color:",
+          [Function],
+          ";flex-grow:1;height:2px;background-color:var(--base-color);position:relative;&:after{content:'';position:absolute;height:2px;width:",
+          [Function],
+          ";background-color:var(--selected-color);top:0px;left:0px;transition:width ",
+          [Function],
+          " cubic-bezier(0.23,1,0.32,1) 0ms;transition-delay:",
+          [Function],
+          ";will-change:width;}",
+        ],
+      },
+      "displayName": "ProgressBar__Separator",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "ProgressBar__Separator-sc-16j1djs-2",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Pagination Styles renders Separator correctly with full = false 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ProgressBar__Separator-sc-16j1djs-2",
+        "isStatic": false,
+        "rules": Array [
+          "--base-color:",
+          [Function],
+          ";--selected-color:",
+          [Function],
+          ";flex-grow:1;height:2px;background-color:var(--base-color);position:relative;&:after{content:'';position:absolute;height:2px;width:",
+          [Function],
+          ";background-color:var(--selected-color);top:0px;left:0px;transition:width ",
+          [Function],
+          " cubic-bezier(0.23,1,0.32,1) 0ms;transition-delay:",
+          [Function],
+          ";will-change:width;}",
+        ],
+      },
+      "displayName": "ProgressBar__Separator",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "ProgressBar__Separator-sc-16j1djs-2",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  full={false}
+/>
+`;
+
+exports[`Testing Pagination Styles renders Separator correctly with full = true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ProgressBar__Separator-sc-16j1djs-2",
+        "isStatic": false,
+        "rules": Array [
+          "--base-color:",
+          [Function],
+          ";--selected-color:",
+          [Function],
+          ";flex-grow:1;height:2px;background-color:var(--base-color);position:relative;&:after{content:'';position:absolute;height:2px;width:",
+          [Function],
+          ";background-color:var(--selected-color);top:0px;left:0px;transition:width ",
+          [Function],
+          " cubic-bezier(0.23,1,0.32,1) 0ms;transition-delay:",
+          [Function],
+          ";will-change:width;}",
+        ],
+      },
+      "displayName": "ProgressBar__Separator",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "ProgressBar__Separator-sc-16j1djs-2",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  full={true}
+/>
+`;
+
+exports[`Testing Pagination Styles renders Step correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ProgressBar__Step-sc-16j1djs-1",
+        "isStatic": false,
+        "rules": Array [
+          "--size:28px;max-width:var(--size);min-width:var(--size);max-height:var(--size);min-height:var(--size);display:flex;justify-content:center;align-items:center;position:relative;cursor:pointer;font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:22px;text-align:center;background-color:var(--base-bg);border-radius:50%;color:var(--base-color);transition:all ",
+          [Function],
+          " cubic-bezier(0.23,1,0.32,1) 0ms;",
+          [Function],
+          " & svg{fill:var(--base-color);--size:16px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);transition:fill ",
+          [Function],
+          " cubic-bezier(0.23,1,0.32,1) 0ms;transition-delay:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "ProgressBar__Step",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "ProgressBar__Step-sc-16j1djs-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Pagination Styles renders Step correctly with animationTime 1`] = `
+<StyledComponent
+  animationTime="100ms"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ProgressBar__Step-sc-16j1djs-1",
+        "isStatic": false,
+        "rules": Array [
+          "--size:28px;max-width:var(--size);min-width:var(--size);max-height:var(--size);min-height:var(--size);display:flex;justify-content:center;align-items:center;position:relative;cursor:pointer;font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:22px;text-align:center;background-color:var(--base-bg);border-radius:50%;color:var(--base-color);transition:all ",
+          [Function],
+          " cubic-bezier(0.23,1,0.32,1) 0ms;",
+          [Function],
+          " & svg{fill:var(--base-color);--size:16px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);transition:fill ",
+          [Function],
+          " cubic-bezier(0.23,1,0.32,1) 0ms;transition-delay:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "ProgressBar__Step",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "ProgressBar__Step-sc-16j1djs-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Pagination Styles renders Step correctly with type = basic 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ProgressBar__Step-sc-16j1djs-1",
+        "isStatic": false,
+        "rules": Array [
+          "--size:28px;max-width:var(--size);min-width:var(--size);max-height:var(--size);min-height:var(--size);display:flex;justify-content:center;align-items:center;position:relative;cursor:pointer;font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:22px;text-align:center;background-color:var(--base-bg);border-radius:50%;color:var(--base-color);transition:all ",
+          [Function],
+          " cubic-bezier(0.23,1,0.32,1) 0ms;",
+          [Function],
+          " & svg{fill:var(--base-color);--size:16px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);transition:fill ",
+          [Function],
+          " cubic-bezier(0.23,1,0.32,1) 0ms;transition-delay:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "ProgressBar__Step",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "ProgressBar__Step-sc-16j1djs-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="basic"
+/>
+`;
+
+exports[`Testing Pagination Styles renders Step correctly with type = checked 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ProgressBar__Step-sc-16j1djs-1",
+        "isStatic": false,
+        "rules": Array [
+          "--size:28px;max-width:var(--size);min-width:var(--size);max-height:var(--size);min-height:var(--size);display:flex;justify-content:center;align-items:center;position:relative;cursor:pointer;font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:22px;text-align:center;background-color:var(--base-bg);border-radius:50%;color:var(--base-color);transition:all ",
+          [Function],
+          " cubic-bezier(0.23,1,0.32,1) 0ms;",
+          [Function],
+          " & svg{fill:var(--base-color);--size:16px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);transition:fill ",
+          [Function],
+          " cubic-bezier(0.23,1,0.32,1) 0ms;transition-delay:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "ProgressBar__Step",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "ProgressBar__Step-sc-16j1djs-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="checked"
+/>
+`;
+
+exports[`Testing Pagination Styles renders Step correctly with type = final 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ProgressBar__Step-sc-16j1djs-1",
+        "isStatic": false,
+        "rules": Array [
+          "--size:28px;max-width:var(--size);min-width:var(--size);max-height:var(--size);min-height:var(--size);display:flex;justify-content:center;align-items:center;position:relative;cursor:pointer;font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:22px;text-align:center;background-color:var(--base-bg);border-radius:50%;color:var(--base-color);transition:all ",
+          [Function],
+          " cubic-bezier(0.23,1,0.32,1) 0ms;",
+          [Function],
+          " & svg{fill:var(--base-color);--size:16px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);transition:fill ",
+          [Function],
+          " cubic-bezier(0.23,1,0.32,1) 0ms;transition-delay:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "ProgressBar__Step",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "ProgressBar__Step-sc-16j1djs-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="final"
+/>
+`;

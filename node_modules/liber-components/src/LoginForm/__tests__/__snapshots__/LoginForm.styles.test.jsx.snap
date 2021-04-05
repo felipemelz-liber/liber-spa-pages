@@ -1,0 +1,610 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Login Form Styles Controlled Styles Footer renders correctly with props 1`] = `
+<LoginFormstyles__FooterContainer>
+  <LoginFormstyles__FooterText />
+  <LoginFormstyles__LogoGrow>
+    <a
+      href="https://url/of/logo"
+    >
+      <LoginFormstyles__SmallLogo />
+    </a>
+  </LoginFormstyles__LogoGrow>
+  <LoginFormstyles__FooterText>
+    <li>
+      <LoginFormstyles__Envelope />
+      <LoginFormstyles__WhiteLink
+        href="mailto:mock@mockemail.com"
+      >
+        mock@mockemail.com
+      </LoginFormstyles__WhiteLink>
+    </li>
+    <li>
+      <LoginFormstyles__Phone />
+      +55 11 99999999
+    </li>
+  </LoginFormstyles__FooterText>
+</LoginFormstyles__FooterContainer>
+`;
+
+exports[`Testing Login Form Styles Controlled Styles Footer renders correctly without props 1`] = `
+<LoginFormstyles__FooterContainer>
+  <LoginFormstyles__FooterText />
+  <LoginFormstyles__LogoGrow>
+    <LoginFormstyles__SmallLogo />
+  </LoginFormstyles__LogoGrow>
+  <LoginFormstyles__FooterText>
+    <li>
+      <LoginFormstyles__Envelope />
+      <LoginFormstyles__WhiteLink
+        href="mailto:contato@libercapital.com.br"
+      >
+        contato@libercapital.com.br
+      </LoginFormstyles__WhiteLink>
+    </li>
+    <li>
+      <LoginFormstyles__Phone />
+      +55 (11) 4858-1265
+    </li>
+  </LoginFormstyles__FooterText>
+</LoginFormstyles__FooterContainer>
+`;
+
+exports[`Testing Login Form Styles Controlled Styles Global renders correctly with container 1`] = `
+<ContextConsumer>
+  <Component />
+</ContextConsumer>
+`;
+
+exports[`Testing Login Form Styles Controlled Styles Global renders correctly without props 1`] = `
+<ContextConsumer>
+  <Component />
+</ContextConsumer>
+`;
+
+exports[`Testing Login Form Styles Controlled Styles LoginContainer renders correctly with children 1`] = `
+<Fragment>
+  <GlobalStyleComponent
+    container="#root"
+  />
+  <LoginFormstyles__Background>
+    <LoginFormstyles__CenterCard>
+      <LoginFormstyles__Card>
+        children
+      </LoginFormstyles__Card>
+    </LoginFormstyles__CenterCard>
+    <LoginFormstyles__Separator />
+    <Footer
+      email="contato@libercapital.com.br"
+      logoUrl={null}
+      phone="+55 (11) 4858-1265"
+    />
+  </LoginFormstyles__Background>
+</Fragment>
+`;
+
+exports[`Testing Login Form Styles Controlled Styles LoginContainer renders correctly with container 1`] = `
+<Fragment>
+  <GlobalStyleComponent
+    container=".container"
+  />
+  <LoginFormstyles__Background>
+    <LoginFormstyles__CenterCard>
+      <LoginFormstyles__Card />
+    </LoginFormstyles__CenterCard>
+    <LoginFormstyles__Separator />
+    <Footer
+      email="contato@libercapital.com.br"
+      logoUrl={null}
+      phone="+55 (11) 4858-1265"
+    />
+  </LoginFormstyles__Background>
+</Fragment>
+`;
+
+exports[`Testing Login Form Styles Controlled Styles LoginContainer renders correctly with custom footer 1`] = `
+<Fragment>
+  <GlobalStyleComponent
+    container="#root"
+  />
+  <LoginFormstyles__Background>
+    <LoginFormstyles__CenterCard>
+      <LoginFormstyles__Card />
+    </LoginFormstyles__CenterCard>
+    <LoginFormstyles__Separator />
+    <div>
+      footer
+    </div>
+  </LoginFormstyles__Background>
+</Fragment>
+`;
+
+exports[`Testing Login Form Styles Controlled Styles LoginContainer renders correctly without props 1`] = `
+<Fragment>
+  <GlobalStyleComponent
+    container="#root"
+  />
+  <LoginFormstyles__Background>
+    <LoginFormstyles__CenterCard>
+      <LoginFormstyles__Card />
+    </LoginFormstyles__CenterCard>
+    <LoginFormstyles__Separator />
+    <Footer
+      email="contato@libercapital.com.br"
+      logoUrl={null}
+      phone="+55 (11) 4858-1265"
+    />
+  </LoginFormstyles__Background>
+</Fragment>
+`;
+
+exports[`Testing Login Form Styles Uncontrolled Styles renders Background correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "LoginFormstyles__Background-w5bez5-3",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;min-height:100vh;display:flex;flex-direction:column;justify-content:flex-start;align-items:center;padding:25px;box-sizing:border-box;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    justify-content: flex-end;
+    padding: 0 50px;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "LoginFormstyles__Background",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "LoginFormstyles__Background-w5bez5-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Login Form Styles Uncontrolled Styles renders Button correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "size": "large",
+        "version": 2,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "LoginFormstyles__Button-w5bez5-15",
+        "isStatic": false,
+        "rules": Array [
+          "margin-top:12px;margin-right:unset;width:100%;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    margin-right: auto;
+    width: 50%;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "LoginFormstyles__Button",
+      "foldedComponentIds": Array [
+        "Buttons__SuccessButton-u35aut-3",
+      ],
+      "render": [Function],
+      "styledComponentId": "LoginFormstyles__Button-w5bez5-15",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  size="large"
+  version={2}
+/>
+`;
+
+exports[`Testing Login Form Styles Uncontrolled Styles renders Card correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "LoginFormstyles__Card-w5bez5-5",
+        "isStatic": false,
+        "rules": Array [
+          "border-radius:2px;background-color:",
+          [Function],
+          ";box-shadow:0 10px 10px 0 rgba(0,0,0,0.1);text-align:center;display:flex;align-items:center;box-sizing:border-box;margin-top:50px;overflow:hidden;flex-flow:column-reverse;padding:24px;width:100%;margin-bottom:16px;min-width:100%;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    flex-flow: row;
+    padding: 48px;
+    width: unset;
+    margin-bottom: 50px;
+    min-width: 476px;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "LoginFormstyles__Card",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "LoginFormstyles__Card-w5bez5-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Login Form Styles Uncontrolled Styles renders Envelope correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "LoginFormstyles__Envelope-w5bez5-0",
+        "isStatic": false,
+        "rules": Array [
+          "width:16px;height:16px;fill:",
+          [Function],
+          ";margin-right:10px;",
+        ],
+      },
+      "displayName": "LoginFormstyles__Envelope",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "LoginFormstyles__Envelope-w5bez5-0",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Login Form Styles Uncontrolled Styles renders FooterText correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "LoginFormstyles__FooterText-w5bez5-8",
+        "isStatic": false,
+        "rules": Array [
+          "list-style:none;color:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";padding:0px;margin:0px 0px 20px 0px;text-align:center;min-width:100%;flex-grow:1;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    text-align: left;
+    min-width: 220.69px;
+    flex-grow: 0;
+  ",
+          "}",
+          " & > li{display:flex;justify-content:center;align-items:center;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+      justify-content: flex-start;
+    ",
+          "}",
+          "}",
+        ],
+      },
+      "displayName": "LoginFormstyles__FooterText",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "LoginFormstyles__FooterText-w5bez5-8",
+      "target": "ul",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Login Form Styles Uncontrolled Styles renders Form correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "LoginFormstyles__Form-w5bez5-13",
+        "isStatic": false,
+        "rules": Array [
+          "min-width:100%;width:100%;display:flex;flex-direction:column;justify-content:flex-start;align-items:center;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    min-width: 355px;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "LoginFormstyles__Form",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "LoginFormstyles__Form-w5bez5-13",
+      "target": "form",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Login Form Styles Uncontrolled Styles renders FormSeparator correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "LoginFormstyles__FormSeparator-w5bez5-16",
+        "isStatic": false,
+        "rules": Array [
+          "width:unset;height:0px;margin:24px 0px;border-bottom:solid 1px rgba(0,0,0,0.1);border-left:0px;align-self:stretch;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    width: 0px;
+    height: unset;
+    margin: 0px 48px;
+    border-bottom: 0px;
+    border-left: solid 1px rgba(0,0,0,0.1);
+  ",
+          "}",
+        ],
+      },
+      "displayName": "LoginFormstyles__FormSeparator",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "LoginFormstyles__FormSeparator-w5bez5-16",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Login Form Styles Uncontrolled Styles renders Logo correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "LoginFormstyles__Logo-w5bez5-12",
+        "isStatic": false,
+        "rules": Array [
+          "display:inline-block;background-color:#fff;margin:0px 0px 20px 0px;& > svg{width:350px;height:120px;",
+          "@media (min-width:",
+          "768px",
+          "){",
+          "
+      width: 350px;
+      height: 250px;
+    ",
+          "}",
+          "}& .cls-1{stroke:",
+          [Function],
+          ";fill:#fff;}& .cls-2{stroke:",
+          [Function],
+          ";fill:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "LoginFormstyles__Logo",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "LoginFormstyles__Logo-w5bez5-12",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Login Form Styles Uncontrolled Styles renders LogoGrow correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "LoginFormstyles__LogoGrow-w5bez5-10",
+        "isStatic": false,
+        "rules": Array [
+          "flex-grow:1;",
+        ],
+      },
+      "displayName": "LoginFormstyles__LogoGrow",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "LoginFormstyles__LogoGrow-w5bez5-10",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Login Form Styles Uncontrolled Styles renders Phone correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "LoginFormstyles__Phone-w5bez5-1",
+        "isStatic": false,
+        "rules": Array [
+          "width:16px;height:16px;fill:",
+          [Function],
+          ";margin-right:10px;",
+        ],
+      },
+      "displayName": "LoginFormstyles__Phone",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "LoginFormstyles__Phone-w5bez5-1",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Login Form Styles Uncontrolled Styles renders Title correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "LoginFormstyles__Title-w5bez5-14",
+        "isStatic": false,
+        "rules": Array [
+          "margin:15px 0px 9px 0px;font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";margin:0px !important;line-height:25px;font-size:",
+          [Function],
+          ";color:",
+          [Function],
+          ";text-transform:uppercase;",
+          "@media (min-width:",
+          "576px",
+          "){",
+          "
+    line-height: 35px;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "LoginFormstyles__Title",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "LoginFormstyles__Title-w5bez5-14",
+      "target": "h1",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Login Form Styles Uncontrolled Styles renders User correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "LoginFormstyles__User-w5bez5-2",
+        "isStatic": false,
+        "rules": Array [
+          "width:16px;height:16px;fill:",
+          [Function],
+          ";margin-right:10px;",
+        ],
+      },
+      "displayName": "LoginFormstyles__User",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "LoginFormstyles__User-w5bez5-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Login Form Styles Uncontrolled Styles renders WhiteLink correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "LoginFormstyles__WhiteLink-w5bez5-9",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          "!important;text-decoration:none;",
+        ],
+      },
+      "displayName": "LoginFormstyles__WhiteLink",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "LoginFormstyles__WhiteLink-w5bez5-9",
+      "target": "a",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

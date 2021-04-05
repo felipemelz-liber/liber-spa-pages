@@ -1,0 +1,124 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Listing COmponent tests should render correctly with props 1`] = `
+<Listingstyles__ListingContainer>
+  Listar
+  <Listingstyles__SelectContainer>
+    <SimpleSelect
+      onSelect={[Function]}
+      value=""
+    >
+      <option
+        value="10"
+      >
+        10
+      </option>
+      <option
+        value="25"
+      >
+        25
+      </option>
+      <option
+        value="50"
+      >
+        50
+      </option>
+      <option
+        value="100"
+      >
+        100
+      </option>
+    </SimpleSelect>
+  </Listingstyles__SelectContainer>
+  por página  • 
+   
+  total
+   de
+   
+  1.234
+   
+  títulos
+</Listingstyles__ListingContainer>
+`;
+
+exports[`Listing COmponent tests should render correctly with showInterval defined 1`] = `
+<Listingstyles__ListingContainer>
+  Listar
+  <Listingstyles__SelectContainer>
+    <SimpleSelect
+      onSelect={[Function]}
+      value=""
+    >
+      <option
+        value="10"
+      >
+        10
+      </option>
+      <option
+        value="25"
+      >
+        25
+      </option>
+      <option
+        value="50"
+      >
+        50
+      </option>
+      <option
+        value="100"
+      >
+        100
+      </option>
+    </SimpleSelect>
+  </Listingstyles__SelectContainer>
+  por página  • 
+   
+  1-10
+   de
+   
+  1.234
+   
+  títulos
+</Listingstyles__ListingContainer>
+`;
+
+exports[`Listing COmponent tests should render correctly without props 1`] = `
+<Listingstyles__ListingContainer>
+  Listar
+  <Listingstyles__SelectContainer>
+    <SimpleSelect
+      onSelect={[Function]}
+      value=""
+    >
+      <option
+        value="10"
+      >
+        10
+      </option>
+      <option
+        value="25"
+      >
+        25
+      </option>
+      <option
+        value="50"
+      >
+        50
+      </option>
+      <option
+        value="100"
+      >
+        100
+      </option>
+    </SimpleSelect>
+  </Listingstyles__SelectContainer>
+  por página  • 
+   
+  total
+   de
+   
+  0
+   
+  título
+</Listingstyles__ListingContainer>
+`;

@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Checkbox Component should render correctly checked 1`] = `
+<Checkboxstyles
+  checked={true}
+  className="test"
+  color="#000"
+  htmlFor="test"
+  labelColor="#000"
+>
+  <input
+    checked={true}
+    id="test"
+    name="test"
+    onChange={[Function]}
+    type="checkbox"
+    value="test"
+  />
+  <span>
+    Test
+  </span>
+</Checkboxstyles>
+`;
+
+exports[`Testing Checkbox Component should render correctly unchecked 1`] = `
+<Checkboxstyles
+  checked={false}
+  className="test"
+  color="#000"
+  htmlFor="test"
+  labelColor="#000"
+>
+  <input
+    checked={false}
+    id="test"
+    name="test"
+    onChange={[Function]}
+    type="checkbox"
+    value="test"
+  />
+  <span>
+    Test
+  </span>
+</Checkboxstyles>
+`;

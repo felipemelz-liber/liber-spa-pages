@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StatusLabel component tests should render correctly with negative status 1`] = `
+<Fragment>
+  <styled.div
+    color=""
+    status="negative"
+  >
+    <styled.div />
+    Mock
+  </styled.div>
+</Fragment>
+`;
+
+exports[`StatusLabel component tests should render correctly with neutral status 1`] = `
+<Fragment>
+  <styled.div
+    color=""
+    status="neutral"
+  >
+    <styled.div />
+    Mock
+  </styled.div>
+</Fragment>
+`;
+
+exports[`StatusLabel component tests should render correctly with positive status 1`] = `
+<Fragment>
+  <styled.div
+    color=""
+    status="positive"
+  >
+    <styled.div />
+    Mock
+  </styled.div>
+</Fragment>
+`;
+
+exports[`StatusLabel component tests should render correctly with primary status 1`] = `
+<Fragment>
+  <styled.div
+    color=""
+    status="primary"
+  >
+    <styled.div />
+    Mock
+  </styled.div>
+</Fragment>
+`;
+
+exports[`StatusLabel component tests should render correctly without props 1`] = `
+<Fragment>
+  <styled.div
+    color=""
+    status="neutral"
+  >
+    <styled.div />
+  </styled.div>
+</Fragment>
+`;

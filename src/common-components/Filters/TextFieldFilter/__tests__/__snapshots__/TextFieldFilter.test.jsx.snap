@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing TextFieldFilter Component should render correctly with props 1`] = `
+<FilterTag
+  formatSelected={[Function]}
+  label="Filtro"
+  onChange={[Function]}
+  onClear={[Function]}
+  selected={
+    Array [
+      null,
+    ]
+  }
+  show={false}
+>
+  <form>
+    <styled.div>
+      <Styled(Component)
+        autoFocus={true}
+        hintText="Faça a busca"
+        mask=""
+        onChange={[Function]}
+        value=""
+        version={2}
+        width="100%"
+      />
+    </styled.div>
+    <FilterFooter
+      disabled={true}
+      onClear={[Function]}
+      onFilter={[Function]}
+    />
+  </form>
+</FilterTag>
+`;
+
+exports[`Testing TextFieldFilter Component should render correctly without props 1`] = `
+<FilterTag
+  formatSelected={[Function]}
+  label="Tag"
+  onChange={[Function]}
+  onClear={[Function]}
+  selected={
+    Array [
+      null,
+    ]
+  }
+  show={false}
+>
+  <form>
+    <styled.div>
+      <Styled(Component)
+        autoFocus={true}
+        hintText="Digite o que deseja buscar"
+        mask={null}
+        onChange={[Function]}
+        value=""
+        version={2}
+        width="100%"
+      />
+    </styled.div>
+    <FilterFooter
+      disabled={true}
+      onClear={[Function]}
+      onFilter={[Function]}
+    />
+  </form>
+</FilterTag>
+`;

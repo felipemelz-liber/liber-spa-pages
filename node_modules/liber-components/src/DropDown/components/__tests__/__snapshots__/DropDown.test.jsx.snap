@@ -1,0 +1,469 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for DropDown Component should open on button mousedown 1`] = `
+<DropDown
+  defaultValue={null}
+  onSelect={[Function]}
+  position={null}
+  value={null}
+>
+  <styles__Box>
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "styles__Box-sc-1vybocn-0",
+            "isStatic": false,
+            "lastClassName": "frZCjg",
+            "rules": Array [
+              "position:relative;display:inline-block;",
+            ],
+          },
+          "displayName": "styles__Box",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "styles__Box-sc-1vybocn-0",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="styles__Box-sc-1vybocn-0 frZCjg"
+      >
+        <styles__Button
+          onMouseDown={[Function]}
+        >
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "styles__Button-sc-1vybocn-1",
+                  "isStatic": false,
+                  "lastClassName": "iPfVtk",
+                  "rules": Array [
+                    "background-color:transparent;color:",
+                    [Function],
+                    ";cursor:pointer;border:0px;padding:5px 38px 5px 10px;box-sizing:border-box;border-radius:4px;font-family:",
+                    [Function],
+                    ";font-size:",
+                    [Function],
+                    ";font-weight:",
+                    [Function],
+                    ";&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+                    [Function],
+                    "}position:relative;&:after{content:\\"\\";position:absolute;top:calc(50% - 3px);right:10px;width:0px;height:0px;border-top:5px solid ",
+                    [Function],
+                    ";border-right:5px solid transparent;border-bottom:5px solid transparent;border-left:5px solid transparent;transform:scale(0.75);}",
+                    "@media (min-width:",
+                    "992px",
+                    "){",
+                    "
+    font-size: ",
+                    [Function],
+                    ";
+    &:after {
+      transform: scale(1);
+    }
+  ",
+                    "}",
+                  ],
+                },
+                "displayName": "styles__Button",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "styles__Button-sc-1vybocn-1",
+                "target": "button",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            onMouseDown={[Function]}
+          >
+            <button
+              className="styles__Button-sc-1vybocn-1 iPfVtk"
+              onMouseDown={[Function]}
+            >
+              1
+            </button>
+          </StyledComponent>
+        </styles__Button>
+        <div>
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={true}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={100}
+            unmountOnExit={true}
+          >
+            <ClickOutside
+              onOutsideClick={[Function]}
+            >
+              <div>
+                <styles__List
+                  opacity="0"
+                  position={null}
+                  scaleY="0.7"
+                >
+                  <StyledComponent
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "styles__List-sc-1vybocn-5",
+                          "isStatic": false,
+                          "lastClassName": "ktHlll",
+                          "rules": Array [
+                            "list-style-type:none;position:absolute;",
+                            [Function],
+                            " display:flex;white-space:nowrap;flex-direction:column;background-color:",
+                            [Function],
+                            ";box-shadow:0 2px 6px 0 rgba(0,0,0,0.1);border:solid 1px ",
+                            [Function],
+                            ";border-radius:2px;z-index:5;margin:0px;padding:0px;font-family:inherit;font-size:14px;font-weight:500;opacity:",
+                            [Function],
+                            ";transition:all 100ms ease-in-out;transform-origin:top left;transform:scaleY(",
+                            [Function],
+                            ");",
+                            "@media (min-width:",
+                            "992px",
+                            "){",
+                            "
+    font-size: 16px;
+  ",
+                            "}",
+                            " ",
+                            "@media (min-width:",
+                            "1200px",
+                            "){",
+                            "
+    font-size: 16px;
+  ",
+                            "}",
+                          ],
+                        },
+                        "displayName": "styles__List",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "styles__List-sc-1vybocn-5",
+                        "target": "ul",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    opacity="0"
+                    position={null}
+                    scaleY="0.7"
+                  >
+                    <ul
+                      className="styles__List-sc-1vybocn-5 ktHlll"
+                      opacity="0"
+                    >
+                      <styles__Option
+                        key="1"
+                        onClick={null}
+                        selected={true}
+                      >
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "styles__Option-sc-1vybocn-6",
+                                "isStatic": false,
+                                "lastClassName": "eldHWP",
+                                "rules": Array [
+                                  "padding:5px 40px 5px 20px;border-radius:2px;background-color:",
+                                  [Function],
+                                  ";color:",
+                                  [Function],
+                                  ";cursor:pointer;user-select:none;&:hover{background-color:",
+                                  [Function],
+                                  ";color:",
+                                  [Function],
+                                  ";}",
+                                ],
+                              },
+                              "displayName": "styles__Option",
+                              "foldedComponentIds": Array [],
+                              "propTypes": Object {
+                                "children": [Function],
+                              },
+                              "render": [Function],
+                              "styledComponentId": "styles__Option-sc-1vybocn-6",
+                              "target": "li",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          onClick={null}
+                          selected={true}
+                        >
+                          <li
+                            className="styles__Option-sc-1vybocn-6 iHjrKb"
+                            onClick={null}
+                            selected={true}
+                          >
+                            1
+                          </li>
+                        </StyledComponent>
+                      </styles__Option>
+                      <styles__Option
+                        key="2"
+                        onClick={[Function]}
+                        selected={false}
+                      >
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "styles__Option-sc-1vybocn-6",
+                                "isStatic": false,
+                                "lastClassName": "eldHWP",
+                                "rules": Array [
+                                  "padding:5px 40px 5px 20px;border-radius:2px;background-color:",
+                                  [Function],
+                                  ";color:",
+                                  [Function],
+                                  ";cursor:pointer;user-select:none;&:hover{background-color:",
+                                  [Function],
+                                  ";color:",
+                                  [Function],
+                                  ";}",
+                                ],
+                              },
+                              "displayName": "styles__Option",
+                              "foldedComponentIds": Array [],
+                              "propTypes": Object {
+                                "children": [Function],
+                              },
+                              "render": [Function],
+                              "styledComponentId": "styles__Option-sc-1vybocn-6",
+                              "target": "li",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          onClick={[Function]}
+                          selected={false}
+                        >
+                          <li
+                            className="styles__Option-sc-1vybocn-6 eldHWP"
+                            onClick={[Function]}
+                            selected={false}
+                          >
+                            2
+                          </li>
+                        </StyledComponent>
+                      </styles__Option>
+                      <styles__Option
+                        key="3"
+                        onClick={[Function]}
+                        selected={false}
+                      >
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "styles__Option-sc-1vybocn-6",
+                                "isStatic": false,
+                                "lastClassName": "eldHWP",
+                                "rules": Array [
+                                  "padding:5px 40px 5px 20px;border-radius:2px;background-color:",
+                                  [Function],
+                                  ";color:",
+                                  [Function],
+                                  ";cursor:pointer;user-select:none;&:hover{background-color:",
+                                  [Function],
+                                  ";color:",
+                                  [Function],
+                                  ";}",
+                                ],
+                              },
+                              "displayName": "styles__Option",
+                              "foldedComponentIds": Array [],
+                              "propTypes": Object {
+                                "children": [Function],
+                              },
+                              "render": [Function],
+                              "styledComponentId": "styles__Option-sc-1vybocn-6",
+                              "target": "li",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          onClick={[Function]}
+                          selected={false}
+                        >
+                          <li
+                            className="styles__Option-sc-1vybocn-6 eldHWP"
+                            onClick={[Function]}
+                            selected={false}
+                          >
+                            3
+                          </li>
+                        </StyledComponent>
+                      </styles__Option>
+                    </ul>
+                  </StyledComponent>
+                </styles__List>
+              </div>
+            </ClickOutside>
+          </Transition>
+        </div>
+      </div>
+    </StyledComponent>
+  </styles__Box>
+</DropDown>
+`;
+
+exports[`Test for DropDown Component should render correctly 1`] = `
+<DropDown
+  defaultValue={null}
+  onSelect={[Function]}
+  position={null}
+  value={null}
+>
+  <styles__Box>
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "styles__Box-sc-1vybocn-0",
+            "isStatic": false,
+            "lastClassName": "frZCjg",
+            "rules": Array [
+              "position:relative;display:inline-block;",
+            ],
+          },
+          "displayName": "styles__Box",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "styles__Box-sc-1vybocn-0",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="styles__Box-sc-1vybocn-0 frZCjg"
+      >
+        <styles__Button
+          onMouseDown={[Function]}
+        >
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "styles__Button-sc-1vybocn-1",
+                  "isStatic": false,
+                  "lastClassName": "iPfVtk",
+                  "rules": Array [
+                    "background-color:transparent;color:",
+                    [Function],
+                    ";cursor:pointer;border:0px;padding:5px 38px 5px 10px;box-sizing:border-box;border-radius:4px;font-family:",
+                    [Function],
+                    ";font-size:",
+                    [Function],
+                    ";font-weight:",
+                    [Function],
+                    ";&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+                    [Function],
+                    "}position:relative;&:after{content:\\"\\";position:absolute;top:calc(50% - 3px);right:10px;width:0px;height:0px;border-top:5px solid ",
+                    [Function],
+                    ";border-right:5px solid transparent;border-bottom:5px solid transparent;border-left:5px solid transparent;transform:scale(0.75);}",
+                    "@media (min-width:",
+                    "992px",
+                    "){",
+                    "
+    font-size: ",
+                    [Function],
+                    ";
+    &:after {
+      transform: scale(1);
+    }
+  ",
+                    "}",
+                  ],
+                },
+                "displayName": "styles__Button",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "styles__Button-sc-1vybocn-1",
+                "target": "button",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            onMouseDown={[Function]}
+          >
+            <button
+              className="styles__Button-sc-1vybocn-1 iPfVtk"
+              onMouseDown={[Function]}
+            >
+              1
+            </button>
+          </StyledComponent>
+        </styles__Button>
+        <div>
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={false}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={100}
+            unmountOnExit={true}
+          />
+        </div>
+      </div>
+    </StyledComponent>
+  </styles__Box>
+</DropDown>
+`;

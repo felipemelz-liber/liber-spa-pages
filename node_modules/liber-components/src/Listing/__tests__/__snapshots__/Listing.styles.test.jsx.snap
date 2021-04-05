@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Listing Styled Components renders ListingContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Listingstyles__ListingContainer-sc-1uy20g8-0",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;justify-content:flex-start;align-items:center;line-height:22px;letter-spacing:0.1px;text-align:left;font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Listingstyles__ListingContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Listingstyles__ListingContainer-sc-1uy20g8-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Listing Styled Components renders SelectContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Listingstyles__SelectContainer-sc-1uy20g8-1",
+        "isStatic": false,
+        "rules": Array [
+          "width:94px;margin:0px 12px;",
+        ],
+      },
+      "displayName": "Listingstyles__SelectContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Listingstyles__SelectContainer-sc-1uy20g8-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

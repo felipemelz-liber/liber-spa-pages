@@ -1,0 +1,161 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing RadioButton Styles should render correctly with props 1`] = `
+<StyledComponent
+  color="#000"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "RadioButtonstyles-sc-100ev9-0",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";*,*:before,*:after{box-sizing:border-box;}&:focus{outline:none;}&::-moz-focus-inner{outline:none;}&:focus > div:before{border-color:",
+          [Function],
+          " !important;transform:scale(1.25);}& input[type='radio'],input[type='checkbox']{display:none;}& input[type='radio']:checked + div:before,input[type='checkbox']:checked + div:before{border-color:",
+          [Function],
+          ";border-width:2px;animation:",
+          Keyframes {
+            "id": "sc-keyframes-hVUBhf",
+            "inject": [Function],
+            "name": "hVUBhf",
+            "rules": Array [
+              "@-webkit-keyframes hVUBhf{0%{box-shadow:0px 0px 0px 1px rgba(0,0,0,0);}50%{box-shadow:0px 0px 0px 15px rgba(0,0,0,0.1);}100%{box-shadow:0px 0px 0px 15px rgba(0,0,0,0);}}",
+              "@keyframes hVUBhf{0%{box-shadow:0px 0px 0px 1px rgba(0,0,0,0);}50%{box-shadow:0px 0px 0px 15px rgba(0,0,0,0.1);}100%{box-shadow:0px 0px 0px 15px rgba(0,0,0,0);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.2s linear forwards;}& input[type='radio']:checked + div:after,input[type='checkbox']:checked + div:after{transform:scale(1);}& div{display:inline-flex;height:20px;position:relative;padding:0 30px;margin-bottom:0;cursor:pointer;justify-content:flex-start;align-items:center;font-weight:normal;}& div:before,& div:after{position:absolute;content:'';border-radius:50%;transition:all 0.3s ease;transition-property:transform,border-color;}& div:before{left:0;top:0;width:20px;height:20px;border:1px solid ",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";}& div:after{top:5px;left:5px;width:10px;height:10px;transform:scale(0);background:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "RadioButtonstyles",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RadioButtonstyles-sc-100ev9-0",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  labelColor="#000"
+/>
+`;
+
+exports[`Testing RadioButton Styles should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "RadioButtonstyles-sc-100ev9-0",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";*,*:before,*:after{box-sizing:border-box;}&:focus{outline:none;}&::-moz-focus-inner{outline:none;}&:focus > div:before{border-color:",
+          [Function],
+          " !important;transform:scale(1.25);}& input[type='radio'],input[type='checkbox']{display:none;}& input[type='radio']:checked + div:before,input[type='checkbox']:checked + div:before{border-color:",
+          [Function],
+          ";border-width:2px;animation:",
+          Keyframes {
+            "id": "sc-keyframes-hVUBhf",
+            "inject": [Function],
+            "name": "hVUBhf",
+            "rules": Array [
+              "@-webkit-keyframes hVUBhf{0%{box-shadow:0px 0px 0px 1px rgba(0,0,0,0);}50%{box-shadow:0px 0px 0px 15px rgba(0,0,0,0.1);}100%{box-shadow:0px 0px 0px 15px rgba(0,0,0,0);}}",
+              "@keyframes hVUBhf{0%{box-shadow:0px 0px 0px 1px rgba(0,0,0,0);}50%{box-shadow:0px 0px 0px 15px rgba(0,0,0,0.1);}100%{box-shadow:0px 0px 0px 15px rgba(0,0,0,0);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.2s linear forwards;}& input[type='radio']:checked + div:after,input[type='checkbox']:checked + div:after{transform:scale(1);}& div{display:inline-flex;height:20px;position:relative;padding:0 30px;margin-bottom:0;cursor:pointer;justify-content:flex-start;align-items:center;font-weight:normal;}& div:before,& div:after{position:absolute;content:'';border-radius:50%;transition:all 0.3s ease;transition-property:transform,border-color;}& div:before{left:0;top:0;width:20px;height:20px;border:1px solid ",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";}& div:after{top:5px;left:5px;width:10px;height:10px;transform:scale(0);background:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "RadioButtonstyles",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RadioButtonstyles-sc-100ev9-0",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "radioButton": Object {
+        "color": "#bbb",
+        "label": "#aaa",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Testing RadioButton Styles should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "RadioButtonstyles-sc-100ev9-0",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";*,*:before,*:after{box-sizing:border-box;}&:focus{outline:none;}&::-moz-focus-inner{outline:none;}&:focus > div:before{border-color:",
+          [Function],
+          " !important;transform:scale(1.25);}& input[type='radio'],input[type='checkbox']{display:none;}& input[type='radio']:checked + div:before,input[type='checkbox']:checked + div:before{border-color:",
+          [Function],
+          ";border-width:2px;animation:",
+          Keyframes {
+            "id": "sc-keyframes-hVUBhf",
+            "inject": [Function],
+            "name": "hVUBhf",
+            "rules": Array [
+              "@-webkit-keyframes hVUBhf{0%{box-shadow:0px 0px 0px 1px rgba(0,0,0,0);}50%{box-shadow:0px 0px 0px 15px rgba(0,0,0,0.1);}100%{box-shadow:0px 0px 0px 15px rgba(0,0,0,0);}}",
+              "@keyframes hVUBhf{0%{box-shadow:0px 0px 0px 1px rgba(0,0,0,0);}50%{box-shadow:0px 0px 0px 15px rgba(0,0,0,0.1);}100%{box-shadow:0px 0px 0px 15px rgba(0,0,0,0);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.2s linear forwards;}& input[type='radio']:checked + div:after,input[type='checkbox']:checked + div:after{transform:scale(1);}& div{display:inline-flex;height:20px;position:relative;padding:0 30px;margin-bottom:0;cursor:pointer;justify-content:flex-start;align-items:center;font-weight:normal;}& div:before,& div:after{position:absolute;content:'';border-radius:50%;transition:all 0.3s ease;transition-property:transform,border-color;}& div:before{left:0;top:0;width:20px;height:20px;border:1px solid ",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";}& div:after{top:5px;left:5px;width:10px;height:10px;transform:scale(0);background:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "RadioButtonstyles",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RadioButtonstyles-sc-100ev9-0",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

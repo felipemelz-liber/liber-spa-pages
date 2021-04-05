@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Badge tests should render Badge correctly with case: 0 1`] = `
+<Badgestyles__Container>
+  <div>
+    mock
+  </div>
+  <Badgestyles__BadgeCircle
+    childShape="rectangle"
+    color={null}
+    padding={4}
+    position={
+      Object {
+        "horizontal": "right",
+        "vertical": "bottom",
+      }
+    }
+    radius={10}
+    textColor={null}
+    visible={false}
+  >
+    234
+  </Badgestyles__BadgeCircle>
+</Badgestyles__Container>
+`;
+
+exports[`Badge tests should render Badge correctly with case: 1 1`] = `
+<Badgestyles__Container>
+  <div>
+    mock
+  </div>
+  <Badgestyles__BadgeCircle
+    childShape="circle"
+    color="white"
+    padding={4}
+    position={
+      Object {
+        "horizontal": "left",
+        "vertical": "bottom",
+      }
+    }
+    radius={10}
+    textColor={null}
+    visible={false}
+  >
+    234
+  </Badgestyles__BadgeCircle>
+</Badgestyles__Container>
+`;
+
+exports[`Badge tests should render Badge correctly with case: 2 1`] = `
+<Badgestyles__Container>
+  <div>
+    mock
+  </div>
+  <Badgestyles__BadgeCircle
+    childShape="rectangle"
+    color={null}
+    padding={4}
+    position={
+      Object {
+        "horizontal": "right",
+        "vertical": "top",
+      }
+    }
+    radius={10}
+    textColor="blue"
+    visible={false}
+  >
+    234
+  </Badgestyles__BadgeCircle>
+</Badgestyles__Container>
+`;
+
+exports[`Badge tests should render Badge correctly with case: 3 1`] = `
+<Badgestyles__Container>
+  <div>
+    mock
+  </div>
+  <Badgestyles__BadgeCircle
+    childShape="rectangle"
+    color={null}
+    padding={6}
+    position={
+      Object {
+        "horizontal": "left",
+        "vertical": "top",
+      }
+    }
+    radius={12}
+    textColor={null}
+    visible={false}
+  >
+    234
+  </Badgestyles__BadgeCircle>
+</Badgestyles__Container>
+`;

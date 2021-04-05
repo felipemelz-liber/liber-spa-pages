@@ -1,0 +1,477 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for DateTimeSelection should render correctly with custom labels 1`] = `
+<Rangestyles__SelectionBody>
+  <Rangestyles__SelectionSlider
+    show="date"
+  >
+    <Rangestyles__SelectionDateContainer>
+      <MonthCalendar
+        date={null}
+        dayRenderer={[Function]}
+        defaultDate={null}
+        firstDayOfWeek={0}
+        innerRef={
+          Object {
+            "current": undefined,
+          }
+        }
+        minDate={null}
+        monthsLabels={
+          Array [
+            "Janeiro",
+            "Fevereiro",
+            "Março",
+            "Abril",
+            "Maio",
+            "Junho",
+            "Julho",
+            "Agosto",
+            "Setembro",
+            "Outubro",
+            "Novembro",
+            "Dezembro",
+          ]
+        }
+        navigation={
+          Array [
+            "prev",
+            "next",
+          ]
+        }
+        onClick={null}
+        onNavigate={[Function]}
+        onlyCurrent={false}
+        weekLabels={
+          Array [
+            "D",
+            "S",
+            "T",
+            "Q",
+            "Q",
+            "S",
+            "S",
+          ]
+        }
+      />
+    </Rangestyles__SelectionDateContainer>
+    <Rangestyles__SelectionTimeContainer
+      style={
+        Object {
+          "--clock-container-size": "65px",
+        }
+      }
+    >
+      <Clock
+        hour={null}
+        min={null}
+        onClick={[Function]}
+        sec={null}
+      />
+    </Rangestyles__SelectionTimeContainer>
+  </Rangestyles__SelectionSlider>
+  <Rangestyles__SelectionFooter>
+    <Buttons__Button
+      onClick={[Function]}
+      version={2}
+    >
+      Go to Time
+    </Buttons__Button>
+  </Rangestyles__SelectionFooter>
+</Rangestyles__SelectionBody>
+`;
+
+exports[`Test for DateTimeSelection should render correctly with show="date" 1`] = `
+<Rangestyles__SelectionBody>
+  <Rangestyles__SelectionSlider
+    show="date"
+  >
+    <Rangestyles__SelectionDateContainer>
+      <MonthCalendar
+        date={null}
+        dayRenderer={[Function]}
+        defaultDate={null}
+        firstDayOfWeek={0}
+        innerRef={
+          Object {
+            "current": undefined,
+          }
+        }
+        minDate={null}
+        monthsLabels={
+          Array [
+            "Janeiro",
+            "Fevereiro",
+            "Março",
+            "Abril",
+            "Maio",
+            "Junho",
+            "Julho",
+            "Agosto",
+            "Setembro",
+            "Outubro",
+            "Novembro",
+            "Dezembro",
+          ]
+        }
+        navigation={
+          Array [
+            "prev",
+            "next",
+          ]
+        }
+        onClick={null}
+        onNavigate={[Function]}
+        onlyCurrent={false}
+        weekLabels={
+          Array [
+            "D",
+            "S",
+            "T",
+            "Q",
+            "Q",
+            "S",
+            "S",
+          ]
+        }
+      />
+    </Rangestyles__SelectionDateContainer>
+    <Rangestyles__SelectionTimeContainer
+      style={
+        Object {
+          "--clock-container-size": "65px",
+        }
+      }
+    >
+      <Clock
+        hour={null}
+        min={null}
+        onClick={[Function]}
+        sec={null}
+      />
+    </Rangestyles__SelectionTimeContainer>
+  </Rangestyles__SelectionSlider>
+  <Rangestyles__SelectionFooter>
+    <Buttons__Button
+      onClick={[Function]}
+      version={2}
+    >
+      SELECIONAR HORÁRIO
+    </Buttons__Button>
+  </Rangestyles__SelectionFooter>
+</Rangestyles__SelectionBody>
+`;
+
+exports[`Test for DateTimeSelection should render correctly with show="other" 1`] = `
+<Rangestyles__SelectionBody>
+  <Rangestyles__SelectionSlider
+    show="other"
+  >
+    <Rangestyles__SelectionDateContainer>
+      <MonthCalendar
+        date={null}
+        dayRenderer={[Function]}
+        defaultDate={null}
+        firstDayOfWeek={0}
+        innerRef={
+          Object {
+            "current": undefined,
+          }
+        }
+        minDate={null}
+        monthsLabels={
+          Array [
+            "Janeiro",
+            "Fevereiro",
+            "Março",
+            "Abril",
+            "Maio",
+            "Junho",
+            "Julho",
+            "Agosto",
+            "Setembro",
+            "Outubro",
+            "Novembro",
+            "Dezembro",
+          ]
+        }
+        navigation={
+          Array [
+            "prev",
+            "next",
+          ]
+        }
+        onClick={null}
+        onNavigate={[Function]}
+        onlyCurrent={false}
+        weekLabels={
+          Array [
+            "D",
+            "S",
+            "T",
+            "Q",
+            "Q",
+            "S",
+            "S",
+          ]
+        }
+      />
+    </Rangestyles__SelectionDateContainer>
+    <Rangestyles__SelectionTimeContainer
+      style={
+        Object {
+          "--clock-container-size": "65px",
+        }
+      }
+    >
+      <Clock
+        hour={null}
+        min={null}
+        onClick={[Function]}
+        sec={null}
+      />
+    </Rangestyles__SelectionTimeContainer>
+  </Rangestyles__SelectionSlider>
+  <Rangestyles__SelectionFooter>
+    <Buttons__Button
+      onClick={[Function]}
+      version={2}
+    />
+  </Rangestyles__SelectionFooter>
+</Rangestyles__SelectionBody>
+`;
+
+exports[`Test for DateTimeSelection should render correctly with show="time" 1`] = `
+<Rangestyles__SelectionBody>
+  <Rangestyles__SelectionSlider
+    show="date"
+  >
+    <Rangestyles__SelectionDateContainer>
+      <MonthCalendar
+        date={null}
+        dayRenderer={[Function]}
+        defaultDate={null}
+        firstDayOfWeek={0}
+        innerRef={
+          Object {
+            "current": undefined,
+          }
+        }
+        minDate={null}
+        monthsLabels={
+          Array [
+            "Janeiro",
+            "Fevereiro",
+            "Março",
+            "Abril",
+            "Maio",
+            "Junho",
+            "Julho",
+            "Agosto",
+            "Setembro",
+            "Outubro",
+            "Novembro",
+            "Dezembro",
+          ]
+        }
+        navigation={
+          Array [
+            "prev",
+            "next",
+          ]
+        }
+        onClick={null}
+        onNavigate={[Function]}
+        onlyCurrent={false}
+        weekLabels={
+          Array [
+            "D",
+            "S",
+            "T",
+            "Q",
+            "Q",
+            "S",
+            "S",
+          ]
+        }
+      />
+    </Rangestyles__SelectionDateContainer>
+    <Rangestyles__SelectionTimeContainer
+      style={
+        Object {
+          "--clock-container-size": "65px",
+        }
+      }
+    >
+      <Clock
+        hour={null}
+        min={null}
+        onClick={[Function]}
+        sec={null}
+      />
+    </Rangestyles__SelectionTimeContainer>
+  </Rangestyles__SelectionSlider>
+  <Rangestyles__SelectionFooter>
+    <Buttons__Button
+      onClick={[Function]}
+      version={2}
+    >
+      SELECIONAR HORÁRIO
+    </Buttons__Button>
+  </Rangestyles__SelectionFooter>
+</Rangestyles__SelectionBody>
+`;
+
+exports[`Test for DateTimeSelection should render correctly without props 1`] = `
+<Rangestyles__SelectionBody>
+  <Rangestyles__SelectionSlider
+    show="date"
+  >
+    <Rangestyles__SelectionDateContainer>
+      <MonthCalendar
+        date={null}
+        dayRenderer={[Function]}
+        defaultDate={null}
+        firstDayOfWeek={0}
+        innerRef={
+          Object {
+            "current": undefined,
+          }
+        }
+        minDate={null}
+        monthsLabels={
+          Array [
+            "Janeiro",
+            "Fevereiro",
+            "Março",
+            "Abril",
+            "Maio",
+            "Junho",
+            "Julho",
+            "Agosto",
+            "Setembro",
+            "Outubro",
+            "Novembro",
+            "Dezembro",
+          ]
+        }
+        navigation={
+          Array [
+            "prev",
+            "next",
+          ]
+        }
+        onClick={null}
+        onNavigate={[Function]}
+        onlyCurrent={false}
+        weekLabels={
+          Array [
+            "D",
+            "S",
+            "T",
+            "Q",
+            "Q",
+            "S",
+            "S",
+          ]
+        }
+      />
+    </Rangestyles__SelectionDateContainer>
+    <Rangestyles__SelectionTimeContainer
+      style={
+        Object {
+          "--clock-container-size": "65px",
+        }
+      }
+    >
+      <Clock
+        hour={null}
+        min={null}
+        onClick={[Function]}
+        sec={null}
+      />
+    </Rangestyles__SelectionTimeContainer>
+  </Rangestyles__SelectionSlider>
+  <Rangestyles__SelectionFooter>
+    <Buttons__Button
+      onClick={[Function]}
+      version={2}
+    >
+      SELECIONAR HORÁRIO
+    </Buttons__Button>
+  </Rangestyles__SelectionFooter>
+</Rangestyles__SelectionBody>
+`;
+
+exports[`Test for DateTimeSelection should render correctly without time 1`] = `
+<Rangestyles__SelectionBody>
+  <Rangestyles__SelectionSlider
+    show="date"
+  >
+    <Rangestyles__SelectionDateContainer>
+      <MonthCalendar
+        date={null}
+        dayRenderer={[Function]}
+        defaultDate={null}
+        firstDayOfWeek={0}
+        innerRef={
+          Object {
+            "current": undefined,
+          }
+        }
+        minDate={null}
+        monthsLabels={
+          Array [
+            "Janeiro",
+            "Fevereiro",
+            "Março",
+            "Abril",
+            "Maio",
+            "Junho",
+            "Julho",
+            "Agosto",
+            "Setembro",
+            "Outubro",
+            "Novembro",
+            "Dezembro",
+          ]
+        }
+        navigation={
+          Array [
+            "prev",
+            "next",
+          ]
+        }
+        onClick={null}
+        onNavigate={[Function]}
+        onlyCurrent={false}
+        weekLabels={
+          Array [
+            "D",
+            "S",
+            "T",
+            "Q",
+            "Q",
+            "S",
+            "S",
+          ]
+        }
+      />
+    </Rangestyles__SelectionDateContainer>
+    <Rangestyles__SelectionTimeContainer
+      style={
+        Object {
+          "--clock-container-size": "65px",
+        }
+      }
+    >
+      <Clock
+        hour={null}
+        min={null}
+        onClick={[Function]}
+        sec={null}
+      />
+    </Rangestyles__SelectionTimeContainer>
+  </Rangestyles__SelectionSlider>
+</Rangestyles__SelectionBody>
+`;

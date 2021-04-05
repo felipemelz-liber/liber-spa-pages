@@ -1,0 +1,191 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing SimpleDropDown Styles Controled styles CurrentBox should renders correctly closed 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SimpleDropDownstyles__DropDownContent-pcw063-1",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;z-index:202;white-space:nowrap;min-width:100%;min-height:100%;max-width:",
+          [Function],
+          ";border-radius:4px;box-shadow:0 2px 4px 0 rgba(0,0,0,0.12);background-color:",
+          [Function],
+          ";;transition:all 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          [Function],
+          " ",
+          [Function],
+          " overflow:hidden;",
+        ],
+      },
+      "displayName": "SimpleDropDownstyles__DropDownContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SimpleDropDownstyles__DropDownContent-pcw063-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={false}
+/>
+`;
+
+exports[`Testing SimpleDropDown Styles Controled styles CurrentBox should renders correctly opened 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SimpleDropDownstyles__DropDownContent-pcw063-1",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;z-index:202;white-space:nowrap;min-width:100%;min-height:100%;max-width:",
+          [Function],
+          ";border-radius:4px;box-shadow:0 2px 4px 0 rgba(0,0,0,0.12);background-color:",
+          [Function],
+          ";;transition:all 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          [Function],
+          " ",
+          [Function],
+          " overflow:hidden;",
+        ],
+      },
+      "displayName": "SimpleDropDownstyles__DropDownContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SimpleDropDownstyles__DropDownContent-pcw063-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={true}
+/>
+`;
+
+exports[`Testing SimpleDropDown Styles Controled styles CurrentBox should renders correctly with a position 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SimpleDropDownstyles__DropDownContent-pcw063-1",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;z-index:202;white-space:nowrap;min-width:100%;min-height:100%;max-width:",
+          [Function],
+          ";border-radius:4px;box-shadow:0 2px 4px 0 rgba(0,0,0,0.12);background-color:",
+          [Function],
+          ";;transition:all 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          [Function],
+          " ",
+          [Function],
+          " overflow:hidden;",
+        ],
+      },
+      "displayName": "SimpleDropDownstyles__DropDownContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SimpleDropDownstyles__DropDownContent-pcw063-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  position="bottom-left"
+/>
+`;
+
+exports[`Testing SimpleDropDown Styles Controled styles CurrentBox should renders correctly with any position 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SimpleDropDownstyles__DropDownContent-pcw063-1",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;z-index:202;white-space:nowrap;min-width:100%;min-height:100%;max-width:",
+          [Function],
+          ";border-radius:4px;box-shadow:0 2px 4px 0 rgba(0,0,0,0.12);background-color:",
+          [Function],
+          ";;transition:all 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          [Function],
+          " ",
+          [Function],
+          " overflow:hidden;",
+        ],
+      },
+      "displayName": "SimpleDropDownstyles__DropDownContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SimpleDropDownstyles__DropDownContent-pcw063-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  position="position"
+/>
+`;
+
+exports[`Testing SimpleDropDown Styles Uncontroled Styles renders CurrentBox correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SimpleDropDownstyles__CurrentBox-pcw063-0",
+        "isStatic": false,
+        "rules": Array [
+          "font-weight:",
+          [Function],
+          ";line-height:22px;text-align:right;color:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";position:relative;box-sizing:border-box;padding-right:32px;cursor:default;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;&:after{content:\\"\\";position:absolute;top:calc(50% - 9px);right:0px;width:0px;height:0px;border-top:5px solid ",
+          [Function],
+          ";border-right:5px solid transparent;border-bottom:5px solid transparent;border-left:5px solid transparent;transform:scale(0.75);margin:7px;}",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    &:after {
+      transform: scale(1);
+    }
+  ",
+          "}",
+        ],
+      },
+      "displayName": "SimpleDropDownstyles__CurrentBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SimpleDropDownstyles__CurrentBox-pcw063-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

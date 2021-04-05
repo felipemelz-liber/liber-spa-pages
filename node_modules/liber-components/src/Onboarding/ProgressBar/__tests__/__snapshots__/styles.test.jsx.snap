@@ -1,0 +1,959 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for ActionButton Styles Labels should render LabelLower correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__LabelLower-sc-1tesida-3",
+        "isStatic": false,
+        "rules": Array [
+          "font-size:22px;font-weight:bold;color:",
+          [Function],
+          ";margin:0;",
+          "margin-top:20px;display:none;@media (max-width:",
+          "992px",
+          "){display:block;}",
+        ],
+      },
+      "displayName": "styles__LabelLower",
+      "foldedComponentIds": Array [
+        "styles__Label-sc-1tesida-1",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__LabelLower-sc-1tesida-3",
+      "target": "h4",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "progressBar": Object {
+        "background": "#aaa",
+        "label": "#bbb",
+        "step": Object {
+          "active": "#ccc",
+          "complete": "#ddd",
+          "inactive": "#eee",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles Labels should render LabelLower correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__LabelLower-sc-1tesida-3",
+        "isStatic": false,
+        "rules": Array [
+          "font-size:22px;font-weight:bold;color:",
+          [Function],
+          ";margin:0;",
+          "margin-top:20px;display:none;@media (max-width:",
+          "992px",
+          "){display:block;}",
+        ],
+      },
+      "displayName": "styles__LabelLower",
+      "foldedComponentIds": Array [
+        "styles__Label-sc-1tesida-1",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__LabelLower-sc-1tesida-3",
+      "target": "h4",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles Labels should render LabelUpper correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__LabelUpper-sc-1tesida-2",
+        "isStatic": false,
+        "rules": Array [
+          "font-size:22px;font-weight:bold;color:",
+          [Function],
+          ";margin:0;",
+          "@media (max-width:",
+          "992px",
+          "){display:none;}",
+        ],
+      },
+      "displayName": "styles__LabelUpper",
+      "foldedComponentIds": Array [
+        "styles__Label-sc-1tesida-1",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__LabelUpper-sc-1tesida-2",
+      "target": "h4",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "progressBar": Object {
+        "background": "#aaa",
+        "label": "#bbb",
+        "step": Object {
+          "active": "#ccc",
+          "complete": "#ddd",
+          "inactive": "#eee",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles Labels should render LabelUpper correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__LabelUpper-sc-1tesida-2",
+        "isStatic": false,
+        "rules": Array [
+          "font-size:22px;font-weight:bold;color:",
+          [Function],
+          ";margin:0;",
+          "@media (max-width:",
+          "992px",
+          "){display:none;}",
+        ],
+      },
+      "displayName": "styles__LabelUpper",
+      "foldedComponentIds": Array [
+        "styles__Label-sc-1tesida-1",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__LabelUpper-sc-1tesida-2",
+      "target": "h4",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles Progress should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Progress-sc-1tesida-0",
+        "isStatic": false,
+        "rules": Array [
+          "background-color:",
+          [Function],
+          ";padding-top:22px;padding-bottom:22px;",
+        ],
+      },
+      "displayName": "styles__Progress",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Progress-sc-1tesida-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "progressBar": Object {
+        "background": "#aaa",
+        "label": "#bbb",
+        "step": Object {
+          "active": "#ccc",
+          "complete": "#ddd",
+          "inactive": "#eee",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles Progress should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Progress-sc-1tesida-0",
+        "isStatic": false,
+        "rules": Array [
+          "background-color:",
+          [Function],
+          ";padding-top:22px;padding-bottom:22px;",
+        ],
+      },
+      "displayName": "styles__Progress",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Progress-sc-1tesida-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles StepConnect should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__StepConnect-sc-1tesida-9",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;z-index:1;display:block;background:",
+          [Function],
+          ";height:4px;width:calc(100% - 25px);top:13px;left:13px;margin-left:-50%;",
+        ],
+      },
+      "displayName": "styles__StepConnect",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__StepConnect-sc-1tesida-9",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "progressBar": Object {
+        "background": "#aaa",
+        "label": "#bbb",
+        "step": Object {
+          "active": "#ccc",
+          "complete": "#ddd",
+          "inactive": "#eee",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles StepConnect should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__StepConnect-sc-1tesida-9",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;z-index:1;display:block;background:",
+          [Function],
+          ";height:4px;width:calc(100% - 25px);top:13px;left:13px;margin-left:-50%;",
+        ],
+      },
+      "displayName": "styles__StepConnect",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__StepConnect-sc-1tesida-9",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles StepConnect should render with active prop 1`] = `
+<StyledComponent
+  active={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__StepConnect-sc-1tesida-9",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;z-index:1;display:block;background:",
+          [Function],
+          ";height:4px;width:calc(100% - 25px);top:13px;left:13px;margin-left:-50%;",
+        ],
+      },
+      "displayName": "styles__StepConnect",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__StepConnect-sc-1tesida-9",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles StepConnect should render with active prop and theme 1`] = `
+<StyledComponent
+  active={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__StepConnect-sc-1tesida-9",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;z-index:1;display:block;background:",
+          [Function],
+          ";height:4px;width:calc(100% - 25px);top:13px;left:13px;margin-left:-50%;",
+        ],
+      },
+      "displayName": "styles__StepConnect",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__StepConnect-sc-1tesida-9",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "progressBar": Object {
+        "background": "#aaa",
+        "label": "#bbb",
+        "step": Object {
+          "active": "#ccc",
+          "complete": "#ddd",
+          "inactive": "#eee",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles StepConnect should render with complete prop 1`] = `
+<StyledComponent
+  complete={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__StepConnect-sc-1tesida-9",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;z-index:1;display:block;background:",
+          [Function],
+          ";height:4px;width:calc(100% - 25px);top:13px;left:13px;margin-left:-50%;",
+        ],
+      },
+      "displayName": "styles__StepConnect",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__StepConnect-sc-1tesida-9",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles StepConnect should render with complete prop and theme 1`] = `
+<StyledComponent
+  complete={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__StepConnect-sc-1tesida-9",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;z-index:1;display:block;background:",
+          [Function],
+          ";height:4px;width:calc(100% - 25px);top:13px;left:13px;margin-left:-50%;",
+        ],
+      },
+      "displayName": "styles__StepConnect",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__StepConnect-sc-1tesida-9",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "progressBar": Object {
+        "background": "#aaa",
+        "label": "#bbb",
+        "step": Object {
+          "active": "#ccc",
+          "complete": "#ddd",
+          "inactive": "#eee",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles StepContainer should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__StepContainer-sc-1tesida-5",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;display:inline-block;color:",
+          [Function],
+          ";width:auto;flex:1;",
+        ],
+      },
+      "displayName": "styles__StepContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__StepContainer-sc-1tesida-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "progressBar": Object {
+        "background": "#aaa",
+        "label": "#bbb",
+        "step": Object {
+          "active": "#ccc",
+          "complete": "#ddd",
+          "inactive": "#eee",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles StepContainer should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__StepContainer-sc-1tesida-5",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;display:inline-block;color:",
+          [Function],
+          ";width:auto;flex:1;",
+        ],
+      },
+      "displayName": "styles__StepContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__StepContainer-sc-1tesida-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles StepContainer should render with active prop 1`] = `
+<StyledComponent
+  active={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__StepContainer-sc-1tesida-5",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;display:inline-block;color:",
+          [Function],
+          ";width:auto;flex:1;",
+        ],
+      },
+      "displayName": "styles__StepContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__StepContainer-sc-1tesida-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles StepContainer should render with active prop and theme 1`] = `
+<StyledComponent
+  active={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__StepContainer-sc-1tesida-5",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;display:inline-block;color:",
+          [Function],
+          ";width:auto;flex:1;",
+        ],
+      },
+      "displayName": "styles__StepContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__StepContainer-sc-1tesida-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "progressBar": Object {
+        "background": "#aaa",
+        "label": "#bbb",
+        "step": Object {
+          "active": "#ccc",
+          "complete": "#ddd",
+          "inactive": "#eee",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles StepContainer should render with complete prop 1`] = `
+<StyledComponent
+  complete={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__StepContainer-sc-1tesida-5",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;display:inline-block;color:",
+          [Function],
+          ";width:auto;flex:1;",
+        ],
+      },
+      "displayName": "styles__StepContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__StepContainer-sc-1tesida-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles StepContainer should render with complete prop and theme 1`] = `
+<StyledComponent
+  complete={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__StepContainer-sc-1tesida-5",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;display:inline-block;color:",
+          [Function],
+          ";width:auto;flex:1;",
+        ],
+      },
+      "displayName": "styles__StepContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__StepContainer-sc-1tesida-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "progressBar": Object {
+        "background": "#aaa",
+        "label": "#bbb",
+        "step": Object {
+          "active": "#ccc",
+          "complete": "#ddd",
+          "inactive": "#eee",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles StepIcon should render clickable 1`] = `
+<StyledComponent
+  clickable={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__StepIcon-sc-1tesida-7",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;display:block;z-index:2;width:25px;height:25px;border-radius:50%;text-align:center;margin:0 auto;overflow:hidden;box-sizing:initial !important;user-select:none;",
+          [Function],
+          "border:solid 3px ",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";display:flex;align-items:center;justify-content:center;",
+        ],
+      },
+      "displayName": "styles__StepIcon",
+      "foldedComponentIds": Array [
+        "styles__StepCell-sc-1tesida-6",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__StepIcon-sc-1tesida-7",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles StepIcon should render with active prop 1`] = `
+<StyledComponent
+  active={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__StepIcon-sc-1tesida-7",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;display:block;z-index:2;width:25px;height:25px;border-radius:50%;text-align:center;margin:0 auto;overflow:hidden;box-sizing:initial !important;user-select:none;",
+          [Function],
+          "border:solid 3px ",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";display:flex;align-items:center;justify-content:center;",
+        ],
+      },
+      "displayName": "styles__StepIcon",
+      "foldedComponentIds": Array [
+        "styles__StepCell-sc-1tesida-6",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__StepIcon-sc-1tesida-7",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles StepIcon should render with active prop and theme 1`] = `
+<StyledComponent
+  active={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__StepIcon-sc-1tesida-7",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;display:block;z-index:2;width:25px;height:25px;border-radius:50%;text-align:center;margin:0 auto;overflow:hidden;box-sizing:initial !important;user-select:none;",
+          [Function],
+          "border:solid 3px ",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";display:flex;align-items:center;justify-content:center;",
+        ],
+      },
+      "displayName": "styles__StepIcon",
+      "foldedComponentIds": Array [
+        "styles__StepCell-sc-1tesida-6",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__StepIcon-sc-1tesida-7",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "progressBar": Object {
+        "background": "#aaa",
+        "label": "#bbb",
+        "step": Object {
+          "active": "#ccc",
+          "complete": "#ddd",
+          "inactive": "#eee",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles StepIcon should render with complete prop 1`] = `
+<StyledComponent
+  complete={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__StepIcon-sc-1tesida-7",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;display:block;z-index:2;width:25px;height:25px;border-radius:50%;text-align:center;margin:0 auto;overflow:hidden;box-sizing:initial !important;user-select:none;",
+          [Function],
+          "border:solid 3px ",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";display:flex;align-items:center;justify-content:center;",
+        ],
+      },
+      "displayName": "styles__StepIcon",
+      "foldedComponentIds": Array [
+        "styles__StepCell-sc-1tesida-6",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__StepIcon-sc-1tesida-7",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles StepIcon should render with complete prop and theme 1`] = `
+<StyledComponent
+  complete={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__StepIcon-sc-1tesida-7",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;display:block;z-index:2;width:25px;height:25px;border-radius:50%;text-align:center;margin:0 auto;overflow:hidden;box-sizing:initial !important;user-select:none;",
+          [Function],
+          "border:solid 3px ",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";display:flex;align-items:center;justify-content:center;",
+        ],
+      },
+      "displayName": "styles__StepIcon",
+      "foldedComponentIds": Array [
+        "styles__StepCell-sc-1tesida-6",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__StepIcon-sc-1tesida-7",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "progressBar": Object {
+        "background": "#aaa",
+        "label": "#bbb",
+        "step": Object {
+          "active": "#ccc",
+          "complete": "#ddd",
+          "inactive": "#eee",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles should render StepCheck correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__StepCheck-sc-1tesida-8",
+        "isStatic": false,
+        "rules": Array [
+          "width:15px;height:15px;fill:white;",
+        ],
+      },
+      "displayName": "styles__StepCheck",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__StepCheck-sc-1tesida-8",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles should render StepLabel correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__StepLabel-sc-1tesida-10",
+        "isStatic": false,
+        "rules": Array [
+          "margin-top:10px;text-align:center;@media (max-width:",
+          "992px",
+          "){display:none;}",
+        ],
+      },
+      "displayName": "styles__StepLabel",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__StepLabel-sc-1tesida-10",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles should render Steps correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Steps-sc-1tesida-4",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;flex-direction:row;@media (min-width:",
+          "992px",
+          "){margin-top:30px;}",
+        ],
+      },
+      "displayName": "styles__Steps",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Steps-sc-1tesida-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

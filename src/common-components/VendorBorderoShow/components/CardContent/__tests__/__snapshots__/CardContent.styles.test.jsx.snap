@@ -1,0 +1,490 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardContent styled components test should render Caption correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-gzVnrw",
+        "isStatic": false,
+        "rules": Array [
+          "
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: 0.05px;
+  color: #6287a7;
+  margin: 0px 16px;
+",
+        ],
+      },
+      "displayName": "styled.div",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-gzVnrw",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`CardContent styled components test should render FieldContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-EHOje",
+        "isStatic": false,
+        "rules": Array [
+          "
+  height: 46px;
+
+  ",
+          [Function],
+          "
+",
+        ],
+      },
+      "displayName": "styled.div",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-EHOje",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`CardContent styled components test should render FieldLabel correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-htpNat",
+        "isStatic": false,
+        "rules": Array [
+          "
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.4;
+  letter-spacing: 0.06px;
+  text-align: left;
+  color: #405f71;
+",
+        ],
+      },
+      "displayName": "styled.div",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-htpNat",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`CardContent styled components test should render FieldValue correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bxivhb",
+        "isStatic": false,
+        "rules": Array [
+          "
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.84;
+  letter-spacing: 0.06px;
+  text-align: left;
+  color: #6287a7;
+",
+        ],
+      },
+      "displayName": "styled.div",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-bxivhb",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`CardContent styled components test should render FlatButton correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-ifAKCX",
+        "isStatic": false,
+        "rules": Array [
+          "
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: 0.02px;
+  text-align: right;
+  color: ",
+          [Function],
+          ";
+
+  & > svg {
+    fill: ",
+          [Function],
+          ";
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+  }
+
+  ",
+          [Function],
+          "
+
+  ",
+          [Function],
+          "
+",
+        ],
+      },
+      "displayName": "Styled(Buttons__Button)",
+      "foldedComponentIds": Array [
+        "Buttons__Button-u35aut-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "sc-ifAKCX",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`CardContent styled components test should render FlatButton with blue property correctly 1`] = `
+<StyledComponent
+  blue={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-ifAKCX",
+        "isStatic": false,
+        "rules": Array [
+          "
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: 0.02px;
+  text-align: right;
+  color: ",
+          [Function],
+          ";
+
+  & > svg {
+    fill: ",
+          [Function],
+          ";
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+  }
+
+  ",
+          [Function],
+          "
+
+  ",
+          [Function],
+          "
+",
+        ],
+      },
+      "displayName": "Styled(Buttons__Button)",
+      "foldedComponentIds": Array [
+        "Buttons__Button-u35aut-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "sc-ifAKCX",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`CardContent styled components test should render Row correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bdVaJa",
+        "isStatic": false,
+        "rules": Array [
+          "
+  width: 100%;
+  display: flex;
+  align-items: center;
+
+  ",
+          [Function],
+          "
+
+  ",
+          [Function],
+          "
+",
+        ],
+      },
+      "displayName": "styled.div",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-bdVaJa",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`CardContent styled components test should render StatusIcon correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bZQynM",
+        "isStatic": false,
+        "rules": Array [
+          "
+  width: 16px;
+  height: 16px;
+  margin-right: 8px;
+  margin-bottom: 2px;
+  fill: ",
+          [Function],
+          ";
+",
+        ],
+      },
+      "displayName": "Styled(Icon)",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "className": [Function],
+        "color": [Function],
+        "horizontal": [Function],
+        "inStack": [Function],
+        "path": [Function],
+        "rotate": [Function],
+        "size": [Function],
+        "spin": [Function],
+        "style": [Function],
+        "vertical": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "sc-bZQynM",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "color": "currentColor",
+          "horizontal": false,
+          "rotate": 0,
+          "size": null,
+          "spin": false,
+          "vertical": false,
+        },
+        "displayName": "Icon",
+        "propTypes": Object {
+          "className": [Function],
+          "color": [Function],
+          "horizontal": [Function],
+          "inStack": [Function],
+          "path": [Function],
+          "rotate": [Function],
+          "size": [Function],
+          "spin": [Function],
+          "style": [Function],
+          "vertical": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`CardContent styled components test should render StatusIcon with custom color correctly 1`] = `
+<StyledComponent
+  color="#009dff"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bZQynM",
+        "isStatic": false,
+        "rules": Array [
+          "
+  width: 16px;
+  height: 16px;
+  margin-right: 8px;
+  margin-bottom: 2px;
+  fill: ",
+          [Function],
+          ";
+",
+        ],
+      },
+      "displayName": "Styled(Icon)",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "className": [Function],
+        "color": [Function],
+        "horizontal": [Function],
+        "inStack": [Function],
+        "path": [Function],
+        "rotate": [Function],
+        "size": [Function],
+        "spin": [Function],
+        "style": [Function],
+        "vertical": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "sc-bZQynM",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "color": "currentColor",
+          "horizontal": false,
+          "rotate": 0,
+          "size": null,
+          "spin": false,
+          "vertical": false,
+        },
+        "displayName": "Icon",
+        "propTypes": Object {
+          "className": [Function],
+          "color": [Function],
+          "horizontal": [Function],
+          "inStack": [Function],
+          "path": [Function],
+          "rotate": [Function],
+          "size": [Function],
+          "spin": [Function],
+          "style": [Function],
+          "vertical": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`CardContent styled components test should render Title correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bwzfXH",
+        "isStatic": false,
+        "rules": Array [
+          "
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.4;
+  letter-spacing: 0.08px;
+  text-align: left;
+  color: #4b6f85;
+",
+        ],
+      },
+      "displayName": "styled.div",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-bwzfXH",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

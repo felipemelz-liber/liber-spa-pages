@@ -1,0 +1,312 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Accordion Styles Imuttable styles Button should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Accordionstyles__Button-sc-1fszrx7-1",
+        "isStatic": false,
+        "rules": Array [
+          "display:block;border:0px;background-color:#fafafa;cursor:pointer;padding:5px 42px 5px 8px;width:100%;text-align:left;font-family:Roboto;font-size:14px;height:30px;transition:all 250ms cubic-bezier(0.23,1,0.32,1) 0ms;display:flex;align-items:center;justify-content:space-between;color:var(--black);white-space:nowrap;overflow:hidden;& > *{pointer-events:none;}&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:after{content:'';transition:all 250ms cubic-bezier(0.23,1,0.32,1) 0ms;position:absolute;border-left:6px solid transparent;border-top:6px solid var(--color);border-right:6px solid transparent;top:calc(15px - 3px);right:16px;transform:",
+          [Function],
+          ";}&:hover{background-color:#f0f0f0;}&:hover:after{border-top:6px solid #a4a4a4;}& > span:first-child{max-width:40%;overflow:hidden;text-overflow:ellipsis;}",
+        ],
+      },
+      "displayName": "Accordionstyles__Button",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Accordionstyles__Button-sc-1fszrx7-1",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Accordion Styles Imuttable styles ContentItem should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "Accordionstyles__ContentItem-sc-1fszrx7-4",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;max-height:32px;min-height:32px;padding:4px 16px;box-sizing:border-box;display:flex;justify-content:space-between;align-items:center;cursor:var(--pointer);",
+        ],
+      },
+      "displayName": "Accordionstyles__ContentItem",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Accordionstyles__ContentItem-sc-1fszrx7-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Accordion Styles Muttable styles Accordion should render correctly with children 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Accordionstyles__Accordion-sc-1fszrx7-3",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;z-index:500;",
+        ],
+      },
+      "displayName": "Accordionstyles__Accordion",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Accordionstyles__Accordion-sc-1fszrx7-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  1
+  2
+  3
+</StyledComponent>
+`;
+
+exports[`Testing Accordion Styles Muttable styles Accordion should render correctly with children and grow=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Accordionstyles__Accordion-sc-1fszrx7-3",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;z-index:500;",
+        ],
+      },
+      "displayName": "Accordionstyles__Accordion",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Accordionstyles__Accordion-sc-1fszrx7-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  grow={true}
+>
+  1
+  2
+  3
+</StyledComponent>
+`;
+
+exports[`Testing Accordion Styles Muttable styles Accordion should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Accordionstyles__Accordion-sc-1fszrx7-3",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;z-index:500;",
+        ],
+      },
+      "displayName": "Accordionstyles__Accordion",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Accordionstyles__Accordion-sc-1fszrx7-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Accordion Styles Muttable styles Content should render correctly with children 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "Accordionstyles__Content-sc-1fszrx7-0",
+        "isStatic": false,
+        "rules": Array [
+          "overflow:hidden;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;display:flex;flex-direction:column;",
+          [Function],
+          " opacity:",
+          [Function],
+          ";background-color:transparent;",
+        ],
+      },
+      "displayName": "Accordionstyles__Content",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Accordionstyles__Content-sc-1fszrx7-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  1
+  2
+  3
+</StyledComponent>
+`;
+
+exports[`Testing Accordion Styles Muttable styles Content should render correctly with children and opened 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "Accordionstyles__Content-sc-1fszrx7-0",
+        "isStatic": false,
+        "rules": Array [
+          "overflow:hidden;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;display:flex;flex-direction:column;",
+          [Function],
+          " opacity:",
+          [Function],
+          ";background-color:transparent;",
+        ],
+      },
+      "displayName": "Accordionstyles__Content",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Accordionstyles__Content-sc-1fszrx7-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={true}
+>
+  1
+  2
+  3
+</StyledComponent>
+`;
+
+exports[`Testing Accordion Styles Muttable styles Content should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "Accordionstyles__Content-sc-1fszrx7-0",
+        "isStatic": false,
+        "rules": Array [
+          "overflow:hidden;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;display:flex;flex-direction:column;",
+          [Function],
+          " opacity:",
+          [Function],
+          ";background-color:transparent;",
+        ],
+      },
+      "displayName": "Accordionstyles__Content",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Accordionstyles__Content-sc-1fszrx7-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Accordion Styles Muttable styles Item should render correctly witho open=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Accordionstyles__Item-sc-1fszrx7-2",
+        "isStatic": false,
+        "rules": Array [
+          "--color:#c0c0c0;position:relative;display:flex;flex-direction:column-reverse;",
+        ],
+      },
+      "displayName": "Accordionstyles__Item",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Accordionstyles__Item-sc-1fszrx7-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={true}
+/>
+`;
+
+exports[`Testing Accordion Styles Muttable styles Item should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Accordionstyles__Item-sc-1fszrx7-2",
+        "isStatic": false,
+        "rules": Array [
+          "--color:#c0c0c0;position:relative;display:flex;flex-direction:column-reverse;",
+        ],
+      },
+      "displayName": "Accordionstyles__Item",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Accordionstyles__Item-sc-1fszrx7-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

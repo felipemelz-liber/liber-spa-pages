@@ -1,0 +1,256 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Toast Component should render correctly with content 1`] = `
+<Animate
+  customWidth={null}
+  onExited={[Function]}
+  show={true}
+>
+  <Toaststyles__Card
+    customWidth={null}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    <Toaststyles__BaseToast>
+      <Toaststyles__Content>
+        <Toaststyles__Message>
+          mock
+          <span>
+            Lorem ipsum dolor sit amet,
+    consectetur adipiscing elit. Donec fringilla arcu ante,
+     a bibendum eros maximus vitae. Vestibulum aliquam mollis tempus.
+     Donec nibh augue, mattis eu nunc id, iaculis tempus justo.
+     Donec sagittis tortor iaculis turpis luctus,
+     sed condimentum nunc hendrerit.
+     Praesent ac tellus a arcu vulputate pharetra.
+          </span>
+        </Toaststyles__Message>
+      </Toaststyles__Content>
+    </Toaststyles__BaseToast>
+    <Toaststyles__CloseIcon
+      onClick={[Function]}
+    />
+  </Toaststyles__Card>
+</Animate>
+`;
+
+exports[`Testing Toast Component should render correctly with info 1`] = `
+<Animate
+  customWidth={null}
+  onExited={[Function]}
+  show={true}
+>
+  <Toaststyles__Card
+    customWidth={null}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    <Toaststyles__BaseToast>
+      <Toaststyles__Content>
+        <Toaststyles__Message>
+          mock
+          <span>
+            Information
+          </span>
+        </Toaststyles__Message>
+      </Toaststyles__Content>
+    </Toaststyles__BaseToast>
+    <Toaststyles__CloseIcon
+      onClick={[Function]}
+    />
+  </Toaststyles__Card>
+</Animate>
+`;
+
+exports[`Testing Toast Component should render correctly without type 1`] = `
+<Animate
+  customWidth={null}
+  onExited={[Function]}
+  show={true}
+>
+  <Toaststyles__Card
+    customWidth={null}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    <Toaststyles__BaseToast>
+      <Toaststyles__Content>
+        <Toaststyles__Message>
+          mock
+        </Toaststyles__Message>
+      </Toaststyles__Content>
+    </Toaststyles__BaseToast>
+    <Toaststyles__CloseIcon
+      onClick={[Function]}
+    />
+  </Toaststyles__Card>
+</Animate>
+`;
+
+exports[`Testing Toast Component should render correctly without type=alert 1`] = `
+<Animate
+  customWidth={null}
+  onExited={[Function]}
+  show={true}
+>
+  <Toaststyles__Card
+    customWidth={null}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    <Toaststyles__Warning>
+      <Toaststyles__Content>
+        <Toaststyles__IconBox>
+          <Toaststyles__WarningIcon />
+        </Toaststyles__IconBox>
+        <Toaststyles__Message>
+          mock
+        </Toaststyles__Message>
+      </Toaststyles__Content>
+    </Toaststyles__Warning>
+    <Toaststyles__CloseIcon
+      onClick={[Function]}
+    />
+  </Toaststyles__Card>
+</Animate>
+`;
+
+exports[`Testing Toast Component should render correctly without type=error 1`] = `
+<Animate
+  customWidth={null}
+  onExited={[Function]}
+  show={true}
+>
+  <Toaststyles__Card
+    customWidth={null}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    <Toaststyles__Error>
+      <Toaststyles__Content>
+        <Toaststyles__IconBox>
+          <Toaststyles__ErroIcon />
+        </Toaststyles__IconBox>
+        <Toaststyles__Message>
+          mock
+        </Toaststyles__Message>
+      </Toaststyles__Content>
+    </Toaststyles__Error>
+    <Toaststyles__CloseIcon
+      onClick={[Function]}
+    />
+  </Toaststyles__Card>
+</Animate>
+`;
+
+exports[`Testing Toast Component should render correctly without type=info 1`] = `
+<Animate
+  customWidth={null}
+  onExited={[Function]}
+  show={true}
+>
+  <Toaststyles__Card
+    customWidth={null}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    <Toaststyles__Info>
+      <Toaststyles__Content>
+        <Toaststyles__IconBox>
+          <Toaststyles__InfoIcon />
+        </Toaststyles__IconBox>
+        <Toaststyles__Message>
+          mock
+        </Toaststyles__Message>
+      </Toaststyles__Content>
+    </Toaststyles__Info>
+    <Toaststyles__CloseIcon
+      onClick={[Function]}
+    />
+  </Toaststyles__Card>
+</Animate>
+`;
+
+exports[`Testing Toast Component should render correctly without type=notice 1`] = `
+<Animate
+  customWidth={null}
+  onExited={[Function]}
+  show={true}
+>
+  <Toaststyles__Card
+    customWidth={null}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    <Toaststyles__Info>
+      <Toaststyles__Content>
+        <Toaststyles__IconBox>
+          <Toaststyles__InfoIcon />
+        </Toaststyles__IconBox>
+        <Toaststyles__Message>
+          mock
+        </Toaststyles__Message>
+      </Toaststyles__Content>
+    </Toaststyles__Info>
+    <Toaststyles__CloseIcon
+      onClick={[Function]}
+    />
+  </Toaststyles__Card>
+</Animate>
+`;
+
+exports[`Testing Toast Component should render correctly without type=success 1`] = `
+<Animate
+  customWidth={null}
+  onExited={[Function]}
+  show={true}
+>
+  <Toaststyles__Card
+    customWidth={null}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    <Toaststyles__Success>
+      <Toaststyles__Content>
+        <Toaststyles__IconBox>
+          <Toaststyles__SuccessIcon />
+        </Toaststyles__IconBox>
+        <Toaststyles__Message>
+          mock
+        </Toaststyles__Message>
+      </Toaststyles__Content>
+    </Toaststyles__Success>
+    <Toaststyles__CloseIcon
+      onClick={[Function]}
+    />
+  </Toaststyles__Card>
+</Animate>
+`;
+
+exports[`Testing Toast Component should render correctly without type=warning 1`] = `
+<Animate
+  customWidth={null}
+  onExited={[Function]}
+  show={true}
+>
+  <Toaststyles__Card
+    customWidth={null}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    <Toaststyles__Warning>
+      <Toaststyles__Content>
+        <Toaststyles__IconBox>
+          <Toaststyles__WarningIcon />
+        </Toaststyles__IconBox>
+        <Toaststyles__Message>
+          mock
+        </Toaststyles__Message>
+      </Toaststyles__Content>
+    </Toaststyles__Warning>
+    <Toaststyles__CloseIcon
+      onClick={[Function]}
+    />
+  </Toaststyles__Card>
+</Animate>
+`;

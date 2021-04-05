@@ -1,0 +1,606 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VendorBorderoShow component tests should render correctly with Concluída status 1`] = `
+<Fragment>
+  <styled.div>
+    <styled.div>
+      <Connect(HideFromAdmin)>
+        <Icon
+          color="currentColor"
+          horizontal={false}
+          onClick={[Function]}
+          path="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z"
+          rotate={0}
+          size={null}
+          spin={false}
+          vertical={false}
+        />
+      </Connect(HideFromAdmin)>
+      <styled.span>
+        Antecipação
+      </styled.span>
+      <styled.div
+        justify="space-between"
+      >
+        <StatusLabel
+          color=""
+          status="positive"
+        >
+          Concluída
+        </StatusLabel>
+      </styled.div>
+    </styled.div>
+    <ExpansibleCard
+      buttonText={
+        Object {
+          "closed": "Mostrar Confirmação e Pagamento",
+          "open": "Ocultar Confirmação e Pagamento",
+        }
+      }
+      collapsedHeight={264}
+      isAdmin={false}
+      showButton={true}
+    >
+      <Connect(CardContent) />
+    </ExpansibleCard>
+    <styled.div
+      height={40}
+    />
+    <CompleteTable
+      actions={null}
+      allChecked={false}
+      borderBottom={false}
+      columns={
+        Array [
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": <React.Fragment>
+                 Status
+            </React.Fragment>,
+            "name": "status",
+            "width": 17,
+          },
+          Object {
+            "align": "right",
+            "label": "Número",
+            "name": "number",
+            "width": 15,
+          },
+          Object {
+            "align": "right",
+            "getCellValue": [Function],
+            "label": "Valor Antecipado (R$)",
+            "name": "netValue",
+            "width": 16,
+          },
+          Object {
+            "align": "right",
+            "label": "CNPJ",
+            "name": "vendorCnpj",
+            "width": 15,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Investidor",
+            "name": "funder",
+            "width": 14,
+          },
+          Object {
+            "align": "center",
+            "getCellValue": [Function],
+            "label": "Ações",
+            "name": "detailsPath",
+            "width": 7,
+          },
+        ]
+      }
+      emptyState={<Empty />}
+      filterBorderTop={true}
+      filters={
+        <Memo(Connect(BorderoInvoicesFilters))
+          isAdmin={false}
+        />
+      }
+      headerBorderTop={true}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      items={Array []}
+      onSelect={[Function]}
+      onSelectAll={null}
+      paginationProps={
+        Object {
+          "currentPage": "1",
+          "hasListing": true,
+          "listingProps": Object {
+            "listing": "10",
+            "onSelectListing": [Function],
+            "showInterval": Object {
+              "end": "0",
+              "start": "1",
+            },
+            "total": "0",
+          },
+          "onChangePage": [Function],
+          "onClickNext": [Function],
+          "onClickPrev": [Function],
+          "onKeyDownPage": [Function],
+          "pageTotal": "1",
+        }
+      }
+      selectionControl={null}
+      sortingProps={
+        Object {
+          "onSort": [Function],
+          "sortedColumns": false,
+          "sorting": Array [],
+        }
+      }
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <Connect(InvoiceDialog)
+      invoiceId={null}
+      isAdmin={false}
+      onClose={[Function]}
+      open={false}
+      token=""
+      vendorId={null}
+    />
+  </styled.div>
+  <CancellationDialog
+    onClose={[Function]}
+    onConfirm={[Function]}
+    open={false}
+  />
+</Fragment>
+`;
+
+exports[`VendorBorderoShow component tests should render correctly with Realizando Pagamento status 1`] = `
+<Fragment>
+  <styled.div>
+    <styled.div>
+      <Connect(HideFromAdmin)>
+        <Icon
+          color="currentColor"
+          horizontal={false}
+          onClick={[Function]}
+          path="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z"
+          rotate={0}
+          size={null}
+          spin={false}
+          vertical={false}
+        />
+      </Connect(HideFromAdmin)>
+      <styled.span>
+        Antecipação
+      </styled.span>
+      <styled.div
+        justify="space-between"
+      >
+        <StatusLabel
+          color=""
+          status="neutral"
+        >
+          Realizando Pagamento
+        </StatusLabel>
+      </styled.div>
+    </styled.div>
+    <ExpansibleCard
+      buttonText={
+        Object {
+          "closed": "Mostrar Confirmação e Pagamento",
+          "open": "Ocultar Confirmação e Pagamento",
+        }
+      }
+      collapsedHeight={264}
+      isAdmin={false}
+      showButton={true}
+    >
+      <Connect(CardContent) />
+    </ExpansibleCard>
+    <styled.div
+      height={40}
+    />
+    <CompleteTable
+      actions={null}
+      allChecked={false}
+      borderBottom={false}
+      columns={
+        Array [
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": <React.Fragment>
+                 Status
+            </React.Fragment>,
+            "name": "status",
+            "width": 17,
+          },
+          Object {
+            "align": "right",
+            "label": "Número",
+            "name": "number",
+            "width": 15,
+          },
+          Object {
+            "align": "right",
+            "getCellValue": [Function],
+            "label": "Valor Solicitado (R$)",
+            "name": "netValue",
+            "width": 16,
+          },
+          Object {
+            "align": "right",
+            "label": "CNPJ",
+            "name": "vendorCnpj",
+            "width": 15,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Investidor",
+            "name": "funder",
+            "width": 14,
+          },
+          Object {
+            "align": "center",
+            "getCellValue": [Function],
+            "label": "Ações",
+            "name": "detailsPath",
+            "width": 7,
+          },
+        ]
+      }
+      emptyState={<Empty />}
+      filterBorderTop={true}
+      filters={
+        <Memo(Connect(BorderoInvoicesFilters))
+          isAdmin={false}
+        />
+      }
+      headerBorderTop={true}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      items={Array []}
+      onSelect={[Function]}
+      onSelectAll={null}
+      paginationProps={
+        Object {
+          "currentPage": "1",
+          "hasListing": true,
+          "listingProps": Object {
+            "listing": "10",
+            "onSelectListing": [Function],
+            "showInterval": Object {
+              "end": "0",
+              "start": "1",
+            },
+            "total": "0",
+          },
+          "onChangePage": [Function],
+          "onClickNext": [Function],
+          "onClickPrev": [Function],
+          "onKeyDownPage": [Function],
+          "pageTotal": "1",
+        }
+      }
+      selectionControl={null}
+      sortingProps={
+        Object {
+          "onSort": [Function],
+          "sortedColumns": false,
+          "sorting": Array [],
+        }
+      }
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <Connect(InvoiceDialog)
+      invoiceId={null}
+      isAdmin={false}
+      onClose={[Function]}
+      open={false}
+      token=""
+      vendorId={null}
+    />
+  </styled.div>
+  <CancellationDialog
+    onClose={[Function]}
+    onConfirm={[Function]}
+    open={false}
+  />
+</Fragment>
+`;
+
+exports[`VendorBorderoShow component tests should render correctly with summary loading 1`] = `
+<Fragment>
+  <styled.div>
+    <styled.div>
+      <Connect(HideFromAdmin)>
+        <Icon
+          color="currentColor"
+          horizontal={false}
+          onClick={[Function]}
+          path="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z"
+          rotate={0}
+          size={null}
+          spin={false}
+          vertical={false}
+        />
+      </Connect(HideFromAdmin)>
+      <styled.span>
+        Antecipação
+      </styled.span>
+      <styled.div
+        justify="space-between"
+      />
+    </styled.div>
+    <styled.div
+      height={40}
+    />
+    <CompleteTable
+      actions={null}
+      allChecked={false}
+      borderBottom={false}
+      columns={
+        Array [
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": <React.Fragment>
+                 Status
+            </React.Fragment>,
+            "name": "status",
+            "width": 17,
+          },
+          Object {
+            "align": "right",
+            "label": "Número",
+            "name": "number",
+            "width": 15,
+          },
+          Object {
+            "align": "right",
+            "getCellValue": [Function],
+            "label": "Valor Solicitado (R$)",
+            "name": "netValue",
+            "width": 16,
+          },
+          Object {
+            "align": "right",
+            "label": "CNPJ",
+            "name": "vendorCnpj",
+            "width": 15,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Investidor",
+            "name": "funder",
+            "width": 14,
+          },
+          Object {
+            "align": "center",
+            "getCellValue": [Function],
+            "label": "Ações",
+            "name": "detailsPath",
+            "width": 7,
+          },
+        ]
+      }
+      emptyState={<Empty />}
+      filterBorderTop={true}
+      filters={
+        <Memo(Connect(BorderoInvoicesFilters))
+          isAdmin={false}
+        />
+      }
+      headerBorderTop={true}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      items={Array []}
+      onSelect={[Function]}
+      onSelectAll={null}
+      paginationProps={
+        Object {
+          "currentPage": "1",
+          "hasListing": true,
+          "listingProps": Object {
+            "listing": "10",
+            "onSelectListing": [Function],
+            "showInterval": Object {
+              "end": "0",
+              "start": "1",
+            },
+            "total": "0",
+          },
+          "onChangePage": [Function],
+          "onClickNext": [Function],
+          "onClickPrev": [Function],
+          "onKeyDownPage": [Function],
+          "pageTotal": "1",
+        }
+      }
+      selectionControl={null}
+      sortingProps={
+        Object {
+          "onSort": [Function],
+          "sortedColumns": false,
+          "sorting": Array [],
+        }
+      }
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <Connect(InvoiceDialog)
+      invoiceId={null}
+      isAdmin={false}
+      onClose={[Function]}
+      open={false}
+      token=""
+      vendorId={null}
+    />
+  </styled.div>
+  <CancellationDialog
+    onClose={[Function]}
+    onConfirm={[Function]}
+    open={false}
+  />
+</Fragment>
+`;
+
+exports[`VendorBorderoShow component tests should render correctly without props 1`] = `
+<Fragment>
+  <styled.div>
+    <styled.div>
+      <Connect(HideFromAdmin)>
+        <Icon
+          color="currentColor"
+          horizontal={false}
+          onClick={[Function]}
+          path="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z"
+          rotate={0}
+          size={null}
+          spin={false}
+          vertical={false}
+        />
+      </Connect(HideFromAdmin)>
+      <styled.span>
+        Antecipação
+      </styled.span>
+      <styled.div
+        justify="space-between"
+      />
+    </styled.div>
+    <ExpansibleCard
+      buttonText={
+        Object {
+          "closed": "Mostrar Confirmação e Pagamento",
+          "open": "Ocultar Confirmação e Pagamento",
+        }
+      }
+      collapsedHeight={264}
+      isAdmin={false}
+      showButton={true}
+    >
+      <Connect(CardContent) />
+    </ExpansibleCard>
+    <styled.div
+      height={40}
+    />
+    <CompleteTable
+      actions={null}
+      allChecked={false}
+      borderBottom={false}
+      columns={
+        Array [
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": <React.Fragment>
+                 Status
+            </React.Fragment>,
+            "name": "status",
+            "width": 17,
+          },
+          Object {
+            "align": "right",
+            "label": "Número",
+            "name": "number",
+            "width": 15,
+          },
+          Object {
+            "align": "right",
+            "getCellValue": [Function],
+            "label": "Valor Solicitado (R$)",
+            "name": "netValue",
+            "width": 16,
+          },
+          Object {
+            "align": "right",
+            "label": "CNPJ",
+            "name": "vendorCnpj",
+            "width": 15,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Investidor",
+            "name": "funder",
+            "width": 14,
+          },
+          Object {
+            "align": "center",
+            "getCellValue": [Function],
+            "label": "Ações",
+            "name": "detailsPath",
+            "width": 7,
+          },
+        ]
+      }
+      emptyState={<Empty />}
+      filterBorderTop={true}
+      filters={
+        <Memo(Connect(BorderoInvoicesFilters))
+          isAdmin={false}
+        />
+      }
+      headerBorderTop={true}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      items={Array []}
+      onSelect={[Function]}
+      onSelectAll={null}
+      paginationProps={
+        Object {
+          "currentPage": "1",
+          "hasListing": true,
+          "listingProps": Object {
+            "listing": "10",
+            "onSelectListing": [Function],
+            "showInterval": Object {
+              "end": "0",
+              "start": "1",
+            },
+            "total": "0",
+          },
+          "onChangePage": [Function],
+          "onClickNext": [Function],
+          "onClickPrev": [Function],
+          "onKeyDownPage": [Function],
+          "pageTotal": "1",
+        }
+      }
+      selectionControl={null}
+      sortingProps={
+        Object {
+          "onSort": [Function],
+          "sortedColumns": false,
+          "sorting": Array [],
+        }
+      }
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <Connect(InvoiceDialog)
+      invoiceId={null}
+      isAdmin={false}
+      onClose={[Function]}
+      open={false}
+      token=""
+      vendorId={null}
+    />
+  </styled.div>
+  <CancellationDialog
+    onClose={[Function]}
+    onConfirm={[Function]}
+    open={false}
+  />
+</Fragment>
+`;

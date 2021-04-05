@@ -1,0 +1,288 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardContent component tests should render CardContent correctly for case 0 with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Cards__CardContent-sc-1kn0psw-2",
+        "isStatic": false,
+        "rules": Array [],
+      },
+      "displayName": "Cards__CardContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Cards__CardContent-sc-1kn0psw-2",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  summary={
+    Object {
+      "bankAccount": Object {
+        "account": "12345",
+        "accountCd": "1",
+        "bankCode": "001",
+        "bankName": "Banco Mockado",
+        "branch": "001",
+        "branchCd": "1",
+        "id": 1,
+      },
+      "buyer": Object {
+        "cnpj": "06.194.174/0001-19",
+        "name": "Mock buyer",
+      },
+      "invoiceCount": "20",
+      "invoiceTransferAgreementUrl": null,
+      "operators": Array [
+        Object {
+          "id": 1,
+          "name": "User 1",
+          "userHasSigned": true,
+        },
+        Object {
+          "id": 1,
+          "name": "User 2",
+          "userHasSigned": false,
+        },
+      ],
+      "paidInvoiceCount": "18",
+      "paidValue": "R$ 1234",
+      "requestedAt": "12/12/2020",
+      "signatureCertificateUrl": null,
+      "signatures": Object {
+        "required": 2,
+      },
+    }
+  }
+/>
+`;
+
+exports[`CardContent component tests should render CardContent correctly for case 1 with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Cards__CardContent-sc-1kn0psw-2",
+        "isStatic": false,
+        "rules": Array [],
+      },
+      "displayName": "Cards__CardContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Cards__CardContent-sc-1kn0psw-2",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  summary={
+    Object {
+      "bankAccount": Object {
+        "account": "12345",
+        "accountCd": "1",
+        "bankCode": "001",
+        "bankName": "Banco Mockado",
+        "branch": "001",
+        "branchCd": "1",
+        "id": 1,
+      },
+      "buyer": Object {
+        "cnpj": "06.194.174/0001-19",
+        "name": "Mock buyer",
+      },
+      "invoiceCount": "20",
+      "invoiceTransferAgreementUrl": null,
+      "operators": Array [
+        Object {
+          "id": 1,
+          "name": "User 1",
+          "userHasSigned": true,
+        },
+        Object {
+          "id": 1,
+          "name": "User 2",
+          "userHasSigned": true,
+        },
+      ],
+      "paidInvoiceCount": "18",
+      "paidValue": "R$ 1234",
+      "requestedAt": "12/12/2020",
+      "signatureCertificateUrl": null,
+      "signatures": Object {
+        "required": 2,
+      },
+    }
+  }
+/>
+`;
+
+exports[`CardContent component tests should render CardContent correctly for case 2 with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Cards__CardContent-sc-1kn0psw-2",
+        "isStatic": false,
+        "rules": Array [],
+      },
+      "displayName": "Cards__CardContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Cards__CardContent-sc-1kn0psw-2",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  summary={
+    Object {
+      "bankAccount": Object {
+        "account": "12345",
+        "accountCd": "1",
+        "bankCode": "001",
+        "bankName": "Banco Mockado",
+        "branch": "001",
+        "branchCd": "1",
+        "id": 1,
+      },
+      "buyer": Object {
+        "cnpj": "06.194.174/0001-19",
+        "name": "Mock buyer",
+      },
+      "invoiceCount": "20",
+      "invoiceTransferAgreementUrl": "mockUrl2",
+      "operators": Array [
+        Object {
+          "id": 1,
+          "name": "User 1",
+          "userHasSigned": true,
+        },
+        Object {
+          "id": 1,
+          "name": "User 2",
+          "userHasSigned": false,
+        },
+      ],
+      "paidInvoiceCount": "18",
+      "paidValue": "R$ 1234",
+      "requestedAt": "12/12/2020",
+      "signatureCertificateUrl": "mockUrl1",
+      "signatures": Object {
+        "required": 1,
+      },
+    }
+  }
+/>
+`;
+
+exports[`CardContent component tests should render CardContent correctly for case 3 with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Cards__CardContent-sc-1kn0psw-2",
+        "isStatic": false,
+        "rules": Array [],
+      },
+      "displayName": "Cards__CardContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Cards__CardContent-sc-1kn0psw-2",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  summary={
+    Object {
+      "bankAccount": Object {
+        "account": "12345",
+        "accountCd": "1",
+        "bankCode": "001",
+        "bankName": "Banco Mockado",
+        "branch": "001",
+        "branchCd": "1",
+        "id": 1,
+      },
+      "buyer": Object {
+        "cnpj": "06.194.174/0001-19",
+        "name": "Mock buyer",
+      },
+      "invoiceCount": "20",
+      "invoiceTransferAgreementUrl": "mockUrl2",
+      "operators": Array [
+        Object {
+          "id": 1,
+          "name": "User 1",
+          "userHasSigned": false,
+        },
+      ],
+      "paidInvoiceCount": "18",
+      "paidValue": "R$ 1234",
+      "requestedAt": "12/12/2020",
+      "signatureCertificateUrl": null,
+      "signatures": Object {
+        "required": 1,
+      },
+    }
+  }
+/>
+`;
+
+exports[`CardContent component tests should render CardContent correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Cards__CardContent-sc-1kn0psw-2",
+        "isStatic": false,
+        "rules": Array [],
+      },
+      "displayName": "Cards__CardContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Cards__CardContent-sc-1kn0psw-2",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

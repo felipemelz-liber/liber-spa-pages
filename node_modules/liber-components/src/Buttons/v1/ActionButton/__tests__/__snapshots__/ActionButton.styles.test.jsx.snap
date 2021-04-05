@@ -1,0 +1,208 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for ActionButton Styles should render Icon correctly with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Icon-wminmz-1",
+        "isStatic": false,
+        "rules": Array [
+          "margin-right:15px;transition:margin 300ms  ",
+          [Function],
+          ";",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    margin-right: ",
+          [Function],
+          ";
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    margin-right: ",
+          [Function],
+          ";
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Icon-wminmz-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  hover={true}
+/>
+`;
+
+exports[`Test for ActionButton Styles should render Icon correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Icon-wminmz-1",
+        "isStatic": false,
+        "rules": Array [
+          "margin-right:15px;transition:margin 300ms  ",
+          [Function],
+          ";",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    margin-right: ",
+          [Function],
+          ";
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    margin-right: ",
+          [Function],
+          ";
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Icon-wminmz-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles should render Label correctly with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Label-wminmz-0",
+        "isStatic": false,
+        "rules": Array [
+          "text-align:center;width:unset;opacity:1;transition:all 300ms  ",
+          [Function],
+          ";white-space:nowrap;color:inherit;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    width: ",
+          [Function],
+          ";
+    opacity: ",
+          [Function],
+          ";
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    width: ",
+          [Function],
+          ";
+    opacity: ",
+          [Function],
+          ";
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Label-wminmz-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  hover={true}
+  size="100px"
+/>
+`;
+
+exports[`Test for ActionButton Styles should render Label correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Label-wminmz-0",
+        "isStatic": false,
+        "rules": Array [
+          "text-align:center;width:unset;opacity:1;transition:all 300ms  ",
+          [Function],
+          ";white-space:nowrap;color:inherit;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    width: ",
+          [Function],
+          ";
+    opacity: ",
+          [Function],
+          ";
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    width: ",
+          [Function],
+          ";
+    opacity: ",
+          [Function],
+          ";
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Label-wminmz-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

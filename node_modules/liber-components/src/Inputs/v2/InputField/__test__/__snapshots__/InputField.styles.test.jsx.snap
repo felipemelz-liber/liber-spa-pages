@@ -1,0 +1,465 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing TextField styled Component renders ChevronDownIcon correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "InputFieldstyles__ChevronDownIcon-rr4p3x-9",
+        "isStatic": false,
+        "rules": Array [
+          "fill:#798e9b;width:24px;height:20px;cursor:pointer;",
+        ],
+      },
+      "displayName": "InputFieldstyles__ChevronDownIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "InputFieldstyles__ChevronDownIcon-rr4p3x-9",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing TextField styled Component renders ChevronUpIcon correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "InputFieldstyles__ChevronUpIcon-rr4p3x-10",
+        "isStatic": false,
+        "rules": Array [
+          "fill:#798e9b;width:24px;height:20px;cursor:pointer;",
+        ],
+      },
+      "displayName": "InputFieldstyles__ChevronUpIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "InputFieldstyles__ChevronUpIcon-rr4p3x-10",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing TextField styled Component renders HighlightItem correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "InputFieldstyles__HighlightItem-rr4p3x-14",
+        "isStatic": false,
+        "rules": Array [
+          "font-weight:500;color:#009dff;",
+        ],
+      },
+      "displayName": "InputFieldstyles__HighlightItem",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "InputFieldstyles__HighlightItem-rr4p3x-14",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing TextField styled Component renders InputAutoCompleteItem correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "InputFieldstyles__InputAutoCompleteItem-rr4p3x-13",
+        "isStatic": false,
+        "rules": Array [
+          "padding:10px;cursor:pointer;background-color:",
+          [Function],
+          ";color:#8c9fa9;&:hover{background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "InputFieldstyles__InputAutoCompleteItem",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "InputFieldstyles__InputAutoCompleteItem-rr4p3x-13",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing TextField styled Component renders InputAutoCompleteList correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "InputFieldstyles__InputAutoCompleteList-rr4p3x-12",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;border-radius:4px;box-shadow:0 1px 2px 0 rgba(0,0,0,0.12);z-index:99;top:100%;left:0;right:0;",
+        ],
+      },
+      "displayName": "InputFieldstyles__InputAutoCompleteList",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "InputFieldstyles__InputAutoCompleteList-rr4p3x-12",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing TextField styled Component renders InputBase correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "InputFieldstyles__InputBase-rr4p3x-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;padding-top:10px;width:",
+          [Function],
+          ";outline:none;pointer-events:",
+          [Function],
+          ";*{background-color:transparent;border:none;color:",
+          [Function],
+          ";line-height:24px;font-family:'Roboto',sans-serif;font-size:16px;font-weight:400;text-align:left;}label{color:",
+          [Function],
+          ";}label:before{display:",
+          [Function],
+          ";}input{background-color:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "InputFieldstyles__InputBase",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "InputFieldstyles__InputBase-rr4p3x-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing TextField styled Component renders InputError correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "InputFieldstyles__InputError-rr4p3x-1",
+        "isStatic": false,
+        "rules": Array [
+          "width:auto;text-align:left;padding:12px 6px;font-size:12px;line-height:12px;transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);color:",
+          [Function],
+          ";&::before{content:'';}",
+        ],
+      },
+      "displayName": "InputFieldstyles__InputError",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "InputFieldstyles__InputError-rr4p3x-1",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing TextField styled Component renders InputHelper correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "InputFieldstyles__InputHelper-rr4p3x-7",
+        "isStatic": false,
+        "rules": Array [
+          "display:",
+          [Function],
+          ";position:",
+          [Function],
+          ";width:100%;top:",
+          [Function],
+          ";padding:",
+          [Function],
+          ";& > *{color:",
+          [Function],
+          ";fill:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "InputFieldstyles__InputHelper",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "InputFieldstyles__InputHelper-rr4p3x-7",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing TextField styled Component renders InputHelperIcon correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "InputFieldstyles__InputHelperIcon-rr4p3x-8",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;width:15px;height:15px;margin:1px 0px;top:calc(50% - 9px);",
+        ],
+      },
+      "displayName": "InputFieldstyles__InputHelperIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "InputFieldstyles__InputHelperIcon-rr4p3x-8",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing TextField styled Component renders InputHelperText correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "InputFieldstyles__InputHelperText-rr4p3x-11",
+        "isStatic": false,
+        "rules": Array [
+          "margin-left:18px;padding-left:5px;font-size:12px;",
+        ],
+      },
+      "displayName": "InputFieldstyles__InputHelperText",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "InputFieldstyles__InputHelperText-rr4p3x-11",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing TextField styled Component renders InputHint correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "InputFieldstyles__InputHint-rr4p3x-3",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:12px;padding:10px 12px;color:",
+          [Function],
+          ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;overflow:hidden;",
+        ],
+      },
+      "displayName": "InputFieldstyles__InputHint",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "InputFieldstyles__InputHint-rr4p3x-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing TextField styled Component renders InputLabel correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "InputFieldstyles__InputLabel-rr4p3x-2",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;padding:0px 6px;left:6px;text-align:left;font-size:",
+          [Function],
+          ";color:",
+          [Function],
+          ";background-color:transparent;top:",
+          [Function],
+          ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;width:auto;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;user-select:none;z-index:1;&:before{content:'';position:absolute;border-bottom:3px solid ",
+          [Function],
+          ";left:0px;top:calc(50% - 2px);width:100%;z-index:-1;}",
+        ],
+      },
+      "displayName": "InputFieldstyles__InputLabel",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "InputFieldstyles__InputLabel-rr4p3x-2",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing TextField styled Component renders InputPrefix correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "InputFieldstyles__InputPrefix-rr4p3x-4",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:12px;padding:10px 12px;color:",
+          [Function],
+          ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;overflow:hidden;",
+          "display:flex;align-items:center;width:unset;height:40px;box-sizing:border-box;color:",
+          [Function],
+          ";& svg{--width:16px;--height:16px;min-height:var(--height);min-width:var(--width);fill:",
+          [Function],
+          ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);}",
+        ],
+      },
+      "displayName": "InputFieldstyles__InputPrefix",
+      "foldedComponentIds": Array [
+        "InputFieldstyles__InputHint-rr4p3x-3",
+      ],
+      "render": [Function],
+      "styledComponentId": "InputFieldstyles__InputPrefix-rr4p3x-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing TextField styled Component renders InputText correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "InputFieldstyles__InputText-rr4p3x-5",
+        "isStatic": false,
+        "rules": Array [
+          "padding:10px;border-radius:4px;border:solid 1px ",
+          [Function],
+          ";width:100%;padding-left:",
+          [Function],
+          ";padding-right:",
+          [Function],
+          ";box-sizing:border-box;z-index:-2;&:focus{outline:0;border:solid 1px ",
+          [Function],
+          ";}&::-moz-focus-inner{border:0;}&::placeholder{color:transparent;}&:-webkit-autofill,&:-webkit-autofill:hover,&:-webkit-autofill:focus,&:-webkit-autofill:active{-webkit-box-shadow:0 0 0px 1000px #fff inset !important;transition:background-color 99999s ease-in-out 0s;}&::-webkit-inner-spin-button,&::-webkit-outer-spin-button{-webkit-appearance:none;margin:0;}",
+        ],
+      },
+      "displayName": "InputFieldstyles__InputText",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "InputFieldstyles__InputText-rr4p3x-5",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing TextField styled Component renders SpinButtons correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "InputFieldstyles__SpinButtons-rr4p3x-6",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;flex-direction:column;position:absolute;right:5px;padding-top:3px;",
+        ],
+      },
+      "displayName": "InputFieldstyles__SpinButtons",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "InputFieldstyles__SpinButtons-rr4p3x-6",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

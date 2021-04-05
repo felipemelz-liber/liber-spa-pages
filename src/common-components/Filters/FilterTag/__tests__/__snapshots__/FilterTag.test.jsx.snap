@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing FilterTag Component should render correctly open 1`] = `
+<Styled(ModalTag)
+  label="label"
+  show={true}
+/>
+`;
+
+exports[`Testing FilterTag Component should render correctly with custom seleted Formatter 1`] = `
+<Styled(ModalTag)
+  closable={true}
+  gray={true}
+  label={
+    <styled.div>
+      <styled.div
+        switch={false}
+      >
+        <styled.span>
+          <div>
+            6
+          </div>
+        </styled.span>
+        <styled.span>
+          label
+        </styled.span>
+      </styled.div>
+    </styled.div>
+  }
+  onClose={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+  show={false}
+/>
+`;
+
+exports[`Testing FilterTag Component should render correctly with props 1`] = `
+<Styled(ModalTag)
+  label="label"
+  show={false}
+/>
+`;
+
+exports[`Testing FilterTag Component should render correctly with selected 1`] = `
+<Styled(ModalTag)
+  closable={true}
+  gray={true}
+  label={
+    <styled.div>
+      <styled.div
+        switch={false}
+      >
+        <styled.span>
+          selected value
+        </styled.span>
+        <styled.span>
+          label
+        </styled.span>
+      </styled.div>
+    </styled.div>
+  }
+  onClose={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+  show={false}
+/>
+`;
+
+exports[`Testing FilterTag Component should render correctly with selected wile open 1`] = `
+<Styled(ModalTag)
+  closable={true}
+  gray={false}
+  label={
+    <styled.div>
+      <styled.div
+        switch={true}
+      >
+        <styled.span>
+          selected value
+        </styled.span>
+        <styled.span>
+          label
+        </styled.span>
+      </styled.div>
+    </styled.div>
+  }
+  onClose={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+  show={true}
+/>
+`;
+
+exports[`Testing FilterTag Component should render correctly without props 1`] = `
+<Styled(ModalTag)
+  label=""
+  show={false}
+/>
+`;

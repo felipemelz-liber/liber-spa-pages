@@ -1,0 +1,107 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for Action Button should render correctly with props, with tooltip 1`] = `
+<ForwardRef
+  left={false}
+>
+  <TooltipBox
+    content={
+      <ForwardRef(SimpleTabstyles__TooltipContent)>
+        Tooltip value
+      </ForwardRef(SimpleTabstyles__TooltipContent)>
+    }
+    contentPosition="unset"
+    delay={true}
+    delayTime={1000}
+    fixed={true}
+    label=""
+    mount="bottom"
+    mousePadding={null}
+    show={true}
+  >
+    <SimpleTabstyles__ChildContainer
+      left={false}
+    >
+      Value
+    </SimpleTabstyles__ChildContainer>
+  </TooltipBox>
+</ForwardRef>
+`;
+
+exports[`Test for Action Button should render correctly with props, with tooltip and custom icon 1`] = `
+<ForwardRef
+  left={false}
+>
+  <TooltipBox
+    content={
+      <ForwardRef(SimpleTabstyles__TooltipContent)>
+        Tooltip value
+      </ForwardRef(SimpleTabstyles__TooltipContent)>
+    }
+    contentPosition="unset"
+    delay={true}
+    delayTime={1000}
+    fixed={true}
+    label=""
+    mount="bottom"
+    mousePadding={null}
+    show={true}
+  >
+    <SimpleTabstyles__ChildContainer
+      left={false}
+    >
+      Value
+    </SimpleTabstyles__ChildContainer>
+  </TooltipBox>
+</ForwardRef>
+`;
+
+exports[`Test for Action Button should render correctly with props, with tooltip in other direction 1`] = `
+<ForwardRef
+  left={false}
+>
+  <TooltipBox
+    content={
+      <ForwardRef(SimpleTabstyles__TooltipContent)>
+        Tooltip value
+      </ForwardRef(SimpleTabstyles__TooltipContent)>
+    }
+    contentPosition="unset"
+    delay={true}
+    delayTime={1000}
+    fixed={true}
+    label=""
+    mount="right"
+    mousePadding={null}
+    show={true}
+  >
+    <SimpleTabstyles__ChildContainer
+      left={false}
+    >
+      Value
+    </SimpleTabstyles__ChildContainer>
+  </TooltipBox>
+</ForwardRef>
+`;
+
+exports[`Test for Action Button should render correctly with props, without tooltip 1`] = `
+<ForwardRef
+  left={false}
+>
+  <SimpleTabstyles__ChildContainer
+    left={false}
+  >
+    Value
+  </SimpleTabstyles__ChildContainer>
+</ForwardRef>
+`;
+
+exports[`Test for Action Button should render correctly without props 1`] = `
+<ForwardRef
+  left={false}
+>
+  <SimpleTabstyles__ChildContainer
+    left={false}
+  />
+</ForwardRef>
+`;

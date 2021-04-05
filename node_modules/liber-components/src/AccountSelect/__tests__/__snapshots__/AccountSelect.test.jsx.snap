@@ -1,0 +1,427 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for Account Select should render correctly with custom action label 1`] = `
+<Fragment>
+  <GlobalStyleComponent />
+  <KeyValueDropDown
+    containerSize={true}
+    keyLabel="Banco"
+    label="Banco Bradesco S.A"
+  >
+    <AcccountSelectstyles__Container>
+      <AcccountSelectstyles__Body>
+        <AcccountSelectstyles__Box
+          checked={true}
+          key="0"
+          onClick={[Function]}
+        >
+          <AcccountSelectstyles__BoxRow>
+            <AcccountSelectstyles__BoxTitle>
+              Banco Bradesco S.A
+            </AcccountSelectstyles__BoxTitle>
+            <AcccountSelectstyles__Checkbox
+              checked={true}
+              id="account-checkbox-0"
+            />
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            Ag: 
+            1735
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            CC
+            : 
+            24538
+            -7
+          </AcccountSelectstyles__BoxRow>
+        </AcccountSelectstyles__Box>
+        <AcccountSelectstyles__Box
+          checked={false}
+          key="1"
+          onClick={[Function]}
+        >
+          <AcccountSelectstyles__BoxRow>
+            <AcccountSelectstyles__BoxTitle>
+              Santander
+            </AcccountSelectstyles__BoxTitle>
+            <AcccountSelectstyles__Tag>
+              Conjunta
+            </AcccountSelectstyles__Tag>
+            <AcccountSelectstyles__Checkbox
+              checked={false}
+              id="account-checkbox-1"
+            />
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            Ag: 
+            3337
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            CC
+            : 
+            01032950
+            -7
+          </AcccountSelectstyles__BoxRow>
+        </AcccountSelectstyles__Box>
+        <AcccountSelectstyles__Box
+          checked={false}
+          key="2"
+          onClick={[Function]}
+        >
+          <AcccountSelectstyles__BoxRow>
+            <AcccountSelectstyles__BoxTitle>
+              Banco do Brasil
+            </AcccountSelectstyles__BoxTitle>
+            <AcccountSelectstyles__Checkbox
+              checked={false}
+              id="account-checkbox-2"
+            />
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            Ag: 
+            7662
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            CI
+            : 
+            9032950
+            -6
+             | Variação: 51
+          </AcccountSelectstyles__BoxRow>
+        </AcccountSelectstyles__Box>
+      </AcccountSelectstyles__Body>
+      <AcccountSelectstyles__Footer>
+        <button
+          onClick={[Function]}
+          type="button"
+        >
+          Custom
+        </button>
+      </AcccountSelectstyles__Footer>
+    </AcccountSelectstyles__Container>
+  </KeyValueDropDown>
+</Fragment>
+`;
+
+exports[`Test for Account Select should render correctly with props 1`] = `
+<Fragment>
+  <GlobalStyleComponent />
+  <KeyValueDropDown
+    containerSize={true}
+    keyLabel="Banco"
+    label="Banco Bradesco S.A"
+  >
+    <AcccountSelectstyles__Container>
+      <AcccountSelectstyles__Body>
+        <AcccountSelectstyles__Box
+          checked={true}
+          key="0"
+          onClick={[Function]}
+        >
+          <AcccountSelectstyles__BoxRow>
+            <AcccountSelectstyles__BoxTitle>
+              Banco Bradesco S.A
+            </AcccountSelectstyles__BoxTitle>
+            <AcccountSelectstyles__Checkbox
+              checked={true}
+              id="account-checkbox-0"
+            />
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            Ag: 
+            1735
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            CC
+            : 
+            24538
+            -7
+          </AcccountSelectstyles__BoxRow>
+        </AcccountSelectstyles__Box>
+        <AcccountSelectstyles__Box
+          checked={false}
+          key="1"
+          onClick={[Function]}
+        >
+          <AcccountSelectstyles__BoxRow>
+            <AcccountSelectstyles__BoxTitle>
+              Santander
+            </AcccountSelectstyles__BoxTitle>
+            <AcccountSelectstyles__Tag>
+              Conjunta
+            </AcccountSelectstyles__Tag>
+            <AcccountSelectstyles__Checkbox
+              checked={false}
+              id="account-checkbox-1"
+            />
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            Ag: 
+            3337
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            CC
+            : 
+            01032950
+            -7
+          </AcccountSelectstyles__BoxRow>
+        </AcccountSelectstyles__Box>
+        <AcccountSelectstyles__Box
+          checked={false}
+          key="2"
+          onClick={[Function]}
+        >
+          <AcccountSelectstyles__BoxRow>
+            <AcccountSelectstyles__BoxTitle>
+              Banco do Brasil
+            </AcccountSelectstyles__BoxTitle>
+            <AcccountSelectstyles__Checkbox
+              checked={false}
+              id="account-checkbox-2"
+            />
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            Ag: 
+            7662
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            CI
+            : 
+            9032950
+            -6
+             | Variação: 51
+          </AcccountSelectstyles__BoxRow>
+        </AcccountSelectstyles__Box>
+      </AcccountSelectstyles__Body>
+      <AcccountSelectstyles__Footer>
+        <button
+          onClick={[Function]}
+          type="button"
+        >
+          CADASTRAR
+        </button>
+      </AcccountSelectstyles__Footer>
+    </AcccountSelectstyles__Container>
+  </KeyValueDropDown>
+</Fragment>
+`;
+
+exports[`Test for Account Select should render correctly with selected 1`] = `
+<Fragment>
+  <GlobalStyleComponent />
+  <KeyValueDropDown
+    containerSize={true}
+    keyLabel="Banco"
+    label="Banco do Brasil"
+  >
+    <AcccountSelectstyles__Container>
+      <AcccountSelectstyles__Body>
+        <AcccountSelectstyles__Box
+          checked={false}
+          key="0"
+          onClick={[Function]}
+        >
+          <AcccountSelectstyles__BoxRow>
+            <AcccountSelectstyles__BoxTitle>
+              Banco Bradesco S.A
+            </AcccountSelectstyles__BoxTitle>
+            <AcccountSelectstyles__Checkbox
+              checked={false}
+              id="account-checkbox-0"
+            />
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            Ag: 
+            1735
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            CC
+            : 
+            24538
+            -7
+          </AcccountSelectstyles__BoxRow>
+        </AcccountSelectstyles__Box>
+        <AcccountSelectstyles__Box
+          checked={false}
+          key="1"
+          onClick={[Function]}
+        >
+          <AcccountSelectstyles__BoxRow>
+            <AcccountSelectstyles__BoxTitle>
+              Santander
+            </AcccountSelectstyles__BoxTitle>
+            <AcccountSelectstyles__Tag>
+              Conjunta
+            </AcccountSelectstyles__Tag>
+            <AcccountSelectstyles__Checkbox
+              checked={false}
+              id="account-checkbox-1"
+            />
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            Ag: 
+            3337
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            CC
+            : 
+            01032950
+            -7
+          </AcccountSelectstyles__BoxRow>
+        </AcccountSelectstyles__Box>
+        <AcccountSelectstyles__Box
+          checked={true}
+          key="2"
+          onClick={[Function]}
+        >
+          <AcccountSelectstyles__BoxRow>
+            <AcccountSelectstyles__BoxTitle>
+              Banco do Brasil
+            </AcccountSelectstyles__BoxTitle>
+            <AcccountSelectstyles__Checkbox
+              checked={true}
+              id="account-checkbox-2"
+            />
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            Ag: 
+            7662
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            CI
+            : 
+            9032950
+            -6
+             | Variação: 51
+          </AcccountSelectstyles__BoxRow>
+        </AcccountSelectstyles__Box>
+      </AcccountSelectstyles__Body>
+      <AcccountSelectstyles__Footer>
+        <button
+          onClick={[Function]}
+          type="button"
+        >
+          CADASTRAR
+        </button>
+      </AcccountSelectstyles__Footer>
+    </AcccountSelectstyles__Container>
+  </KeyValueDropDown>
+</Fragment>
+`;
+
+exports[`Test for Account Select should render correctly without action 1`] = `
+<Fragment>
+  <GlobalStyleComponent />
+  <KeyValueDropDown
+    containerSize={true}
+    keyLabel="Banco"
+    label="Banco Bradesco S.A"
+  >
+    <AcccountSelectstyles__Container>
+      <AcccountSelectstyles__Body>
+        <AcccountSelectstyles__Box
+          checked={true}
+          key="0"
+          onClick={[Function]}
+        >
+          <AcccountSelectstyles__BoxRow>
+            <AcccountSelectstyles__BoxTitle>
+              Banco Bradesco S.A
+            </AcccountSelectstyles__BoxTitle>
+            <AcccountSelectstyles__Checkbox
+              checked={true}
+              id="account-checkbox-0"
+            />
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            Ag: 
+            1735
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            CC
+            : 
+            24538
+            -7
+          </AcccountSelectstyles__BoxRow>
+        </AcccountSelectstyles__Box>
+        <AcccountSelectstyles__Box
+          checked={false}
+          key="1"
+          onClick={[Function]}
+        >
+          <AcccountSelectstyles__BoxRow>
+            <AcccountSelectstyles__BoxTitle>
+              Santander
+            </AcccountSelectstyles__BoxTitle>
+            <AcccountSelectstyles__Tag>
+              Conjunta
+            </AcccountSelectstyles__Tag>
+            <AcccountSelectstyles__Checkbox
+              checked={false}
+              id="account-checkbox-1"
+            />
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            Ag: 
+            3337
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            CC
+            : 
+            01032950
+            -7
+          </AcccountSelectstyles__BoxRow>
+        </AcccountSelectstyles__Box>
+        <AcccountSelectstyles__Box
+          checked={false}
+          key="2"
+          onClick={[Function]}
+        >
+          <AcccountSelectstyles__BoxRow>
+            <AcccountSelectstyles__BoxTitle>
+              Banco do Brasil
+            </AcccountSelectstyles__BoxTitle>
+            <AcccountSelectstyles__Checkbox
+              checked={false}
+              id="account-checkbox-2"
+            />
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            Ag: 
+            7662
+          </AcccountSelectstyles__BoxRow>
+          <AcccountSelectstyles__BoxRow>
+            CI
+            : 
+            9032950
+            -6
+             | Variação: 51
+          </AcccountSelectstyles__BoxRow>
+        </AcccountSelectstyles__Box>
+      </AcccountSelectstyles__Body>
+    </AcccountSelectstyles__Container>
+  </KeyValueDropDown>
+</Fragment>
+`;
+
+exports[`Test for Account Select should render correctly without props 1`] = `
+<Fragment>
+  <GlobalStyleComponent />
+  <KeyValueDropDown
+    containerSize={true}
+    keyLabel="Banco"
+    label=""
+  >
+    <AcccountSelectstyles__Container>
+      <AcccountSelectstyles__Footer>
+        <button
+          onClick={[Function]}
+          type="button"
+        >
+          CADASTRAR
+        </button>
+      </AcccountSelectstyles__Footer>
+    </AcccountSelectstyles__Container>
+  </KeyValueDropDown>
+</Fragment>
+`;

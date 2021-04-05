@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PendingAdvances tests should render correctly with props 1`] = `
+<Fragment>
+  <styled.div>
+    <styled.span>
+      Solicitações em Andamento
+    </styled.span>
+    <styled.div>
+      <styled.div
+        key="1"
+      >
+        <Styled(Cards__Card)>
+          <StatusText
+            type="neutral"
+          >
+            Aguardando Confirmação
+          </StatusText>
+          <styled.span>
+            Valor de Antecipação
+          </styled.span>
+          <styled.div>
+            <styled.div>
+              <styled.span>
+                R$ 0,00
+              </styled.span>
+            </styled.div>
+            <a
+              href="/fornecedor/antecipacoes/1"
+              onClick={[Function]}
+            >
+              <Styled(Icon) />
+            </a>
+          </styled.div>
+          <Connect(HideFromAdmin)>
+            <styled.div>
+              <StyledButtons__FlatButton
+                color="primary"
+                onClick={[Function]}
+              >
+                CANCELAR
+              </StyledButtons__FlatButton>
+              <StyledButtons__FlatLink
+                color="primary"
+                href="/fornecedor/antecipacoes/sign?ids[]=1&generated=true"
+                onClick={[Function]}
+              >
+                CONFIRMAR
+              </StyledButtons__FlatLink>
+            </styled.div>
+          </Connect(HideFromAdmin)>
+        </Styled(Cards__Card)>
+      </styled.div>
+      <styled.div
+        key="2"
+      >
+        <Styled(Cards__Card)>
+          <StatusText
+            type="neutral"
+          >
+            Realizando Pagamento
+          </StatusText>
+          <styled.span>
+            Valor de Antecipação
+          </styled.span>
+          <styled.div>
+            <styled.div>
+              <styled.span>
+                R$ 0,00
+              </styled.span>
+            </styled.div>
+            <a
+              href="/fornecedor/antecipacoes/2"
+              onClick={[Function]}
+            >
+              <Styled(Icon) />
+            </a>
+          </styled.div>
+        </Styled(Cards__Card)>
+      </styled.div>
+    </styled.div>
+  </styled.div>
+  <CancellationDialog
+    onClose={[Function]}
+    onConfirm={[Function]}
+    open={false}
+  />
+</Fragment>
+`;
+
+exports[`PendingAdvances tests should render correctly without props 1`] = `""`;

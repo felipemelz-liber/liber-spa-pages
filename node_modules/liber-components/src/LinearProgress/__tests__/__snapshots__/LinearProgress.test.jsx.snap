@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing LinearProgress Component should render correctly determinate 1`] = `
+<styles__BackgroundBar
+  height={null}
+>
+  <styles__DeterminateBar
+    background="linear-gradient(to left, #83deff, #009dff);"
+    size={50}
+  />
+</styles__BackgroundBar>
+`;
+
+exports[`Testing LinearProgress Component should render correctly determinate with background 1`] = `
+<styles__BackgroundBar
+  height={null}
+>
+  <styles__DeterminateBar
+    background="#000"
+    size={50}
+  />
+</styles__BackgroundBar>
+`;
+
+exports[`Testing LinearProgress Component should render correctly indeterminate 1`] = `
+<styles__BackgroundBar
+  height={null}
+>
+  <styles__IndeterminateBar />
+</styles__BackgroundBar>
+`;
+
+exports[`Testing LinearProgress Component should render correctly indeterminate with background 1`] = `
+<styles__BackgroundBar
+  height={null}
+>
+  <styles__IndeterminateBar />
+</styles__BackgroundBar>
+`;

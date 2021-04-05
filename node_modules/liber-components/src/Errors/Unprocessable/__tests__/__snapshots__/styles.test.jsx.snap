@@ -1,0 +1,332 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Unprocessable styles DesktopBackground Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__DesktopBackground-sc-9grfnx-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:0;left:0;width:100vw;height:100vh;z-index:-1;",
+        ],
+      },
+      "displayName": "styles__DesktopBackground",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__DesktopBackground-sc-9grfnx-0",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Unprocessable styles DesktopContent Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__DesktopContent-sc-9grfnx-2",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;display:flex;align-items:center;justify-content:center;top:23.5vh;left:56vw;",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    top: 28vh;
+    left: 52.5vw;
+  ",
+          "}",
+          " top:25vh;left:58vw;",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    top: 29vh;
+    left: 55vw;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__DesktopContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__DesktopContent-sc-9grfnx-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Unprocessable styles DesktopIllustration Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__DesktopIllustration-sc-9grfnx-1",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:20vh;left:10vw;width:50vw;z-index:-1;",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    top: 20vh;
+    left: 15vw;
+    width: 40vw;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__DesktopIllustration",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__DesktopIllustration-sc-9grfnx-1",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Unprocessable styles DesktopMessageBox Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__DesktopMessageBox-sc-9grfnx-3",
+        "isStatic": false,
+        "rules": Array [
+          "max-width:20vw;& h1,h3{text-align:justify;letter-spacing:-0.04em;}& h1{color:#c7cfd3;font-size:2.25vw;font-weight:500;margin-bottom:0;}& h3{color:#8f9ea7;font-size:1.8vw;font-weight:300;margin-top:0.3vw;margin-bottom:1.5vw;}& a{text-align:center;background-color:#13CE66;color:#ffffff;text-decoration:none;border:0px;border-radius:0.25vw;font-size:1.5vw;font-weight:600;padding:0.25vw 2.15vw;box-sizing:border-box;white-space:nowrap;&:hover{background-color:#0DAB53;}}",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    max-width: 15.5vw;
+    & h1 {
+      font-size: 1.7vw;
+    }
+
+    & h3 {
+      font-size: 1.35vw;
+    }
+
+    & a {
+      font-size: 0.9vw;
+    }
+  ",
+          "}",
+          " max-width:24vw;& h1{margin-top:0.3vw;margin-bottom:1.9vw;}& h3{margin-top:unset;margin-bottom:unset;}",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    max-width: 18vw;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__DesktopMessageBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__DesktopMessageBox-sc-9grfnx-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Unprocessable styles MobileBrand Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__MobileBrand-sc-9grfnx-6",
+        "isStatic": false,
+        "rules": Array [
+          "margin-top:10%;width:30vh;",
+        ],
+      },
+      "displayName": "styles__MobileBrand",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__MobileBrand-sc-9grfnx-6",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Unprocessable styles MobileContent Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__MobileContent-sc-9grfnx-5",
+        "isStatic": false,
+        "rules": Array [
+          "margin:auto;height:100%;width:77.75%;",
+        ],
+      },
+      "displayName": "styles__MobileContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__MobileContent-sc-9grfnx-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Unprocessable styles MobileIllustration Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__MobileIllustration-sc-9grfnx-4",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;left:10.75%;bottom:0;height:auto;width:40vh;z-index:-1;",
+          " left:unset;right:5%;bottom:3%;width:40vh;",
+        ],
+      },
+      "displayName": "styles__MobileIllustration",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__MobileIllustration-sc-9grfnx-4",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Unprocessable styles MobileMessageBox Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__MobileMessageBox-sc-9grfnx-7",
+        "isStatic": false,
+        "rules": Array [
+          "max-width:20vw;& h1,h3{text-align:justify;letter-spacing:-0.04em;}& h1{color:#c7cfd3;font-size:2.25vw;font-weight:500;margin-bottom:0;}& h3{color:#8f9ea7;font-size:1.8vw;font-weight:300;margin-top:0.3vw;margin-bottom:1.5vw;}& a{text-align:center;background-color:#13CE66;color:#ffffff;text-decoration:none;border:0px;border-radius:0.25vw;font-size:1.5vw;font-weight:600;padding:0.25vw 2.15vw;box-sizing:border-box;white-space:nowrap;&:hover{background-color:#0DAB53;}}",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    max-width: 15.5vw;
+    & h1 {
+      font-size: 1.7vw;
+    }
+
+    & h3 {
+      font-size: 1.35vw;
+    }
+
+    & a {
+      font-size: 0.9vw;
+    }
+  ",
+          "}",
+          " max-width:24vw;& h1{margin-top:0.3vw;margin-bottom:1.9vw;}& h3{margin-top:unset;margin-bottom:unset;}",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    max-width: 18vw;
+  ",
+          "}",
+          "margin:auto;max-width:200px;& h1{font-size:24px;}& h3{font-size:18px;margin-bottom:20px;}& a{font-size:14px;padding:5px 28px;}",
+          "@media (min-width:",
+          "768px",
+          "){",
+          "
+    max-width: 275px;
+    & h1 { font-size: 34px; }
+    & h3 {
+      font-size: 24px;
+      margin-bottom: 32px;
+    }
+    & a { font-size: 18px; }
+  ",
+          "}",
+          " margin-top:25px;& h1{font-size:20px;margin-bottom:20px;}& h3{font-size:14.5px;margin-top:unset;margin-bottom:unset;}& a{font-size:14px;padding:5px 28px;}",
+          "@media (min-width:",
+          "768px",
+          "){",
+          "
+    max-width: 325px;
+    & h1 {
+      font-size: 34px;
+      margin-bottom: 32px;
+    }
+    & h3 {
+      font-size: 24px;
+      margin-top: unset;
+      margin-bottom: unset;
+    }
+    & a {
+      font-size: 18px;
+    }
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__MobileMessageBox",
+      "foldedComponentIds": Array [
+        "styles__DesktopMessageBox-sc-9grfnx-3",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__MobileMessageBox-sc-9grfnx-7",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

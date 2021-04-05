@@ -1,0 +1,165 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for DropDownMenu Component should render correctly 1`] = `
+<DropDownMenu
+  position={null}
+>
+  <styles__Box>
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "styles__Box-sc-1vybocn-0",
+            "isStatic": false,
+            "lastClassName": "frZCjg",
+            "rules": Array [
+              "position:relative;display:inline-block;",
+            ],
+          },
+          "displayName": "styles__Box",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "styles__Box-sc-1vybocn-0",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="styles__Box-sc-1vybocn-0 frZCjg"
+      >
+        <styles__ButtonMenu
+          onMouseDown={[Function]}
+        >
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "styles__ButtonMenu-sc-1vybocn-2",
+                  "isStatic": false,
+                  "lastClassName": "lltGRC",
+                  "rules": Array [
+                    "background-color:transparent;color:",
+                    [Function],
+                    ";cursor:pointer;border:0px;padding:5px 38px 5px 10px;box-sizing:border-box;border-radius:4px;font-family:",
+                    [Function],
+                    ";font-size:",
+                    [Function],
+                    ";font-weight:",
+                    [Function],
+                    ";&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+                    [Function],
+                    "}position:relative;&:after{content:\\"\\";position:absolute;top:calc(50% - 3px);right:10px;width:0px;height:0px;border-top:5px solid ",
+                    [Function],
+                    ";border-right:5px solid transparent;border-bottom:5px solid transparent;border-left:5px solid transparent;transform:scale(0.75);}",
+                    "@media (min-width:",
+                    "992px",
+                    "){",
+                    "
+    font-size: ",
+                    [Function],
+                    ";
+    &:after {
+      transform: scale(1);
+    }
+  ",
+                    "}",
+                    "padding:5px;&:after{display:none;}",
+                  ],
+                },
+                "displayName": "styles__ButtonMenu",
+                "foldedComponentIds": Array [
+                  "styles__Button-sc-1vybocn-1",
+                ],
+                "render": [Function],
+                "styledComponentId": "styles__ButtonMenu-sc-1vybocn-2",
+                "target": "button",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            onMouseDown={[Function]}
+          >
+            <button
+              className="styles__Button-sc-1vybocn-1 styles__ButtonMenu-sc-1vybocn-2 lltGRC"
+              onMouseDown={[Function]}
+            >
+              <styles__Icon>
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "styles__Icon-sc-1vybocn-3",
+                        "isStatic": false,
+                        "lastClassName": "jprzrK",
+                        "rules": Array [
+                          "display:block;height:25px;width:25px;fill:",
+                          [Function],
+                          ";;",
+                        ],
+                      },
+                      "displayName": "styles__Icon",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "styles__Icon-sc-1vybocn-3",
+                      "target": [Function],
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <FaEllipsisV
+                    className="styles__Icon-sc-1vybocn-3 jprzrK"
+                  >
+                    <svg
+                      className="styles__Icon-sc-1vybocn-3 jprzrK"
+                      height="52"
+                      viewBox="0 0 1792 1792"
+                      width="52"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M1088 1248v192q0 40-28 68t-68 28h-192q-40 0-68-28t-28-68v-192q0-40 28-68t68-28h192q40 0 68 28t28 68zm0-512v192q0 40-28 68t-68 28h-192q-40 0-68-28t-28-68v-192q0-40 28-68t68-28h192q40 0 68 28t28 68zm0-512v192q0 40-28 68t-68 28h-192q-40 0-68-28t-28-68v-192q0-40 28-68t68-28h192q40 0 68 28t28 68z"
+                      />
+                    </svg>
+                  </FaEllipsisV>
+                </StyledComponent>
+              </styles__Icon>
+            </button>
+          </StyledComponent>
+        </styles__ButtonMenu>
+        <div>
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={false}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={100}
+            unmountOnExit={true}
+          />
+        </div>
+      </div>
+    </StyledComponent>
+  </styles__Box>
+</DropDownMenu>
+`;

@@ -1,0 +1,115 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for Filter Component should render correctly 1`] = `
+<styles__FilterRow>
+  <styles__FilterLabel>
+    Mostrar:
+  </styles__FilterLabel>
+  <styles__FiltersBox>
+    <RadioButton
+      checked={true}
+      className=""
+      color="#cecece"
+      id="option1"
+      key="option1"
+      labelColor="#717171"
+      name="option1"
+      onChange={[Function]}
+      type="checkbox"
+      value="on"
+    >
+      label1
+    </RadioButton>
+    <RadioButton
+      checked={true}
+      className=""
+      color="#cecece"
+      id="option2"
+      key="option2"
+      labelColor="#717171"
+      name="option2"
+      onChange={[Function]}
+      type="checkbox"
+      value="on"
+    >
+      label2
+    </RadioButton>
+  </styles__FiltersBox>
+</styles__FilterRow>
+`;
+
+exports[`Test for Filter Component should render correctly with color 1`] = `
+<styles__FilterRow>
+  <styles__FilterLabel>
+    Mostrar:
+  </styles__FilterLabel>
+  <styles__FiltersBox>
+    <RadioButton
+      checked={true}
+      className=""
+      color="#000"
+      id="option1"
+      key="option1"
+      labelColor="#717171"
+      name="option1"
+      onChange={[Function]}
+      type="checkbox"
+      value="on"
+    >
+      label1
+    </RadioButton>
+    <RadioButton
+      checked={true}
+      className=""
+      color="#000"
+      id="option2"
+      key="option2"
+      labelColor="#717171"
+      name="option2"
+      onChange={[Function]}
+      type="checkbox"
+      value="on"
+    >
+      label2
+    </RadioButton>
+  </styles__FiltersBox>
+</styles__FilterRow>
+`;
+
+exports[`Test for Filter Component should render correctly with color object 1`] = `
+<styles__FilterRow>
+  <styles__FilterLabel>
+    Mostrar:
+  </styles__FilterLabel>
+  <styles__FiltersBox>
+    <RadioButton
+      checked={true}
+      className=""
+      color="#000"
+      id="option1"
+      key="option1"
+      labelColor="#717171"
+      name="option1"
+      onChange={[Function]}
+      type="checkbox"
+      value="on"
+    >
+      label1
+    </RadioButton>
+    <RadioButton
+      checked={true}
+      className=""
+      color="#fafafa"
+      id="option2"
+      key="option2"
+      labelColor="#717171"
+      name="option2"
+      onChange={[Function]}
+      type="checkbox"
+      value="on"
+    >
+      label2
+    </RadioButton>
+  </styles__FiltersBox>
+</styles__FilterRow>
+`;

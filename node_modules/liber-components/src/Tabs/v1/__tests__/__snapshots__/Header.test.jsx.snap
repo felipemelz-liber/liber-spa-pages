@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Header Component should render correctly empty 1`] = `<Fragment />`;
+
+exports[`Testing Header Component should render correctly empty 2`] = `<Fragment />`;

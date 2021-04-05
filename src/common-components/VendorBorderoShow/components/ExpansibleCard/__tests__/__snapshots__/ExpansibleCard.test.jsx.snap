@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ExpansibleCard component test should render correctly with props 1`] = `
+<Fragment>
+  <Styled(Cards__Card)>
+    <styled.div>
+      <div>
+        Mock content
+      </div>
+    </styled.div>
+  </Styled(Cards__Card)>
+  <styled.div>
+    <Styled(Buttons__Button)
+      onClick={[Function]}
+      open={true}
+    >
+      <Icon
+        color="currentColor"
+        horizontal={false}
+        path="M11,4H13V16L18.5,10.5L19.92,11.92L12,19.84L4.08,11.92L5.5,10.5L11,16V4Z"
+        rotate={0}
+        size={null}
+        spin={false}
+        vertical={false}
+      />
+      Click to collapse
+    </Styled(Buttons__Button)>
+  </styled.div>
+</Fragment>
+`;
+
+exports[`ExpansibleCard component test should render correctly without props 1`] = `
+<Fragment>
+  <Styled(Cards__Card)>
+    <styled.div>
+      <div />
+    </styled.div>
+  </Styled(Cards__Card)>
+  <styled.div>
+    <Styled(Buttons__Button)
+      onClick={[Function]}
+      open={true}
+    >
+      <Icon
+        color="currentColor"
+        horizontal={false}
+        path="M11,4H13V16L18.5,10.5L19.92,11.92L12,19.84L4.08,11.92L5.5,10.5L11,16V4Z"
+        rotate={0}
+        size={null}
+        spin={false}
+        vertical={false}
+      />
+      Ocultar
+    </Styled(Buttons__Button)>
+  </styled.div>
+</Fragment>
+`;

@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing StickyBar Styles renders Bar correctly with sticked=false 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StickyBarstyles__Bar-c7efwf-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:sticky;top:",
+          [Function],
+          "px;",
+          [Function],
+        ],
+      },
+      "displayName": "StickyBarstyles__Bar",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "StickyBarstyles__Bar-c7efwf-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  sticked={false}
+/>
+`;
+
+exports[`Testing StickyBar Styles renders Bar correctly with sticked=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StickyBarstyles__Bar-c7efwf-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:sticky;top:",
+          [Function],
+          "px;",
+          [Function],
+        ],
+      },
+      "displayName": "StickyBarstyles__Bar",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "StickyBarstyles__Bar-c7efwf-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  sticked={true}
+/>
+`;
+
+exports[`Testing StickyBar Styles renders Bar correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StickyBarstyles__Bar-c7efwf-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:sticky;top:",
+          [Function],
+          "px;",
+          [Function],
+        ],
+      },
+      "displayName": "StickyBarstyles__Bar",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "StickyBarstyles__Bar-c7efwf-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

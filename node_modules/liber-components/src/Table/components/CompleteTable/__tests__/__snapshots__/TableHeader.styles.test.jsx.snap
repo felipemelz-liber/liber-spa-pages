@@ -1,0 +1,272 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing TableHeader Styles renders Header correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableHeaderstyles__Header-rphg8a-1",
+        "isStatic": false,
+        "rules": Array [
+          "border:0px;position:relative;& > tr{border-bottom:solid 1px ",
+          [Function],
+          ";}",
+          [Function],
+          " ",
+          [Function],
+          " & > tr{border-bottom:none;}& th{border-bottom:none;}",
+        ],
+      },
+      "displayName": "TableHeaderstyles__Header",
+      "foldedComponentIds": Array [
+        "SelectionTable__SelectionTableHeader-x9uakv-1",
+      ],
+      "render": [Function],
+      "styledComponentId": "TableHeaderstyles__Header-rphg8a-1",
+      "target": "thead",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing TableHeader Styles renders HeaderContent correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableHeaderstyles__HeaderContent-rphg8a-2",
+        "isStatic": false,
+        "rules": Array [
+          "border:0px;position:relative;& > tr{border-bottom:solid 1px ",
+          [Function],
+          ";}",
+          [Function],
+          " ",
+          [Function],
+          " & > tr{border-bottom:none;}& th{border-bottom:none;}",
+          "border:none;",
+        ],
+      },
+      "displayName": "TableHeaderstyles__HeaderContent",
+      "foldedComponentIds": Array [
+        "SelectionTable__SelectionTableHeader-x9uakv-1",
+        "TableHeaderstyles__Header-rphg8a-1",
+      ],
+      "render": [Function],
+      "styledComponentId": "TableHeaderstyles__HeaderContent-rphg8a-2",
+      "target": "thead",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing TableHeader Styles renders HeaderRow correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableHeaderstyles__HeaderRow-rphg8a-3",
+        "isStatic": false,
+        "rules": Array [
+          "--row-color:",
+          [Function],
+          ";border:0px;position:relative;",
+          ".SelectionTable__SelectionTableBody-x9uakv-2",
+          " &{border-top:1px solid #ecf0f3;",
+          [Function],
+          " &:hover{background-color:#f3f3f3;}}",
+          "display:flex;width:100%;align-items:flex-start;justify-content:space-between;&:first-of-type{border-top:none;}",
+          ".SelectionTable__SelectionTableBody-x9uakv-2",
+          " &{&:hover{background-color:",
+          [Function],
+          ";}}",
+          [Function],
+          "padding:5px 0px;",
+        ],
+      },
+      "displayName": "TableHeaderstyles__HeaderRow",
+      "foldedComponentIds": Array [
+        "SelectionTable__SelectionTableRow-x9uakv-5",
+        "CompleteTablestyles__Row-ihsn40-3",
+      ],
+      "render": [Function],
+      "styledComponentId": "TableHeaderstyles__HeaderRow-rphg8a-3",
+      "target": "tr",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing TableHeader Styles renders Table correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableHeaderstyles__Table-rphg8a-0",
+        "isStatic": false,
+        "rules": Array [
+          "min-width:100%;border-collapse:collapse;table-layout:fixed;font-family:Roboto;text-align:left;font-size:20px;line-height:24px;position:relative;",
+          "width:100%;",
+        ],
+      },
+      "displayName": "TableHeaderstyles__Table",
+      "foldedComponentIds": Array [
+        "SelectionTable-x9uakv-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "TableHeaderstyles__Table-rphg8a-0",
+      "target": "table",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing TableHeader Styles renders TableHeaderColumn with center aligment 1`] = `
+<StyledComponent
+  align="center"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableHeaderstyles__HeaderColumn-rphg8a-4",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;font-size:16px;font-weight:500;color:",
+          [Function],
+          ";border:0px;border-bottom:solid 1px ",
+          [Function],
+          ";padding:8px;width:",
+          [Function],
+          ";",
+          "min-width:50px;text-align:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "TableHeaderstyles__HeaderColumn",
+      "foldedComponentIds": Array [
+        "SelectionTable__SelectionTableHeaderColumn-x9uakv-6",
+      ],
+      "render": [Function],
+      "styledComponentId": "TableHeaderstyles__HeaderColumn-rphg8a-4",
+      "target": "th",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing TableHeader Styles renders TableHeaderColumn with left aligment 1`] = `
+<StyledComponent
+  align="left"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableHeaderstyles__HeaderColumn-rphg8a-4",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;font-size:16px;font-weight:500;color:",
+          [Function],
+          ";border:0px;border-bottom:solid 1px ",
+          [Function],
+          ";padding:8px;width:",
+          [Function],
+          ";",
+          "min-width:50px;text-align:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "TableHeaderstyles__HeaderColumn",
+      "foldedComponentIds": Array [
+        "SelectionTable__SelectionTableHeaderColumn-x9uakv-6",
+      ],
+      "render": [Function],
+      "styledComponentId": "TableHeaderstyles__HeaderColumn-rphg8a-4",
+      "target": "th",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing TableHeader Styles renders TableHeaderColumn with right aligment 1`] = `
+<StyledComponent
+  align="right"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "TableHeaderstyles__HeaderColumn-rphg8a-4",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;font-size:16px;font-weight:500;color:",
+          [Function],
+          ";border:0px;border-bottom:solid 1px ",
+          [Function],
+          ";padding:8px;width:",
+          [Function],
+          ";",
+          "min-width:50px;text-align:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "TableHeaderstyles__HeaderColumn",
+      "foldedComponentIds": Array [
+        "SelectionTable__SelectionTableHeaderColumn-x9uakv-6",
+      ],
+      "render": [Function],
+      "styledComponentId": "TableHeaderstyles__HeaderColumn-rphg8a-4",
+      "target": "th",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

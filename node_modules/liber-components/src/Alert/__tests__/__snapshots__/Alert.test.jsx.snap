@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Alert Component should render correctly 1`] = `
+<div
+  className=""
+>
+  <styles__AlertIcon>
+    <MdAlertCircle />
+  </styles__AlertIcon>
+  <styles__AlertContent>
+    <styles__AlertInfoContent>
+      Conteudo de informação
+    </styles__AlertInfoContent>
+  </styles__AlertContent>
+  <styles__AlertIcon>
+    <styles__CloseIcon
+      onClick={[Function]}
+    />
+  </styles__AlertIcon>
+</div>
+`;
+
+exports[`Testing Alert Component should render correctly with additional info content prop 1`] = `
+<div
+  className=""
+>
+  <styles__AlertIcon>
+    <MdAlertCircle />
+  </styles__AlertIcon>
+  <styles__AlertContent>
+    <styles__AlertInfoContent>
+      Conteudo de informação
+    </styles__AlertInfoContent>
+    <styles__AlertAdditionalInfoContent>
+      Conteudo adicional de informação
+    </styles__AlertAdditionalInfoContent>
+  </styles__AlertContent>
+  <styles__AlertIcon>
+    <styles__CloseIcon
+      onClick={[Function]}
+    />
+  </styles__AlertIcon>
+</div>
+`;
+
+exports[`Testing Alert Component should render correctly with custom icon 1`] = `
+<div
+  className=""
+>
+  <styles__AlertIcon>
+    <HelpCircle />
+  </styles__AlertIcon>
+  <styles__AlertContent>
+    <styles__AlertInfoContent>
+      Conteudo de informação
+    </styles__AlertInfoContent>
+  </styles__AlertContent>
+  <styles__AlertIcon>
+    <styles__CloseIcon
+      onClick={[Function]}
+    />
+  </styles__AlertIcon>
+</div>
+`;
+
+exports[`Testing Alert Component should render correctly with onClose function 1`] = `
+<div
+  className=""
+>
+  <styles__AlertIcon>
+    <MdAlertCircle />
+  </styles__AlertIcon>
+  <styles__AlertContent>
+    <styles__AlertInfoContent>
+      Conteudo de informação
+    </styles__AlertInfoContent>
+  </styles__AlertContent>
+  <styles__AlertIcon>
+    <styles__CloseIcon
+      onClick={[MockFunction]}
+    />
+  </styles__AlertIcon>
+</div>
+`;

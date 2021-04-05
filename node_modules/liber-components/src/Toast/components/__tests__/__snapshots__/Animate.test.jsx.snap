@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Animate Component should render correctly with show 1`] = `
+<Transition
+  appear={false}
+  enter={true}
+  exit={true}
+  in={true}
+  mountOnEnter={true}
+  onEnter={[Function]}
+  onEntered={[Function]}
+  onEntering={[Function]}
+  onExit={[Function]}
+  onExited={[Function]}
+  onExiting={[Function]}
+  timeout={400}
+  unmountOnExit={true}
+>
+  <Component />
+</Transition>
+`;
+
+exports[`Testing Animate Component should render correctly without show 1`] = `
+<Transition
+  appear={false}
+  enter={true}
+  exit={true}
+  in={false}
+  mountOnEnter={true}
+  onEnter={[Function]}
+  onEntered={[Function]}
+  onEntering={[Function]}
+  onExit={[Function]}
+  onExited={[Function]}
+  onExiting={[Function]}
+  timeout={400}
+  unmountOnExit={true}
+>
+  <Component />
+</Transition>
+`;

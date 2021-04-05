@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing LabeledContainer Component should render children passed 1`] = `
+<div>
+  <LabeledContainerstyles__LabelContainer>
+    <span>
+      Label
+    </span>
+    <Basestyles__InputError
+      visible={false}
+    />
+  </LabeledContainerstyles__LabelContainer>
+  <div>
+    test
+  </div>
+</div>
+`;
+
+exports[`Testing LabeledContainer Component should render correctly with label 1`] = `
+<div>
+  <LabeledContainerstyles__LabelContainer>
+    <span>
+      Label
+    </span>
+    <Basestyles__InputError
+      visible={false}
+    />
+  </LabeledContainerstyles__LabelContainer>
+</div>
+`;
+
+exports[`Testing LabeledContainer Component should render error when message is passed 1`] = `
+<div>
+  <LabeledContainerstyles__LabelContainer>
+    <span>
+      Label
+    </span>
+    <Basestyles__InputError
+      visible={true}
+    >
+      Error
+    </Basestyles__InputError>
+  </LabeledContainerstyles__LabelContainer>
+</div>
+`;

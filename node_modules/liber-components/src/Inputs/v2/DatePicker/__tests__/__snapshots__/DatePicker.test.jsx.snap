@@ -1,0 +1,265 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for DatePicker should open on Input Focus 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <DatePickerstyles__Container>
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={
+        <ForwardRef(DatePickerstyles__Field)
+          label="Data"
+          mask="99/99/9999"
+          maskChar={null}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
+          value=""
+          version="2"
+          width="340px"
+        />
+      }
+      hasOutsideLabel={false}
+      label=""
+      open={true}
+      position="bottom-left-down-right"
+      window={[Window]}
+    >
+      <DatePickerstyles__CalendarContainer>
+        <MonthCalendar
+          date={null}
+          dayRenderer={[Function]}
+          defaultDate={null}
+          firstDayOfWeek={0}
+          innerRef={null}
+          minDate={null}
+          monthsLabels={
+            Array [
+              "Janeiro",
+              "Fevereiro",
+              "Março",
+              "Abril",
+              "Maio",
+              "Junho",
+              "Julho",
+              "Agosto",
+              "Setembro",
+              "Outubro",
+              "Novembro",
+              "Dezembro",
+            ]
+          }
+          navigation={
+            Array [
+              "prev",
+              "next",
+            ]
+          }
+          onClick={[Function]}
+          onNavigate={[Function]}
+          onlyCurrent={false}
+          version="2"
+          weekLabels={
+            Array [
+              "D",
+              "S",
+              "T",
+              "Q",
+              "Q",
+              "S",
+              "S",
+            ]
+          }
+        />
+      </DatePickerstyles__CalendarContainer>
+    </SimpleDropDown>
+    <DatePickerstyles__Icon
+      hide={false}
+    />
+    <DatePickerstyles__Close
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+      show={false}
+    />
+  </DatePickerstyles__Container>
+</ClickOutside>
+`;
+
+exports[`Test for DatePicker should render correctly with props 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <DatePickerstyles__Container>
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={
+        <ForwardRef(DatePickerstyles__Field)
+          label="Data"
+          mask="99/99/9999"
+          maskChar={null}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
+          value=""
+          version="2"
+          width="340px"
+        />
+      }
+      hasOutsideLabel={false}
+      label=""
+      open={false}
+      position="bottom-left-down-right"
+      window={[Window]}
+    >
+      <DatePickerstyles__CalendarContainer>
+        <MonthCalendar
+          date={null}
+          dayRenderer={[Function]}
+          defaultDate={null}
+          firstDayOfWeek={0}
+          innerRef={null}
+          minDate={null}
+          monthsLabels={
+            Array [
+              "Janeiro",
+              "Fevereiro",
+              "Março",
+              "Abril",
+              "Maio",
+              "Junho",
+              "Julho",
+              "Agosto",
+              "Setembro",
+              "Outubro",
+              "Novembro",
+              "Dezembro",
+            ]
+          }
+          navigation={
+            Array [
+              "prev",
+              "next",
+            ]
+          }
+          onClick={[Function]}
+          onNavigate={[Function]}
+          onlyCurrent={false}
+          version="2"
+          weekLabels={
+            Array [
+              "D",
+              "S",
+              "T",
+              "Q",
+              "Q",
+              "S",
+              "S",
+            ]
+          }
+        />
+      </DatePickerstyles__CalendarContainer>
+    </SimpleDropDown>
+    <DatePickerstyles__Icon
+      hide={false}
+    />
+    <DatePickerstyles__Close
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+      show={false}
+    />
+  </DatePickerstyles__Container>
+</ClickOutside>
+`;
+
+exports[`Test for DatePicker should render correctly without props 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <DatePickerstyles__Container>
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={
+        <ForwardRef(DatePickerstyles__Field)
+          label=""
+          mask="99/99/9999"
+          maskChar={null}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
+          value=""
+          version="2"
+          width="340px"
+        />
+      }
+      hasOutsideLabel={false}
+      label=""
+      open={false}
+      position="bottom-left-down-right"
+      window={[Window]}
+    >
+      <DatePickerstyles__CalendarContainer>
+        <MonthCalendar
+          date={null}
+          dayRenderer={[Function]}
+          defaultDate={null}
+          firstDayOfWeek={0}
+          innerRef={null}
+          minDate={null}
+          monthsLabels={
+            Array [
+              "Janeiro",
+              "Fevereiro",
+              "Março",
+              "Abril",
+              "Maio",
+              "Junho",
+              "Julho",
+              "Agosto",
+              "Setembro",
+              "Outubro",
+              "Novembro",
+              "Dezembro",
+            ]
+          }
+          navigation={
+            Array [
+              "prev",
+              "next",
+            ]
+          }
+          onClick={[Function]}
+          onNavigate={[Function]}
+          onlyCurrent={false}
+          version="2"
+          weekLabels={
+            Array [
+              "D",
+              "S",
+              "T",
+              "Q",
+              "Q",
+              "S",
+              "S",
+            ]
+          }
+        />
+      </DatePickerstyles__CalendarContainer>
+    </SimpleDropDown>
+    <DatePickerstyles__Icon
+      hide={false}
+    />
+    <DatePickerstyles__Close
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+      show={false}
+    />
+  </DatePickerstyles__Container>
+</ClickOutside>
+`;

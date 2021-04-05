@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Upload Component should render correctly  1`] = `
+<Uploadstyles__UploadFile
+  htmlFor="file"
+>
+  <Uploadstyles__InputFile
+    accept=""
+    id="file"
+    onChange={[Function]}
+    type="file"
+  />
+  <Uploadstyles__IconContainer>
+    <Uploadstyles__FileIcon
+      selected={false}
+    />
+    <Uploadstyles__Circle>
+      <Uploadstyles__PlusIcon />
+    </Uploadstyles__Circle>
+  </Uploadstyles__IconContainer>
+  <Uploadstyles__UploadLabel
+    htmlFor="file"
+  />
+</Uploadstyles__UploadFile>
+`;

@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for Action Button should render correctly with props, with tooltip 1`] = `
+<KeyValueDisplaystyles__Box>
+  <KeyValueDisplaystyles__Label>
+    Key
+  </KeyValueDisplaystyles__Label>
+  <KeyValueDisplaystyles__Value>
+    Value
+  </KeyValueDisplaystyles__Value>
+  <KeyValueDisplaystyles__TooltipContainer>
+    <TooltipBox
+      content="Tooltip value"
+      contentPosition="unset"
+      delay={false}
+      delayTime={1500}
+      fixed={true}
+      label=""
+      mount="top"
+      mousePadding={null}
+      show={true}
+    >
+      <KeyValueDisplaystyles__IconContainer>
+        <KeyValueDisplaystyles__Icon />
+      </KeyValueDisplaystyles__IconContainer>
+    </TooltipBox>
+  </KeyValueDisplaystyles__TooltipContainer>
+</KeyValueDisplaystyles__Box>
+`;
+
+exports[`Test for Action Button should render correctly with props, with tooltip and custom icon 1`] = `
+<KeyValueDisplaystyles__Box>
+  <KeyValueDisplaystyles__Label>
+    Key
+  </KeyValueDisplaystyles__Label>
+  <KeyValueDisplaystyles__Value>
+    Value
+  </KeyValueDisplaystyles__Value>
+  <KeyValueDisplaystyles__TooltipContainer>
+    <TooltipBox
+      content="Tooltip value"
+      contentPosition="unset"
+      delay={false}
+      delayTime={1500}
+      fixed={true}
+      label=""
+      mount="top"
+      mousePadding={null}
+      show={true}
+    >
+      <KeyValueDisplaystyles__IconContainer>
+        <FaBuilding
+          className=""
+        />
+      </KeyValueDisplaystyles__IconContainer>
+    </TooltipBox>
+  </KeyValueDisplaystyles__TooltipContainer>
+</KeyValueDisplaystyles__Box>
+`;
+
+exports[`Test for Action Button should render correctly with props, with tooltip in other direction 1`] = `
+<KeyValueDisplaystyles__Box>
+  <KeyValueDisplaystyles__Label>
+    Key
+  </KeyValueDisplaystyles__Label>
+  <KeyValueDisplaystyles__Value>
+    Value
+  </KeyValueDisplaystyles__Value>
+  <KeyValueDisplaystyles__TooltipContainer>
+    <TooltipBox
+      content="Tooltip value"
+      contentPosition="unset"
+      delay={false}
+      delayTime={1500}
+      fixed={true}
+      label=""
+      mount="right"
+      mousePadding={null}
+      show={true}
+    >
+      <KeyValueDisplaystyles__IconContainer>
+        <KeyValueDisplaystyles__Icon />
+      </KeyValueDisplaystyles__IconContainer>
+    </TooltipBox>
+  </KeyValueDisplaystyles__TooltipContainer>
+</KeyValueDisplaystyles__Box>
+`;
+
+exports[`Test for Action Button should render correctly with props, without tooltip 1`] = `
+<KeyValueDisplaystyles__Box>
+  <KeyValueDisplaystyles__Label>
+    Key
+  </KeyValueDisplaystyles__Label>
+  <KeyValueDisplaystyles__Value>
+    Value
+  </KeyValueDisplaystyles__Value>
+</KeyValueDisplaystyles__Box>
+`;
+
+exports[`Test for Action Button should render correctly without props 1`] = `
+<KeyValueDisplaystyles__Box>
+  <KeyValueDisplaystyles__Label>
+    Chave
+  </KeyValueDisplaystyles__Label>
+  <KeyValueDisplaystyles__Value>
+    Valor
+  </KeyValueDisplaystyles__Value>
+</KeyValueDisplaystyles__Box>
+`;

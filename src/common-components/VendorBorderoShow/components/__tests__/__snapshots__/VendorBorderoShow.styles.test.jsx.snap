@@ -1,0 +1,323 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VendorBorderoShow styled components test should render Bunny correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-EHOje",
+        "isStatic": false,
+        "rules": Array [
+          "
+  width: 200px;
+",
+        ],
+      },
+      "displayName": "Styled(Bunny)",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-EHOje",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`VendorBorderoShow styled components test should render Button correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bZQynM",
+        "isStatic": false,
+        "rules": Array [
+          "
+  padding: 0px 34px;
+  text-transform: uppercase;
+",
+        ],
+      },
+      "displayName": "Styled(Buttons__PrimaryButton)",
+      "foldedComponentIds": Array [
+        "Buttons__PrimaryButton-u35aut-1",
+      ],
+      "render": [Function],
+      "styledComponentId": "sc-bZQynM",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`VendorBorderoShow styled components test should render CancelButton correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-gzVnrw",
+        "isStatic": false,
+        "rules": Array [
+          "
+  padding: 0px 34px;
+  text-transform: uppercase;
+",
+          "
+  margin-right: 16px;
+",
+        ],
+      },
+      "displayName": "Styled(Styled(Buttons__PrimaryButton))",
+      "foldedComponentIds": Array [
+        "Buttons__PrimaryButton-u35aut-1",
+        "sc-bZQynM",
+      ],
+      "render": [Function],
+      "styledComponentId": "sc-gzVnrw",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`VendorBorderoShow styled components test should render Container correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bdVaJa",
+        "isStatic": false,
+        "rules": Array [
+          "
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+",
+        ],
+      },
+      "displayName": "styled.div",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-bdVaJa",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`VendorBorderoShow styled components test should render LoadingContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-ifAKCX",
+        "isStatic": false,
+        "rules": Array [
+          "
+  width: 100%;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+",
+        ],
+      },
+      "displayName": "styled.div",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-ifAKCX",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`VendorBorderoShow styled components test should render ScreenTitle correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-htpNat",
+        "isStatic": false,
+        "rules": Array [
+          "
+  font-family: Roboto;
+  font-size: 32px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.41;
+  letter-spacing: 0.13px;
+  text-align: left;
+  color: #009dff;
+  margin-right: 24px;
+  height: 48px;
+",
+        ],
+      },
+      "displayName": "styled.span",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-htpNat",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`VendorBorderoShow styled components test should render ScreenTitleContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bwzfXH",
+        "isStatic": false,
+        "rules": Array [
+          "
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-top: 32px;
+  margin-bottom: 20px;
+
+  & > svg {
+    width: 32px;
+    height: 32px;
+    fill: #009dff;
+    margin-right: 16px;
+    margin-bottom: 2px;
+    cursor: pointer;
+  }
+",
+        ],
+      },
+      "displayName": "styled.div",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-bwzfXH",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`VendorBorderoShow styled components test should render StyledIcon correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bxivhb",
+        "isStatic": false,
+        "rules": Array [
+          "
+  cursor: pointer;
+",
+        ],
+      },
+      "displayName": "Styled(Icon)",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "className": [Function],
+        "color": [Function],
+        "horizontal": [Function],
+        "inStack": [Function],
+        "path": [Function],
+        "rotate": [Function],
+        "size": [Function],
+        "spin": [Function],
+        "style": [Function],
+        "vertical": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "sc-bxivhb",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "color": "currentColor",
+          "horizontal": false,
+          "rotate": 0,
+          "size": null,
+          "spin": false,
+          "vertical": false,
+        },
+        "displayName": "Icon",
+        "propTypes": Object {
+          "className": [Function],
+          "color": [Function],
+          "horizontal": [Function],
+          "inStack": [Function],
+          "path": [Function],
+          "rotate": [Function],
+          "size": [Function],
+          "spin": [Function],
+          "style": [Function],
+          "vertical": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

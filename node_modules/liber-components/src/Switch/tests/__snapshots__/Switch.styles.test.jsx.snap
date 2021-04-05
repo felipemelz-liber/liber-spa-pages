@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Switch styled component tests should render switch Circle correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Switchstyles__Circle-ohl1sr-0",
+        "isStatic": false,
+        "rules": Array [
+          "width:24px;height:24px;background-color:#cdd7df;border-radius:20px;transition-duration:0.3s;",
+        ],
+      },
+      "displayName": "Switchstyles__Circle",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Switchstyles__Circle-ohl1sr-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Switch styled component tests should render switch Container correctly with checked prop 1`] = `
+<StyledComponent
+  checked={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Switchstyles__Container-ohl1sr-1",
+        "isStatic": false,
+        "rules": Array [
+          "width:48px;height:24px;border-radius:20px;border:solid 1px #cdd7df;background-color:#fafafa;display:flex;align-items:center;cursor:pointer;justify-content:center;",
+          [Function],
+        ],
+      },
+      "displayName": "Switchstyles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Switchstyles__Container-ohl1sr-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Switch styled component tests should render switch Container correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Switchstyles__Container-ohl1sr-1",
+        "isStatic": false,
+        "rules": Array [
+          "width:48px;height:24px;border-radius:20px;border:solid 1px #cdd7df;background-color:#fafafa;display:flex;align-items:center;cursor:pointer;justify-content:center;",
+          [Function],
+        ],
+      },
+      "displayName": "Switchstyles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Switchstyles__Container-ohl1sr-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

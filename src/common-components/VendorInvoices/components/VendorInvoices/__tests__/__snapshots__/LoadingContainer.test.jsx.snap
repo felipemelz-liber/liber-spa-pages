@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LoadingContainer tests should render correctly with loading active 1`] = `
+<styled.div
+  loading={true}
+>
+  <Styled(Bunny)
+    loop={true}
+  />
+  <div />
+</styled.div>
+`;
+
+exports[`LoadingContainer tests should render correctly without props 1`] = `
+<styled.div
+  loading={false}
+>
+  <div />
+</styled.div>
+`;

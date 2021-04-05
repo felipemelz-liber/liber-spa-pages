@@ -1,0 +1,112 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BorderoInvoicesFilters component tests should render correctly with props 1`] = `
+<Fragment>
+  <styled.div>
+    Filtrar por: 
+  </styled.div>
+  <ArrayFieldFilter
+    hintText="Digite o(s) número(s) do(s) título(s)"
+    label="Título"
+    onClear={[Function]}
+    onFilter={[Function]}
+    selectedItems={
+      Array [
+        10,
+        20,
+        60,
+      ]
+    }
+    tagsPerLine={6}
+    tagsThreshold={18}
+  />
+  <TextFieldFilter
+    hintText="Digite o número do CNPJ"
+    label="CNPJ"
+    mask="99.999.999/9999-99"
+    onClear={[Function]}
+    onFilter={[Function]}
+    selectedItems="1234567890"
+  />
+  <OptionsFilter
+    filterValues={
+      Array [
+        1,
+        2,
+        6,
+      ]
+    }
+    label="Status"
+    onClear={[Function]}
+    onFilter={[Function]}
+    options={
+      Array [
+        Object {
+          "option": "Solicitado",
+          "value": "requested",
+        },
+        Object {
+          "option": "Antecipado",
+          "value": "anticipated",
+        },
+        Object {
+          "option": "Não Antecipado",
+          "value": "notAnticipated",
+        },
+      ]
+    }
+  />
+  <Styled(Buttons__Button)
+    onClick={[Function]}
+  >
+    Limpar filtros
+  </Styled(Buttons__Button)>
+</Fragment>
+`;
+
+exports[`BorderoInvoicesFilters component tests should render correctly without props 1`] = `
+<Fragment>
+  <styled.div>
+    Filtrar por: 
+  </styled.div>
+  <ArrayFieldFilter
+    hintText="Digite o(s) número(s) do(s) título(s)"
+    label="Título"
+    onClear={[Function]}
+    onFilter={[Function]}
+    selectedItems={null}
+    tagsPerLine={6}
+    tagsThreshold={18}
+  />
+  <TextFieldFilter
+    hintText="Digite o número do CNPJ"
+    label="CNPJ"
+    mask="99.999.999/9999-99"
+    onClear={[Function]}
+    onFilter={[Function]}
+    selectedItems={null}
+  />
+  <OptionsFilter
+    filterValues={null}
+    label="Status"
+    onClear={[Function]}
+    onFilter={[Function]}
+    options={
+      Array [
+        Object {
+          "option": "Solicitado",
+          "value": "requested",
+        },
+        Object {
+          "option": "Antecipado",
+          "value": "anticipated",
+        },
+        Object {
+          "option": "Não Antecipado",
+          "value": "notAnticipated",
+        },
+      ]
+    }
+  />
+</Fragment>
+`;

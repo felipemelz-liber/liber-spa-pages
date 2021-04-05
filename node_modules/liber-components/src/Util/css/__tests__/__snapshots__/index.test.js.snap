@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test css functions generateMinMax() should return css values for height 1`] = `"min-height:40px;max-height:40px;"`;
+
+exports[`Test css functions generateMinMax() should return css values for width 1`] = `
+Array [
+  "min-",
+  "width",
+  ":",
+  "40px",
+  ";max-",
+  "width",
+  ":",
+  "40px",
+  ";",
+]
+`;

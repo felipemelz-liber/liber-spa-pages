@@ -1,0 +1,461 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing DateTimePicker Styles Controlled ClockContainer renders correctly with size = 1000 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimePickerstyles__Icon-sc-3yg887-2",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:#8c9fa9;position:absolute;right:16px;top:calc(50% - 5px);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "DateTimePickerstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimePickerstyles__Icon-sc-3yg887-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  size={1000}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled ClockContainer renders correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimePickerstyles__Icon-sc-3yg887-2",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:#8c9fa9;position:absolute;right:16px;top:calc(50% - 5px);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "DateTimePickerstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimePickerstyles__Icon-sc-3yg887-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Close renders correctly with show = false 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimePickerstyles__Icon-sc-3yg887-2",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:#8c9fa9;position:absolute;right:16px;top:calc(50% - 5px);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "DateTimePickerstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimePickerstyles__Icon-sc-3yg887-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  show={false}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Close renders correctly with show = true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimePickerstyles__Icon-sc-3yg887-2",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:#8c9fa9;position:absolute;right:16px;top:calc(50% - 5px);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "DateTimePickerstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimePickerstyles__Icon-sc-3yg887-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  show={true}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Close renders correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimePickerstyles__Icon-sc-3yg887-2",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:#8c9fa9;position:absolute;right:16px;top:calc(50% - 5px);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "DateTimePickerstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimePickerstyles__Icon-sc-3yg887-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Icon renders correctly with hide = false 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimePickerstyles__Icon-sc-3yg887-2",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:#8c9fa9;position:absolute;right:16px;top:calc(50% - 5px);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "DateTimePickerstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimePickerstyles__Icon-sc-3yg887-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  hide={false}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Icon renders correctly with hide = true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimePickerstyles__Icon-sc-3yg887-2",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:#8c9fa9;position:absolute;right:16px;top:calc(50% - 5px);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "DateTimePickerstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimePickerstyles__Icon-sc-3yg887-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  hide={true}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Icon renders correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimePickerstyles__Icon-sc-3yg887-2",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:#8c9fa9;position:absolute;right:16px;top:calc(50% - 5px);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "DateTimePickerstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimePickerstyles__Icon-sc-3yg887-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Uncontrolled renders ActionFooter correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimePickerstyles__ActionFooter-sc-3yg887-7",
+        "isStatic": false,
+        "rules": Array [
+          "height:48px;display:flex;justify-content:center;align-items:center;border-top:1px solid ",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "DateTimePickerstyles__ActionFooter",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimePickerstyles__ActionFooter-sc-3yg887-7",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Uncontrolled renders CalendarContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimePickerstyles__CalendarContainer-sc-3yg887-5",
+        "isStatic": false,
+        "rules": Array [
+          "padding:32px;",
+        ],
+      },
+      "displayName": "DateTimePickerstyles__CalendarContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimePickerstyles__CalendarContainer-sc-3yg887-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Uncontrolled renders ClockContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimePickerstyles__ClockContainer-sc-3yg887-8",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;height:100%;flex-grow:1;& > ",
+          ".TimePickerstyles__TimeContainer-sc-1tl353t-3",
+          "{width:100%;}",
+        ],
+      },
+      "displayName": "DateTimePickerstyles__ClockContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimePickerstyles__ClockContainer-sc-3yg887-8",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Uncontrolled renders Container correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimePickerstyles__Container-sc-3yg887-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;",
+        ],
+      },
+      "displayName": "DateTimePickerstyles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimePickerstyles__Container-sc-3yg887-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Uncontrolled renders Field correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimePickerstyles__Field-sc-3yg887-1",
+        "isStatic": false,
+        "rules": Array [
+          "padding-right:52px;",
+        ],
+      },
+      "displayName": "DateTimePickerstyles__Field",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimePickerstyles__Field-sc-3yg887-1",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Uncontrolled renders InputSeparator correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimePickerstyles__InputSeparator-sc-3yg887-9",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;left:107px;top:calc(50% - 8px);pointer-events:none;color:#b6c2c9;",
+        ],
+      },
+      "displayName": "DateTimePickerstyles__InputSeparator",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimePickerstyles__InputSeparator-sc-3yg887-9",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Uncontrolled renders PickerBody correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimePickerstyles__PickerBody-sc-3yg887-4",
+        "isStatic": false,
+        "rules": Array [
+          "max-width:340px;overflow:hidden;display:flex;flex-direction:column;justify-content:flex-start;",
+        ],
+      },
+      "displayName": "DateTimePickerstyles__PickerBody",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimePickerstyles__PickerBody-sc-3yg887-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Uncontrolled renders PickerSlider correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimePickerstyles__PickerSlider-sc-3yg887-6",
+        "isStatic": false,
+        "rules": Array [
+          "width:680px;display:flex;align-items:flex-start;transition:transform 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          [Function],
+        ],
+      },
+      "displayName": "DateTimePickerstyles__PickerSlider",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimePickerstyles__PickerSlider-sc-3yg887-6",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

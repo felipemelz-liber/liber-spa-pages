@@ -1,0 +1,1277 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for Inputs Styles Components InputBar should render open and danger background when error 1`] = `
+<StyledComponent
+  error={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputBar-sc-1qxhan1-1",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;z-index:4;background:",
+          [Function],
+          ";box-sizing:content-box;margin:0px;height:2px;width:100%;transform:translateY(-2px) ",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "Basestyles__InputBar",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputBar-sc-1qxhan1-1",
+      "target": "hr",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "fields": Object {
+        "caret": Object {
+          "circle": "#333",
+          "selected": "#444",
+          "unselected": "#555",
+        },
+        "hover": "#123",
+        "inactive": "#000",
+        "primary": "#111",
+        "secondary": "#222",
+        "select": Object {
+          "default": "#666",
+          "focused": "#777",
+          "selected": "#888",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputBar should render open and primary background when focused 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputBar-sc-1qxhan1-1",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;z-index:4;background:",
+          [Function],
+          ";box-sizing:content-box;margin:0px;height:2px;width:100%;transform:translateY(-2px) ",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "Basestyles__InputBar",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputBar-sc-1qxhan1-1",
+      "target": "hr",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={true}
+  theme={
+    Object {
+      "fields": Object {
+        "caret": Object {
+          "circle": "#333",
+          "selected": "#444",
+          "unselected": "#555",
+        },
+        "hover": "#123",
+        "inactive": "#000",
+        "primary": "#111",
+        "secondary": "#222",
+        "select": Object {
+          "default": "#666",
+          "focused": "#777",
+          "selected": "#888",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputBar should render without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputBar-sc-1qxhan1-1",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;z-index:4;background:",
+          [Function],
+          ";box-sizing:content-box;margin:0px;height:2px;width:100%;transform:translateY(-2px) ",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "Basestyles__InputBar",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputBar-sc-1qxhan1-1",
+      "target": "hr",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputBase should render disabled 1`] = `
+<StyledComponent
+  disabled={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputBase-sc-1qxhan1-0",
+        "isStatic": false,
+        "rules": Array [
+          "display:block;position:relative;padding-top:12px;width:",
+          [Function],
+          ";outline:none;pointer-events:",
+          [Function],
+          ";opacity:",
+          [Function],
+          ";*{background-color:transparent;border:none;color:",
+          [Function],
+          ";line-height:24px;font-family:'Roboto',sans-serif;font-size:16px;font-weight:400;text-align:left;}",
+        ],
+      },
+      "displayName": "Basestyles__InputBase",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputBase-sc-1qxhan1-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputBase should render with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputBase-sc-1qxhan1-0",
+        "isStatic": false,
+        "rules": Array [
+          "display:block;position:relative;padding-top:12px;width:",
+          [Function],
+          ";outline:none;pointer-events:",
+          [Function],
+          ";opacity:",
+          [Function],
+          ";*{background-color:transparent;border:none;color:",
+          [Function],
+          ";line-height:24px;font-family:'Roboto',sans-serif;font-size:16px;font-weight:400;text-align:left;}",
+        ],
+      },
+      "displayName": "Basestyles__InputBase",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputBase-sc-1qxhan1-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "fields": Object {
+        "caret": Object {
+          "circle": "#333",
+          "selected": "#444",
+          "unselected": "#555",
+        },
+        "hover": "#123",
+        "inactive": "#000",
+        "primary": "#111",
+        "secondary": "#222",
+        "select": Object {
+          "default": "#666",
+          "focused": "#777",
+          "selected": "#888",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputBase should render with width 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputBase-sc-1qxhan1-0",
+        "isStatic": false,
+        "rules": Array [
+          "display:block;position:relative;padding-top:12px;width:",
+          [Function],
+          ";outline:none;pointer-events:",
+          [Function],
+          ";opacity:",
+          [Function],
+          ";*{background-color:transparent;border:none;color:",
+          [Function],
+          ";line-height:24px;font-family:'Roboto',sans-serif;font-size:16px;font-weight:400;text-align:left;}",
+        ],
+      },
+      "displayName": "Basestyles__InputBase",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputBase-sc-1qxhan1-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  width="100%"
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputBase should render without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputBase-sc-1qxhan1-0",
+        "isStatic": false,
+        "rules": Array [
+          "display:block;position:relative;padding-top:12px;width:",
+          [Function],
+          ";outline:none;pointer-events:",
+          [Function],
+          ";opacity:",
+          [Function],
+          ";*{background-color:transparent;border:none;color:",
+          [Function],
+          ";line-height:24px;font-family:'Roboto',sans-serif;font-size:16px;font-weight:400;text-align:left;}",
+        ],
+      },
+      "displayName": "Basestyles__InputBase",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputBase-sc-1qxhan1-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputCaret should render focused 1`] = `
+<StyledComponent
+  focused={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputCaret-sc-1qxhan1-3",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;display:flex;align-items:center;justify-content:center;height:35px;width:35px;top:calc(50% - 18px);right:4px;pointer-events:none;&:before{content:'';position:absolute;display:block;height:35px;width:35px;background:",
+          [Function],
+          ";border-radius:50%;transform:",
+          [Function],
+          ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);}&:after{content:'';width:0;height:0;padding:0;border-left:5.5px solid transparent;border-right:5.5px solid transparent;border-top:6px solid ",
+          [Function],
+          ";transform:",
+          [Function],
+          ";transition:all 100ms cubic-bezier(0.645,0.045,0.355,1);}",
+        ],
+      },
+      "displayName": "Basestyles__InputCaret",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputCaret-sc-1qxhan1-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputCaret should render open 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputCaret-sc-1qxhan1-3",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;display:flex;align-items:center;justify-content:center;height:35px;width:35px;top:calc(50% - 18px);right:4px;pointer-events:none;&:before{content:'';position:absolute;display:block;height:35px;width:35px;background:",
+          [Function],
+          ";border-radius:50%;transform:",
+          [Function],
+          ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);}&:after{content:'';width:0;height:0;padding:0;border-left:5.5px solid transparent;border-right:5.5px solid transparent;border-top:6px solid ",
+          [Function],
+          ";transform:",
+          [Function],
+          ";transition:all 100ms cubic-bezier(0.645,0.045,0.355,1);}",
+        ],
+      },
+      "displayName": "Basestyles__InputCaret",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputCaret-sc-1qxhan1-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={true}
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputCaret should render selected 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputCaret-sc-1qxhan1-3",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;display:flex;align-items:center;justify-content:center;height:35px;width:35px;top:calc(50% - 18px);right:4px;pointer-events:none;&:before{content:'';position:absolute;display:block;height:35px;width:35px;background:",
+          [Function],
+          ";border-radius:50%;transform:",
+          [Function],
+          ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);}&:after{content:'';width:0;height:0;padding:0;border-left:5.5px solid transparent;border-right:5.5px solid transparent;border-top:6px solid ",
+          [Function],
+          ";transform:",
+          [Function],
+          ";transition:all 100ms cubic-bezier(0.645,0.045,0.355,1);}",
+        ],
+      },
+      "displayName": "Basestyles__InputCaret",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputCaret-sc-1qxhan1-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  selected={true}
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputCaret should render with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputCaret-sc-1qxhan1-3",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;display:flex;align-items:center;justify-content:center;height:35px;width:35px;top:calc(50% - 18px);right:4px;pointer-events:none;&:before{content:'';position:absolute;display:block;height:35px;width:35px;background:",
+          [Function],
+          ";border-radius:50%;transform:",
+          [Function],
+          ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);}&:after{content:'';width:0;height:0;padding:0;border-left:5.5px solid transparent;border-right:5.5px solid transparent;border-top:6px solid ",
+          [Function],
+          ";transform:",
+          [Function],
+          ";transition:all 100ms cubic-bezier(0.645,0.045,0.355,1);}",
+        ],
+      },
+      "displayName": "Basestyles__InputCaret",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputCaret-sc-1qxhan1-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "fields": Object {
+        "caret": Object {
+          "circle": "#333",
+          "selected": "#444",
+          "unselected": "#555",
+        },
+        "hover": "#123",
+        "inactive": "#000",
+        "primary": "#111",
+        "secondary": "#222",
+        "select": Object {
+          "default": "#666",
+          "focused": "#777",
+          "selected": "#888",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputCaret should render without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputCaret-sc-1qxhan1-3",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;display:flex;align-items:center;justify-content:center;height:35px;width:35px;top:calc(50% - 18px);right:4px;pointer-events:none;&:before{content:'';position:absolute;display:block;height:35px;width:35px;background:",
+          [Function],
+          ";border-radius:50%;transform:",
+          [Function],
+          ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);}&:after{content:'';width:0;height:0;padding:0;border-left:5.5px solid transparent;border-right:5.5px solid transparent;border-top:6px solid ",
+          [Function],
+          ";transform:",
+          [Function],
+          ";transition:all 100ms cubic-bezier(0.645,0.045,0.355,1);}",
+        ],
+      },
+      "displayName": "Basestyles__InputCaret",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputCaret-sc-1qxhan1-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputError should render visible 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputError-sc-1qxhan1-2",
+        "isStatic": false,
+        "rules": Array [
+          "width:auto;text-align:left;padding:4px 0px;color:",
+          [Function],
+          ";font-size:12px;line-height:12px;transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);&:before{content:'';}",
+        ],
+      },
+      "displayName": "Basestyles__InputError",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputError-sc-1qxhan1-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "fields": Object {
+        "caret": Object {
+          "circle": "#333",
+          "selected": "#444",
+          "unselected": "#555",
+        },
+        "hover": "#123",
+        "inactive": "#000",
+        "primary": "#111",
+        "secondary": "#222",
+        "select": Object {
+          "default": "#666",
+          "focused": "#777",
+          "selected": "#888",
+        },
+      },
+    }
+  }
+  visible={true}
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputError should render without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputError-sc-1qxhan1-2",
+        "isStatic": false,
+        "rules": Array [
+          "width:auto;text-align:left;padding:4px 0px;color:",
+          [Function],
+          ";font-size:12px;line-height:12px;transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);&:before{content:'';}",
+        ],
+      },
+      "displayName": "Basestyles__InputError",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputError-sc-1qxhan1-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputHelper should render afterError 1`] = `
+<StyledComponent
+  afterError={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputHelper-sc-1qxhan1-9",
+        "isStatic": false,
+        "rules": Array [
+          "display:",
+          [Function],
+          ";position:",
+          [Function],
+          ";width:100%;top:",
+          [Function],
+          ";padding:",
+          [Function],
+          ";& > *{color:",
+          [Function],
+          ";fill:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "Basestyles__InputHelper",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputHelper-sc-1qxhan1-9",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "fields": Object {
+        "caret": Object {
+          "circle": "#333",
+          "selected": "#444",
+          "unselected": "#555",
+        },
+        "hover": "#123",
+        "inactive": "#000",
+        "primary": "#111",
+        "secondary": "#222",
+        "select": Object {
+          "default": "#666",
+          "focused": "#777",
+          "selected": "#888",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputHelper should render visible 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputHelper-sc-1qxhan1-9",
+        "isStatic": false,
+        "rules": Array [
+          "display:",
+          [Function],
+          ";position:",
+          [Function],
+          ";width:100%;top:",
+          [Function],
+          ";padding:",
+          [Function],
+          ";& > *{color:",
+          [Function],
+          ";fill:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "Basestyles__InputHelper",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputHelper-sc-1qxhan1-9",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "fields": Object {
+        "caret": Object {
+          "circle": "#333",
+          "selected": "#444",
+          "unselected": "#555",
+        },
+        "hover": "#123",
+        "inactive": "#000",
+        "primary": "#111",
+        "secondary": "#222",
+        "select": Object {
+          "default": "#666",
+          "focused": "#777",
+          "selected": "#888",
+        },
+      },
+    }
+  }
+  visible={true}
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputHelper should render without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputHelper-sc-1qxhan1-9",
+        "isStatic": false,
+        "rules": Array [
+          "display:",
+          [Function],
+          ";position:",
+          [Function],
+          ";width:100%;top:",
+          [Function],
+          ";padding:",
+          [Function],
+          ";& > *{color:",
+          [Function],
+          ";fill:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "Basestyles__InputHelper",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputHelper-sc-1qxhan1-9",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputHelperIcon should render without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputHelperIcon-sc-1qxhan1-10",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;width:15px;height:15px;margin:1px 0px;",
+        ],
+      },
+      "displayName": "Basestyles__InputHelperIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputHelperIcon-sc-1qxhan1-10",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputHelperText should render without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputHelperText-sc-1qxhan1-11",
+        "isStatic": false,
+        "rules": Array [
+          "margin-left:18px;padding-left:5px;font-size:12px;",
+        ],
+      },
+      "displayName": "Basestyles__InputHelperText",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputHelperText-sc-1qxhan1-11",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputHint should render visible 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputHint-sc-1qxhan1-6",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:12px;padding:8px 0px;color:",
+          [Function],
+          ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;width:inherit;overflow:hidden;",
+        ],
+      },
+      "displayName": "Basestyles__InputHint",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputHint-sc-1qxhan1-6",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "fields": Object {
+        "caret": Object {
+          "circle": "#333",
+          "selected": "#444",
+          "unselected": "#555",
+        },
+        "hover": "#123",
+        "inactive": "#000",
+        "primary": "#111",
+        "secondary": "#222",
+        "select": Object {
+          "default": "#666",
+          "focused": "#777",
+          "selected": "#888",
+        },
+      },
+    }
+  }
+  visible={true}
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputHint should render without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputHint-sc-1qxhan1-6",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:12px;padding:8px 0px;color:",
+          [Function],
+          ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;width:inherit;overflow:hidden;",
+        ],
+      },
+      "displayName": "Basestyles__InputHint",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputHint-sc-1qxhan1-6",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputInactive should render invisible 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputInactive-sc-1qxhan1-5",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Basestyles__InputInactive",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputInactive-sc-1qxhan1-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "fields": Object {
+        "caret": Object {
+          "circle": "#333",
+          "selected": "#444",
+          "unselected": "#555",
+        },
+        "hover": "#123",
+        "inactive": "#000",
+        "primary": "#111",
+        "secondary": "#222",
+        "select": Object {
+          "default": "#666",
+          "focused": "#777",
+          "selected": "#888",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputInactive should render visible 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputInactive-sc-1qxhan1-5",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Basestyles__InputInactive",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputInactive-sc-1qxhan1-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "fields": Object {
+        "caret": Object {
+          "circle": "#333",
+          "selected": "#444",
+          "unselected": "#555",
+        },
+        "hover": "#123",
+        "inactive": "#000",
+        "primary": "#111",
+        "secondary": "#222",
+        "select": Object {
+          "default": "#666",
+          "focused": "#777",
+          "selected": "#888",
+        },
+      },
+    }
+  }
+  visible={true}
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputInactive should render without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputInactive-sc-1qxhan1-5",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Basestyles__InputInactive",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputInactive-sc-1qxhan1-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputLabel should render positioned with danger color when error and focused 1`] = `
+<StyledComponent
+  error={true}
+  focused={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputLabel-sc-1qxhan1-4",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;text-align:left;font-size:",
+          [Function],
+          ";color:",
+          [Function],
+          ";top:",
+          [Function],
+          ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;width:inherit;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;user-select:none;",
+        ],
+      },
+      "displayName": "Basestyles__InputLabel",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputLabel-sc-1qxhan1-4",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "fields": Object {
+        "caret": Object {
+          "circle": "#333",
+          "selected": "#444",
+          "unselected": "#555",
+        },
+        "hover": "#123",
+        "inactive": "#000",
+        "primary": "#111",
+        "secondary": "#222",
+        "select": Object {
+          "default": "#666",
+          "focused": "#777",
+          "selected": "#888",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputLabel should render positioned with inactive color when error and valid 1`] = `
+<StyledComponent
+  error={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputLabel-sc-1qxhan1-4",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;text-align:left;font-size:",
+          [Function],
+          ";color:",
+          [Function],
+          ";top:",
+          [Function],
+          ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;width:inherit;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;user-select:none;",
+        ],
+      },
+      "displayName": "Basestyles__InputLabel",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputLabel-sc-1qxhan1-4",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "fields": Object {
+        "caret": Object {
+          "circle": "#333",
+          "selected": "#444",
+          "unselected": "#555",
+        },
+        "hover": "#123",
+        "inactive": "#000",
+        "primary": "#111",
+        "secondary": "#222",
+        "select": Object {
+          "default": "#666",
+          "focused": "#777",
+          "selected": "#888",
+        },
+      },
+    }
+  }
+  valid={true}
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputLabel should render positioned with inactive color when valid 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputLabel-sc-1qxhan1-4",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;text-align:left;font-size:",
+          [Function],
+          ";color:",
+          [Function],
+          ";top:",
+          [Function],
+          ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;width:inherit;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;user-select:none;",
+        ],
+      },
+      "displayName": "Basestyles__InputLabel",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputLabel-sc-1qxhan1-4",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "fields": Object {
+        "caret": Object {
+          "circle": "#333",
+          "selected": "#444",
+          "unselected": "#555",
+        },
+        "hover": "#123",
+        "inactive": "#000",
+        "primary": "#111",
+        "secondary": "#222",
+        "select": Object {
+          "default": "#666",
+          "focused": "#777",
+          "selected": "#888",
+        },
+      },
+    }
+  }
+  valid={true}
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputLabel should render positioned with primary color when focused 1`] = `
+<StyledComponent
+  focused={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputLabel-sc-1qxhan1-4",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;text-align:left;font-size:",
+          [Function],
+          ";color:",
+          [Function],
+          ";top:",
+          [Function],
+          ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;width:inherit;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;user-select:none;",
+        ],
+      },
+      "displayName": "Basestyles__InputLabel",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputLabel-sc-1qxhan1-4",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "fields": Object {
+        "caret": Object {
+          "circle": "#333",
+          "selected": "#444",
+          "unselected": "#555",
+        },
+        "hover": "#123",
+        "inactive": "#000",
+        "primary": "#111",
+        "secondary": "#222",
+        "select": Object {
+          "default": "#666",
+          "focused": "#777",
+          "selected": "#888",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputLabel should render without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputLabel-sc-1qxhan1-4",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;text-align:left;font-size:",
+          [Function],
+          ";color:",
+          [Function],
+          ";top:",
+          [Function],
+          ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;width:inherit;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;user-select:none;",
+        ],
+      },
+      "displayName": "Basestyles__InputLabel",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputLabel-sc-1qxhan1-4",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components InputText should render without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Basestyles__InputText-sc-1qxhan1-8",
+        "isStatic": false,
+        "rules": Array [
+          "padding:8px 0px;border-bottom:2px solid ",
+          [Function],
+          ";box-shadow:none;width:100%;padding-left:",
+          [Function],
+          ";box-sizing:border-box;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&::placeholder{color:transparent;}&:-webkit-autofill,&:-webkit-autofill:hover,&:-webkit-autofill:focus,&:-webkit-autofill:active{-webkit-box-shadow:0 0 0px 1000px #fff inset !important;transition:background-color 99999s ease-in-out 0s;}}",
+        ],
+      },
+      "displayName": "Basestyles__InputText",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Basestyles__InputText-sc-1qxhan1-8",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

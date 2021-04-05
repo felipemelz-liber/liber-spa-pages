@@ -1,0 +1,783 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing GenericStyles Badge Should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__Badge-jict78-10",
+        "isStatic": false,
+        "rules": Array [
+          "line-height:22px;font-weight:bold;border-radius:8px;background-color:#007ecc;color:#fafafa;padding:2px 9px;display:inline;margin-right:16px;font-size:18px;",
+        ],
+      },
+      "displayName": "GenericStyles__Badge",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__Badge-jict78-10",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing GenericStyles BlueButton Should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__BlueButton-jict78-13",
+        "isStatic": false,
+        "rules": Array [
+          "background-color:#a4a4a4;color:#ffffff;border:0px;border-radius:2px;height:49px;font-size:20px;font-weight:600;cursor:pointer;padding:0 16px;width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;position:relative;overflow:hidden;:focus{outline:0;}&:hover{background-color:#757575;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:rgba(206,206,206,0.5);opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:#009dff;color:#fafafa;width:341px;margin-top:25px;margin-left:10px;&:hover{background-color:#006fcb;}",
+        ],
+      },
+      "displayName": "GenericStyles__BlueButton",
+      "foldedComponentIds": Array [
+        "GenericStyles__Button-jict78-7",
+      ],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__BlueButton-jict78-13",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing GenericStyles Button Should render correctly with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__Button-jict78-7",
+        "isStatic": false,
+        "rules": Array [
+          "background-color:#a4a4a4;color:#ffffff;border:0px;border-radius:2px;height:49px;font-size:20px;font-weight:600;cursor:pointer;padding:0 16px;width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;position:relative;overflow:hidden;:focus{outline:0;}&:hover{background-color:#757575;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:rgba(206,206,206,0.5);opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+        ],
+      },
+      "displayName": "GenericStyles__Button",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__Button-jict78-7",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  height="60px"
+  width="100%"
+/>
+`;
+
+exports[`Testing GenericStyles Button Should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__Button-jict78-7",
+        "isStatic": false,
+        "rules": Array [
+          "background-color:#a4a4a4;color:#ffffff;border:0px;border-radius:2px;height:49px;font-size:20px;font-weight:600;cursor:pointer;padding:0 16px;width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;position:relative;overflow:hidden;:focus{outline:0;}&:hover{background-color:#757575;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:rgba(206,206,206,0.5);opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+        ],
+      },
+      "displayName": "GenericStyles__Button",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__Button-jict78-7",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing GenericStyles Card Should render correctly with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__Card-jict78-4",
+        "isStatic": false,
+        "rules": Array [
+          "background-color:#ffffff;box-shadow:0 2px 5px 0 rgba(0,0,0,0.2);overflow:hidden;display:inline-block;position:relative;margin:8px 25px 16px 0;height:",
+          [Function],
+          ";margin-right:0px;width:100%;@media (min-width:576px){margin-right:0px;width:100%;}@media (min-width:768px){margin-right:0px;width:100%;}@media (min-width:992px){margin-right:25px;width:",
+          [Function],
+          ";}@media (min-width:1200px){margin-right:25px;width:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "GenericStyles__Card",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__Card-jict78-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  height="120px"
+  width="600px"
+/>
+`;
+
+exports[`Testing GenericStyles Card Should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__Card-jict78-4",
+        "isStatic": false,
+        "rules": Array [
+          "background-color:#ffffff;box-shadow:0 2px 5px 0 rgba(0,0,0,0.2);overflow:hidden;display:inline-block;position:relative;margin:8px 25px 16px 0;height:",
+          [Function],
+          ";margin-right:0px;width:100%;@media (min-width:576px){margin-right:0px;width:100%;}@media (min-width:768px){margin-right:0px;width:100%;}@media (min-width:992px){margin-right:25px;width:",
+          [Function],
+          ";}@media (min-width:1200px){margin-right:25px;width:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "GenericStyles__Card",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__Card-jict78-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing GenericStyles CardTitle Should render correctly with props 1`] = `
+<StyledComponent
+  backgroundColor="yellow"
+  color="#000"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__CardTitle-jict78-5",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:Roboto;font-size:20px;font-weight:900;text-align:center;color:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";border-radius:2px 2px 0px 0;padding:8px 0;text-transform:uppercase;box-sizing:border-box;",
+        ],
+      },
+      "displayName": "GenericStyles__CardTitle",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__CardTitle-jict78-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing GenericStyles CardTitle Should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__CardTitle-jict78-5",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:Roboto;font-size:20px;font-weight:900;text-align:center;color:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";border-radius:2px 2px 0px 0;padding:8px 0;text-transform:uppercase;box-sizing:border-box;",
+        ],
+      },
+      "displayName": "GenericStyles__CardTitle",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__CardTitle-jict78-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing GenericStyles Container Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__Container-jict78-0",
+        "isStatic": false,
+        "rules": Array [
+          "margin:0 auto;max-width:100%;padding-right:15px;padding-left:15px;box-sizing:border-box;width:540px;@media (min-width:576px){width:540px;}@media (min-width:768px){width:720px;}@media (min-width:992px){width:960px;}@media (min-width:1200px){width:1140px;}",
+        ],
+      },
+      "displayName": "GenericStyles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__Container-jict78-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing GenericStyles Header2 Should render correctly with props 1`] = `
+<StyledComponent
+  color="#000"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__Header2-jict78-1",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";font-size:40px;margin:15px 0px 9px 0px;font-family:Roboto;font-weight:500;",
+        ],
+      },
+      "displayName": "GenericStyles__Header2",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__Header2-jict78-1",
+      "target": "h2",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing GenericStyles Header2 Should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__Header2-jict78-1",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";font-size:40px;margin:15px 0px 9px 0px;font-family:Roboto;font-weight:500;",
+        ],
+      },
+      "displayName": "GenericStyles__Header2",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__Header2-jict78-1",
+      "target": "h2",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing GenericStyles Header3 Should render correctly with props 1`] = `
+<StyledComponent
+  color="#000"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__Header3-jict78-2",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";font-weight:bold;font-size:30px;margin:15px 0px 9px 0px;font-family:inherit;",
+        ],
+      },
+      "displayName": "GenericStyles__Header3",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__Header3-jict78-2",
+      "target": "h2",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing GenericStyles Header3 Should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__Header3-jict78-2",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";font-weight:bold;font-size:30px;margin:15px 0px 9px 0px;font-family:inherit;",
+        ],
+      },
+      "displayName": "GenericStyles__Header3",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__Header3-jict78-2",
+      "target": "h2",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing GenericStyles Header4 Should render correctly with props 1`] = `
+<StyledComponent
+  color="#000"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__Header4-jict78-3",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";font-weight:bold;font-size:24px;margin:15px 0px 9px 0px;font-family:inherit;",
+        ],
+      },
+      "displayName": "GenericStyles__Header4",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__Header4-jict78-3",
+      "target": "h2",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing GenericStyles Header4 Should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__Header4-jict78-3",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";font-weight:bold;font-size:24px;margin:15px 0px 9px 0px;font-family:inherit;",
+        ],
+      },
+      "displayName": "GenericStyles__Header4",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__Header4-jict78-3",
+      "target": "h2",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing GenericStyles Hr Should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__Hr-jict78-9",
+        "isStatic": false,
+        "rules": Array [
+          "border:0;border-top:1px solid rgba(0,0,0,0.1);margin:18px 0px;",
+        ],
+      },
+      "displayName": "GenericStyles__Hr",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__Hr-jict78-9",
+      "target": "hr",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing GenericStyles Link Should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__Link-jict78-14",
+        "isStatic": false,
+        "rules": Array [
+          "font-size:16px;font-weight:500;text-decoration:none;color:#009dff;transition:color 450ms cubic-bezier(0.23,1,0.32,1) 0ms;&:hover{color:#006fcb;}",
+        ],
+      },
+      "displayName": "GenericStyles__Link",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__Link-jict78-14",
+      "target": "a",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+/>
+`;
+
+exports[`Testing GenericStyles LinkButton Should render correctly with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__LinkButton-jict78-8",
+        "isStatic": false,
+        "rules": Array [
+          "background-color:#ffffff;color:#000000;border:0px;border-radius:2px;font-size:20px;font-weight:600;cursor:pointer;padding:0px 16px;width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;display:flex;justify-content:center;align-items:center;box-sizing:border-box;position:relative;overflow:hidden;&:hover{background-color:#cecece;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:rgba(206,206,206,0.5);opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+        ],
+      },
+      "displayName": "GenericStyles__LinkButton",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__LinkButton-jict78-8",
+      "target": "a",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  height="60px"
+  width="100%"
+/>
+`;
+
+exports[`Testing GenericStyles LinkButton Should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__LinkButton-jict78-8",
+        "isStatic": false,
+        "rules": Array [
+          "background-color:#ffffff;color:#000000;border:0px;border-radius:2px;font-size:20px;font-weight:600;cursor:pointer;padding:0px 16px;width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;display:flex;justify-content:center;align-items:center;box-sizing:border-box;position:relative;overflow:hidden;&:hover{background-color:#cecece;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:rgba(206,206,206,0.5);opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+        ],
+      },
+      "displayName": "GenericStyles__LinkButton",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__LinkButton-jict78-8",
+      "target": "a",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing GenericStyles Row Should render correctly with props 1`] = `
+<StyledComponent
+  alignItems="flex-end"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__Row-jict78-11",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;justify-content:",
+          [Function],
+          ";align-items:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "GenericStyles__Row",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__Row-jict78-11",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  justifyContent="flex-end"
+/>
+`;
+
+exports[`Testing GenericStyles Row Should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__Row-jict78-11",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;justify-content:",
+          [Function],
+          ";align-items:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "GenericStyles__Row",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__Row-jict78-11",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing GenericStyles SpinnigSpinner Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__SpinnigSpinner-jict78-6",
+        "isStatic": false,
+        "rules": Array [
+          "width:25px;height:25px;animation:",
+          Keyframes {
+            "id": "sc-keyframes-ibwhYF",
+            "inject": [Function],
+            "name": "ibwhYF",
+            "rules": Array [
+              "@-webkit-keyframes ibwhYF{to{-webkit-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg);}}",
+              "@keyframes ibwhYF{to{-webkit-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg);}}",
+            ],
+            "toString": [Function],
+          },
+          " 2s linear infinite;fill:#009dff;",
+        ],
+      },
+      "displayName": "GenericStyles__SpinnigSpinner",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__SpinnigSpinner-jict78-6",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing GenericStyles WhiteButton Should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "GenericStyles__WhiteButton-jict78-12",
+        "isStatic": false,
+        "rules": Array [
+          "background-color:#ffffff;color:#000000;border:0px;border-radius:2px;font-size:20px;font-weight:600;cursor:pointer;padding:0px 16px;width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;display:flex;justify-content:center;align-items:center;box-sizing:border-box;position:relative;overflow:hidden;&:hover{background-color:#cecece;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:rgba(206,206,206,0.5);opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:#fafafa;color:#009dff !important;border:2px solid #009dff;width:233px;margin-top:25px;margin-left:10px;&:hover{background-color:#006fcb;color:#fafafa !important;border:0px;}",
+        ],
+      },
+      "displayName": "GenericStyles__WhiteButton",
+      "foldedComponentIds": Array [
+        "GenericStyles__LinkButton-jict78-8",
+      ],
+      "render": [Function],
+      "styledComponentId": "GenericStyles__WhiteButton-jict78-12",
+      "target": "a",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

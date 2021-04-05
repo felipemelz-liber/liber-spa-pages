@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BankAccount component tests should render correctly with props 1`] = `
+<styled.div>
+  <BankAccount
+    account="54025"
+    accountCd="7"
+    bankCode="160"
+    bankName="Nu Pagamentos S.A."
+    branch="004"
+    branchCd="7"
+  />
+</styled.div>
+`;
+
+exports[`BankAccount component tests should render correctly without props 1`] = `
+<styled.div>
+  <BankAccount
+    account=""
+    accountCd=""
+    bankCode=""
+    bankName=""
+    branch=""
+    branchCd=""
+  />
+</styled.div>
+`;

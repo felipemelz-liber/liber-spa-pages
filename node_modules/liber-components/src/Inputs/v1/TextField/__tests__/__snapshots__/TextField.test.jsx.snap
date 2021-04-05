@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for TextField Component should render correctly without props 1`] = `
+<Basestyles__InputBase
+  disabled={false}
+  onBlur={[Function]}
+  onFocus={[Function]}
+  width="256px"
+>
+  <Basestyles__InputLabel
+    error={false}
+    focused={false}
+    htmlFor="abcde"
+    open={false}
+    valid={false}
+  />
+  <Basestyles__InputHint
+    visible={true}
+  />
+  <Basestyles__InputPrefix
+    error={false}
+    focused={false}
+    valid={false}
+    visible={false}
+  />
+  <Basestyles__InputText
+    id="abcde"
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    padding={null}
+    tabIndex="0"
+    type="text"
+    value=""
+  />
+  <Basestyles__InputBar
+    error={false}
+    open={false}
+    valid={false}
+  />
+  <Basestyles__InputError
+    visible={false}
+  />
+  <Basestyles__InputHelper
+    afterError={false}
+    visible={false}
+  >
+    <Basestyles__InputHelperIcon />
+    <Basestyles__InputHelperText />
+  </Basestyles__InputHelper>
+</Basestyles__InputBase>
+`;

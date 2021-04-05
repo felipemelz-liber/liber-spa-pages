@@ -1,0 +1,1790 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test ModalTag Component should render correctly with props 1`] = `
+<ModalTag
+  closable={false}
+  dialogOffset={16}
+  elementId="other"
+  label="Label"
+  mount="bottom-left"
+  onClose={[Function]}
+  overflow="position"
+  rect={null}
+>
+  <ModalTagstyles__Container>
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "ModalTagstyles__Container-ghsnch-2",
+            "isStatic": false,
+            "lastClassName": "gKcOJi",
+            "rules": Array [
+              "padding-right:12px;position:relative;",
+            ],
+          },
+          "displayName": "ModalTagstyles__Container",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "ModalTagstyles__Container-ghsnch-2",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="ModalTagstyles__Container-ghsnch-2 gKcOJi"
+      >
+        <ModalTagstyles__WhiteTag
+          closable={false}
+          onClick={[Function]}
+          onClose={[Function]}
+          rect={null}
+        >
+          <StyledComponent
+            closable={false}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "ModalTagstyles__WhiteTag-ghsnch-0",
+                  "isStatic": false,
+                  "lastClassName": "hbxCYR",
+                  "rules": Array [
+                    "--tag-border-color:",
+                    [Function],
+                    ";--tag-background-color:",
+                    [Function],
+                    ";--tag-color:",
+                    [Function],
+                    ";",
+                    "cursor:pointer;margin:0;",
+                  ],
+                },
+                "displayName": "ModalTagstyles__WhiteTag",
+                "foldedComponentIds": Array [
+                  "Tags__WhiteTag-sc-1u635a7-7",
+                ],
+                "propTypes": Object {
+                  "children": [Function],
+                  "closable": [Function],
+                  "height": [Function],
+                  "onClose": [Function],
+                  "variant": [Function],
+                },
+                "render": [Function],
+                "styledComponentId": "ModalTagstyles__WhiteTag-ghsnch-0",
+                "target": Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "defaultProps": Object {
+                    "children": "",
+                    "closable": false,
+                    "height": 28,
+                    "onClose": [Function],
+                    "variant": "default",
+                  },
+                  "displayName": "Tag",
+                  "propTypes": Object {
+                    "children": [Function],
+                    "closable": [Function],
+                    "height": [Function],
+                    "onClose": [Function],
+                    "variant": [Function],
+                  },
+                  "render": [Function],
+                },
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={
+              Object {
+                "current": <div
+                  class="Tags__BaseTag-sc-1u635a7-1 cdYPpb Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__WhiteTag-ghsnch-0 hbxCYR"
+                  height="28"
+                >
+                  Label
+                </div>,
+              }
+            }
+            onClick={[Function]}
+            onClose={[Function]}
+            rect={null}
+          >
+            <Tag
+              className="Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__WhiteTag-ghsnch-0 hbxCYR"
+              closable={false}
+              height={28}
+              onClick={[Function]}
+              onClose={[Function]}
+              rect={null}
+              variant="default"
+            >
+              <Tags__BaseTag
+                className="Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__WhiteTag-ghsnch-0 hbxCYR"
+                closable={false}
+                height={28}
+                onClick={[Function]}
+                rect={null}
+                variant="default"
+              >
+                <StyledComponent
+                  className="Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__WhiteTag-ghsnch-0 hbxCYR"
+                  closable={false}
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "Tags__BaseTag-sc-1u635a7-1",
+                        "isStatic": false,
+                        "lastClassName": "cdYPpb",
+                        "rules": Array [
+                          "--inner-tag-border-color:var(--tag-border-color);--inner-tag-background-color:var(--tag-background-color);--inner-tag-color:var(--tag-color);height:",
+                          [Function],
+                          "px;border:1px solid var(--inner-tag-border-color,",
+                          [Function],
+                          ");color:var( --inner-tag-color,",
+                          [Function],
+                          " );background-color:var( --inner-tag-background-color,",
+                          [Function],
+                          " );padding:0px 12px;border-radius:",
+                          [Function],
+                          "px;display:inline-flex;justify-content:flex-start;align-items:center;margin-right:12px;font-family:",
+                          [Function],
+                          ";font-size:",
+                          [Function],
+                          ";font-weight:",
+                          [Function],
+                          ";box-sizing:border-box;",
+                          [Function],
+                          " & > svg{fill:var(--inner-tag-color,#405f71);--size:16px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);}& > svg:not(",
+                          ".Tags__Close-sc-1u635a7-0",
+                          "){margin-right:8px;}",
+                        ],
+                      },
+                      "displayName": "Tags__BaseTag",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "Tags__BaseTag-sc-1u635a7-1",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={
+                    Object {
+                      "current": <div
+                        class="Tags__BaseTag-sc-1u635a7-1 cdYPpb Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__WhiteTag-ghsnch-0 hbxCYR"
+                        height="28"
+                      >
+                        Label
+                      </div>,
+                    }
+                  }
+                  height={28}
+                  onClick={[Function]}
+                  rect={null}
+                  variant="default"
+                >
+                  <div
+                    className="Tags__BaseTag-sc-1u635a7-1 cdYPpb Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__WhiteTag-ghsnch-0 hbxCYR"
+                    height={28}
+                    onClick={[Function]}
+                  >
+                    Label
+                  </div>
+                </StyledComponent>
+              </Tags__BaseTag>
+            </Tag>
+          </StyledComponent>
+        </ModalTagstyles__WhiteTag>
+        <Modal
+          animateFrom="-16px"
+          animation="ease-in-out"
+          cardRef={
+            Object {
+              "current": Object {
+                "getBoundingClientRect": [Function],
+              },
+            }
+          }
+          closable={true}
+          closeButton={false}
+          closeButtonPadding="10px 14px"
+          duration={120}
+          elementId="other"
+          fullscreen={false}
+          insertComponent={
+            <ForwardRef(ModalTagstyles__FloatingTag)
+              closable={false}
+              position={
+                Object {
+                  "x": undefined,
+                  "y": undefined,
+                }
+              }
+            >
+              Label
+            </ForwardRef(ModalTagstyles__FloatingTag)>
+          }
+          label=""
+          labelAlign="left"
+          onAppearStart={[Function]}
+          onAppeared={[Function]}
+          onLeaveStart={[Function]}
+          onLeaved={[Function]}
+          overflow=""
+          position={
+            Object {
+              "fromX": "left",
+              "x": undefined,
+              "y": NaN,
+            }
+          }
+          show={false}
+        >
+          <Portal
+            containerInfo={
+              <div
+                id="other"
+              >
+                <div
+                  class="DialogStyles__DialogContainer-sc-1tnwai9-1 fFanJr"
+                >
+                  <div
+                    class="Tags__BaseTag-sc-1u635a7-1 cdYPpb Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__FloatingTag-ghsnch-1 ccvUho"
+                    height="28"
+                  >
+                    Label
+                  </div>
+                </div>
+              </div>
+            }
+          >
+            <DialogStyles__DialogContainer
+              blockNavigation={true}
+              show={false}
+            >
+              <StyledComponent
+                blockNavigation={true}
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "_foldedDefaultProps": Object {
+                      "blockNavigation": true,
+                    },
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+                      "isStatic": false,
+                      "lastClassName": "fFanJr",
+                      "rules": Array [
+                        "position:fixed;pointer-events:",
+                        [Function],
+                        ";top:0px;left:0px;width:100vw;height:100vh;z-index:9999;display:",
+                        [Function],
+                        ";justify-content:center;align-items:center;",
+                      ],
+                    },
+                    "displayName": "DialogStyles__DialogContainer",
+                    "foldedComponentIds": Array [],
+                    "propTypes": Object {
+                      "blockNavigation": [Function],
+                    },
+                    "render": [Function],
+                    "styledComponentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                show={false}
+              >
+                <div
+                  className="DialogStyles__DialogContainer-sc-1tnwai9-1 fFanJr"
+                >
+                  <Transition
+                    appear={false}
+                    enter={true}
+                    exit={true}
+                    in={false}
+                    mountOnEnter={true}
+                    onEnter={[Function]}
+                    onEntered={[Function]}
+                    onEntering={[Function]}
+                    onExit={[Function]}
+                    onExited={[Function]}
+                    onExiting={[Function]}
+                    timeout={
+                      Object {
+                        "enter": 120,
+                        "exit": 240,
+                      }
+                    }
+                    unmountOnExit={true}
+                  />
+                  <ModalTagstyles__FloatingTag
+                    closable={false}
+                    position={
+                      Object {
+                        "x": undefined,
+                        "y": undefined,
+                      }
+                    }
+                  >
+                    <StyledComponent
+                      closable={false}
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "_foldedDefaultProps": Object {
+                            "position": Object {},
+                          },
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "ModalTagstyles__FloatingTag-ghsnch-1",
+                            "isStatic": false,
+                            "lastClassName": "ccvUho",
+                            "rules": Array [
+                              "--tag-border-color:",
+                              [Function],
+                              ";--tag-background-color:",
+                              [Function],
+                              ";--tag-color:",
+                              [Function],
+                              ";",
+                              "position:absolute;pointer-events:none;",
+                              [Function],
+                            ],
+                          },
+                          "displayName": "ModalTagstyles__FloatingTag",
+                          "foldedComponentIds": Array [
+                            "Tags__WhiteTag-sc-1u635a7-7",
+                          ],
+                          "propTypes": Object {
+                            "children": [Function],
+                            "closable": [Function],
+                            "height": [Function],
+                            "onClose": [Function],
+                            "variant": [Function],
+                          },
+                          "render": [Function],
+                          "styledComponentId": "ModalTagstyles__FloatingTag-ghsnch-1",
+                          "target": Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "defaultProps": Object {
+                              "children": "",
+                              "closable": false,
+                              "height": 28,
+                              "onClose": [Function],
+                              "variant": "default",
+                            },
+                            "displayName": "Tag",
+                            "propTypes": Object {
+                              "children": [Function],
+                              "closable": [Function],
+                              "height": [Function],
+                              "onClose": [Function],
+                              "variant": [Function],
+                            },
+                            "render": [Function],
+                          },
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      position={
+                        Object {
+                          "x": undefined,
+                          "y": undefined,
+                        }
+                      }
+                    >
+                      <Tag
+                        className="Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__FloatingTag-ghsnch-1 ccvUho"
+                        closable={false}
+                        height={28}
+                        onClose={[Function]}
+                        position={
+                          Object {
+                            "x": undefined,
+                            "y": undefined,
+                          }
+                        }
+                        variant="default"
+                      >
+                        <Tags__BaseTag
+                          className="Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__FloatingTag-ghsnch-1 ccvUho"
+                          closable={false}
+                          height={28}
+                          position={
+                            Object {
+                              "x": undefined,
+                              "y": undefined,
+                            }
+                          }
+                          variant="default"
+                        >
+                          <StyledComponent
+                            className="Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__FloatingTag-ghsnch-1 ccvUho"
+                            closable={false}
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "Tags__BaseTag-sc-1u635a7-1",
+                                  "isStatic": false,
+                                  "lastClassName": "cdYPpb",
+                                  "rules": Array [
+                                    "--inner-tag-border-color:var(--tag-border-color);--inner-tag-background-color:var(--tag-background-color);--inner-tag-color:var(--tag-color);height:",
+                                    [Function],
+                                    "px;border:1px solid var(--inner-tag-border-color,",
+                                    [Function],
+                                    ");color:var( --inner-tag-color,",
+                                    [Function],
+                                    " );background-color:var( --inner-tag-background-color,",
+                                    [Function],
+                                    " );padding:0px 12px;border-radius:",
+                                    [Function],
+                                    "px;display:inline-flex;justify-content:flex-start;align-items:center;margin-right:12px;font-family:",
+                                    [Function],
+                                    ";font-size:",
+                                    [Function],
+                                    ";font-weight:",
+                                    [Function],
+                                    ";box-sizing:border-box;",
+                                    [Function],
+                                    " & > svg{fill:var(--inner-tag-color,#405f71);--size:16px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);}& > svg:not(",
+                                    ".Tags__Close-sc-1u635a7-0",
+                                    "){margin-right:8px;}",
+                                  ],
+                                },
+                                "displayName": "Tags__BaseTag",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "Tags__BaseTag-sc-1u635a7-1",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                            height={28}
+                            position={
+                              Object {
+                                "x": undefined,
+                                "y": undefined,
+                              }
+                            }
+                            variant="default"
+                          >
+                            <div
+                              className="Tags__BaseTag-sc-1u635a7-1 cdYPpb Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__FloatingTag-ghsnch-1 ccvUho"
+                              height={28}
+                            >
+                              Label
+                            </div>
+                          </StyledComponent>
+                        </Tags__BaseTag>
+                      </Tag>
+                    </StyledComponent>
+                  </ModalTagstyles__FloatingTag>
+                  <Transition
+                    appear={false}
+                    enter={true}
+                    exit={true}
+                    in={false}
+                    mountOnEnter={true}
+                    onEnter={[Function]}
+                    onEntered={[Function]}
+                    onEntering={[Function]}
+                    onExit={[Function]}
+                    onExited={[Function]}
+                    onExiting={[Function]}
+                    timeout={
+                      Object {
+                        "enter": 240,
+                        "exit": 120,
+                      }
+                    }
+                    unmountOnExit={true}
+                  />
+                </div>
+              </StyledComponent>
+            </DialogStyles__DialogContainer>
+            <GlobalStyleComponent />
+          </Portal>
+        </Modal>
+      </div>
+    </StyledComponent>
+  </ModalTagstyles__Container>
+</ModalTag>
+`;
+
+exports[`Test ModalTag Component should render correctly with show === true 1`] = `
+<ModalTag
+  closable={false}
+  dialogOffset={16}
+  elementId="other"
+  label="Label"
+  mount="bottom-left"
+  onClose={[Function]}
+  overflow="position"
+  rect={null}
+  show={true}
+>
+  <ModalTagstyles__Container>
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "ModalTagstyles__Container-ghsnch-2",
+            "isStatic": false,
+            "lastClassName": "gKcOJi",
+            "rules": Array [
+              "padding-right:12px;position:relative;",
+            ],
+          },
+          "displayName": "ModalTagstyles__Container",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "ModalTagstyles__Container-ghsnch-2",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="ModalTagstyles__Container-ghsnch-2 gKcOJi"
+      >
+        <ModalTagstyles__WhiteTag
+          closable={false}
+          onClick={[Function]}
+          onClose={[Function]}
+          rect={null}
+        >
+          <StyledComponent
+            closable={false}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "ModalTagstyles__WhiteTag-ghsnch-0",
+                  "isStatic": false,
+                  "lastClassName": "hbxCYR",
+                  "rules": Array [
+                    "--tag-border-color:",
+                    [Function],
+                    ";--tag-background-color:",
+                    [Function],
+                    ";--tag-color:",
+                    [Function],
+                    ";",
+                    "cursor:pointer;margin:0;",
+                  ],
+                },
+                "displayName": "ModalTagstyles__WhiteTag",
+                "foldedComponentIds": Array [
+                  "Tags__WhiteTag-sc-1u635a7-7",
+                ],
+                "propTypes": Object {
+                  "children": [Function],
+                  "closable": [Function],
+                  "height": [Function],
+                  "onClose": [Function],
+                  "variant": [Function],
+                },
+                "render": [Function],
+                "styledComponentId": "ModalTagstyles__WhiteTag-ghsnch-0",
+                "target": Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "defaultProps": Object {
+                    "children": "",
+                    "closable": false,
+                    "height": 28,
+                    "onClose": [Function],
+                    "variant": "default",
+                  },
+                  "displayName": "Tag",
+                  "propTypes": Object {
+                    "children": [Function],
+                    "closable": [Function],
+                    "height": [Function],
+                    "onClose": [Function],
+                    "variant": [Function],
+                  },
+                  "render": [Function],
+                },
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={
+              Object {
+                "current": <div
+                  class="Tags__BaseTag-sc-1u635a7-1 cdYPpb Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__WhiteTag-ghsnch-0 hbxCYR"
+                  height="28"
+                >
+                  Label
+                </div>,
+              }
+            }
+            onClick={[Function]}
+            onClose={[Function]}
+            rect={null}
+          >
+            <Tag
+              className="Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__WhiteTag-ghsnch-0 hbxCYR"
+              closable={false}
+              height={28}
+              onClick={[Function]}
+              onClose={[Function]}
+              rect={null}
+              variant="default"
+            >
+              <Tags__BaseTag
+                className="Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__WhiteTag-ghsnch-0 hbxCYR"
+                closable={false}
+                height={28}
+                onClick={[Function]}
+                rect={null}
+                variant="default"
+              >
+                <StyledComponent
+                  className="Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__WhiteTag-ghsnch-0 hbxCYR"
+                  closable={false}
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "Tags__BaseTag-sc-1u635a7-1",
+                        "isStatic": false,
+                        "lastClassName": "cdYPpb",
+                        "rules": Array [
+                          "--inner-tag-border-color:var(--tag-border-color);--inner-tag-background-color:var(--tag-background-color);--inner-tag-color:var(--tag-color);height:",
+                          [Function],
+                          "px;border:1px solid var(--inner-tag-border-color,",
+                          [Function],
+                          ");color:var( --inner-tag-color,",
+                          [Function],
+                          " );background-color:var( --inner-tag-background-color,",
+                          [Function],
+                          " );padding:0px 12px;border-radius:",
+                          [Function],
+                          "px;display:inline-flex;justify-content:flex-start;align-items:center;margin-right:12px;font-family:",
+                          [Function],
+                          ";font-size:",
+                          [Function],
+                          ";font-weight:",
+                          [Function],
+                          ";box-sizing:border-box;",
+                          [Function],
+                          " & > svg{fill:var(--inner-tag-color,#405f71);--size:16px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);}& > svg:not(",
+                          ".Tags__Close-sc-1u635a7-0",
+                          "){margin-right:8px;}",
+                        ],
+                      },
+                      "displayName": "Tags__BaseTag",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "Tags__BaseTag-sc-1u635a7-1",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={
+                    Object {
+                      "current": <div
+                        class="Tags__BaseTag-sc-1u635a7-1 cdYPpb Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__WhiteTag-ghsnch-0 hbxCYR"
+                        height="28"
+                      >
+                        Label
+                      </div>,
+                    }
+                  }
+                  height={28}
+                  onClick={[Function]}
+                  rect={null}
+                  variant="default"
+                >
+                  <div
+                    className="Tags__BaseTag-sc-1u635a7-1 cdYPpb Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__WhiteTag-ghsnch-0 hbxCYR"
+                    height={28}
+                    onClick={[Function]}
+                  >
+                    Label
+                  </div>
+                </StyledComponent>
+              </Tags__BaseTag>
+            </Tag>
+          </StyledComponent>
+        </ModalTagstyles__WhiteTag>
+        <Modal
+          animateFrom="-16px"
+          animation="ease-in-out"
+          cardRef={
+            Object {
+              "current": <div
+                class="GenericStyles__Card-jict78-4 styles__Card-sc-1qag6pi-0 jVMWaB"
+                overflow=""
+                style="opacity: 1; transform: translateY(0px); transition: all 120ms ease-in-out; position: absolute;"
+              >
+                <div>
+                  content
+                </div>
+              </div>,
+            }
+          }
+          closable={true}
+          closeButton={false}
+          closeButtonPadding="10px 14px"
+          duration={120}
+          elementId="other"
+          fullscreen={false}
+          insertComponent={
+            <ForwardRef(ModalTagstyles__FloatingTag)
+              closable={false}
+              position={
+                Object {
+                  "x": undefined,
+                  "y": undefined,
+                }
+              }
+            >
+              Label
+            </ForwardRef(ModalTagstyles__FloatingTag)>
+          }
+          label=""
+          labelAlign="left"
+          onAppearStart={[Function]}
+          onAppeared={[Function]}
+          onLeaveStart={[Function]}
+          onLeaved={[Function]}
+          overflow=""
+          position={
+            Object {
+              "fromX": "left",
+              "x": undefined,
+              "y": NaN,
+            }
+          }
+          show={true}
+        >
+          <Portal
+            containerInfo={
+              <div
+                id="other"
+              >
+                <div
+                  class="DialogStyles__DialogContainer-sc-1tnwai9-1 fFanJr"
+                >
+                  <div
+                    class="Tags__BaseTag-sc-1u635a7-1 cdYPpb Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__FloatingTag-ghsnch-1 ccvUho"
+                    height="28"
+                  >
+                    Label
+                  </div>
+                </div>
+                <div
+                  class="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+                >
+                  <div
+                    class="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+                    style="opacity: 0.15; transition: opacity 120ms cubic-bezier(0.47, 0, 0.745, 0.715);"
+                  />
+                  <div
+                    class="Tags__BaseTag-sc-1u635a7-1 cdYPpb Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__FloatingTag-ghsnch-1 ccvUho"
+                    height="28"
+                  >
+                    Label
+                  </div>
+                  <div
+                    class="GenericStyles__Card-jict78-4 styles__Card-sc-1qag6pi-0 jVMWaB"
+                    overflow=""
+                    style="opacity: 1; transform: translateY(0px); transition: all 120ms ease-in-out; position: absolute;"
+                  >
+                    <div>
+                      content
+                    </div>
+                  </div>
+                </div>
+              </div>
+            }
+          >
+            <DialogStyles__DialogContainer
+              blockNavigation={true}
+              show={true}
+            >
+              <StyledComponent
+                blockNavigation={true}
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "_foldedDefaultProps": Object {
+                      "blockNavigation": true,
+                    },
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+                      "isStatic": false,
+                      "lastClassName": "dDmCdw",
+                      "rules": Array [
+                        "position:fixed;pointer-events:",
+                        [Function],
+                        ";top:0px;left:0px;width:100vw;height:100vh;z-index:9999;display:",
+                        [Function],
+                        ";justify-content:center;align-items:center;",
+                      ],
+                    },
+                    "displayName": "DialogStyles__DialogContainer",
+                    "foldedComponentIds": Array [],
+                    "propTypes": Object {
+                      "blockNavigation": [Function],
+                    },
+                    "render": [Function],
+                    "styledComponentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                show={true}
+              >
+                <div
+                  className="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+                >
+                  <Transition
+                    appear={false}
+                    enter={true}
+                    exit={true}
+                    in={true}
+                    mountOnEnter={true}
+                    onEnter={[Function]}
+                    onEntered={[Function]}
+                    onEntering={[Function]}
+                    onExit={[Function]}
+                    onExited={[Function]}
+                    onExiting={[Function]}
+                    timeout={
+                      Object {
+                        "enter": 120,
+                        "exit": 240,
+                      }
+                    }
+                    unmountOnExit={true}
+                  >
+                    <DialogStyles__Bg
+                      onClick={[Function]}
+                      style={
+                        Object {
+                          "opacity": 0.15,
+                          "transition": "opacity 120ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                        }
+                      }
+                    >
+                      <StyledComponent
+                        forwardedComponent={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": Array [],
+                            "componentStyle": ComponentStyle {
+                              "componentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                              "isStatic": false,
+                              "lastClassName": "boLOvW",
+                              "rules": Array [
+                                "width:100%;height:100%;background-color:",
+                                [Function],
+                                ";position:fixed;top:0px;left:0px;",
+                              ],
+                            },
+                            "displayName": "DialogStyles__Bg",
+                            "foldedComponentIds": Array [],
+                            "render": [Function],
+                            "styledComponentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                            "target": "div",
+                            "toString": [Function],
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={null}
+                        onClick={[Function]}
+                        style={
+                          Object {
+                            "opacity": 0.15,
+                            "transition": "opacity 120ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                          }
+                        }
+                      >
+                        <div
+                          className="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+                          onClick={[Function]}
+                          style={
+                            Object {
+                              "opacity": 0.15,
+                              "transition": "opacity 120ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                            }
+                          }
+                        />
+                      </StyledComponent>
+                    </DialogStyles__Bg>
+                  </Transition>
+                  <ModalTagstyles__FloatingTag
+                    closable={false}
+                    position={
+                      Object {
+                        "x": undefined,
+                        "y": undefined,
+                      }
+                    }
+                  >
+                    <StyledComponent
+                      closable={false}
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "_foldedDefaultProps": Object {
+                            "position": Object {},
+                          },
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "ModalTagstyles__FloatingTag-ghsnch-1",
+                            "isStatic": false,
+                            "lastClassName": "ccvUho",
+                            "rules": Array [
+                              "--tag-border-color:",
+                              [Function],
+                              ";--tag-background-color:",
+                              [Function],
+                              ";--tag-color:",
+                              [Function],
+                              ";",
+                              "position:absolute;pointer-events:none;",
+                              [Function],
+                            ],
+                          },
+                          "displayName": "ModalTagstyles__FloatingTag",
+                          "foldedComponentIds": Array [
+                            "Tags__WhiteTag-sc-1u635a7-7",
+                          ],
+                          "propTypes": Object {
+                            "children": [Function],
+                            "closable": [Function],
+                            "height": [Function],
+                            "onClose": [Function],
+                            "variant": [Function],
+                          },
+                          "render": [Function],
+                          "styledComponentId": "ModalTagstyles__FloatingTag-ghsnch-1",
+                          "target": Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "defaultProps": Object {
+                              "children": "",
+                              "closable": false,
+                              "height": 28,
+                              "onClose": [Function],
+                              "variant": "default",
+                            },
+                            "displayName": "Tag",
+                            "propTypes": Object {
+                              "children": [Function],
+                              "closable": [Function],
+                              "height": [Function],
+                              "onClose": [Function],
+                              "variant": [Function],
+                            },
+                            "render": [Function],
+                          },
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      position={
+                        Object {
+                          "x": undefined,
+                          "y": undefined,
+                        }
+                      }
+                    >
+                      <Tag
+                        className="Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__FloatingTag-ghsnch-1 ccvUho"
+                        closable={false}
+                        height={28}
+                        onClose={[Function]}
+                        position={
+                          Object {
+                            "x": undefined,
+                            "y": undefined,
+                          }
+                        }
+                        variant="default"
+                      >
+                        <Tags__BaseTag
+                          className="Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__FloatingTag-ghsnch-1 ccvUho"
+                          closable={false}
+                          height={28}
+                          position={
+                            Object {
+                              "x": undefined,
+                              "y": undefined,
+                            }
+                          }
+                          variant="default"
+                        >
+                          <StyledComponent
+                            className="Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__FloatingTag-ghsnch-1 ccvUho"
+                            closable={false}
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "Tags__BaseTag-sc-1u635a7-1",
+                                  "isStatic": false,
+                                  "lastClassName": "cdYPpb",
+                                  "rules": Array [
+                                    "--inner-tag-border-color:var(--tag-border-color);--inner-tag-background-color:var(--tag-background-color);--inner-tag-color:var(--tag-color);height:",
+                                    [Function],
+                                    "px;border:1px solid var(--inner-tag-border-color,",
+                                    [Function],
+                                    ");color:var( --inner-tag-color,",
+                                    [Function],
+                                    " );background-color:var( --inner-tag-background-color,",
+                                    [Function],
+                                    " );padding:0px 12px;border-radius:",
+                                    [Function],
+                                    "px;display:inline-flex;justify-content:flex-start;align-items:center;margin-right:12px;font-family:",
+                                    [Function],
+                                    ";font-size:",
+                                    [Function],
+                                    ";font-weight:",
+                                    [Function],
+                                    ";box-sizing:border-box;",
+                                    [Function],
+                                    " & > svg{fill:var(--inner-tag-color,#405f71);--size:16px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);}& > svg:not(",
+                                    ".Tags__Close-sc-1u635a7-0",
+                                    "){margin-right:8px;}",
+                                  ],
+                                },
+                                "displayName": "Tags__BaseTag",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "Tags__BaseTag-sc-1u635a7-1",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                            height={28}
+                            position={
+                              Object {
+                                "x": undefined,
+                                "y": undefined,
+                              }
+                            }
+                            variant="default"
+                          >
+                            <div
+                              className="Tags__BaseTag-sc-1u635a7-1 cdYPpb Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__FloatingTag-ghsnch-1 ccvUho"
+                              height={28}
+                            >
+                              Label
+                            </div>
+                          </StyledComponent>
+                        </Tags__BaseTag>
+                      </Tag>
+                    </StyledComponent>
+                  </ModalTagstyles__FloatingTag>
+                  <Transition
+                    appear={false}
+                    enter={true}
+                    exit={true}
+                    in={true}
+                    mountOnEnter={true}
+                    onEnter={[Function]}
+                    onEntered={[Function]}
+                    onEntering={[Function]}
+                    onExit={[Function]}
+                    onExited={[Function]}
+                    onExiting={[Function]}
+                    timeout={
+                      Object {
+                        "enter": 240,
+                        "exit": 120,
+                      }
+                    }
+                    unmountOnExit={true}
+                  >
+                    <styles__Card
+                      fullscreen={false}
+                      overflow=""
+                      style={
+                        Object {
+                          "left": "undefinedpx",
+                          "opacity": 1,
+                          "position": "absolute",
+                          "top": "NaNpx",
+                          "transform": "translateY(0px)",
+                          "transition": "all 120ms ease-in-out",
+                        }
+                      }
+                    >
+                      <StyledComponent
+                        forwardedComponent={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": Array [],
+                            "componentStyle": ComponentStyle {
+                              "componentId": "styles__Card-sc-1qag6pi-0",
+                              "isStatic": false,
+                              "lastClassName": "jVMWaB",
+                              "rules": Array [
+                                "background-color:#ffffff;box-shadow:0 2px 5px 0 rgba(0,0,0,0.2);overflow:hidden;display:inline-block;position:relative;margin:8px 25px 16px 0;height:",
+                                [Function],
+                                ";margin-right:0px;width:100%;@media (min-width:576px){margin-right:0px;width:100%;}@media (min-width:768px){margin-right:0px;width:100%;}@media (min-width:992px){margin-right:25px;width:",
+                                [Function],
+                                ";}@media (min-width:1200px){margin-right:25px;width:",
+                                [Function],
+                                ";}",
+                                "position:relative;",
+                                [Function],
+                                " overflow:",
+                                [Function],
+                                ";border-radius:4px;box-shadow:0 4px 15px 0 rgba(0,0,0,0.2);background-color:",
+                                [Function],
+                                ";margin:0px !important;",
+                              ],
+                            },
+                            "displayName": "styles__Card",
+                            "foldedComponentIds": Array [
+                              "GenericStyles__Card-jict78-4",
+                            ],
+                            "render": [Function],
+                            "styledComponentId": "styles__Card-sc-1qag6pi-0",
+                            "target": "div",
+                            "toString": [Function],
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={
+                          Object {
+                            "current": <div
+                              class="GenericStyles__Card-jict78-4 styles__Card-sc-1qag6pi-0 jVMWaB"
+                              overflow=""
+                              style="opacity: 1; transform: translateY(0px); transition: all 120ms ease-in-out; position: absolute;"
+                            >
+                              <div>
+                                content
+                              </div>
+                            </div>,
+                          }
+                        }
+                        fullscreen={false}
+                        overflow=""
+                        style={
+                          Object {
+                            "left": "undefinedpx",
+                            "opacity": 1,
+                            "position": "absolute",
+                            "top": "NaNpx",
+                            "transform": "translateY(0px)",
+                            "transition": "all 120ms ease-in-out",
+                          }
+                        }
+                      >
+                        <div
+                          className="GenericStyles__Card-jict78-4 styles__Card-sc-1qag6pi-0 jVMWaB"
+                          overflow=""
+                          style={
+                            Object {
+                              "left": "undefinedpx",
+                              "opacity": 1,
+                              "position": "absolute",
+                              "top": "NaNpx",
+                              "transform": "translateY(0px)",
+                              "transition": "all 120ms ease-in-out",
+                            }
+                          }
+                        >
+                          <div>
+                            content
+                          </div>
+                        </div>
+                      </StyledComponent>
+                    </styles__Card>
+                  </Transition>
+                </div>
+              </StyledComponent>
+            </DialogStyles__DialogContainer>
+            <GlobalStyleComponent />
+          </Portal>
+        </Modal>
+      </div>
+    </StyledComponent>
+  </ModalTagstyles__Container>
+</ModalTag>
+`;
+
+exports[`Test ModalTag Component should render correctly without props 1`] = `
+<ModalTag
+  closable={false}
+  dialogOffset={16}
+  elementId="modal"
+  label=""
+  mount="bottom-left"
+  onClose={[Function]}
+  overflow="position"
+  rect={null}
+>
+  <ModalTagstyles__Container>
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "ModalTagstyles__Container-ghsnch-2",
+            "isStatic": false,
+            "lastClassName": "gKcOJi",
+            "rules": Array [
+              "padding-right:12px;position:relative;",
+            ],
+          },
+          "displayName": "ModalTagstyles__Container",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "ModalTagstyles__Container-ghsnch-2",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="ModalTagstyles__Container-ghsnch-2 gKcOJi"
+      >
+        <ModalTagstyles__WhiteTag
+          closable={false}
+          onClick={[Function]}
+          onClose={[Function]}
+          rect={null}
+        >
+          <StyledComponent
+            closable={false}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "ModalTagstyles__WhiteTag-ghsnch-0",
+                  "isStatic": false,
+                  "lastClassName": "hbxCYR",
+                  "rules": Array [
+                    "--tag-border-color:",
+                    [Function],
+                    ";--tag-background-color:",
+                    [Function],
+                    ";--tag-color:",
+                    [Function],
+                    ";",
+                    "cursor:pointer;margin:0;",
+                  ],
+                },
+                "displayName": "ModalTagstyles__WhiteTag",
+                "foldedComponentIds": Array [
+                  "Tags__WhiteTag-sc-1u635a7-7",
+                ],
+                "propTypes": Object {
+                  "children": [Function],
+                  "closable": [Function],
+                  "height": [Function],
+                  "onClose": [Function],
+                  "variant": [Function],
+                },
+                "render": [Function],
+                "styledComponentId": "ModalTagstyles__WhiteTag-ghsnch-0",
+                "target": Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "defaultProps": Object {
+                    "children": "",
+                    "closable": false,
+                    "height": 28,
+                    "onClose": [Function],
+                    "variant": "default",
+                  },
+                  "displayName": "Tag",
+                  "propTypes": Object {
+                    "children": [Function],
+                    "closable": [Function],
+                    "height": [Function],
+                    "onClose": [Function],
+                    "variant": [Function],
+                  },
+                  "render": [Function],
+                },
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={
+              Object {
+                "current": <div
+                  class="Tags__BaseTag-sc-1u635a7-1 cdYPpb Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__WhiteTag-ghsnch-0 hbxCYR"
+                  height="28"
+                >
+                  
+                </div>,
+              }
+            }
+            onClick={[Function]}
+            onClose={[Function]}
+            rect={null}
+          >
+            <Tag
+              className="Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__WhiteTag-ghsnch-0 hbxCYR"
+              closable={false}
+              height={28}
+              onClick={[Function]}
+              onClose={[Function]}
+              rect={null}
+              variant="default"
+            >
+              <Tags__BaseTag
+                className="Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__WhiteTag-ghsnch-0 hbxCYR"
+                closable={false}
+                height={28}
+                onClick={[Function]}
+                rect={null}
+                variant="default"
+              >
+                <StyledComponent
+                  className="Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__WhiteTag-ghsnch-0 hbxCYR"
+                  closable={false}
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "Tags__BaseTag-sc-1u635a7-1",
+                        "isStatic": false,
+                        "lastClassName": "cdYPpb",
+                        "rules": Array [
+                          "--inner-tag-border-color:var(--tag-border-color);--inner-tag-background-color:var(--tag-background-color);--inner-tag-color:var(--tag-color);height:",
+                          [Function],
+                          "px;border:1px solid var(--inner-tag-border-color,",
+                          [Function],
+                          ");color:var( --inner-tag-color,",
+                          [Function],
+                          " );background-color:var( --inner-tag-background-color,",
+                          [Function],
+                          " );padding:0px 12px;border-radius:",
+                          [Function],
+                          "px;display:inline-flex;justify-content:flex-start;align-items:center;margin-right:12px;font-family:",
+                          [Function],
+                          ";font-size:",
+                          [Function],
+                          ";font-weight:",
+                          [Function],
+                          ";box-sizing:border-box;",
+                          [Function],
+                          " & > svg{fill:var(--inner-tag-color,#405f71);--size:16px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);}& > svg:not(",
+                          ".Tags__Close-sc-1u635a7-0",
+                          "){margin-right:8px;}",
+                        ],
+                      },
+                      "displayName": "Tags__BaseTag",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "Tags__BaseTag-sc-1u635a7-1",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={
+                    Object {
+                      "current": <div
+                        class="Tags__BaseTag-sc-1u635a7-1 cdYPpb Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__WhiteTag-ghsnch-0 hbxCYR"
+                        height="28"
+                      >
+                        
+                      </div>,
+                    }
+                  }
+                  height={28}
+                  onClick={[Function]}
+                  rect={null}
+                  variant="default"
+                >
+                  <div
+                    className="Tags__BaseTag-sc-1u635a7-1 cdYPpb Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__WhiteTag-ghsnch-0 hbxCYR"
+                    height={28}
+                    onClick={[Function]}
+                  />
+                </StyledComponent>
+              </Tags__BaseTag>
+            </Tag>
+          </StyledComponent>
+        </ModalTagstyles__WhiteTag>
+        <Modal
+          animateFrom="-16px"
+          animation="ease-in-out"
+          cardRef={
+            Object {
+              "current": Object {
+                "getBoundingClientRect": [Function],
+              },
+            }
+          }
+          closable={true}
+          closeButton={false}
+          closeButtonPadding="10px 14px"
+          duration={120}
+          elementId="modal"
+          fullscreen={false}
+          insertComponent={
+            <ForwardRef(ModalTagstyles__FloatingTag)
+              closable={false}
+              position={
+                Object {
+                  "x": undefined,
+                  "y": undefined,
+                }
+              }
+            >
+              
+            </ForwardRef(ModalTagstyles__FloatingTag)>
+          }
+          label=""
+          labelAlign="left"
+          onAppearStart={[Function]}
+          onAppeared={[Function]}
+          onLeaveStart={[Function]}
+          onLeaved={[Function]}
+          overflow=""
+          position={
+            Object {
+              "fromX": "left",
+              "x": undefined,
+              "y": NaN,
+            }
+          }
+          show={false}
+        >
+          <Portal
+            containerInfo={
+              <div
+                id="modal"
+              >
+                <div
+                  class="DialogStyles__DialogContainer-sc-1tnwai9-1 fFanJr"
+                >
+                  <div
+                    class="Tags__BaseTag-sc-1u635a7-1 cdYPpb Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__FloatingTag-ghsnch-1 ccvUho"
+                    height="28"
+                  >
+                    
+                  </div>
+                </div>
+              </div>
+            }
+          >
+            <DialogStyles__DialogContainer
+              blockNavigation={true}
+              show={false}
+            >
+              <StyledComponent
+                blockNavigation={true}
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "_foldedDefaultProps": Object {
+                      "blockNavigation": true,
+                    },
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+                      "isStatic": false,
+                      "lastClassName": "fFanJr",
+                      "rules": Array [
+                        "position:fixed;pointer-events:",
+                        [Function],
+                        ";top:0px;left:0px;width:100vw;height:100vh;z-index:9999;display:",
+                        [Function],
+                        ";justify-content:center;align-items:center;",
+                      ],
+                    },
+                    "displayName": "DialogStyles__DialogContainer",
+                    "foldedComponentIds": Array [],
+                    "propTypes": Object {
+                      "blockNavigation": [Function],
+                    },
+                    "render": [Function],
+                    "styledComponentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                show={false}
+              >
+                <div
+                  className="DialogStyles__DialogContainer-sc-1tnwai9-1 fFanJr"
+                >
+                  <Transition
+                    appear={false}
+                    enter={true}
+                    exit={true}
+                    in={false}
+                    mountOnEnter={true}
+                    onEnter={[Function]}
+                    onEntered={[Function]}
+                    onEntering={[Function]}
+                    onExit={[Function]}
+                    onExited={[Function]}
+                    onExiting={[Function]}
+                    timeout={
+                      Object {
+                        "enter": 120,
+                        "exit": 240,
+                      }
+                    }
+                    unmountOnExit={true}
+                  />
+                  <ModalTagstyles__FloatingTag
+                    closable={false}
+                    position={
+                      Object {
+                        "x": undefined,
+                        "y": undefined,
+                      }
+                    }
+                  >
+                    <StyledComponent
+                      closable={false}
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "_foldedDefaultProps": Object {
+                            "position": Object {},
+                          },
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "ModalTagstyles__FloatingTag-ghsnch-1",
+                            "isStatic": false,
+                            "lastClassName": "ccvUho",
+                            "rules": Array [
+                              "--tag-border-color:",
+                              [Function],
+                              ";--tag-background-color:",
+                              [Function],
+                              ";--tag-color:",
+                              [Function],
+                              ";",
+                              "position:absolute;pointer-events:none;",
+                              [Function],
+                            ],
+                          },
+                          "displayName": "ModalTagstyles__FloatingTag",
+                          "foldedComponentIds": Array [
+                            "Tags__WhiteTag-sc-1u635a7-7",
+                          ],
+                          "propTypes": Object {
+                            "children": [Function],
+                            "closable": [Function],
+                            "height": [Function],
+                            "onClose": [Function],
+                            "variant": [Function],
+                          },
+                          "render": [Function],
+                          "styledComponentId": "ModalTagstyles__FloatingTag-ghsnch-1",
+                          "target": Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "defaultProps": Object {
+                              "children": "",
+                              "closable": false,
+                              "height": 28,
+                              "onClose": [Function],
+                              "variant": "default",
+                            },
+                            "displayName": "Tag",
+                            "propTypes": Object {
+                              "children": [Function],
+                              "closable": [Function],
+                              "height": [Function],
+                              "onClose": [Function],
+                              "variant": [Function],
+                            },
+                            "render": [Function],
+                          },
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                      position={
+                        Object {
+                          "x": undefined,
+                          "y": undefined,
+                        }
+                      }
+                    >
+                      <Tag
+                        className="Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__FloatingTag-ghsnch-1 ccvUho"
+                        closable={false}
+                        height={28}
+                        onClose={[Function]}
+                        position={
+                          Object {
+                            "x": undefined,
+                            "y": undefined,
+                          }
+                        }
+                        variant="default"
+                      >
+                        <Tags__BaseTag
+                          className="Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__FloatingTag-ghsnch-1 ccvUho"
+                          closable={false}
+                          height={28}
+                          position={
+                            Object {
+                              "x": undefined,
+                              "y": undefined,
+                            }
+                          }
+                          variant="default"
+                        >
+                          <StyledComponent
+                            className="Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__FloatingTag-ghsnch-1 ccvUho"
+                            closable={false}
+                            forwardedComponent={
+                              Object {
+                                "$$typeof": Symbol(react.forward_ref),
+                                "attrs": Array [],
+                                "componentStyle": ComponentStyle {
+                                  "componentId": "Tags__BaseTag-sc-1u635a7-1",
+                                  "isStatic": false,
+                                  "lastClassName": "cdYPpb",
+                                  "rules": Array [
+                                    "--inner-tag-border-color:var(--tag-border-color);--inner-tag-background-color:var(--tag-background-color);--inner-tag-color:var(--tag-color);height:",
+                                    [Function],
+                                    "px;border:1px solid var(--inner-tag-border-color,",
+                                    [Function],
+                                    ");color:var( --inner-tag-color,",
+                                    [Function],
+                                    " );background-color:var( --inner-tag-background-color,",
+                                    [Function],
+                                    " );padding:0px 12px;border-radius:",
+                                    [Function],
+                                    "px;display:inline-flex;justify-content:flex-start;align-items:center;margin-right:12px;font-family:",
+                                    [Function],
+                                    ";font-size:",
+                                    [Function],
+                                    ";font-weight:",
+                                    [Function],
+                                    ";box-sizing:border-box;",
+                                    [Function],
+                                    " & > svg{fill:var(--inner-tag-color,#405f71);--size:16px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);}& > svg:not(",
+                                    ".Tags__Close-sc-1u635a7-0",
+                                    "){margin-right:8px;}",
+                                  ],
+                                },
+                                "displayName": "Tags__BaseTag",
+                                "foldedComponentIds": Array [],
+                                "render": [Function],
+                                "styledComponentId": "Tags__BaseTag-sc-1u635a7-1",
+                                "target": "div",
+                                "toString": [Function],
+                                "warnTooManyClasses": [Function],
+                                "withComponent": [Function],
+                              }
+                            }
+                            forwardedRef={null}
+                            height={28}
+                            position={
+                              Object {
+                                "x": undefined,
+                                "y": undefined,
+                              }
+                            }
+                            variant="default"
+                          >
+                            <div
+                              className="Tags__BaseTag-sc-1u635a7-1 cdYPpb Tags__WhiteTag-sc-1u635a7-7 ModalTagstyles__FloatingTag-ghsnch-1 ccvUho"
+                              height={28}
+                            />
+                          </StyledComponent>
+                        </Tags__BaseTag>
+                      </Tag>
+                    </StyledComponent>
+                  </ModalTagstyles__FloatingTag>
+                  <Transition
+                    appear={false}
+                    enter={true}
+                    exit={true}
+                    in={false}
+                    mountOnEnter={true}
+                    onEnter={[Function]}
+                    onEntered={[Function]}
+                    onEntering={[Function]}
+                    onExit={[Function]}
+                    onExited={[Function]}
+                    onExiting={[Function]}
+                    timeout={
+                      Object {
+                        "enter": 240,
+                        "exit": 120,
+                      }
+                    }
+                    unmountOnExit={true}
+                  />
+                </div>
+              </StyledComponent>
+            </DialogStyles__DialogContainer>
+            <GlobalStyleComponent />
+          </Portal>
+        </Modal>
+      </div>
+    </StyledComponent>
+  </ModalTagstyles__Container>
+</ModalTag>
+`;

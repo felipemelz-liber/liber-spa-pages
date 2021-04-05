@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Pagination Component renders Pagination correctly with props 1`] = `
+<Paginationstyles__Container>
+  <Paginationstyles__PageContainer>
+    Página
+    <Paginationstyles__PageInput
+      onChange={[Function]}
+      onKeyDown={[Function]}
+      type="number"
+      value="1"
+    />
+    de 
+    10
+    <PrevButton
+      disabled={true}
+      onClick={[Function]}
+    />
+    <NextButton
+      disabled={false}
+      onClick={[Function]}
+    />
+  </Paginationstyles__PageContainer>
+</Paginationstyles__Container>
+`;
+
+exports[`Testing Pagination Component renders Pagination correctly with props and withListing 1`] = `
+<Paginationstyles__Container>
+  <Listing
+    listing=""
+    listingLabelPlural="títulos"
+    listingLabelSingular="título"
+    listingRef={[Function]}
+    onSelectListing={[Function]}
+    showInterval={null}
+    total=""
+  />
+  <Paginationstyles__PageContainer>
+    Página
+    <Paginationstyles__PageInput
+      onChange={[Function]}
+      onKeyDown={[Function]}
+      type="number"
+      value="1"
+    />
+    de 
+    10
+    <PrevButton
+      disabled={true}
+      onClick={[Function]}
+    />
+    <NextButton
+      disabled={false}
+      onClick={[Function]}
+    />
+  </Paginationstyles__PageContainer>
+</Paginationstyles__Container>
+`;
+
+exports[`Testing Pagination Component renders Pagination correctly without props 1`] = `
+<Paginationstyles__Container>
+  <Paginationstyles__PageContainer>
+    Página
+    <Paginationstyles__PageInput
+      onChange={[Function]}
+      onKeyDown={[Function]}
+      type="number"
+      value=""
+    />
+    de 
+    0
+    <PrevButton
+      disabled={false}
+      onClick={[Function]}
+    />
+    <NextButton
+      disabled={false}
+      onClick={[Function]}
+    />
+  </Paginationstyles__PageContainer>
+</Paginationstyles__Container>
+`;

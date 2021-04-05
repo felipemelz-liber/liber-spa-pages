@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Tab Component should render correctly with arrayOf element 1`] = `
+<div
+  data-ref="test"
+>
+  <div />
+  <div />
+</div>
+`;
+
+exports[`Testing Tab Component should render correctly with arrayOf number 1`] = `
+<div
+  data-ref="test"
+>
+  1212
+  9898
+</div>
+`;
+
+exports[`Testing Tab Component should render correctly with arrayOf string 1`] = `
+<div
+  data-ref="test"
+>
+  test1
+  test2
+</div>
+`;
+
+exports[`Testing Tab Component should render correctly with element 1`] = `
+<div
+  data-ref="test"
+>
+  <div />
+</div>
+`;
+
+exports[`Testing Tab Component should render correctly with number 1`] = `
+<div
+  data-ref="test"
+>
+  1212
+</div>
+`;
+
+exports[`Testing Tab Component should render correctly with string 1`] = `
+<div
+  data-ref="test"
+>
+  Test
+</div>
+`;

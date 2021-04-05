@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for LabeledContainer Styles Components should render with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "LabeledContainerstyles__LabelContainer-xef6m9-0",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:'Roboto',sans-serif;font-size:16px;font-weight:normal;display:flex;align-content:flex-start;color:",
+          [Function],
+          ";& > span{margin-right:15px;}",
+        ],
+      },
+      "displayName": "LabeledContainerstyles__LabelContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "LabeledContainerstyles__LabelContainer-xef6m9-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "labeledContainer": Object {
+        "color": "#aaa",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for LabeledContainer Styles Components should render without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "LabeledContainerstyles__LabelContainer-xef6m9-0",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:'Roboto',sans-serif;font-size:16px;font-weight:normal;display:flex;align-content:flex-start;color:",
+          [Function],
+          ";& > span{margin-right:15px;}",
+        ],
+      },
+      "displayName": "LabeledContainerstyles__LabelContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "LabeledContainerstyles__LabelContainer-xef6m9-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

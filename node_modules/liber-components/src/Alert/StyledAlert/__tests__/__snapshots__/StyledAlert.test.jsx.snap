@@ -1,0 +1,153 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing StyledAlert Components DangerAlert should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "icon": <MdCloseCircle />,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledAlert__DangerAlert-ja5v8x-3",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;flex-direction:row;align-items:center;width:100%;",
+          " background-color:",
+          [Function],
+          ";border:1px solid ",
+          [Function],
+          ";svg{",
+          "--size:24px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);",
+          " fill:#dc3545;}",
+        ],
+      },
+      "displayName": "StyledAlert__DangerAlert",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "StyledAlert__DangerAlert-ja5v8x-3",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  icon={<MdCloseCircle />}
+/>
+`;
+
+exports[`Testing StyledAlert Components DefaultAlert should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "icon": <MdAlertCircle />,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledAlert__DefaultAlert-ja5v8x-0",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;flex-direction:row;align-items:center;width:100%;",
+          " background-color:",
+          [Function],
+          ";border:1px solid ",
+          [Function],
+          ";svg{",
+          "--size:24px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);",
+          " fill:#009dff;}",
+        ],
+      },
+      "displayName": "StyledAlert__DefaultAlert",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "StyledAlert__DefaultAlert-ja5v8x-0",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  icon={<MdAlertCircle />}
+/>
+`;
+
+exports[`Testing StyledAlert Components SuccessAlert should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "icon": <MdCheckCircle />,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledAlert__SuccessAlert-ja5v8x-1",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;flex-direction:row;align-items:center;width:100%;",
+          " background-color:",
+          [Function],
+          ";border:1px solid ",
+          [Function],
+          ";svg{",
+          "--size:24px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);",
+          " fill:#13ce66;}",
+        ],
+      },
+      "displayName": "StyledAlert__SuccessAlert",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "StyledAlert__SuccessAlert-ja5v8x-1",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  icon={<MdCheckCircle />}
+/>
+`;
+
+exports[`Testing StyledAlert Components WarningAlert should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "icon": <MdAlertCircle />,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledAlert__WarningAlert-ja5v8x-2",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;flex-direction:row;align-items:center;width:100%;",
+          " background-color:",
+          [Function],
+          ";border:1px solid ",
+          [Function],
+          ";svg{",
+          "--size:24px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);",
+          " fill:#fabe00;}",
+        ],
+      },
+      "displayName": "StyledAlert__WarningAlert",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "StyledAlert__WarningAlert-ja5v8x-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  icon={<MdAlertCircle />}
+/>
+`;

@@ -1,0 +1,1628 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Tags Styles renders AlertTag correctly with children 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__AlertTag-sc-1u635a7-5",
+        "isStatic": false,
+        "rules": Array [
+          "--tag-border-color:",
+          [Function],
+          ";--tag-background-color:",
+          [Function],
+          ";--tag-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "AlertTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__AlertTag-sc-1u635a7-5",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  tag
+</StyledComponent>
+`;
+
+exports[`Testing Tags Styles renders AlertTag correctly with closable=false 1`] = `
+<StyledComponent
+  closable={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__AlertTag-sc-1u635a7-5",
+        "isStatic": false,
+        "rules": Array [
+          "--tag-border-color:",
+          [Function],
+          ";--tag-background-color:",
+          [Function],
+          ";--tag-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "AlertTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__AlertTag-sc-1u635a7-5",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  tag
+</StyledComponent>
+`;
+
+exports[`Testing Tags Styles renders AlertTag correctly with closable=true 1`] = `
+<StyledComponent
+  closable={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__AlertTag-sc-1u635a7-5",
+        "isStatic": false,
+        "rules": Array [
+          "--tag-border-color:",
+          [Function],
+          ";--tag-background-color:",
+          [Function],
+          ";--tag-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "AlertTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__AlertTag-sc-1u635a7-5",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  tag
+</StyledComponent>
+`;
+
+exports[`Testing Tags Styles renders AlertTag correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__AlertTag-sc-1u635a7-5",
+        "isStatic": false,
+        "rules": Array [
+          "--tag-border-color:",
+          [Function],
+          ";--tag-background-color:",
+          [Function],
+          ";--tag-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "AlertTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__AlertTag-sc-1u635a7-5",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Tags Styles renders ErrorTag correctly with children 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__ErrorTag-sc-1u635a7-6",
+        "isStatic": false,
+        "rules": Array [
+          "--tag-border-color:",
+          [Function],
+          ";--tag-background-color:",
+          [Function],
+          ";--tag-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "ErrorTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__ErrorTag-sc-1u635a7-6",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  tag
+</StyledComponent>
+`;
+
+exports[`Testing Tags Styles renders ErrorTag correctly with closable=false 1`] = `
+<StyledComponent
+  closable={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__ErrorTag-sc-1u635a7-6",
+        "isStatic": false,
+        "rules": Array [
+          "--tag-border-color:",
+          [Function],
+          ";--tag-background-color:",
+          [Function],
+          ";--tag-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "ErrorTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__ErrorTag-sc-1u635a7-6",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  tag
+</StyledComponent>
+`;
+
+exports[`Testing Tags Styles renders ErrorTag correctly with closable=true 1`] = `
+<StyledComponent
+  closable={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__ErrorTag-sc-1u635a7-6",
+        "isStatic": false,
+        "rules": Array [
+          "--tag-border-color:",
+          [Function],
+          ";--tag-background-color:",
+          [Function],
+          ";--tag-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "ErrorTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__ErrorTag-sc-1u635a7-6",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  tag
+</StyledComponent>
+`;
+
+exports[`Testing Tags Styles renders ErrorTag correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__ErrorTag-sc-1u635a7-6",
+        "isStatic": false,
+        "rules": Array [
+          "--tag-border-color:",
+          [Function],
+          ";--tag-background-color:",
+          [Function],
+          ";--tag-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "ErrorTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__ErrorTag-sc-1u635a7-6",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Tags Styles renders ModalTag correctly with children 1`] = `
+<ModalTagstyles__Container>
+  <ModalTagstyles__WhiteTag
+    closable={false}
+    onClick={[Function]}
+    onClose={[Function]}
+    rect={null}
+  />
+  <Modal
+    animateFrom="-16px"
+    animation="ease-in-out"
+    cardRef={
+      Object {
+        "current": null,
+      }
+    }
+    closable={true}
+    closeButton={false}
+    closeButtonPadding="10px 14px"
+    duration={120}
+    elementId="modal"
+    fullscreen={false}
+    insertComponent={
+      <ForwardRef(ModalTagstyles__FloatingTag)
+        closable={false}
+        position={Object {}}
+      >
+        
+      </ForwardRef(ModalTagstyles__FloatingTag)>
+    }
+    label=""
+    labelAlign="left"
+    onAppearStart={[Function]}
+    onAppeared={[Function]}
+    onLeaveStart={[Function]}
+    onLeaved={[Function]}
+    overflow=""
+    position={Object {}}
+    show={false}
+  >
+    tag
+  </Modal>
+</ModalTagstyles__Container>
+`;
+
+exports[`Testing Tags Styles renders ModalTag correctly with closable=false 1`] = `
+<ModalTagstyles__Container>
+  <ModalTagstyles__WhiteTag
+    closable={false}
+    onClick={[Function]}
+    onClose={[Function]}
+    rect={null}
+  />
+  <Modal
+    animateFrom="-16px"
+    animation="ease-in-out"
+    cardRef={
+      Object {
+        "current": null,
+      }
+    }
+    closable={true}
+    closeButton={false}
+    closeButtonPadding="10px 14px"
+    duration={120}
+    elementId="modal"
+    fullscreen={false}
+    insertComponent={
+      <ForwardRef(ModalTagstyles__FloatingTag)
+        closable={false}
+        position={Object {}}
+      >
+        
+      </ForwardRef(ModalTagstyles__FloatingTag)>
+    }
+    label=""
+    labelAlign="left"
+    onAppearStart={[Function]}
+    onAppeared={[Function]}
+    onLeaveStart={[Function]}
+    onLeaved={[Function]}
+    overflow=""
+    position={Object {}}
+    show={false}
+  >
+    tag
+  </Modal>
+</ModalTagstyles__Container>
+`;
+
+exports[`Testing Tags Styles renders ModalTag correctly with closable=true 1`] = `
+<ModalTagstyles__Container>
+  <ModalTagstyles__WhiteTag
+    closable={true}
+    onClick={[Function]}
+    onClose={[Function]}
+    rect={null}
+  />
+  <Modal
+    animateFrom="-16px"
+    animation="ease-in-out"
+    cardRef={
+      Object {
+        "current": null,
+      }
+    }
+    closable={true}
+    closeButton={false}
+    closeButtonPadding="10px 14px"
+    duration={120}
+    elementId="modal"
+    fullscreen={false}
+    insertComponent={
+      <ForwardRef(ModalTagstyles__FloatingTag)
+        closable={true}
+        position={Object {}}
+      >
+        
+      </ForwardRef(ModalTagstyles__FloatingTag)>
+    }
+    label=""
+    labelAlign="left"
+    onAppearStart={[Function]}
+    onAppeared={[Function]}
+    onLeaveStart={[Function]}
+    onLeaved={[Function]}
+    overflow=""
+    position={Object {}}
+    show={false}
+  >
+    tag
+  </Modal>
+</ModalTagstyles__Container>
+`;
+
+exports[`Testing Tags Styles renders ModalTag correctly without props 1`] = `
+<ModalTagstyles__Container>
+  <ModalTagstyles__WhiteTag
+    closable={false}
+    onClick={[Function]}
+    onClose={[Function]}
+    rect={null}
+  />
+  <Modal
+    animateFrom="-16px"
+    animation="ease-in-out"
+    cardRef={
+      Object {
+        "current": null,
+      }
+    }
+    closable={true}
+    closeButton={false}
+    closeButtonPadding="10px 14px"
+    duration={120}
+    elementId="modal"
+    fullscreen={false}
+    insertComponent={
+      <ForwardRef(ModalTagstyles__FloatingTag)
+        closable={false}
+        position={Object {}}
+      >
+        
+      </ForwardRef(ModalTagstyles__FloatingTag)>
+    }
+    label=""
+    labelAlign="left"
+    onAppearStart={[Function]}
+    onAppeared={[Function]}
+    onLeaveStart={[Function]}
+    onLeaved={[Function]}
+    overflow=""
+    position={Object {}}
+    show={false}
+  />
+</ModalTagstyles__Container>
+`;
+
+exports[`Testing Tags Styles renders PrimaryTag correctly with children 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__PrimaryTag-sc-1u635a7-3",
+        "isStatic": false,
+        "rules": Array [
+          "--tag-border-color:",
+          [Function],
+          ";--tag-background-color:",
+          [Function],
+          ";--tag-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "PrimaryTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__PrimaryTag-sc-1u635a7-3",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  tag
+</StyledComponent>
+`;
+
+exports[`Testing Tags Styles renders PrimaryTag correctly with closable=false 1`] = `
+<StyledComponent
+  closable={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__PrimaryTag-sc-1u635a7-3",
+        "isStatic": false,
+        "rules": Array [
+          "--tag-border-color:",
+          [Function],
+          ";--tag-background-color:",
+          [Function],
+          ";--tag-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "PrimaryTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__PrimaryTag-sc-1u635a7-3",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  tag
+</StyledComponent>
+`;
+
+exports[`Testing Tags Styles renders PrimaryTag correctly with closable=true 1`] = `
+<StyledComponent
+  closable={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__PrimaryTag-sc-1u635a7-3",
+        "isStatic": false,
+        "rules": Array [
+          "--tag-border-color:",
+          [Function],
+          ";--tag-background-color:",
+          [Function],
+          ";--tag-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "PrimaryTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__PrimaryTag-sc-1u635a7-3",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  tag
+</StyledComponent>
+`;
+
+exports[`Testing Tags Styles renders PrimaryTag correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__PrimaryTag-sc-1u635a7-3",
+        "isStatic": false,
+        "rules": Array [
+          "--tag-border-color:",
+          [Function],
+          ";--tag-background-color:",
+          [Function],
+          ";--tag-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "PrimaryTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__PrimaryTag-sc-1u635a7-3",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Tags Styles renders SecondaryTag correctly with children 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__SecondaryTag-sc-1u635a7-2",
+        "isStatic": false,
+        "rules": Array [],
+      },
+      "displayName": "Tags__SecondaryTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__SecondaryTag-sc-1u635a7-2",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  tag
+</StyledComponent>
+`;
+
+exports[`Testing Tags Styles renders SecondaryTag correctly with closable=false 1`] = `
+<StyledComponent
+  closable={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__SecondaryTag-sc-1u635a7-2",
+        "isStatic": false,
+        "rules": Array [],
+      },
+      "displayName": "Tags__SecondaryTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__SecondaryTag-sc-1u635a7-2",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  tag
+</StyledComponent>
+`;
+
+exports[`Testing Tags Styles renders SecondaryTag correctly with closable=true 1`] = `
+<StyledComponent
+  closable={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__SecondaryTag-sc-1u635a7-2",
+        "isStatic": false,
+        "rules": Array [],
+      },
+      "displayName": "Tags__SecondaryTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__SecondaryTag-sc-1u635a7-2",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  tag
+</StyledComponent>
+`;
+
+exports[`Testing Tags Styles renders SecondaryTag correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__SecondaryTag-sc-1u635a7-2",
+        "isStatic": false,
+        "rules": Array [],
+      },
+      "displayName": "Tags__SecondaryTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__SecondaryTag-sc-1u635a7-2",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Tags Styles renders SuccessTag correctly with children 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__SuccessTag-sc-1u635a7-4",
+        "isStatic": false,
+        "rules": Array [
+          "--tag-border-color:",
+          [Function],
+          ";--tag-background-color:",
+          [Function],
+          ";--tag-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "SuccessTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__SuccessTag-sc-1u635a7-4",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  tag
+</StyledComponent>
+`;
+
+exports[`Testing Tags Styles renders SuccessTag correctly with closable=false 1`] = `
+<StyledComponent
+  closable={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__SuccessTag-sc-1u635a7-4",
+        "isStatic": false,
+        "rules": Array [
+          "--tag-border-color:",
+          [Function],
+          ";--tag-background-color:",
+          [Function],
+          ";--tag-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "SuccessTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__SuccessTag-sc-1u635a7-4",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  tag
+</StyledComponent>
+`;
+
+exports[`Testing Tags Styles renders SuccessTag correctly with closable=true 1`] = `
+<StyledComponent
+  closable={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__SuccessTag-sc-1u635a7-4",
+        "isStatic": false,
+        "rules": Array [
+          "--tag-border-color:",
+          [Function],
+          ";--tag-background-color:",
+          [Function],
+          ";--tag-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "SuccessTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__SuccessTag-sc-1u635a7-4",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  tag
+</StyledComponent>
+`;
+
+exports[`Testing Tags Styles renders SuccessTag correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__SuccessTag-sc-1u635a7-4",
+        "isStatic": false,
+        "rules": Array [
+          "--tag-border-color:",
+          [Function],
+          ";--tag-background-color:",
+          [Function],
+          ";--tag-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "SuccessTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__SuccessTag-sc-1u635a7-4",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Tags Styles renders Tag correctly with children 1`] = `
+<Tags__BaseTag
+  closable={false}
+  height={28}
+  variant="default"
+>
+  tag
+</Tags__BaseTag>
+`;
+
+exports[`Testing Tags Styles renders Tag correctly with closable=false 1`] = `
+<Tags__BaseTag
+  closable={false}
+  height={28}
+  variant="default"
+>
+  tag
+</Tags__BaseTag>
+`;
+
+exports[`Testing Tags Styles renders Tag correctly with closable=true 1`] = `
+<Tags__BaseTag
+  closable={true}
+  height={28}
+  variant="default"
+>
+  tag
+  <Tags__Close
+    onClick={[Function]}
+  />
+</Tags__BaseTag>
+`;
+
+exports[`Testing Tags Styles renders Tag correctly without props 1`] = `
+<Tags__BaseTag
+  closable={false}
+  height={28}
+  variant="default"
+/>
+`;
+
+exports[`Testing Tags Styles renders WhiteTag correctly with children 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__WhiteTag-sc-1u635a7-7",
+        "isStatic": false,
+        "rules": Array [
+          "--tag-border-color:",
+          [Function],
+          ";--tag-background-color:",
+          [Function],
+          ";--tag-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "WhiteTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__WhiteTag-sc-1u635a7-7",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  tag
+</StyledComponent>
+`;
+
+exports[`Testing Tags Styles renders WhiteTag correctly with closable=false 1`] = `
+<StyledComponent
+  closable={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__WhiteTag-sc-1u635a7-7",
+        "isStatic": false,
+        "rules": Array [
+          "--tag-border-color:",
+          [Function],
+          ";--tag-background-color:",
+          [Function],
+          ";--tag-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "WhiteTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__WhiteTag-sc-1u635a7-7",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  tag
+</StyledComponent>
+`;
+
+exports[`Testing Tags Styles renders WhiteTag correctly with closable=true 1`] = `
+<StyledComponent
+  closable={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__WhiteTag-sc-1u635a7-7",
+        "isStatic": false,
+        "rules": Array [
+          "--tag-border-color:",
+          [Function],
+          ";--tag-background-color:",
+          [Function],
+          ";--tag-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "WhiteTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__WhiteTag-sc-1u635a7-7",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  tag
+</StyledComponent>
+`;
+
+exports[`Testing Tags Styles renders WhiteTag correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tags__WhiteTag-sc-1u635a7-7",
+        "isStatic": false,
+        "rules": Array [
+          "--tag-border-color:",
+          [Function],
+          ";--tag-background-color:",
+          [Function],
+          ";--tag-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "WhiteTag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "Tags__WhiteTag-sc-1u635a7-7",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

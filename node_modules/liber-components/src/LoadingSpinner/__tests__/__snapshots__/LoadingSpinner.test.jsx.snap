@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for LoadingSpinner Component should render correctly without props 1`] = `
+<styles__Container>
+  <styles__Spinner
+    color={null}
+    size={null}
+    thickness={null}
+  >
+    <span />
+  </styles__Spinner>
+</styles__Container>
+`;
+
+exports[`Test for LoadingSpinner Component should render passing props 1`] = `
+<styles__Container>
+  <styles__Spinner
+    color="#fafafa"
+    size="64px"
+    thickness="5px"
+  >
+    <span />
+  </styles__Spinner>
+</styles__Container>
+`;

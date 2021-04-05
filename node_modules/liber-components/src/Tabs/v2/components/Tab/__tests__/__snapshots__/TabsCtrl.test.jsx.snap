@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing TabsCtrl Styles should renders correctly 1`] = `
+<Tabsstyles__TabContainer
+  transitioning={false}
+>
+  header
+  <Tabsstyles__TabContentDisplay
+    active={0}
+    onTransitionEnd={[Function]}
+  >
+    <Tabsstyles__TabContent
+      active={true}
+      key="1"
+    >
+      Content 1
+    </Tabsstyles__TabContent>
+    <Tabsstyles__TabContent
+      active={false}
+      key="2"
+    >
+      Content 2
+    </Tabsstyles__TabContent>
+    <Tabsstyles__TabContent
+      active={false}
+      key="3"
+    >
+      Content 3
+    </Tabsstyles__TabContent>
+  </Tabsstyles__TabContentDisplay>
+</Tabsstyles__TabContainer>
+`;
+
+exports[`Testing TabsCtrl Styles should renders correctly when active = 1 1`] = `
+<Tabsstyles__TabContainer
+  transitioning={false}
+>
+  header
+  <Tabsstyles__TabContentDisplay
+    active={1}
+    onTransitionEnd={[Function]}
+  >
+    <Tabsstyles__TabContent
+      active={false}
+      key="1"
+    >
+      Content 1
+    </Tabsstyles__TabContent>
+    <Tabsstyles__TabContent
+      active={true}
+      key="2"
+    >
+      Content 2
+    </Tabsstyles__TabContent>
+    <Tabsstyles__TabContent
+      active={false}
+      key="3"
+    >
+      Content 3
+    </Tabsstyles__TabContent>
+  </Tabsstyles__TabContentDisplay>
+</Tabsstyles__TabContainer>
+`;
+
+exports[`Testing TabsCtrl Styles should renders correctly when active = 2 1`] = `
+<Tabsstyles__TabContainer
+  transitioning={false}
+>
+  header
+  <Tabsstyles__TabContentDisplay
+    active={2}
+    onTransitionEnd={[Function]}
+  >
+    <Tabsstyles__TabContent
+      active={false}
+      key="1"
+    >
+      Content 1
+    </Tabsstyles__TabContent>
+    <Tabsstyles__TabContent
+      active={false}
+      key="2"
+    >
+      Content 2
+    </Tabsstyles__TabContent>
+    <Tabsstyles__TabContent
+      active={true}
+      key="3"
+    >
+      Content 3
+    </Tabsstyles__TabContent>
+  </Tabsstyles__TabContentDisplay>
+</Tabsstyles__TabContainer>
+`;
+
+exports[`Testing TabsCtrl Styles should renders correctly when active = 100 1`] = `
+<Tabsstyles__TabContainer
+  transitioning={false}
+>
+  header
+  <Tabsstyles__TabContentDisplay
+    active={0}
+    onTransitionEnd={[Function]}
+  >
+    <Tabsstyles__TabContent
+      active={true}
+      key="1"
+    >
+      Content 1
+    </Tabsstyles__TabContent>
+    <Tabsstyles__TabContent
+      active={false}
+      key="2"
+    >
+      Content 2
+    </Tabsstyles__TabContent>
+    <Tabsstyles__TabContent
+      active={false}
+      key="3"
+    >
+      Content 3
+    </Tabsstyles__TabContent>
+  </Tabsstyles__TabContentDisplay>
+</Tabsstyles__TabContainer>
+`;

@@ -1,0 +1,895 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing RadioButton Styles Controled Styles Checkbox should render correctly checked 1`] = `
+<StyledComponent
+  checked={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__Checkbox-zfh1dm-8",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;margin:0px;",
+          [Function],
+          " & > span{padding:0px 0px 0px 25px;}& > span:before{width:17px;height:17px;background-color:",
+          [Function],
+          ";border-radius:4px;}&  > span:after{width:6px;height:12px;}",
+        ],
+      },
+      "displayName": "SelectMultiplestyles__Checkbox",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "checked": [Function],
+        "children": [Function],
+        "className": [Function],
+        "color": [Function],
+        "id": [Function],
+        "labelColor": [Function],
+        "name": [Function],
+        "onChange": [Function],
+        "value": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__Checkbox-zfh1dm-8",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "checked": null,
+          "children": "",
+          "className": "",
+          "color": "",
+          "labelColor": "",
+          "name": "checkboxes",
+          "onChange": [Function],
+          "value": "",
+        },
+        "propTypes": Object {
+          "checked": [Function],
+          "children": [Function],
+          "className": [Function],
+          "color": [Function],
+          "id": [Function],
+          "labelColor": [Function],
+          "name": [Function],
+          "onChange": [Function],
+          "value": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  id="mock-id"
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles Checkbox should render correctly with header flag 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__Checkbox-zfh1dm-8",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;margin:0px;",
+          [Function],
+          " & > span{padding:0px 0px 0px 25px;}& > span:before{width:17px;height:17px;background-color:",
+          [Function],
+          ";border-radius:4px;}&  > span:after{width:6px;height:12px;}",
+        ],
+      },
+      "displayName": "SelectMultiplestyles__Checkbox",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "checked": [Function],
+        "children": [Function],
+        "className": [Function],
+        "color": [Function],
+        "id": [Function],
+        "labelColor": [Function],
+        "name": [Function],
+        "onChange": [Function],
+        "value": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__Checkbox-zfh1dm-8",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "checked": null,
+          "children": "",
+          "className": "",
+          "color": "",
+          "labelColor": "",
+          "name": "checkboxes",
+          "onChange": [Function],
+          "value": "",
+        },
+        "propTypes": Object {
+          "checked": [Function],
+          "children": [Function],
+          "className": [Function],
+          "color": [Function],
+          "id": [Function],
+          "labelColor": [Function],
+          "name": [Function],
+          "onChange": [Function],
+          "value": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  header={true}
+  id="mock-id"
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles Checkbox should render correctly without header flag 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__Checkbox-zfh1dm-8",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;margin:0px;",
+          [Function],
+          " & > span{padding:0px 0px 0px 25px;}& > span:before{width:17px;height:17px;background-color:",
+          [Function],
+          ";border-radius:4px;}&  > span:after{width:6px;height:12px;}",
+        ],
+      },
+      "displayName": "SelectMultiplestyles__Checkbox",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "checked": [Function],
+        "children": [Function],
+        "className": [Function],
+        "color": [Function],
+        "id": [Function],
+        "labelColor": [Function],
+        "name": [Function],
+        "onChange": [Function],
+        "value": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__Checkbox-zfh1dm-8",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "checked": null,
+          "children": "",
+          "className": "",
+          "color": "",
+          "labelColor": "",
+          "name": "checkboxes",
+          "onChange": [Function],
+          "value": "",
+        },
+        "propTypes": Object {
+          "checked": [Function],
+          "children": [Function],
+          "className": [Function],
+          "color": [Function],
+          "id": [Function],
+          "labelColor": [Function],
+          "name": [Function],
+          "onChange": [Function],
+          "value": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  id="mock-id"
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles FieldBox should render correctly with layout === opened 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__FieldBox-zfh1dm-1",
+        "isStatic": false,
+        "rules": Array [
+          "--color:",
+          [Function],
+          ";min-width:140px;max-width:140px;height:36px;line-height:36px;padding:0 30px 0 8px;color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;border:2px solid var(--color);border-radius:4px;position:relative;cursor:pointer;white-space:nowrap;overflow:hidden;&:after{--height:8px;--width:7px;content:\\"\\";opacity:0.8;border-top:var(--height) solid var(--color);border-right:var(--width) solid transparent;border-bottom:var(--height) solid transparent;border-left:var(--width) solid transparent;border-radius:4px;position:absolute;right:8px;top:calc(50% - (var(--height) - (var(--height)/2)));transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;}& span{display:block;overflow:hidden;}",
+        ],
+      },
+      "displayName": "SelectMultiplestyles__FieldBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__FieldBox-zfh1dm-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  layout="opened"
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles FieldBox should render correctly with layout === selected 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__FieldBox-zfh1dm-1",
+        "isStatic": false,
+        "rules": Array [
+          "--color:",
+          [Function],
+          ";min-width:140px;max-width:140px;height:36px;line-height:36px;padding:0 30px 0 8px;color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;border:2px solid var(--color);border-radius:4px;position:relative;cursor:pointer;white-space:nowrap;overflow:hidden;&:after{--height:8px;--width:7px;content:\\"\\";opacity:0.8;border-top:var(--height) solid var(--color);border-right:var(--width) solid transparent;border-bottom:var(--height) solid transparent;border-left:var(--width) solid transparent;border-radius:4px;position:absolute;right:8px;top:calc(50% - (var(--height) - (var(--height)/2)));transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;}& span{display:block;overflow:hidden;}",
+        ],
+      },
+      "displayName": "SelectMultiplestyles__FieldBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__FieldBox-zfh1dm-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  layout="selected"
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles FieldBox should render correctly with layout === unselected 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__FieldBox-zfh1dm-1",
+        "isStatic": false,
+        "rules": Array [
+          "--color:",
+          [Function],
+          ";min-width:140px;max-width:140px;height:36px;line-height:36px;padding:0 30px 0 8px;color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;border:2px solid var(--color);border-radius:4px;position:relative;cursor:pointer;white-space:nowrap;overflow:hidden;&:after{--height:8px;--width:7px;content:\\"\\";opacity:0.8;border-top:var(--height) solid var(--color);border-right:var(--width) solid transparent;border-bottom:var(--height) solid transparent;border-left:var(--width) solid transparent;border-radius:4px;position:absolute;right:8px;top:calc(50% - (var(--height) - (var(--height)/2)));transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;}& span{display:block;overflow:hidden;}",
+        ],
+      },
+      "displayName": "SelectMultiplestyles__FieldBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__FieldBox-zfh1dm-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  layout="unselected"
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles FieldBox should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__FieldBox-zfh1dm-1",
+        "isStatic": false,
+        "rules": Array [
+          "--color:",
+          [Function],
+          ";min-width:140px;max-width:140px;height:36px;line-height:36px;padding:0 30px 0 8px;color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;border:2px solid var(--color);border-radius:4px;position:relative;cursor:pointer;white-space:nowrap;overflow:hidden;&:after{--height:8px;--width:7px;content:\\"\\";opacity:0.8;border-top:var(--height) solid var(--color);border-right:var(--width) solid transparent;border-bottom:var(--height) solid transparent;border-left:var(--width) solid transparent;border-radius:4px;position:absolute;right:8px;top:calc(50% - (var(--height) - (var(--height)/2)));transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;}& span{display:block;overflow:hidden;}",
+        ],
+      },
+      "displayName": "SelectMultiplestyles__FieldBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__FieldBox-zfh1dm-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles Label should render correctly with layout === opened 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__Label-zfh1dm-2",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";line-height:14px;margin:8px 0px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "SelectMultiplestyles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__Label-zfh1dm-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  layout="opened"
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles Label should render correctly with layout === selected 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__Label-zfh1dm-2",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";line-height:14px;margin:8px 0px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "SelectMultiplestyles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__Label-zfh1dm-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  layout="selected"
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles Label should render correctly with layout === unselected 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__Label-zfh1dm-2",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";line-height:14px;margin:8px 0px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "SelectMultiplestyles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__Label-zfh1dm-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  layout="unselected"
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles Label should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__Label-zfh1dm-2",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";line-height:14px;margin:8px 0px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "SelectMultiplestyles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__Label-zfh1dm-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles SelectionContainer should render correctly with open = true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__FieldBox-zfh1dm-1",
+        "isStatic": false,
+        "rules": Array [
+          "--color:",
+          [Function],
+          ";min-width:140px;max-width:140px;height:36px;line-height:36px;padding:0 30px 0 8px;color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;border:2px solid var(--color);border-radius:4px;position:relative;cursor:pointer;white-space:nowrap;overflow:hidden;&:after{--height:8px;--width:7px;content:\\"\\";opacity:0.8;border-top:var(--height) solid var(--color);border-right:var(--width) solid transparent;border-bottom:var(--height) solid transparent;border-left:var(--width) solid transparent;border-radius:4px;position:absolute;right:8px;top:calc(50% - (var(--height) - (var(--height)/2)));transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;}& span{display:block;overflow:hidden;}",
+        ],
+      },
+      "displayName": "SelectMultiplestyles__FieldBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__FieldBox-zfh1dm-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={true}
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles SelectionContainer should render correctly with open = true and position = center 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__FieldBox-zfh1dm-1",
+        "isStatic": false,
+        "rules": Array [
+          "--color:",
+          [Function],
+          ";min-width:140px;max-width:140px;height:36px;line-height:36px;padding:0 30px 0 8px;color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;border:2px solid var(--color);border-radius:4px;position:relative;cursor:pointer;white-space:nowrap;overflow:hidden;&:after{--height:8px;--width:7px;content:\\"\\";opacity:0.8;border-top:var(--height) solid var(--color);border-right:var(--width) solid transparent;border-bottom:var(--height) solid transparent;border-left:var(--width) solid transparent;border-radius:4px;position:absolute;right:8px;top:calc(50% - (var(--height) - (var(--height)/2)));transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;}& span{display:block;overflow:hidden;}",
+        ],
+      },
+      "displayName": "SelectMultiplestyles__FieldBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__FieldBox-zfh1dm-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={true}
+  position="center"
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles SelectionContainer should render correctly with open = true and position = left 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__FieldBox-zfh1dm-1",
+        "isStatic": false,
+        "rules": Array [
+          "--color:",
+          [Function],
+          ";min-width:140px;max-width:140px;height:36px;line-height:36px;padding:0 30px 0 8px;color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;border:2px solid var(--color);border-radius:4px;position:relative;cursor:pointer;white-space:nowrap;overflow:hidden;&:after{--height:8px;--width:7px;content:\\"\\";opacity:0.8;border-top:var(--height) solid var(--color);border-right:var(--width) solid transparent;border-bottom:var(--height) solid transparent;border-left:var(--width) solid transparent;border-radius:4px;position:absolute;right:8px;top:calc(50% - (var(--height) - (var(--height)/2)));transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;}& span{display:block;overflow:hidden;}",
+        ],
+      },
+      "displayName": "SelectMultiplestyles__FieldBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__FieldBox-zfh1dm-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={true}
+  position="left"
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles SelectionContainer should render correctly with open = true and position = right 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__FieldBox-zfh1dm-1",
+        "isStatic": false,
+        "rules": Array [
+          "--color:",
+          [Function],
+          ";min-width:140px;max-width:140px;height:36px;line-height:36px;padding:0 30px 0 8px;color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;border:2px solid var(--color);border-radius:4px;position:relative;cursor:pointer;white-space:nowrap;overflow:hidden;&:after{--height:8px;--width:7px;content:\\"\\";opacity:0.8;border-top:var(--height) solid var(--color);border-right:var(--width) solid transparent;border-bottom:var(--height) solid transparent;border-left:var(--width) solid transparent;border-radius:4px;position:absolute;right:8px;top:calc(50% - (var(--height) - (var(--height)/2)));transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;}& span{display:block;overflow:hidden;}",
+        ],
+      },
+      "displayName": "SelectMultiplestyles__FieldBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__FieldBox-zfh1dm-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={true}
+  position="right"
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles SelectionContainer should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__SelectionContainer-zfh1dm-4",
+        "isStatic": false,
+        "rules": Array [
+          "--width:340px;width:var(--width);margin-top:2px;position:absolute;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          [Function],
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "SelectMultiplestyles__SelectionContainer",
+      "foldedComponentIds": Array [
+        "Cards__Card-sc-1kn0psw-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__SelectionContainer-zfh1dm-4",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing RadioButton Styles Uncontrolled Styles should CardContent render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__CardContent-zfh1dm-3",
+        "isStatic": false,
+        "rules": Array [
+          "padding:8px 8px 0px 8px;display:flex;flex-direction:column;",
+        ],
+      },
+      "displayName": "SelectMultiplestyles__CardContent",
+      "foldedComponentIds": Array [
+        "Cards__CardContent-sc-1kn0psw-2",
+      ],
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__CardContent-zfh1dm-3",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing RadioButton Styles Uncontrolled Styles should FieldContainer render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__FieldContainer-zfh1dm-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;",
+        ],
+      },
+      "displayName": "SelectMultiplestyles__FieldContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__FieldContainer-zfh1dm-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing RadioButton Styles Uncontrolled Styles should SelectBox render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__SelectBox-zfh1dm-7",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;display:flex;justify-content:flex-start;align-items:center;flex-wrap:wrap;",
+        ],
+      },
+      "displayName": "SelectMultiplestyles__SelectBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__SelectBox-zfh1dm-7",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing RadioButton Styles Uncontrolled Styles should SelectCounter render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__SelectCounter-zfh1dm-6",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "SelectMultiplestyles__SelectCounter",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__SelectCounter-zfh1dm-6",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing RadioButton Styles Uncontrolled Styles should SelectHeader render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__SelectHeader-zfh1dm-5",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;justify-content:space-between;align-items:center;padding:0px 8px 8px 8px;",
+        ],
+      },
+      "displayName": "SelectMultiplestyles__SelectHeader",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__SelectHeader-zfh1dm-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing RadioButton Styles Uncontrolled Styles should Tooltip render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectMultiplestyles__Tooltip-zfh1dm-9",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "SelectMultiplestyles__Tooltip",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectMultiplestyles__Tooltip-zfh1dm-9",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

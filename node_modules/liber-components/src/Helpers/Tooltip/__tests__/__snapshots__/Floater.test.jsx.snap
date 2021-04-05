@@ -1,0 +1,1030 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for Floater Component should render correctly with children 1`] = `
+<Floater
+  contentPosition="unset"
+  label=""
+  mount="right"
+  mousePadding={40}
+  position={Object {}}
+  show={true}
+>
+  <Portal
+    containerInfo={
+      <div
+        id="tooltip"
+      >
+        <div
+          class="styles__Float-sc-1oomni5-2 geNPiI"
+          style="left: 0px; top: 0px;"
+          x="0px"
+          y="0px"
+        >
+          <div
+            class="styles__Arrow-sc-1oomni5-1 hwShoT"
+          />
+          <div />
+        </div>
+        <div
+          class="styles__Float-sc-1oomni5-2 geNPiI"
+          style="left: 0px; top: 0px;"
+          x="0px"
+          y="0px"
+        >
+          <div
+            class="styles__Arrow-sc-1oomni5-1 hwShoT"
+          />
+          <div>
+            <p>
+              Hello.
+            </p>
+          </div>
+        </div>
+      </div>
+    }
+  >
+    <styles__Float
+      contentPosition="unset"
+      hoverable={true}
+      mousePadding={40}
+      position="mouse-right"
+      visible={true}
+      x="0px"
+      y="0px"
+    >
+      <StyledComponent
+        contentPosition="unset"
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [
+              [Function],
+            ],
+            "componentStyle": ComponentStyle {
+              "componentId": "styles__Float-sc-1oomni5-2",
+              "isStatic": false,
+              "lastClassName": "geNPiI",
+              "rules": Array [
+                "position:absolute;border-radius:4px;background-color:",
+                [Function],
+                ";box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);z-index:9999;display:block;pointer-events:",
+                [Function],
+                ";opacity:",
+                [Function],
+                ";transition:",
+                [Function],
+                ";color:",
+                [Function],
+                ";font-size:",
+                [Function],
+                ";font-weight:",
+                [Function],
+                ";line-height:20px;",
+                [Function],
+                " & *{pointer-events:none;}& > h6{font-weight:bold;margin:0px;opacity:0.75;font-family:inherit;font-size:14px;text-align:left;color:",
+                [Function],
+                ";background-color:",
+                [Function],
+                ";padding:6px 0px;text-align:center;user-select:none;}& > div{display:flex;width:auto;justify-content:flex-start;align-items:center;padding:12px;overflow:hidden;}",
+              ],
+            },
+            "displayName": "styles__Float",
+            "foldedComponentIds": Array [],
+            "render": [Function],
+            "styledComponentId": "styles__Float-sc-1oomni5-2",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        hoverable={true}
+        mousePadding={40}
+        position="mouse-right"
+        visible={true}
+        x="0px"
+        y="0px"
+      >
+        <div
+          className="styles__Float-sc-1oomni5-2 geNPiI"
+          style={
+            Object {
+              "left": "0px",
+              "top": "0px",
+            }
+          }
+          x="0px"
+          y="0px"
+        >
+          <styles__Arrow
+            contentPosition="unset"
+            mount="right"
+          >
+            <StyledComponent
+              contentPosition="unset"
+              forwardedComponent={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "styles__Arrow-sc-1oomni5-1",
+                    "isStatic": false,
+                    "lastClassName": "hwShoT",
+                    "rules": Array [
+                      "position:absolute;",
+                      [Function],
+                      " overflow:hidden;pointer-events:none;padding:8px;box-sizing:border-box;&::after{content:'';position:absolute;pointer-events:none;width:15px;height:15px;background:#fff;transform:rotate(45deg);",
+                      [Function],
+                      " box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);}",
+                    ],
+                  },
+                  "displayName": "styles__Arrow",
+                  "foldedComponentIds": Array [],
+                  "render": [Function],
+                  "styledComponentId": "styles__Arrow-sc-1oomni5-1",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              mount="right"
+            >
+              <div
+                className="styles__Arrow-sc-1oomni5-1 hwShoT"
+              />
+            </StyledComponent>
+          </styles__Arrow>
+          <div>
+            <p>
+              Hello.
+            </p>
+          </div>
+        </div>
+      </StyledComponent>
+    </styles__Float>
+  </Portal>
+</Floater>
+`;
+
+exports[`Test for Floater Component should render correctly with children visible 1`] = `
+<Floater
+  contentPosition="unset"
+  label=""
+  mount="right"
+  mousePadding={40}
+  position={Object {}}
+  show={true}
+>
+  <Portal
+    containerInfo={
+      <div
+        id="tooltip"
+      >
+        <div
+          class="styles__Float-sc-1oomni5-2 geNPiI"
+          style="left: 0px; top: 0px;"
+          x="0px"
+          y="0px"
+        >
+          <div
+            class="styles__Arrow-sc-1oomni5-1 hwShoT"
+          />
+          <div />
+        </div>
+        <div
+          class="styles__Float-sc-1oomni5-2 geNPiI"
+          style="left: 0px; top: 0px;"
+          x="0px"
+          y="0px"
+        >
+          <div
+            class="styles__Arrow-sc-1oomni5-1 hwShoT"
+          />
+          <div>
+            <p>
+              Hello.
+            </p>
+          </div>
+        </div>
+        <div
+          class="styles__Float-sc-1oomni5-2 geNPiI"
+          style="left: 0px; top: 0px;"
+          x="0px"
+          y="0px"
+        >
+          <div
+            class="styles__Arrow-sc-1oomni5-1 hwShoT"
+          />
+          <h6>
+            Helper
+          </h6>
+          <div>
+            <p>
+              Hello.
+            </p>
+          </div>
+        </div>
+        <div
+          class="styles__Float-sc-1oomni5-2 geNPiI"
+          style="left: 0px; top: 0px;"
+          x="0px"
+          y="0px"
+        >
+          <div
+            class="styles__Arrow-sc-1oomni5-1 hwShoT"
+          />
+          <div>
+            <p>
+              Hello.
+            </p>
+          </div>
+        </div>
+      </div>
+    }
+  >
+    <styles__Float
+      contentPosition="unset"
+      hoverable={true}
+      mousePadding={40}
+      position="mouse-right"
+      visible={true}
+      x="0px"
+      y="0px"
+    >
+      <StyledComponent
+        contentPosition="unset"
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [
+              [Function],
+            ],
+            "componentStyle": ComponentStyle {
+              "componentId": "styles__Float-sc-1oomni5-2",
+              "isStatic": false,
+              "lastClassName": "geNPiI",
+              "rules": Array [
+                "position:absolute;border-radius:4px;background-color:",
+                [Function],
+                ";box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);z-index:9999;display:block;pointer-events:",
+                [Function],
+                ";opacity:",
+                [Function],
+                ";transition:",
+                [Function],
+                ";color:",
+                [Function],
+                ";font-size:",
+                [Function],
+                ";font-weight:",
+                [Function],
+                ";line-height:20px;",
+                [Function],
+                " & *{pointer-events:none;}& > h6{font-weight:bold;margin:0px;opacity:0.75;font-family:inherit;font-size:14px;text-align:left;color:",
+                [Function],
+                ";background-color:",
+                [Function],
+                ";padding:6px 0px;text-align:center;user-select:none;}& > div{display:flex;width:auto;justify-content:flex-start;align-items:center;padding:12px;overflow:hidden;}",
+              ],
+            },
+            "displayName": "styles__Float",
+            "foldedComponentIds": Array [],
+            "render": [Function],
+            "styledComponentId": "styles__Float-sc-1oomni5-2",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        hoverable={true}
+        mousePadding={40}
+        position="mouse-right"
+        visible={true}
+        x="0px"
+        y="0px"
+      >
+        <div
+          className="styles__Float-sc-1oomni5-2 geNPiI"
+          style={
+            Object {
+              "left": "0px",
+              "top": "0px",
+            }
+          }
+          x="0px"
+          y="0px"
+        >
+          <styles__Arrow
+            contentPosition="unset"
+            mount="right"
+          >
+            <StyledComponent
+              contentPosition="unset"
+              forwardedComponent={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "styles__Arrow-sc-1oomni5-1",
+                    "isStatic": false,
+                    "lastClassName": "hwShoT",
+                    "rules": Array [
+                      "position:absolute;",
+                      [Function],
+                      " overflow:hidden;pointer-events:none;padding:8px;box-sizing:border-box;&::after{content:'';position:absolute;pointer-events:none;width:15px;height:15px;background:#fff;transform:rotate(45deg);",
+                      [Function],
+                      " box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);}",
+                    ],
+                  },
+                  "displayName": "styles__Arrow",
+                  "foldedComponentIds": Array [],
+                  "render": [Function],
+                  "styledComponentId": "styles__Arrow-sc-1oomni5-1",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              mount="right"
+            >
+              <div
+                className="styles__Arrow-sc-1oomni5-1 hwShoT"
+              />
+            </StyledComponent>
+          </styles__Arrow>
+          <div>
+            <p>
+              Hello.
+            </p>
+          </div>
+        </div>
+      </StyledComponent>
+    </styles__Float>
+  </Portal>
+</Floater>
+`;
+
+exports[`Test for Floater Component should render correctly with contentPosition  1`] = `
+<Floater
+  contentPosition="start"
+  label=""
+  mount="right"
+  mousePadding={40}
+  position={Object {}}
+  show={true}
+>
+  <Portal
+    containerInfo={
+      <div
+        id="tooltip"
+      >
+        <div
+          class="styles__Float-sc-1oomni5-2 geNPiI"
+          style="left: 0px; top: 0px;"
+          x="0px"
+          y="0px"
+        >
+          <div
+            class="styles__Arrow-sc-1oomni5-1 hwShoT"
+          />
+          <div />
+        </div>
+        <div
+          class="styles__Float-sc-1oomni5-2 geNPiI"
+          style="left: 0px; top: 0px;"
+          x="0px"
+          y="0px"
+        >
+          <div
+            class="styles__Arrow-sc-1oomni5-1 hwShoT"
+          />
+          <div>
+            <p>
+              Hello.
+            </p>
+          </div>
+        </div>
+        <div
+          class="styles__Float-sc-1oomni5-2 geNPiI"
+          style="left: 0px; top: 0px;"
+          x="0px"
+          y="0px"
+        >
+          <div
+            class="styles__Arrow-sc-1oomni5-1 hwShoT"
+          />
+          <h6>
+            Helper
+          </h6>
+          <div>
+            <p>
+              Hello.
+            </p>
+          </div>
+        </div>
+        <div
+          class="styles__Float-sc-1oomni5-2 geNPiI"
+          style="left: 0px; top: 0px;"
+          x="0px"
+          y="0px"
+        >
+          <div
+            class="styles__Arrow-sc-1oomni5-1 hwShoT"
+          />
+          <div>
+            <p>
+              Hello.
+            </p>
+          </div>
+        </div>
+        <div
+          class="styles__Float-sc-1oomni5-2 geNPiI"
+          style="left: 0px; top: 0px;"
+          x="0px"
+          y="0px"
+        >
+          <div
+            class="styles__Arrow-sc-1oomni5-1 hwShoT"
+          />
+          <h6>
+            Helper
+          </h6>
+          <div>
+            <p>
+              Hello.
+            </p>
+          </div>
+        </div>
+        <div
+          class="styles__Float-sc-1oomni5-2 cIuPTt"
+          style="left: 0px; top: 0px;"
+          x="0px"
+          y="0px"
+        >
+          <div
+            class="styles__Arrow-sc-1oomni5-1 kcnzTJ"
+          />
+          <div>
+            <p>
+              Hello.
+            </p>
+          </div>
+        </div>
+      </div>
+    }
+  >
+    <styles__Float
+      contentPosition="start"
+      hoverable={true}
+      mousePadding={40}
+      position="content-right"
+      visible={true}
+      x="0px"
+      y="0px"
+    >
+      <StyledComponent
+        contentPosition="start"
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [
+              [Function],
+            ],
+            "componentStyle": ComponentStyle {
+              "componentId": "styles__Float-sc-1oomni5-2",
+              "isStatic": false,
+              "lastClassName": "cIuPTt",
+              "rules": Array [
+                "position:absolute;border-radius:4px;background-color:",
+                [Function],
+                ";box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);z-index:9999;display:block;pointer-events:",
+                [Function],
+                ";opacity:",
+                [Function],
+                ";transition:",
+                [Function],
+                ";color:",
+                [Function],
+                ";font-size:",
+                [Function],
+                ";font-weight:",
+                [Function],
+                ";line-height:20px;",
+                [Function],
+                " & *{pointer-events:none;}& > h6{font-weight:bold;margin:0px;opacity:0.75;font-family:inherit;font-size:14px;text-align:left;color:",
+                [Function],
+                ";background-color:",
+                [Function],
+                ";padding:6px 0px;text-align:center;user-select:none;}& > div{display:flex;width:auto;justify-content:flex-start;align-items:center;padding:12px;overflow:hidden;}",
+              ],
+            },
+            "displayName": "styles__Float",
+            "foldedComponentIds": Array [],
+            "render": [Function],
+            "styledComponentId": "styles__Float-sc-1oomni5-2",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        hoverable={true}
+        mousePadding={40}
+        position="content-right"
+        visible={true}
+        x="0px"
+        y="0px"
+      >
+        <div
+          className="styles__Float-sc-1oomni5-2 cIuPTt"
+          style={
+            Object {
+              "left": "0px",
+              "top": "0px",
+            }
+          }
+          x="0px"
+          y="0px"
+        >
+          <styles__Arrow
+            contentPosition="start"
+            mount="right"
+          >
+            <StyledComponent
+              contentPosition="start"
+              forwardedComponent={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "styles__Arrow-sc-1oomni5-1",
+                    "isStatic": false,
+                    "lastClassName": "kcnzTJ",
+                    "rules": Array [
+                      "position:absolute;",
+                      [Function],
+                      " overflow:hidden;pointer-events:none;padding:8px;box-sizing:border-box;&::after{content:'';position:absolute;pointer-events:none;width:15px;height:15px;background:#fff;transform:rotate(45deg);",
+                      [Function],
+                      " box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);}",
+                    ],
+                  },
+                  "displayName": "styles__Arrow",
+                  "foldedComponentIds": Array [],
+                  "render": [Function],
+                  "styledComponentId": "styles__Arrow-sc-1oomni5-1",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              mount="right"
+            >
+              <div
+                className="styles__Arrow-sc-1oomni5-1 kcnzTJ"
+              />
+            </StyledComponent>
+          </styles__Arrow>
+          <div>
+            <p>
+              Hello.
+            </p>
+          </div>
+        </div>
+      </StyledComponent>
+    </styles__Float>
+  </Portal>
+</Floater>
+`;
+
+exports[`Test for Floater Component should spread props correctly 1`] = `
+<Floater
+  contentPosition="unset"
+  label="Helper"
+  mount="right"
+  mousePadding={40}
+  position={
+    Object {
+      "x": 0,
+      "y": 0,
+    }
+  }
+  show={true}
+>
+  <Portal
+    containerInfo={
+      <div
+        id="tooltip"
+      >
+        <div
+          class="styles__Float-sc-1oomni5-2 geNPiI"
+          style="left: 0px; top: 0px;"
+          x="0px"
+          y="0px"
+        >
+          <div
+            class="styles__Arrow-sc-1oomni5-1 hwShoT"
+          />
+          <div />
+        </div>
+        <div
+          class="styles__Float-sc-1oomni5-2 geNPiI"
+          style="left: 0px; top: 0px;"
+          x="0px"
+          y="0px"
+        >
+          <div
+            class="styles__Arrow-sc-1oomni5-1 hwShoT"
+          />
+          <div>
+            <p>
+              Hello.
+            </p>
+          </div>
+        </div>
+        <div
+          class="styles__Float-sc-1oomni5-2 geNPiI"
+          style="left: 0px; top: 0px;"
+          x="0px"
+          y="0px"
+        >
+          <div
+            class="styles__Arrow-sc-1oomni5-1 hwShoT"
+          />
+          <h6>
+            Helper
+          </h6>
+          <div>
+            <p>
+              Hello.
+            </p>
+          </div>
+        </div>
+      </div>
+    }
+  >
+    <styles__Float
+      contentPosition="unset"
+      hoverable={true}
+      mousePadding={40}
+      position="mouse-right"
+      visible={true}
+      x="0px"
+      y="0px"
+    >
+      <StyledComponent
+        contentPosition="unset"
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [
+              [Function],
+            ],
+            "componentStyle": ComponentStyle {
+              "componentId": "styles__Float-sc-1oomni5-2",
+              "isStatic": false,
+              "lastClassName": "geNPiI",
+              "rules": Array [
+                "position:absolute;border-radius:4px;background-color:",
+                [Function],
+                ";box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);z-index:9999;display:block;pointer-events:",
+                [Function],
+                ";opacity:",
+                [Function],
+                ";transition:",
+                [Function],
+                ";color:",
+                [Function],
+                ";font-size:",
+                [Function],
+                ";font-weight:",
+                [Function],
+                ";line-height:20px;",
+                [Function],
+                " & *{pointer-events:none;}& > h6{font-weight:bold;margin:0px;opacity:0.75;font-family:inherit;font-size:14px;text-align:left;color:",
+                [Function],
+                ";background-color:",
+                [Function],
+                ";padding:6px 0px;text-align:center;user-select:none;}& > div{display:flex;width:auto;justify-content:flex-start;align-items:center;padding:12px;overflow:hidden;}",
+              ],
+            },
+            "displayName": "styles__Float",
+            "foldedComponentIds": Array [],
+            "render": [Function],
+            "styledComponentId": "styles__Float-sc-1oomni5-2",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        hoverable={true}
+        mousePadding={40}
+        position="mouse-right"
+        visible={true}
+        x="0px"
+        y="0px"
+      >
+        <div
+          className="styles__Float-sc-1oomni5-2 geNPiI"
+          style={
+            Object {
+              "left": "0px",
+              "top": "0px",
+            }
+          }
+          x="0px"
+          y="0px"
+        >
+          <styles__Arrow
+            contentPosition="unset"
+            mount="right"
+          >
+            <StyledComponent
+              contentPosition="unset"
+              forwardedComponent={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "styles__Arrow-sc-1oomni5-1",
+                    "isStatic": false,
+                    "lastClassName": "hwShoT",
+                    "rules": Array [
+                      "position:absolute;",
+                      [Function],
+                      " overflow:hidden;pointer-events:none;padding:8px;box-sizing:border-box;&::after{content:'';position:absolute;pointer-events:none;width:15px;height:15px;background:#fff;transform:rotate(45deg);",
+                      [Function],
+                      " box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);}",
+                    ],
+                  },
+                  "displayName": "styles__Arrow",
+                  "foldedComponentIds": Array [],
+                  "render": [Function],
+                  "styledComponentId": "styles__Arrow-sc-1oomni5-1",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              mount="right"
+            >
+              <div
+                className="styles__Arrow-sc-1oomni5-1 hwShoT"
+              />
+            </StyledComponent>
+          </styles__Arrow>
+          <h6>
+            Helper
+          </h6>
+          <div>
+            <p>
+              Hello.
+            </p>
+          </div>
+        </div>
+      </StyledComponent>
+    </styles__Float>
+  </Portal>
+</Floater>
+`;
+
+exports[`Test for Floater Component should spread props correctly visible 1`] = `
+<Floater
+  contentPosition="unset"
+  label="Helper"
+  mount="right"
+  mousePadding={40}
+  position={
+    Object {
+      "x": 0,
+      "y": 0,
+    }
+  }
+  show={true}
+>
+  <Portal
+    containerInfo={
+      <div
+        id="tooltip"
+      >
+        <div
+          class="styles__Float-sc-1oomni5-2 geNPiI"
+          style="left: 0px; top: 0px;"
+          x="0px"
+          y="0px"
+        >
+          <div
+            class="styles__Arrow-sc-1oomni5-1 hwShoT"
+          />
+          <div />
+        </div>
+        <div
+          class="styles__Float-sc-1oomni5-2 geNPiI"
+          style="left: 0px; top: 0px;"
+          x="0px"
+          y="0px"
+        >
+          <div
+            class="styles__Arrow-sc-1oomni5-1 hwShoT"
+          />
+          <div>
+            <p>
+              Hello.
+            </p>
+          </div>
+        </div>
+        <div
+          class="styles__Float-sc-1oomni5-2 geNPiI"
+          style="left: 0px; top: 0px;"
+          x="0px"
+          y="0px"
+        >
+          <div
+            class="styles__Arrow-sc-1oomni5-1 hwShoT"
+          />
+          <h6>
+            Helper
+          </h6>
+          <div>
+            <p>
+              Hello.
+            </p>
+          </div>
+        </div>
+        <div
+          class="styles__Float-sc-1oomni5-2 geNPiI"
+          style="left: 0px; top: 0px;"
+          x="0px"
+          y="0px"
+        >
+          <div
+            class="styles__Arrow-sc-1oomni5-1 hwShoT"
+          />
+          <div>
+            <p>
+              Hello.
+            </p>
+          </div>
+        </div>
+        <div
+          class="styles__Float-sc-1oomni5-2 geNPiI"
+          style="left: 0px; top: 0px;"
+          x="0px"
+          y="0px"
+        >
+          <div
+            class="styles__Arrow-sc-1oomni5-1 hwShoT"
+          />
+          <h6>
+            Helper
+          </h6>
+          <div>
+            <p>
+              Hello.
+            </p>
+          </div>
+        </div>
+      </div>
+    }
+  >
+    <styles__Float
+      contentPosition="unset"
+      hoverable={true}
+      mousePadding={40}
+      position="mouse-right"
+      visible={true}
+      x="0px"
+      y="0px"
+    >
+      <StyledComponent
+        contentPosition="unset"
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [
+              [Function],
+            ],
+            "componentStyle": ComponentStyle {
+              "componentId": "styles__Float-sc-1oomni5-2",
+              "isStatic": false,
+              "lastClassName": "geNPiI",
+              "rules": Array [
+                "position:absolute;border-radius:4px;background-color:",
+                [Function],
+                ";box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);z-index:9999;display:block;pointer-events:",
+                [Function],
+                ";opacity:",
+                [Function],
+                ";transition:",
+                [Function],
+                ";color:",
+                [Function],
+                ";font-size:",
+                [Function],
+                ";font-weight:",
+                [Function],
+                ";line-height:20px;",
+                [Function],
+                " & *{pointer-events:none;}& > h6{font-weight:bold;margin:0px;opacity:0.75;font-family:inherit;font-size:14px;text-align:left;color:",
+                [Function],
+                ";background-color:",
+                [Function],
+                ";padding:6px 0px;text-align:center;user-select:none;}& > div{display:flex;width:auto;justify-content:flex-start;align-items:center;padding:12px;overflow:hidden;}",
+              ],
+            },
+            "displayName": "styles__Float",
+            "foldedComponentIds": Array [],
+            "render": [Function],
+            "styledComponentId": "styles__Float-sc-1oomni5-2",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        hoverable={true}
+        mousePadding={40}
+        position="mouse-right"
+        visible={true}
+        x="0px"
+        y="0px"
+      >
+        <div
+          className="styles__Float-sc-1oomni5-2 geNPiI"
+          style={
+            Object {
+              "left": "0px",
+              "top": "0px",
+            }
+          }
+          x="0px"
+          y="0px"
+        >
+          <styles__Arrow
+            contentPosition="unset"
+            mount="right"
+          >
+            <StyledComponent
+              contentPosition="unset"
+              forwardedComponent={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "styles__Arrow-sc-1oomni5-1",
+                    "isStatic": false,
+                    "lastClassName": "hwShoT",
+                    "rules": Array [
+                      "position:absolute;",
+                      [Function],
+                      " overflow:hidden;pointer-events:none;padding:8px;box-sizing:border-box;&::after{content:'';position:absolute;pointer-events:none;width:15px;height:15px;background:#fff;transform:rotate(45deg);",
+                      [Function],
+                      " box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);}",
+                    ],
+                  },
+                  "displayName": "styles__Arrow",
+                  "foldedComponentIds": Array [],
+                  "render": [Function],
+                  "styledComponentId": "styles__Arrow-sc-1oomni5-1",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              mount="right"
+            >
+              <div
+                className="styles__Arrow-sc-1oomni5-1 hwShoT"
+              />
+            </StyledComponent>
+          </styles__Arrow>
+          <h6>
+            Helper
+          </h6>
+          <div>
+            <p>
+              Hello.
+            </p>
+          </div>
+        </div>
+      </StyledComponent>
+    </styles__Float>
+  </Portal>
+</Floater>
+`;

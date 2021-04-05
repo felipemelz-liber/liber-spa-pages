@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BankAccount component tests should render correctly with props 1`] = `
+<styled.div>
+  <styled.div />
+  <styled.div>
+    <styled.div>
+      001 - Banco do Brasil S.A.
+    </styled.div>
+    <div>
+      Agência 001-1
+    </div>
+    <div>
+      Conta 5454-1
+    </div>
+  </styled.div>
+</styled.div>
+`;
+
+exports[`BankAccount component tests should render correctly without props 1`] = `
+<styled.div>
+  <styled.div />
+  <styled.div>
+    <styled.div>
+       - 
+    </styled.div>
+    <div>
+      Agência 
+    </div>
+    <div>
+      Conta 
+    </div>
+  </styled.div>
+</styled.div>
+`;

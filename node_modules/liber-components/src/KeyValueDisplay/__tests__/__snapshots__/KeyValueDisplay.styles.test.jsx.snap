@@ -1,0 +1,181 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing KeyValueDisplay Styles renders Box correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "KeyValueDisplaystyles__Box-sc-1ifmqrc-0",
+        "isStatic": false,
+        "rules": Array [
+          "height:48px;background-color:#ffffff;padding:16px 24px;text-align:left;display:flex;justify-content:flex-start;align-items:center;flex-grow:1;border-right:1px solid ",
+          [Function],
+          ";box-sizing:border-box;position:relative;&:last-child{border-right:0px;}",
+        ],
+      },
+      "displayName": "KeyValueDisplaystyles__Box",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "KeyValueDisplaystyles__Box-sc-1ifmqrc-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles renders Icon correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "KeyValueDisplaystyles__Icon-sc-1ifmqrc-5",
+        "isStatic": false,
+        "rules": Array [
+          "--size:16px;min-width:var(--size);min-height:var(--size);max-width:var(--size);max-height:var(--size);fill:",
+          [Function],
+          ";opacity:0.6;",
+        ],
+      },
+      "displayName": "KeyValueDisplaystyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "KeyValueDisplaystyles__Icon-sc-1ifmqrc-5",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles renders IconContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "KeyValueDisplaystyles__IconContainer-sc-1ifmqrc-4",
+        "isStatic": false,
+        "rules": Array [
+          "cursor:default;display:flex;",
+        ],
+      },
+      "displayName": "KeyValueDisplaystyles__IconContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "KeyValueDisplaystyles__IconContainer-sc-1ifmqrc-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles renders Label correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "KeyValueDisplaystyles__Label-sc-1ifmqrc-1",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:22px;margin-right:8px;",
+        ],
+      },
+      "displayName": "KeyValueDisplaystyles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "KeyValueDisplaystyles__Label-sc-1ifmqrc-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles renders TooltipContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "KeyValueDisplaystyles__TooltipContainer-sc-1ifmqrc-3",
+        "isStatic": false,
+        "rules": Array [
+          "margin-left:8px;height:100%;display:flex;justify-content:center;align-items:center;",
+        ],
+      },
+      "displayName": "KeyValueDisplaystyles__TooltipContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "KeyValueDisplaystyles__TooltipContainer-sc-1ifmqrc-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles renders Value correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "KeyValueDisplaystyles__Value-sc-1ifmqrc-2",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:22px;text-align:right;color:",
+          [Function],
+          ";margin-left:auto;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;",
+        ],
+      },
+      "displayName": "KeyValueDisplaystyles__Value",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "KeyValueDisplaystyles__Value-sc-1ifmqrc-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

@@ -1,0 +1,338 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Carousel Styles Controlled Dot should render without crashing, with current=false 1`] = `
+<StyledComponent
+  current={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Carouselstyles__DotsContainer-nmajyf-1",
+        "isStatic": false,
+        "rules": Array [
+          "min-height:30px;width:100%;display:flex;justify-content:center;align-items:center;",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Carouselstyles__DotsContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Carouselstyles__DotsContainer-nmajyf-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Carousel Styles Controlled Dot should render without crashing, with current=true 1`] = `
+<StyledComponent
+  current={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Carouselstyles__DotsContainer-nmajyf-1",
+        "isStatic": false,
+        "rules": Array [
+          "min-height:30px;width:100%;display:flex;justify-content:center;align-items:center;",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Carouselstyles__DotsContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Carouselstyles__DotsContainer-nmajyf-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Carousel Styles Controlled Dot should render without crashing, without current 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Carouselstyles__DotsContainer-nmajyf-1",
+        "isStatic": false,
+        "rules": Array [
+          "min-height:30px;width:100%;display:flex;justify-content:center;align-items:center;",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Carouselstyles__DotsContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Carouselstyles__DotsContainer-nmajyf-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Carousel Styles Controlled DotContainer should render without crashing, with inner=false 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Carouselstyles__DotsContainer-nmajyf-1",
+        "isStatic": false,
+        "rules": Array [
+          "min-height:30px;width:100%;display:flex;justify-content:center;align-items:center;",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Carouselstyles__DotsContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Carouselstyles__DotsContainer-nmajyf-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  inner={false}
+/>
+`;
+
+exports[`Testing Carousel Styles Controlled DotContainer should render without crashing, with inner=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Carouselstyles__DotsContainer-nmajyf-1",
+        "isStatic": false,
+        "rules": Array [
+          "min-height:30px;width:100%;display:flex;justify-content:center;align-items:center;",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Carouselstyles__DotsContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Carouselstyles__DotsContainer-nmajyf-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  inner={true}
+/>
+`;
+
+exports[`Testing Carousel Styles Controlled DotContainer should render without crashing, without inner 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Carouselstyles__DotsContainer-nmajyf-1",
+        "isStatic": false,
+        "rules": Array [
+          "min-height:30px;width:100%;display:flex;justify-content:center;align-items:center;",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Carouselstyles__DotsContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Carouselstyles__DotsContainer-nmajyf-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Carousel Styles Uncontroled renders Body without crashing 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Carouselstyles__Body-nmajyf-6",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;--color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Carouselstyles__Body",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Carouselstyles__Body-nmajyf-6",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Carousel Styles Uncontroled renders Carousels without crashing 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Carouselstyles__Carousels-nmajyf-0",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;transform:translateX(",
+          [Function],
+          ");transition:transform .5s ease-in-out;width:100%;height:100%;& > *{min-width:100%;min-height:100%;}",
+        ],
+      },
+      "displayName": "Carouselstyles__Carousels",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Carouselstyles__Carousels-nmajyf-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Carousel Styles Uncontroled renders Hidden without crashing 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Carouselstyles__Hidden-nmajyf-5",
+        "isStatic": false,
+        "rules": Array [
+          "--color:",
+          [Function],
+          ";width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";overflow:hidden;position:relative;&:hover > *{opacity:1;}& ",
+          ".Carouselstyles__LeftChavron-nmajyf-3",
+          ",& ",
+          ".Carouselstyles__RightChavron-nmajyf-4",
+          "{pointer-events:none;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+      pointer-events: all;
+    ",
+          "}",
+          "}",
+        ],
+      },
+      "displayName": "Carouselstyles__Hidden",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Carouselstyles__Hidden-nmajyf-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Carousel Styles Uncontroled renders LeftChavron without crashing 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Carouselstyles__LeftChavron-nmajyf-3",
+        "isStatic": false,
+        "rules": Array [
+          "transform:rotate(90deg);left:10px;",
+          "width:50px;height:50px;position:absolute;top:calc(50% - 25px);fill:var(--color);cursor:pointer;opacity:0.2;transition:opacity .25s ease-in-out;",
+        ],
+      },
+      "displayName": "Carouselstyles__LeftChavron",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Carouselstyles__LeftChavron-nmajyf-3",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Carousel Styles Uncontroled renders RightChavron without crashing 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Carouselstyles__RightChavron-nmajyf-4",
+        "isStatic": false,
+        "rules": Array [
+          "transform:rotate(-90deg);right:10px;",
+          "width:50px;height:50px;position:absolute;top:calc(50% - 25px);fill:var(--color);cursor:pointer;opacity:0.2;transition:opacity .25s ease-in-out;",
+        ],
+      },
+      "displayName": "Carouselstyles__RightChavron",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Carouselstyles__RightChavron-nmajyf-4",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

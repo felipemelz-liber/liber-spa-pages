@@ -1,0 +1,172 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TagDisplay tests should render correctly for case: 0 1`] = `
+<styled.div
+  spacing={2}
+/>
+`;
+
+exports[`TagDisplay tests should render correctly for case: 1 1`] = `
+<styled.div
+  spacing={2}
+>
+  <styled.div
+    columnSize={3}
+    key="a"
+  >
+    <Styled(Tag)>
+      a
+    </Styled(Tag)>
+  </styled.div>
+  <styled.div
+    columnSize={3}
+    key="b"
+  >
+    <Styled(Tag)>
+      b
+    </Styled(Tag)>
+  </styled.div>
+  <styled.div
+    columnSize={3}
+    key="c"
+  >
+    <Styled(Tag)>
+      c
+    </Styled(Tag)>
+  </styled.div>
+  <styled.div
+    columnSize={3}
+    key="d"
+  >
+    <Styled(Tag)>
+      d
+    </Styled(Tag)>
+  </styled.div>
+</styled.div>
+`;
+
+exports[`TagDisplay tests should render correctly for case: 2 1`] = `
+<styled.div
+  spacing={2}
+>
+  <styled.div
+    columnSize={2.4}
+    key="a"
+  >
+    <Styled(Tag)>
+      a
+    </Styled(Tag)>
+  </styled.div>
+  <styled.div
+    columnSize={2.4}
+    key="b"
+  >
+    <Styled(Tag)>
+      b
+    </Styled(Tag)>
+  </styled.div>
+  <styled.div
+    columnSize={2.4}
+    key="c"
+  >
+    <Styled(Tag)>
+      c
+    </Styled(Tag)>
+  </styled.div>
+  <styled.div
+    columnSize={2.4}
+    key="d"
+  >
+    <Styled(Tag)>
+      d
+    </Styled(Tag)>
+  </styled.div>
+  <styled.div
+    columnSize={2.4}
+    key="b"
+  >
+    <Styled(Tag)>
+      b
+    </Styled(Tag)>
+  </styled.div>
+  <styled.div
+    columnSize={2.4}
+    key="c"
+  >
+    <Styled(Tag)>
+      c
+    </Styled(Tag)>
+  </styled.div>
+  <styled.div
+    columnSize={2.4}
+    key="d"
+  >
+    <Styled(Tag)>
+      d
+    </Styled(Tag)>
+  </styled.div>
+  <styled.div
+    columnSize={2.4}
+    key="b"
+  >
+    <Styled(Tag)>
+      b
+    </Styled(Tag)>
+  </styled.div>
+  <styled.div
+    columnSize={2.4}
+    key="c"
+  >
+    <Styled(Tag)>
+      c
+    </Styled(Tag)>
+  </styled.div>
+  <styled.div
+    columnSize={2.4}
+    key="d"
+  >
+    <Styled(Tag)>
+      d
+    </Styled(Tag)>
+  </styled.div>
+  <styled.div
+    columnSize={2.4}
+    key="b"
+  >
+    <Styled(Tag)>
+      b
+    </Styled(Tag)>
+  </styled.div>
+  <styled.div
+    columnSize={2.4}
+    key="c"
+  >
+    <Styled(Tag)>
+      c
+    </Styled(Tag)>
+  </styled.div>
+  <styled.div
+    columnSize={2.4}
+    key="d"
+  >
+    <Styled(Tag)>
+      d
+    </Styled(Tag)>
+  </styled.div>
+  <styled.div
+    columnSize={2.4}
+    key="b"
+  >
+    <Styled(Tag)>
+      b
+    </Styled(Tag)>
+  </styled.div>
+  <styled.div
+    columnSize={2.4}
+  >
+    <styled.span>
+      + 2
+    </styled.span>
+  </styled.div>
+</styled.div>
+`;

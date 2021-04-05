@@ -1,0 +1,695 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Selection Table CheckboxTable should pass border size props 1`] = `
+<StyledComponent
+  borderSize="1px"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectionTable__CheckboxTable-x9uakv-7",
+        "isStatic": false,
+        "rules": Array [
+          "input[type='checkbox']:checked + span:before{border-color:var(--checkbox-color,",
+          [Function],
+          ");background-color:var(--checkbox-color,",
+          [Function],
+          ");}& span:before{left:0;top:0;width:15px;height:15px;border-radius:0px;border:",
+          [Function],
+          "px solid var(--checkbox-color,",
+          [Function],
+          ");background-color:",
+          [Function],
+          ";}& span:after{top:0px;left:5px;width:5px;height:12px;}",
+        ],
+      },
+      "displayName": "SelectionTable__CheckboxTable",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "checked": [Function],
+        "children": [Function],
+        "className": [Function],
+        "color": [Function],
+        "id": [Function],
+        "labelColor": [Function],
+        "name": [Function],
+        "onChange": [Function],
+        "value": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "SelectionTable__CheckboxTable-x9uakv-7",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "checked": null,
+          "children": "",
+          "className": "",
+          "color": "",
+          "labelColor": "",
+          "name": "checkboxes",
+          "onChange": [Function],
+          "value": "",
+        },
+        "propTypes": Object {
+          "checked": [Function],
+          "children": [Function],
+          "className": [Function],
+          "color": [Function],
+          "id": [Function],
+          "labelColor": [Function],
+          "name": [Function],
+          "onChange": [Function],
+          "value": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  id="mock-id"
+/>
+`;
+
+exports[`Testing Selection Table CheckboxTable should render checked 1`] = `
+<StyledComponent
+  checked={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectionTable__CheckboxTable-x9uakv-7",
+        "isStatic": false,
+        "rules": Array [
+          "input[type='checkbox']:checked + span:before{border-color:var(--checkbox-color,",
+          [Function],
+          ");background-color:var(--checkbox-color,",
+          [Function],
+          ");}& span:before{left:0;top:0;width:15px;height:15px;border-radius:0px;border:",
+          [Function],
+          "px solid var(--checkbox-color,",
+          [Function],
+          ");background-color:",
+          [Function],
+          ";}& span:after{top:0px;left:5px;width:5px;height:12px;}",
+        ],
+      },
+      "displayName": "SelectionTable__CheckboxTable",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "checked": [Function],
+        "children": [Function],
+        "className": [Function],
+        "color": [Function],
+        "id": [Function],
+        "labelColor": [Function],
+        "name": [Function],
+        "onChange": [Function],
+        "value": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "SelectionTable__CheckboxTable-x9uakv-7",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "checked": null,
+          "children": "",
+          "className": "",
+          "color": "",
+          "labelColor": "",
+          "name": "checkboxes",
+          "onChange": [Function],
+          "value": "",
+        },
+        "propTypes": Object {
+          "checked": [Function],
+          "children": [Function],
+          "className": [Function],
+          "color": [Function],
+          "id": [Function],
+          "labelColor": [Function],
+          "name": [Function],
+          "onChange": [Function],
+          "value": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  id="mock-id"
+/>
+`;
+
+exports[`Testing Selection Table CheckboxTable should render unchecked 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectionTable__CheckboxTable-x9uakv-7",
+        "isStatic": false,
+        "rules": Array [
+          "input[type='checkbox']:checked + span:before{border-color:var(--checkbox-color,",
+          [Function],
+          ");background-color:var(--checkbox-color,",
+          [Function],
+          ");}& span:before{left:0;top:0;width:15px;height:15px;border-radius:0px;border:",
+          [Function],
+          "px solid var(--checkbox-color,",
+          [Function],
+          ");background-color:",
+          [Function],
+          ";}& span:after{top:0px;left:5px;width:5px;height:12px;}",
+        ],
+      },
+      "displayName": "SelectionTable__CheckboxTable",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "checked": [Function],
+        "children": [Function],
+        "className": [Function],
+        "color": [Function],
+        "id": [Function],
+        "labelColor": [Function],
+        "name": [Function],
+        "onChange": [Function],
+        "value": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "SelectionTable__CheckboxTable-x9uakv-7",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "checked": null,
+          "children": "",
+          "className": "",
+          "color": "",
+          "labelColor": "",
+          "name": "checkboxes",
+          "onChange": [Function],
+          "value": "",
+        },
+        "propTypes": Object {
+          "checked": [Function],
+          "children": [Function],
+          "className": [Function],
+          "color": [Function],
+          "id": [Function],
+          "labelColor": [Function],
+          "name": [Function],
+          "onChange": [Function],
+          "value": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  id="mock-id"
+/>
+`;
+
+exports[`Testing Selection Table SelectionTableBody should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectionTable__SelectionTableBody-x9uakv-2",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;",
+        ],
+      },
+      "displayName": "SelectionTable__SelectionTableBody",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectionTable__SelectionTableBody-x9uakv-2",
+      "target": "tbody",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Selection Table SelectionTableFooter should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectionTable__SelectionTableFooter-x9uakv-3",
+        "isStatic": false,
+        "rules": Array [],
+      },
+      "displayName": "SelectionTable__SelectionTableFooter",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectionTable__SelectionTableFooter-x9uakv-3",
+      "target": "tfoot",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Selection Table SelectionTableHeader should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectionTable__SelectionTableHeader-x9uakv-1",
+        "isStatic": false,
+        "rules": Array [
+          "border:0px;position:relative;& > tr{border-bottom:solid 1px ",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "SelectionTable__SelectionTableHeader",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectionTable__SelectionTableHeader-x9uakv-1",
+      "target": "thead",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Selection Table SelectionTableHeader should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectionTable__SelectionTableHeader-x9uakv-1",
+        "isStatic": false,
+        "rules": Array [
+          "border:0px;position:relative;& > tr{border-bottom:solid 1px ",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "SelectionTable__SelectionTableHeader",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectionTable__SelectionTableHeader-x9uakv-1",
+      "target": "thead",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "table": Object {
+        "body": Object {
+          "color": "#222",
+        },
+        "check": Object {
+          "border": "#999",
+          "checked": "#aaa",
+          "icon": "#ccc",
+          "unchecked": "#bbb",
+        },
+        "header": Object {
+          "border": "#000",
+          "color": "#111",
+        },
+        "row": Object {
+          "even": "#333",
+          "hover": "#555",
+          "odd": "#444",
+          "selected": Object {
+            "even": "#666",
+            "hover": "#888",
+            "odd": "#777",
+          },
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Testing Selection Table SelectionTableHeaderColumn should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectionTable__SelectionTableHeaderColumn-x9uakv-6",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;font-size:16px;font-weight:500;color:",
+          [Function],
+          ";border:0px;border-bottom:solid 1px ",
+          [Function],
+          ";padding:8px;width:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "SelectionTable__SelectionTableHeaderColumn",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectionTable__SelectionTableHeaderColumn-x9uakv-6",
+      "target": "th",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Selection Table SelectionTableHeaderColumn should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectionTable__SelectionTableHeaderColumn-x9uakv-6",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;font-size:16px;font-weight:500;color:",
+          [Function],
+          ";border:0px;border-bottom:solid 1px ",
+          [Function],
+          ";padding:8px;width:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "SelectionTable__SelectionTableHeaderColumn",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectionTable__SelectionTableHeaderColumn-x9uakv-6",
+      "target": "th",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "table": Object {
+        "body": Object {
+          "color": "#222",
+        },
+        "check": Object {
+          "border": "#999",
+          "checked": "#aaa",
+          "icon": "#ccc",
+          "unchecked": "#bbb",
+        },
+        "header": Object {
+          "border": "#000",
+          "color": "#111",
+        },
+        "row": Object {
+          "even": "#333",
+          "hover": "#555",
+          "odd": "#444",
+          "selected": Object {
+            "even": "#666",
+            "hover": "#888",
+            "odd": "#777",
+          },
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Testing Selection Table SelectionTableRow should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectionTable__SelectionTableRow-x9uakv-5",
+        "isStatic": false,
+        "rules": Array [
+          "--row-color:",
+          [Function],
+          ";border:0px;position:relative;",
+          ".SelectionTable__SelectionTableBody-x9uakv-2",
+          " &{border-top:1px solid #ecf0f3;",
+          [Function],
+          " &:hover{background-color:#f3f3f3;}}",
+        ],
+      },
+      "displayName": "SelectionTable__SelectionTableRow",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectionTable__SelectionTableRow-x9uakv-5",
+      "target": "tr",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Selection Table SelectionTableRow should render correctly selected 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectionTable__SelectionTableRow-x9uakv-5",
+        "isStatic": false,
+        "rules": Array [
+          "--row-color:",
+          [Function],
+          ";border:0px;position:relative;",
+          ".SelectionTable__SelectionTableBody-x9uakv-2",
+          " &{border-top:1px solid #ecf0f3;",
+          [Function],
+          " &:hover{background-color:#f3f3f3;}}",
+        ],
+      },
+      "displayName": "SelectionTable__SelectionTableRow",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectionTable__SelectionTableRow-x9uakv-5",
+      "target": "tr",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  selected={true}
+/>
+`;
+
+exports[`Testing Selection Table SelectionTableRow should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectionTable__SelectionTableRow-x9uakv-5",
+        "isStatic": false,
+        "rules": Array [
+          "--row-color:",
+          [Function],
+          ";border:0px;position:relative;",
+          ".SelectionTable__SelectionTableBody-x9uakv-2",
+          " &{border-top:1px solid #ecf0f3;",
+          [Function],
+          " &:hover{background-color:#f3f3f3;}}",
+        ],
+      },
+      "displayName": "SelectionTable__SelectionTableRow",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectionTable__SelectionTableRow-x9uakv-5",
+      "target": "tr",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "table": Object {
+        "body": Object {
+          "color": "#222",
+        },
+        "check": Object {
+          "border": "#999",
+          "checked": "#aaa",
+          "icon": "#ccc",
+          "unchecked": "#bbb",
+        },
+        "header": Object {
+          "border": "#000",
+          "color": "#111",
+        },
+        "row": Object {
+          "even": "#333",
+          "hover": "#555",
+          "odd": "#444",
+          "selected": Object {
+            "even": "#666",
+            "hover": "#888",
+            "odd": "#777",
+          },
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Testing Selection Table SelectionTableRowColumn should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectionTable__SelectionTableRowColumn-x9uakv-4",
+        "isStatic": false,
+        "rules": Array [
+          "min-height:48px;border:0px;padding:8px;color:var(--row-color);position:relative;font-size:16px;",
+        ],
+      },
+      "displayName": "SelectionTable__SelectionTableRowColumn",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectionTable__SelectionTableRowColumn-x9uakv-4",
+      "target": "td",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Selection Table SelectionTableRowColumn should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectionTable__SelectionTableRowColumn-x9uakv-4",
+        "isStatic": false,
+        "rules": Array [
+          "min-height:48px;border:0px;padding:8px;color:var(--row-color);position:relative;font-size:16px;",
+        ],
+      },
+      "displayName": "SelectionTable__SelectionTableRowColumn",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectionTable__SelectionTableRowColumn-x9uakv-4",
+      "target": "td",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "table": Object {
+        "body": Object {
+          "color": "#222",
+        },
+        "check": Object {
+          "border": "#999",
+          "checked": "#aaa",
+          "icon": "#ccc",
+          "unchecked": "#bbb",
+        },
+        "header": Object {
+          "border": "#000",
+          "color": "#111",
+        },
+        "row": Object {
+          "even": "#333",
+          "hover": "#555",
+          "odd": "#444",
+          "selected": Object {
+            "even": "#666",
+            "hover": "#888",
+            "odd": "#777",
+          },
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Testing Selection Table Table should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectionTable-x9uakv-0",
+        "isStatic": false,
+        "rules": Array [
+          "min-width:100%;border-collapse:collapse;table-layout:fixed;font-family:Roboto;text-align:left;font-size:20px;line-height:24px;position:relative;",
+        ],
+      },
+      "displayName": "SelectionTable",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectionTable-x9uakv-0",
+      "target": "table",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

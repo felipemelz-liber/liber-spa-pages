@@ -1,0 +1,140 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing DatePicker Styles renders CalendarContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DatePickerstyles__CalendarContainer-wjwucy-3",
+        "isStatic": false,
+        "rules": Array [
+          "padding:32px;",
+        ],
+      },
+      "displayName": "DatePickerstyles__CalendarContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DatePickerstyles__CalendarContainer-wjwucy-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DatePicker Styles renders Close correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DatePickerstyles__Close-wjwucy-4",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:#8c9fa9;position:absolute;right:16px;top:calc(50% - 5px);opacity:0;pointer-events:none;",
+          [Function],
+          " transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;z-index:2;cursor:pointer;",
+        ],
+      },
+      "displayName": "DatePickerstyles__Close",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DatePickerstyles__Close-wjwucy-4",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DatePicker Styles renders Container correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DatePickerstyles__Container-wjwucy-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;",
+        ],
+      },
+      "displayName": "DatePickerstyles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DatePickerstyles__Container-wjwucy-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DatePicker Styles renders Field correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DatePickerstyles__Field-wjwucy-1",
+        "isStatic": false,
+        "rules": Array [
+          "padding-right:52px;",
+        ],
+      },
+      "displayName": "DatePickerstyles__Field",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DatePickerstyles__Field-wjwucy-1",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DatePicker Styles renders Icon correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DatePickerstyles__Icon-wjwucy-2",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:#8c9fa9;position:absolute;right:16px;top:calc(50% - 5px);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "DatePickerstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DatePickerstyles__Icon-wjwucy-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

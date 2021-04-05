@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HideFromAdmin component tests should not render children when is admin 1`] = `""`;
+
+exports[`HideFromAdmin component tests should render children when is not admin 1`] = `
+<Fragment>
+  <Buttons__PrimaryButton>
+    Button
+  </Buttons__PrimaryButton>
+</Fragment>
+`;

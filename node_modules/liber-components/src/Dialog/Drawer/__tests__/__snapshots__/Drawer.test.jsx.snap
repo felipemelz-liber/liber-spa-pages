@@ -1,0 +1,2801 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Drawer Component Should render correctly when empty and show=false 1`] = `
+<Drawer
+  blockNavigation={true}
+  closable={false}
+  drawerSize={null}
+  duration={270}
+  elementId="modal"
+  fitScreen={false}
+  onAppearStart={[Function]}
+  onAppeared={[Function]}
+  onLeaveStart={[Function]}
+  onLeaved={[Function]}
+  position="left"
+  show={false}
+  size={250}
+>
+  <Portal
+    containerInfo={
+      <div
+        id="modal"
+      >
+        <div
+          class="DialogStyles__DialogContainer-sc-1tnwai9-1 fFanJr"
+        />
+      </div>
+    }
+  >
+    <DialogStyles__DialogContainer
+      blockNavigation={true}
+      show={false}
+    >
+      <StyledComponent
+        blockNavigation={true}
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "_foldedDefaultProps": Object {
+              "blockNavigation": true,
+            },
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+              "isStatic": false,
+              "lastClassName": "fFanJr",
+              "rules": Array [
+                "position:fixed;pointer-events:",
+                [Function],
+                ";top:0px;left:0px;width:100vw;height:100vh;z-index:9999;display:",
+                [Function],
+                ";justify-content:center;align-items:center;",
+              ],
+            },
+            "displayName": "DialogStyles__DialogContainer",
+            "foldedComponentIds": Array [],
+            "propTypes": Object {
+              "blockNavigation": [Function],
+            },
+            "render": [Function],
+            "styledComponentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        show={false}
+      >
+        <div
+          className="DialogStyles__DialogContainer-sc-1tnwai9-1 fFanJr"
+        >
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={false}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 270,
+                "exit": 540,
+              }
+            }
+            unmountOnExit={true}
+          />
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={false}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 540,
+                "exit": 270,
+              }
+            }
+            unmountOnExit={true}
+          />
+        </div>
+      </StyledComponent>
+    </DialogStyles__DialogContainer>
+    <GlobalStyleComponent />
+  </Portal>
+</Drawer>
+`;
+
+exports[`Testing Drawer Component Should render correctly when empty and show=true 1`] = `
+<Drawer
+  blockNavigation={true}
+  closable={false}
+  drawerSize={null}
+  duration={270}
+  elementId="modal"
+  fitScreen={false}
+  onAppearStart={[Function]}
+  onAppeared={[Function]}
+  onLeaveStart={[Function]}
+  onLeaved={[Function]}
+  position="left"
+  show={true}
+  size={250}
+>
+  <Portal
+    containerInfo={
+      <div
+        id="modal"
+      >
+        <div
+          class="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+        >
+          <div
+            class="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+            style="opacity: 0.15; transition: opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715);"
+          />
+          <div
+            class="styles__Content-sc-54hecm-0 cIRpFI"
+            size="250"
+            style="opacity: 1; transform: translateX(0px); transition: all 270ms cubic-bezier(0, 0, 0.2, 1);"
+          />
+        </div>
+      </div>
+    }
+  >
+    <DialogStyles__DialogContainer
+      blockNavigation={true}
+      show={true}
+    >
+      <StyledComponent
+        blockNavigation={true}
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "_foldedDefaultProps": Object {
+              "blockNavigation": true,
+            },
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+              "isStatic": false,
+              "lastClassName": "dDmCdw",
+              "rules": Array [
+                "position:fixed;pointer-events:",
+                [Function],
+                ";top:0px;left:0px;width:100vw;height:100vh;z-index:9999;display:",
+                [Function],
+                ";justify-content:center;align-items:center;",
+              ],
+            },
+            "displayName": "DialogStyles__DialogContainer",
+            "foldedComponentIds": Array [],
+            "propTypes": Object {
+              "blockNavigation": [Function],
+            },
+            "render": [Function],
+            "styledComponentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        show={true}
+      >
+        <div
+          className="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+        >
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={true}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 270,
+                "exit": 540,
+              }
+            }
+            unmountOnExit={true}
+          >
+            <DialogStyles__Bg
+              style={
+                Object {
+                  "opacity": 0.15,
+                  "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                }
+              }
+            >
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                      "isStatic": false,
+                      "lastClassName": "boLOvW",
+                      "rules": Array [
+                        "width:100%;height:100%;background-color:",
+                        [Function],
+                        ";position:fixed;top:0px;left:0px;",
+                      ],
+                    },
+                    "displayName": "DialogStyles__Bg",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                style={
+                  Object {
+                    "opacity": 0.15,
+                    "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                  }
+                }
+              >
+                <div
+                  className="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+                  style={
+                    Object {
+                      "opacity": 0.15,
+                      "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                    }
+                  }
+                />
+              </StyledComponent>
+            </DialogStyles__Bg>
+          </Transition>
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={true}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 540,
+                "exit": 270,
+              }
+            }
+            unmountOnExit={true}
+          >
+            <styles__Content
+              drawerSize={null}
+              fitScreen={false}
+              position="left"
+              size={250}
+              style={
+                Object {
+                  "opacity": 1,
+                  "transform": "translateX(0px)",
+                  "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                }
+              }
+            >
+              <StyledComponent
+                drawerSize={null}
+                fitScreen={false}
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styles__Content-sc-54hecm-0",
+                      "isStatic": false,
+                      "lastClassName": "cIRpFI",
+                      "rules": Array [
+                        "position:fixed;height:100vh;background-color:",
+                        [Function],
+                        ";",
+                        [Function],
+                        " pointer-events:all;box-shadow:0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);",
+                      ],
+                    },
+                    "displayName": "styles__Content",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "styles__Content-sc-54hecm-0",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                position="left"
+                size={250}
+                style={
+                  Object {
+                    "opacity": 1,
+                    "transform": "translateX(0px)",
+                    "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                  }
+                }
+              >
+                <div
+                  className="styles__Content-sc-54hecm-0 cIRpFI"
+                  size={250}
+                  style={
+                    Object {
+                      "opacity": 1,
+                      "transform": "translateX(0px)",
+                      "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                    }
+                  }
+                />
+              </StyledComponent>
+            </styles__Content>
+          </Transition>
+        </div>
+      </StyledComponent>
+    </DialogStyles__DialogContainer>
+    <GlobalStyleComponent />
+  </Portal>
+</Drawer>
+`;
+
+exports[`Testing Drawer Component Should render correctly with show=false 1`] = `
+<Drawer
+  blockNavigation={true}
+  closable={false}
+  drawerSize={null}
+  duration={270}
+  elementId="modal"
+  fitScreen={false}
+  onAppearStart={[Function]}
+  onAppeared={[Function]}
+  onLeaveStart={[Function]}
+  onLeaved={[Function]}
+  position="left"
+  show={false}
+  size={250}
+>
+  <Portal
+    containerInfo={
+      <div
+        id="modal"
+      >
+        <div
+          class="DialogStyles__DialogContainer-sc-1tnwai9-1 fFanJr"
+        />
+      </div>
+    }
+  >
+    <DialogStyles__DialogContainer
+      blockNavigation={true}
+      show={false}
+    >
+      <StyledComponent
+        blockNavigation={true}
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "_foldedDefaultProps": Object {
+              "blockNavigation": true,
+            },
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+              "isStatic": false,
+              "lastClassName": "fFanJr",
+              "rules": Array [
+                "position:fixed;pointer-events:",
+                [Function],
+                ";top:0px;left:0px;width:100vw;height:100vh;z-index:9999;display:",
+                [Function],
+                ";justify-content:center;align-items:center;",
+              ],
+            },
+            "displayName": "DialogStyles__DialogContainer",
+            "foldedComponentIds": Array [],
+            "propTypes": Object {
+              "blockNavigation": [Function],
+            },
+            "render": [Function],
+            "styledComponentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        show={false}
+      >
+        <div
+          className="DialogStyles__DialogContainer-sc-1tnwai9-1 fFanJr"
+        >
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={false}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 270,
+                "exit": 540,
+              }
+            }
+            unmountOnExit={true}
+          />
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={false}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 540,
+                "exit": 270,
+              }
+            }
+            unmountOnExit={true}
+          />
+        </div>
+      </StyledComponent>
+    </DialogStyles__DialogContainer>
+    <GlobalStyleComponent />
+  </Portal>
+</Drawer>
+`;
+
+exports[`Testing Drawer Component Should render correctly with show=true 1`] = `
+<Drawer
+  blockNavigation={true}
+  closable={false}
+  drawerSize={null}
+  duration={270}
+  elementId="modal"
+  fitScreen={false}
+  onAppearStart={[Function]}
+  onAppeared={[Function]}
+  onLeaveStart={[Function]}
+  onLeaved={[Function]}
+  position="left"
+  show={true}
+  size={250}
+>
+  <Portal
+    containerInfo={
+      <div
+        id="modal"
+      >
+        <div
+          class="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+        >
+          <div
+            class="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+            style="opacity: 0.15; transition: opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715);"
+          />
+          <div
+            class="styles__Content-sc-54hecm-0 cIRpFI"
+            size="250"
+            style="opacity: 1; transform: translateX(0px); transition: all 270ms cubic-bezier(0, 0, 0.2, 1);"
+          >
+            <p>
+              Testando
+            </p>
+          </div>
+        </div>
+      </div>
+    }
+  >
+    <DialogStyles__DialogContainer
+      blockNavigation={true}
+      show={true}
+    >
+      <StyledComponent
+        blockNavigation={true}
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "_foldedDefaultProps": Object {
+              "blockNavigation": true,
+            },
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+              "isStatic": false,
+              "lastClassName": "dDmCdw",
+              "rules": Array [
+                "position:fixed;pointer-events:",
+                [Function],
+                ";top:0px;left:0px;width:100vw;height:100vh;z-index:9999;display:",
+                [Function],
+                ";justify-content:center;align-items:center;",
+              ],
+            },
+            "displayName": "DialogStyles__DialogContainer",
+            "foldedComponentIds": Array [],
+            "propTypes": Object {
+              "blockNavigation": [Function],
+            },
+            "render": [Function],
+            "styledComponentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        show={true}
+      >
+        <div
+          className="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+        >
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={true}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 270,
+                "exit": 540,
+              }
+            }
+            unmountOnExit={true}
+          >
+            <DialogStyles__Bg
+              style={
+                Object {
+                  "opacity": 0.15,
+                  "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                }
+              }
+            >
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                      "isStatic": false,
+                      "lastClassName": "boLOvW",
+                      "rules": Array [
+                        "width:100%;height:100%;background-color:",
+                        [Function],
+                        ";position:fixed;top:0px;left:0px;",
+                      ],
+                    },
+                    "displayName": "DialogStyles__Bg",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                style={
+                  Object {
+                    "opacity": 0.15,
+                    "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                  }
+                }
+              >
+                <div
+                  className="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+                  style={
+                    Object {
+                      "opacity": 0.15,
+                      "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                    }
+                  }
+                />
+              </StyledComponent>
+            </DialogStyles__Bg>
+          </Transition>
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={true}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 540,
+                "exit": 270,
+              }
+            }
+            unmountOnExit={true}
+          >
+            <styles__Content
+              drawerSize={null}
+              fitScreen={false}
+              position="left"
+              size={250}
+              style={
+                Object {
+                  "opacity": 1,
+                  "transform": "translateX(0px)",
+                  "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                }
+              }
+            >
+              <StyledComponent
+                drawerSize={null}
+                fitScreen={false}
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styles__Content-sc-54hecm-0",
+                      "isStatic": false,
+                      "lastClassName": "cIRpFI",
+                      "rules": Array [
+                        "position:fixed;height:100vh;background-color:",
+                        [Function],
+                        ";",
+                        [Function],
+                        " pointer-events:all;box-shadow:0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);",
+                      ],
+                    },
+                    "displayName": "styles__Content",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "styles__Content-sc-54hecm-0",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                position="left"
+                size={250}
+                style={
+                  Object {
+                    "opacity": 1,
+                    "transform": "translateX(0px)",
+                    "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                  }
+                }
+              >
+                <div
+                  className="styles__Content-sc-54hecm-0 cIRpFI"
+                  size={250}
+                  style={
+                    Object {
+                      "opacity": 1,
+                      "transform": "translateX(0px)",
+                      "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                    }
+                  }
+                >
+                  <p>
+                    Testando
+                  </p>
+                </div>
+              </StyledComponent>
+            </styles__Content>
+          </Transition>
+        </div>
+      </StyledComponent>
+    </DialogStyles__DialogContainer>
+    <GlobalStyleComponent />
+  </Portal>
+</Drawer>
+`;
+
+exports[`Testing Drawer Component Should render correctly with show=true, position=bottom size=100 fitScreen=false 1`] = `
+<Drawer
+  blockNavigation={true}
+  closable={false}
+  drawerSize={null}
+  duration={270}
+  elementId="modal"
+  fitScreen={true}
+  onAppearStart={[Function]}
+  onAppeared={[Function]}
+  onLeaveStart={[Function]}
+  onLeaved={[Function]}
+  position="bottom"
+  show={true}
+  size={100}
+>
+  <Portal
+    containerInfo={
+      <div
+        id="modal"
+      >
+        <div
+          class="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+        >
+          <div
+            class="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+            style="opacity: 0.15; transition: opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715);"
+          />
+          <div
+            class="styles__Content-sc-54hecm-0 dszYGw"
+            size="100"
+            style="opacity: 1; transform: translateY(0px); transition: all 270ms cubic-bezier(0, 0, 0.2, 1);"
+          >
+            <p>
+              Testando
+            </p>
+          </div>
+        </div>
+      </div>
+    }
+  >
+    <DialogStyles__DialogContainer
+      blockNavigation={true}
+      show={true}
+    >
+      <StyledComponent
+        blockNavigation={true}
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "_foldedDefaultProps": Object {
+              "blockNavigation": true,
+            },
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+              "isStatic": false,
+              "lastClassName": "dDmCdw",
+              "rules": Array [
+                "position:fixed;pointer-events:",
+                [Function],
+                ";top:0px;left:0px;width:100vw;height:100vh;z-index:9999;display:",
+                [Function],
+                ";justify-content:center;align-items:center;",
+              ],
+            },
+            "displayName": "DialogStyles__DialogContainer",
+            "foldedComponentIds": Array [],
+            "propTypes": Object {
+              "blockNavigation": [Function],
+            },
+            "render": [Function],
+            "styledComponentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        show={true}
+      >
+        <div
+          className="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+        >
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={true}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 270,
+                "exit": 540,
+              }
+            }
+            unmountOnExit={true}
+          >
+            <DialogStyles__Bg
+              style={
+                Object {
+                  "opacity": 0.15,
+                  "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                }
+              }
+            >
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                      "isStatic": false,
+                      "lastClassName": "boLOvW",
+                      "rules": Array [
+                        "width:100%;height:100%;background-color:",
+                        [Function],
+                        ";position:fixed;top:0px;left:0px;",
+                      ],
+                    },
+                    "displayName": "DialogStyles__Bg",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                style={
+                  Object {
+                    "opacity": 0.15,
+                    "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                  }
+                }
+              >
+                <div
+                  className="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+                  style={
+                    Object {
+                      "opacity": 0.15,
+                      "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                    }
+                  }
+                />
+              </StyledComponent>
+            </DialogStyles__Bg>
+          </Transition>
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={true}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 540,
+                "exit": 270,
+              }
+            }
+            unmountOnExit={true}
+          >
+            <styles__Content
+              drawerSize={null}
+              fitScreen={true}
+              position="bottom"
+              size={100}
+              style={
+                Object {
+                  "opacity": 1,
+                  "transform": "translateY(0px)",
+                  "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                }
+              }
+            >
+              <StyledComponent
+                drawerSize={null}
+                fitScreen={true}
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styles__Content-sc-54hecm-0",
+                      "isStatic": false,
+                      "lastClassName": "dszYGw",
+                      "rules": Array [
+                        "position:fixed;height:100vh;background-color:",
+                        [Function],
+                        ";",
+                        [Function],
+                        " pointer-events:all;box-shadow:0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);",
+                      ],
+                    },
+                    "displayName": "styles__Content",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "styles__Content-sc-54hecm-0",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                position="bottom"
+                size={100}
+                style={
+                  Object {
+                    "opacity": 1,
+                    "transform": "translateY(0px)",
+                    "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                  }
+                }
+              >
+                <div
+                  className="styles__Content-sc-54hecm-0 dszYGw"
+                  size={100}
+                  style={
+                    Object {
+                      "opacity": 1,
+                      "transform": "translateY(0px)",
+                      "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                    }
+                  }
+                >
+                  <p>
+                    Testando
+                  </p>
+                </div>
+              </StyledComponent>
+            </styles__Content>
+          </Transition>
+        </div>
+      </StyledComponent>
+    </DialogStyles__DialogContainer>
+    <GlobalStyleComponent />
+  </Portal>
+</Drawer>
+`;
+
+exports[`Testing Drawer Component Should render correctly with show=true, position=bottom size=100 fitScreen=true 1`] = `
+<Drawer
+  blockNavigation={true}
+  closable={false}
+  drawerSize={null}
+  duration={270}
+  elementId="modal"
+  fitScreen={true}
+  onAppearStart={[Function]}
+  onAppeared={[Function]}
+  onLeaveStart={[Function]}
+  onLeaved={[Function]}
+  position="bottom"
+  show={true}
+  size={100}
+>
+  <Portal
+    containerInfo={
+      <div
+        id="modal"
+      >
+        <div
+          class="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+        >
+          <div
+            class="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+            style="opacity: 0.15; transition: opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715);"
+          />
+          <div
+            class="styles__Content-sc-54hecm-0 dszYGw"
+            size="100"
+            style="opacity: 1; transform: translateY(0px); transition: all 270ms cubic-bezier(0, 0, 0.2, 1);"
+          >
+            <p>
+              Testando
+            </p>
+          </div>
+        </div>
+      </div>
+    }
+  >
+    <DialogStyles__DialogContainer
+      blockNavigation={true}
+      show={true}
+    >
+      <StyledComponent
+        blockNavigation={true}
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "_foldedDefaultProps": Object {
+              "blockNavigation": true,
+            },
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+              "isStatic": false,
+              "lastClassName": "dDmCdw",
+              "rules": Array [
+                "position:fixed;pointer-events:",
+                [Function],
+                ";top:0px;left:0px;width:100vw;height:100vh;z-index:9999;display:",
+                [Function],
+                ";justify-content:center;align-items:center;",
+              ],
+            },
+            "displayName": "DialogStyles__DialogContainer",
+            "foldedComponentIds": Array [],
+            "propTypes": Object {
+              "blockNavigation": [Function],
+            },
+            "render": [Function],
+            "styledComponentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        show={true}
+      >
+        <div
+          className="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+        >
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={true}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 270,
+                "exit": 540,
+              }
+            }
+            unmountOnExit={true}
+          >
+            <DialogStyles__Bg
+              style={
+                Object {
+                  "opacity": 0.15,
+                  "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                }
+              }
+            >
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                      "isStatic": false,
+                      "lastClassName": "boLOvW",
+                      "rules": Array [
+                        "width:100%;height:100%;background-color:",
+                        [Function],
+                        ";position:fixed;top:0px;left:0px;",
+                      ],
+                    },
+                    "displayName": "DialogStyles__Bg",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                style={
+                  Object {
+                    "opacity": 0.15,
+                    "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                  }
+                }
+              >
+                <div
+                  className="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+                  style={
+                    Object {
+                      "opacity": 0.15,
+                      "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                    }
+                  }
+                />
+              </StyledComponent>
+            </DialogStyles__Bg>
+          </Transition>
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={true}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 540,
+                "exit": 270,
+              }
+            }
+            unmountOnExit={true}
+          >
+            <styles__Content
+              drawerSize={null}
+              fitScreen={true}
+              position="bottom"
+              size={100}
+              style={
+                Object {
+                  "opacity": 1,
+                  "transform": "translateY(0px)",
+                  "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                }
+              }
+            >
+              <StyledComponent
+                drawerSize={null}
+                fitScreen={true}
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styles__Content-sc-54hecm-0",
+                      "isStatic": false,
+                      "lastClassName": "dszYGw",
+                      "rules": Array [
+                        "position:fixed;height:100vh;background-color:",
+                        [Function],
+                        ";",
+                        [Function],
+                        " pointer-events:all;box-shadow:0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);",
+                      ],
+                    },
+                    "displayName": "styles__Content",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "styles__Content-sc-54hecm-0",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                position="bottom"
+                size={100}
+                style={
+                  Object {
+                    "opacity": 1,
+                    "transform": "translateY(0px)",
+                    "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                  }
+                }
+              >
+                <div
+                  className="styles__Content-sc-54hecm-0 dszYGw"
+                  size={100}
+                  style={
+                    Object {
+                      "opacity": 1,
+                      "transform": "translateY(0px)",
+                      "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                    }
+                  }
+                >
+                  <p>
+                    Testando
+                  </p>
+                </div>
+              </StyledComponent>
+            </styles__Content>
+          </Transition>
+        </div>
+      </StyledComponent>
+    </DialogStyles__DialogContainer>
+    <GlobalStyleComponent />
+  </Portal>
+</Drawer>
+`;
+
+exports[`Testing Drawer Component Should render correctly with show=true, position=left size=100 fitScreen=false 1`] = `
+<Drawer
+  blockNavigation={true}
+  closable={false}
+  drawerSize={null}
+  duration={270}
+  elementId="modal"
+  fitScreen={false}
+  onAppearStart={[Function]}
+  onAppeared={[Function]}
+  onLeaveStart={[Function]}
+  onLeaved={[Function]}
+  position="left"
+  show={true}
+  size={100}
+>
+  <Portal
+    containerInfo={
+      <div
+        id="modal"
+      >
+        <div
+          class="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+        >
+          <div
+            class="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+            style="opacity: 0.15; transition: opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715);"
+          />
+          <div
+            class="styles__Content-sc-54hecm-0 bbGXNN"
+            size="100"
+            style="opacity: 1; transform: translateX(0px); transition: all 270ms cubic-bezier(0, 0, 0.2, 1);"
+          >
+            <p>
+              Testando
+            </p>
+          </div>
+        </div>
+      </div>
+    }
+  >
+    <DialogStyles__DialogContainer
+      blockNavigation={true}
+      show={true}
+    >
+      <StyledComponent
+        blockNavigation={true}
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "_foldedDefaultProps": Object {
+              "blockNavigation": true,
+            },
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+              "isStatic": false,
+              "lastClassName": "dDmCdw",
+              "rules": Array [
+                "position:fixed;pointer-events:",
+                [Function],
+                ";top:0px;left:0px;width:100vw;height:100vh;z-index:9999;display:",
+                [Function],
+                ";justify-content:center;align-items:center;",
+              ],
+            },
+            "displayName": "DialogStyles__DialogContainer",
+            "foldedComponentIds": Array [],
+            "propTypes": Object {
+              "blockNavigation": [Function],
+            },
+            "render": [Function],
+            "styledComponentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        show={true}
+      >
+        <div
+          className="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+        >
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={true}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 270,
+                "exit": 540,
+              }
+            }
+            unmountOnExit={true}
+          >
+            <DialogStyles__Bg
+              style={
+                Object {
+                  "opacity": 0.15,
+                  "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                }
+              }
+            >
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                      "isStatic": false,
+                      "lastClassName": "boLOvW",
+                      "rules": Array [
+                        "width:100%;height:100%;background-color:",
+                        [Function],
+                        ";position:fixed;top:0px;left:0px;",
+                      ],
+                    },
+                    "displayName": "DialogStyles__Bg",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                style={
+                  Object {
+                    "opacity": 0.15,
+                    "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                  }
+                }
+              >
+                <div
+                  className="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+                  style={
+                    Object {
+                      "opacity": 0.15,
+                      "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                    }
+                  }
+                />
+              </StyledComponent>
+            </DialogStyles__Bg>
+          </Transition>
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={true}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 540,
+                "exit": 270,
+              }
+            }
+            unmountOnExit={true}
+          >
+            <styles__Content
+              drawerSize={null}
+              fitScreen={false}
+              position="left"
+              size={100}
+              style={
+                Object {
+                  "opacity": 1,
+                  "transform": "translateX(0px)",
+                  "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                }
+              }
+            >
+              <StyledComponent
+                drawerSize={null}
+                fitScreen={false}
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styles__Content-sc-54hecm-0",
+                      "isStatic": false,
+                      "lastClassName": "bbGXNN",
+                      "rules": Array [
+                        "position:fixed;height:100vh;background-color:",
+                        [Function],
+                        ";",
+                        [Function],
+                        " pointer-events:all;box-shadow:0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);",
+                      ],
+                    },
+                    "displayName": "styles__Content",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "styles__Content-sc-54hecm-0",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                position="left"
+                size={100}
+                style={
+                  Object {
+                    "opacity": 1,
+                    "transform": "translateX(0px)",
+                    "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                  }
+                }
+              >
+                <div
+                  className="styles__Content-sc-54hecm-0 bbGXNN"
+                  size={100}
+                  style={
+                    Object {
+                      "opacity": 1,
+                      "transform": "translateX(0px)",
+                      "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                    }
+                  }
+                >
+                  <p>
+                    Testando
+                  </p>
+                </div>
+              </StyledComponent>
+            </styles__Content>
+          </Transition>
+        </div>
+      </StyledComponent>
+    </DialogStyles__DialogContainer>
+    <GlobalStyleComponent />
+  </Portal>
+</Drawer>
+`;
+
+exports[`Testing Drawer Component Should render correctly with show=true, position=left size=100 fitScreen=true 1`] = `
+<Drawer
+  blockNavigation={true}
+  closable={false}
+  drawerSize={null}
+  duration={270}
+  elementId="modal"
+  fitScreen={true}
+  onAppearStart={[Function]}
+  onAppeared={[Function]}
+  onLeaveStart={[Function]}
+  onLeaved={[Function]}
+  position="left"
+  show={true}
+  size={100}
+>
+  <Portal
+    containerInfo={
+      <div
+        id="modal"
+      >
+        <div
+          class="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+        >
+          <div
+            class="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+            style="opacity: 0.15; transition: opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715);"
+          />
+          <div
+            class="styles__Content-sc-54hecm-0 bjUTvB"
+            size="100"
+            style="opacity: 1; transform: translateX(0px); transition: all 270ms cubic-bezier(0, 0, 0.2, 1);"
+          >
+            <p>
+              Testando
+            </p>
+          </div>
+        </div>
+      </div>
+    }
+  >
+    <DialogStyles__DialogContainer
+      blockNavigation={true}
+      show={true}
+    >
+      <StyledComponent
+        blockNavigation={true}
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "_foldedDefaultProps": Object {
+              "blockNavigation": true,
+            },
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+              "isStatic": false,
+              "lastClassName": "dDmCdw",
+              "rules": Array [
+                "position:fixed;pointer-events:",
+                [Function],
+                ";top:0px;left:0px;width:100vw;height:100vh;z-index:9999;display:",
+                [Function],
+                ";justify-content:center;align-items:center;",
+              ],
+            },
+            "displayName": "DialogStyles__DialogContainer",
+            "foldedComponentIds": Array [],
+            "propTypes": Object {
+              "blockNavigation": [Function],
+            },
+            "render": [Function],
+            "styledComponentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        show={true}
+      >
+        <div
+          className="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+        >
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={true}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 270,
+                "exit": 540,
+              }
+            }
+            unmountOnExit={true}
+          >
+            <DialogStyles__Bg
+              style={
+                Object {
+                  "opacity": 0.15,
+                  "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                }
+              }
+            >
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                      "isStatic": false,
+                      "lastClassName": "boLOvW",
+                      "rules": Array [
+                        "width:100%;height:100%;background-color:",
+                        [Function],
+                        ";position:fixed;top:0px;left:0px;",
+                      ],
+                    },
+                    "displayName": "DialogStyles__Bg",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                style={
+                  Object {
+                    "opacity": 0.15,
+                    "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                  }
+                }
+              >
+                <div
+                  className="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+                  style={
+                    Object {
+                      "opacity": 0.15,
+                      "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                    }
+                  }
+                />
+              </StyledComponent>
+            </DialogStyles__Bg>
+          </Transition>
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={true}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 540,
+                "exit": 270,
+              }
+            }
+            unmountOnExit={true}
+          >
+            <styles__Content
+              drawerSize={null}
+              fitScreen={true}
+              position="left"
+              size={100}
+              style={
+                Object {
+                  "opacity": 1,
+                  "transform": "translateX(0px)",
+                  "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                }
+              }
+            >
+              <StyledComponent
+                drawerSize={null}
+                fitScreen={true}
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styles__Content-sc-54hecm-0",
+                      "isStatic": false,
+                      "lastClassName": "bjUTvB",
+                      "rules": Array [
+                        "position:fixed;height:100vh;background-color:",
+                        [Function],
+                        ";",
+                        [Function],
+                        " pointer-events:all;box-shadow:0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);",
+                      ],
+                    },
+                    "displayName": "styles__Content",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "styles__Content-sc-54hecm-0",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                position="left"
+                size={100}
+                style={
+                  Object {
+                    "opacity": 1,
+                    "transform": "translateX(0px)",
+                    "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                  }
+                }
+              >
+                <div
+                  className="styles__Content-sc-54hecm-0 bjUTvB"
+                  size={100}
+                  style={
+                    Object {
+                      "opacity": 1,
+                      "transform": "translateX(0px)",
+                      "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                    }
+                  }
+                >
+                  <p>
+                    Testando
+                  </p>
+                </div>
+              </StyledComponent>
+            </styles__Content>
+          </Transition>
+        </div>
+      </StyledComponent>
+    </DialogStyles__DialogContainer>
+    <GlobalStyleComponent />
+  </Portal>
+</Drawer>
+`;
+
+exports[`Testing Drawer Component Should render correctly with show=true, position=right size=100 fitScreen=false 1`] = `
+<Drawer
+  blockNavigation={true}
+  closable={false}
+  drawerSize={null}
+  duration={270}
+  elementId="modal"
+  fitScreen={false}
+  onAppearStart={[Function]}
+  onAppeared={[Function]}
+  onLeaveStart={[Function]}
+  onLeaved={[Function]}
+  position="right"
+  show={true}
+  size={100}
+>
+  <Portal
+    containerInfo={
+      <div
+        id="modal"
+      >
+        <div
+          class="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+        >
+          <div
+            class="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+            style="opacity: 0.15; transition: opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715);"
+          />
+          <div
+            class="styles__Content-sc-54hecm-0 dxcpbd"
+            size="100"
+            style="opacity: 1; transform: translateX(0px); transition: all 270ms cubic-bezier(0, 0, 0.2, 1);"
+          >
+            <p>
+              Testando
+            </p>
+          </div>
+        </div>
+      </div>
+    }
+  >
+    <DialogStyles__DialogContainer
+      blockNavigation={true}
+      show={true}
+    >
+      <StyledComponent
+        blockNavigation={true}
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "_foldedDefaultProps": Object {
+              "blockNavigation": true,
+            },
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+              "isStatic": false,
+              "lastClassName": "dDmCdw",
+              "rules": Array [
+                "position:fixed;pointer-events:",
+                [Function],
+                ";top:0px;left:0px;width:100vw;height:100vh;z-index:9999;display:",
+                [Function],
+                ";justify-content:center;align-items:center;",
+              ],
+            },
+            "displayName": "DialogStyles__DialogContainer",
+            "foldedComponentIds": Array [],
+            "propTypes": Object {
+              "blockNavigation": [Function],
+            },
+            "render": [Function],
+            "styledComponentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        show={true}
+      >
+        <div
+          className="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+        >
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={true}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 270,
+                "exit": 540,
+              }
+            }
+            unmountOnExit={true}
+          >
+            <DialogStyles__Bg
+              style={
+                Object {
+                  "opacity": 0.15,
+                  "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                }
+              }
+            >
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                      "isStatic": false,
+                      "lastClassName": "boLOvW",
+                      "rules": Array [
+                        "width:100%;height:100%;background-color:",
+                        [Function],
+                        ";position:fixed;top:0px;left:0px;",
+                      ],
+                    },
+                    "displayName": "DialogStyles__Bg",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                style={
+                  Object {
+                    "opacity": 0.15,
+                    "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                  }
+                }
+              >
+                <div
+                  className="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+                  style={
+                    Object {
+                      "opacity": 0.15,
+                      "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                    }
+                  }
+                />
+              </StyledComponent>
+            </DialogStyles__Bg>
+          </Transition>
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={true}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 540,
+                "exit": 270,
+              }
+            }
+            unmountOnExit={true}
+          >
+            <styles__Content
+              drawerSize={null}
+              fitScreen={false}
+              position="right"
+              size={100}
+              style={
+                Object {
+                  "opacity": 1,
+                  "transform": "translateX(0px)",
+                  "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                }
+              }
+            >
+              <StyledComponent
+                drawerSize={null}
+                fitScreen={false}
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styles__Content-sc-54hecm-0",
+                      "isStatic": false,
+                      "lastClassName": "dxcpbd",
+                      "rules": Array [
+                        "position:fixed;height:100vh;background-color:",
+                        [Function],
+                        ";",
+                        [Function],
+                        " pointer-events:all;box-shadow:0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);",
+                      ],
+                    },
+                    "displayName": "styles__Content",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "styles__Content-sc-54hecm-0",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                position="right"
+                size={100}
+                style={
+                  Object {
+                    "opacity": 1,
+                    "transform": "translateX(0px)",
+                    "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                  }
+                }
+              >
+                <div
+                  className="styles__Content-sc-54hecm-0 dxcpbd"
+                  size={100}
+                  style={
+                    Object {
+                      "opacity": 1,
+                      "transform": "translateX(0px)",
+                      "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                    }
+                  }
+                >
+                  <p>
+                    Testando
+                  </p>
+                </div>
+              </StyledComponent>
+            </styles__Content>
+          </Transition>
+        </div>
+      </StyledComponent>
+    </DialogStyles__DialogContainer>
+    <GlobalStyleComponent />
+  </Portal>
+</Drawer>
+`;
+
+exports[`Testing Drawer Component Should render correctly with show=true, position=right size=100 fitScreen=true 1`] = `
+<Drawer
+  blockNavigation={true}
+  closable={false}
+  drawerSize={null}
+  duration={270}
+  elementId="modal"
+  fitScreen={true}
+  onAppearStart={[Function]}
+  onAppeared={[Function]}
+  onLeaveStart={[Function]}
+  onLeaved={[Function]}
+  position="right"
+  show={true}
+  size={100}
+>
+  <Portal
+    containerInfo={
+      <div
+        id="modal"
+      >
+        <div
+          class="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+        >
+          <div
+            class="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+            style="opacity: 0.15; transition: opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715);"
+          />
+          <div
+            class="styles__Content-sc-54hecm-0 kAlnUI"
+            size="100"
+            style="opacity: 1; transform: translateX(0px); transition: all 270ms cubic-bezier(0, 0, 0.2, 1);"
+          >
+            <p>
+              Testando
+            </p>
+          </div>
+        </div>
+      </div>
+    }
+  >
+    <DialogStyles__DialogContainer
+      blockNavigation={true}
+      show={true}
+    >
+      <StyledComponent
+        blockNavigation={true}
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "_foldedDefaultProps": Object {
+              "blockNavigation": true,
+            },
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+              "isStatic": false,
+              "lastClassName": "dDmCdw",
+              "rules": Array [
+                "position:fixed;pointer-events:",
+                [Function],
+                ";top:0px;left:0px;width:100vw;height:100vh;z-index:9999;display:",
+                [Function],
+                ";justify-content:center;align-items:center;",
+              ],
+            },
+            "displayName": "DialogStyles__DialogContainer",
+            "foldedComponentIds": Array [],
+            "propTypes": Object {
+              "blockNavigation": [Function],
+            },
+            "render": [Function],
+            "styledComponentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        show={true}
+      >
+        <div
+          className="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+        >
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={true}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 270,
+                "exit": 540,
+              }
+            }
+            unmountOnExit={true}
+          >
+            <DialogStyles__Bg
+              style={
+                Object {
+                  "opacity": 0.15,
+                  "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                }
+              }
+            >
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                      "isStatic": false,
+                      "lastClassName": "boLOvW",
+                      "rules": Array [
+                        "width:100%;height:100%;background-color:",
+                        [Function],
+                        ";position:fixed;top:0px;left:0px;",
+                      ],
+                    },
+                    "displayName": "DialogStyles__Bg",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                style={
+                  Object {
+                    "opacity": 0.15,
+                    "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                  }
+                }
+              >
+                <div
+                  className="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+                  style={
+                    Object {
+                      "opacity": 0.15,
+                      "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                    }
+                  }
+                />
+              </StyledComponent>
+            </DialogStyles__Bg>
+          </Transition>
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={true}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 540,
+                "exit": 270,
+              }
+            }
+            unmountOnExit={true}
+          >
+            <styles__Content
+              drawerSize={null}
+              fitScreen={true}
+              position="right"
+              size={100}
+              style={
+                Object {
+                  "opacity": 1,
+                  "transform": "translateX(0px)",
+                  "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                }
+              }
+            >
+              <StyledComponent
+                drawerSize={null}
+                fitScreen={true}
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styles__Content-sc-54hecm-0",
+                      "isStatic": false,
+                      "lastClassName": "kAlnUI",
+                      "rules": Array [
+                        "position:fixed;height:100vh;background-color:",
+                        [Function],
+                        ";",
+                        [Function],
+                        " pointer-events:all;box-shadow:0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);",
+                      ],
+                    },
+                    "displayName": "styles__Content",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "styles__Content-sc-54hecm-0",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                position="right"
+                size={100}
+                style={
+                  Object {
+                    "opacity": 1,
+                    "transform": "translateX(0px)",
+                    "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                  }
+                }
+              >
+                <div
+                  className="styles__Content-sc-54hecm-0 kAlnUI"
+                  size={100}
+                  style={
+                    Object {
+                      "opacity": 1,
+                      "transform": "translateX(0px)",
+                      "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                    }
+                  }
+                >
+                  <p>
+                    Testando
+                  </p>
+                </div>
+              </StyledComponent>
+            </styles__Content>
+          </Transition>
+        </div>
+      </StyledComponent>
+    </DialogStyles__DialogContainer>
+    <GlobalStyleComponent />
+  </Portal>
+</Drawer>
+`;
+
+exports[`Testing Drawer Component Should render correctly with show=true, position=top size=100 fitScreen=false 1`] = `
+<Drawer
+  blockNavigation={true}
+  closable={false}
+  drawerSize={null}
+  duration={270}
+  elementId="modal"
+  fitScreen={false}
+  onAppearStart={[Function]}
+  onAppeared={[Function]}
+  onLeaveStart={[Function]}
+  onLeaved={[Function]}
+  position="top"
+  show={true}
+  size={100}
+>
+  <Portal
+    containerInfo={
+      <div
+        id="modal"
+      >
+        <div
+          class="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+        >
+          <div
+            class="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+            style="opacity: 0.15; transition: opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715);"
+          />
+          <div
+            class="styles__Content-sc-54hecm-0 cIDRDf"
+            size="100"
+            style="opacity: 1; transform: translateY(0px); transition: all 270ms cubic-bezier(0, 0, 0.2, 1);"
+          >
+            <p>
+              Testando
+            </p>
+          </div>
+        </div>
+      </div>
+    }
+  >
+    <DialogStyles__DialogContainer
+      blockNavigation={true}
+      show={true}
+    >
+      <StyledComponent
+        blockNavigation={true}
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "_foldedDefaultProps": Object {
+              "blockNavigation": true,
+            },
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+              "isStatic": false,
+              "lastClassName": "dDmCdw",
+              "rules": Array [
+                "position:fixed;pointer-events:",
+                [Function],
+                ";top:0px;left:0px;width:100vw;height:100vh;z-index:9999;display:",
+                [Function],
+                ";justify-content:center;align-items:center;",
+              ],
+            },
+            "displayName": "DialogStyles__DialogContainer",
+            "foldedComponentIds": Array [],
+            "propTypes": Object {
+              "blockNavigation": [Function],
+            },
+            "render": [Function],
+            "styledComponentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        show={true}
+      >
+        <div
+          className="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+        >
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={true}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 270,
+                "exit": 540,
+              }
+            }
+            unmountOnExit={true}
+          >
+            <DialogStyles__Bg
+              style={
+                Object {
+                  "opacity": 0.15,
+                  "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                }
+              }
+            >
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                      "isStatic": false,
+                      "lastClassName": "boLOvW",
+                      "rules": Array [
+                        "width:100%;height:100%;background-color:",
+                        [Function],
+                        ";position:fixed;top:0px;left:0px;",
+                      ],
+                    },
+                    "displayName": "DialogStyles__Bg",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                style={
+                  Object {
+                    "opacity": 0.15,
+                    "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                  }
+                }
+              >
+                <div
+                  className="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+                  style={
+                    Object {
+                      "opacity": 0.15,
+                      "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                    }
+                  }
+                />
+              </StyledComponent>
+            </DialogStyles__Bg>
+          </Transition>
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={true}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 540,
+                "exit": 270,
+              }
+            }
+            unmountOnExit={true}
+          >
+            <styles__Content
+              drawerSize={null}
+              fitScreen={false}
+              position="top"
+              size={100}
+              style={
+                Object {
+                  "opacity": 1,
+                  "transform": "translateY(0px)",
+                  "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                }
+              }
+            >
+              <StyledComponent
+                drawerSize={null}
+                fitScreen={false}
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styles__Content-sc-54hecm-0",
+                      "isStatic": false,
+                      "lastClassName": "cIDRDf",
+                      "rules": Array [
+                        "position:fixed;height:100vh;background-color:",
+                        [Function],
+                        ";",
+                        [Function],
+                        " pointer-events:all;box-shadow:0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);",
+                      ],
+                    },
+                    "displayName": "styles__Content",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "styles__Content-sc-54hecm-0",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                position="top"
+                size={100}
+                style={
+                  Object {
+                    "opacity": 1,
+                    "transform": "translateY(0px)",
+                    "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                  }
+                }
+              >
+                <div
+                  className="styles__Content-sc-54hecm-0 cIDRDf"
+                  size={100}
+                  style={
+                    Object {
+                      "opacity": 1,
+                      "transform": "translateY(0px)",
+                      "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                    }
+                  }
+                >
+                  <p>
+                    Testando
+                  </p>
+                </div>
+              </StyledComponent>
+            </styles__Content>
+          </Transition>
+        </div>
+      </StyledComponent>
+    </DialogStyles__DialogContainer>
+    <GlobalStyleComponent />
+  </Portal>
+</Drawer>
+`;
+
+exports[`Testing Drawer Component Should render correctly with show=true, position=top size=100 fitScreen=true 1`] = `
+<Drawer
+  blockNavigation={true}
+  closable={false}
+  drawerSize={null}
+  duration={270}
+  elementId="modal"
+  fitScreen={true}
+  onAppearStart={[Function]}
+  onAppeared={[Function]}
+  onLeaveStart={[Function]}
+  onLeaved={[Function]}
+  position="top"
+  show={true}
+  size={100}
+>
+  <Portal
+    containerInfo={
+      <div
+        id="modal"
+      >
+        <div
+          class="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+        >
+          <div
+            class="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+            style="opacity: 0.15; transition: opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715);"
+          />
+          <div
+            class="styles__Content-sc-54hecm-0 beWgkl"
+            size="100"
+            style="opacity: 1; transform: translateY(0px); transition: all 270ms cubic-bezier(0, 0, 0.2, 1);"
+          >
+            <p>
+              Testando
+            </p>
+          </div>
+        </div>
+      </div>
+    }
+  >
+    <DialogStyles__DialogContainer
+      blockNavigation={true}
+      show={true}
+    >
+      <StyledComponent
+        blockNavigation={true}
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "_foldedDefaultProps": Object {
+              "blockNavigation": true,
+            },
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+              "isStatic": false,
+              "lastClassName": "dDmCdw",
+              "rules": Array [
+                "position:fixed;pointer-events:",
+                [Function],
+                ";top:0px;left:0px;width:100vw;height:100vh;z-index:9999;display:",
+                [Function],
+                ";justify-content:center;align-items:center;",
+              ],
+            },
+            "displayName": "DialogStyles__DialogContainer",
+            "foldedComponentIds": Array [],
+            "propTypes": Object {
+              "blockNavigation": [Function],
+            },
+            "render": [Function],
+            "styledComponentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        show={true}
+      >
+        <div
+          className="DialogStyles__DialogContainer-sc-1tnwai9-1 dDmCdw"
+        >
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={true}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 270,
+                "exit": 540,
+              }
+            }
+            unmountOnExit={true}
+          >
+            <DialogStyles__Bg
+              style={
+                Object {
+                  "opacity": 0.15,
+                  "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                }
+              }
+            >
+              <StyledComponent
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                      "isStatic": false,
+                      "lastClassName": "boLOvW",
+                      "rules": Array [
+                        "width:100%;height:100%;background-color:",
+                        [Function],
+                        ";position:fixed;top:0px;left:0px;",
+                      ],
+                    },
+                    "displayName": "DialogStyles__Bg",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "DialogStyles__Bg-sc-1tnwai9-0",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                style={
+                  Object {
+                    "opacity": 0.15,
+                    "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                  }
+                }
+              >
+                <div
+                  className="DialogStyles__Bg-sc-1tnwai9-0 boLOvW"
+                  style={
+                    Object {
+                      "opacity": 0.15,
+                      "transition": "opacity 270ms cubic-bezier(0.47, 0, 0.745, 0.715)",
+                    }
+                  }
+                />
+              </StyledComponent>
+            </DialogStyles__Bg>
+          </Transition>
+          <Transition
+            appear={false}
+            enter={true}
+            exit={true}
+            in={true}
+            mountOnEnter={true}
+            onEnter={[Function]}
+            onEntered={[Function]}
+            onEntering={[Function]}
+            onExit={[Function]}
+            onExited={[Function]}
+            onExiting={[Function]}
+            timeout={
+              Object {
+                "enter": 540,
+                "exit": 270,
+              }
+            }
+            unmountOnExit={true}
+          >
+            <styles__Content
+              drawerSize={null}
+              fitScreen={true}
+              position="top"
+              size={100}
+              style={
+                Object {
+                  "opacity": 1,
+                  "transform": "translateY(0px)",
+                  "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                }
+              }
+            >
+              <StyledComponent
+                drawerSize={null}
+                fitScreen={true}
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "styles__Content-sc-54hecm-0",
+                      "isStatic": false,
+                      "lastClassName": "beWgkl",
+                      "rules": Array [
+                        "position:fixed;height:100vh;background-color:",
+                        [Function],
+                        ";",
+                        [Function],
+                        " pointer-events:all;box-shadow:0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);",
+                      ],
+                    },
+                    "displayName": "styles__Content",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "styles__Content-sc-54hecm-0",
+                    "target": "div",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                position="top"
+                size={100}
+                style={
+                  Object {
+                    "opacity": 1,
+                    "transform": "translateY(0px)",
+                    "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                  }
+                }
+              >
+                <div
+                  className="styles__Content-sc-54hecm-0 beWgkl"
+                  size={100}
+                  style={
+                    Object {
+                      "opacity": 1,
+                      "transform": "translateY(0px)",
+                      "transition": "all 270ms cubic-bezier(0, 0, 0.2, 1)",
+                    }
+                  }
+                >
+                  <p>
+                    Testando
+                  </p>
+                </div>
+              </StyledComponent>
+            </styles__Content>
+          </Transition>
+        </div>
+      </StyledComponent>
+    </DialogStyles__DialogContainer>
+    <GlobalStyleComponent />
+  </Portal>
+</Drawer>
+`;

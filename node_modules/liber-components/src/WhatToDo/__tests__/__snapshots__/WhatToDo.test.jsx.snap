@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing WhatToDo Component should render correctly with props 1`] = `
+<styles__Box>
+  <styles__Question />
+  <styles__Title>
+    O que fazer?
+  </styles__Title>
+  <styles__Separator />
+  <p>
+    test
+  </p>
+</styles__Box>
+`;
+
+exports[`Testing WhatToDo Component should render correctly without props 1`] = `
+<styles__Box>
+  <styles__Question />
+  <styles__Title>
+    O que fazer?
+  </styles__Title>
+  <styles__Separator />
+</styles__Box>
+`;

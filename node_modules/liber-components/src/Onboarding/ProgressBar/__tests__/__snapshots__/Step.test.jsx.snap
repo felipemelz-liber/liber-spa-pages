@@ -1,0 +1,135 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for ProgressBar Step should render with Active prop 1`] = `
+<styles__StepContainer
+  active={true}
+  complete={false}
+>
+  <styles__StepIcon
+    active={true}
+    clickable={false}
+    complete={false}
+  >
+    2
+  </styles__StepIcon>
+</styles__StepContainer>
+`;
+
+exports[`Test for ProgressBar Step should render with Complete prop 1`] = `
+<styles__StepContainer
+  active={false}
+  complete={true}
+>
+  <styles__StepIcon
+    clickable={false}
+    complete={true}
+  >
+    <styles__StepCheck />
+  </styles__StepIcon>
+</styles__StepContainer>
+`;
+
+exports[`Test for ProgressBar Step should render with Connect prop 1`] = `
+<styles__StepContainer
+  active={false}
+  complete={false}
+>
+  <styles__StepIcon
+    active={false}
+    clickable={false}
+    complete={false}
+  >
+    2
+  </styles__StepIcon>
+  <styles__StepConnect
+    active={false}
+    complete={false}
+  />
+</styles__StepContainer>
+`;
+
+exports[`Test for ProgressBar Step should render with Label prop 1`] = `
+<styles__StepContainer
+  active={false}
+  complete={false}
+>
+  <styles__StepIcon
+    active={false}
+    clickable={false}
+    complete={false}
+  >
+    2
+  </styles__StepIcon>
+  <styles__StepLabel>
+    Foo
+  </styles__StepLabel>
+</styles__StepContainer>
+`;
+
+exports[`Test for ProgressBar Step should render with Number prop 1`] = `
+<styles__StepContainer
+  active={false}
+  complete={false}
+>
+  <styles__StepIcon
+    active={false}
+    clickable={false}
+    complete={false}
+  >
+    2
+  </styles__StepIcon>
+</styles__StepContainer>
+`;
+
+exports[`Test for ProgressBar Step should render with all props 1`] = `
+<styles__StepContainer
+  active={true}
+  complete={true}
+>
+  <styles__StepIcon
+    clickable={false}
+    complete={true}
+  >
+    <styles__StepCheck />
+  </styles__StepIcon>
+  <styles__StepConnect
+    active={true}
+    complete={true}
+  />
+  <styles__StepLabel>
+    Foo
+  </styles__StepLabel>
+</styles__StepContainer>
+`;
+
+exports[`Test for ProgressBar Step should render with clickable 1`] = `
+<styles__StepContainer
+  active={false}
+  complete={false}
+>
+  <styles__StepIcon
+    active={false}
+    clickable={true}
+    complete={false}
+    onClick={[Function]}
+  >
+    2
+  </styles__StepIcon>
+</styles__StepContainer>
+`;
+
+exports[`Test for ProgressBar Step should render with onClick function and clickable 1`] = `
+<styles__StepContainer
+  active={false}
+  complete={false}
+>
+  <styles__StepIcon
+    active={false}
+    clickable={true}
+    complete={false}
+    onClick={[Function]}
+  >
+    2
+  </styles__StepIcon>
+</styles__StepContainer>
+`;

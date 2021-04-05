@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing FilterTag styles should render FilterTag correctly with gray property 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bdVaJa",
+        "isStatic": false,
+        "rules": Array [
+          "
+  font-size: 16px;
+  min-height: 36px;
+  border-radius: 4px;
+  font-weight: 400;
+  ",
+          [Function],
+          "
+",
+        ],
+      },
+      "displayName": "Styled(ModalTag)",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-bdVaJa",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  gray={true}
+/>
+`;
+
+exports[`Testing FilterTag styles should render FilterTag correctly without gray property 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bdVaJa",
+        "isStatic": false,
+        "rules": Array [
+          "
+  font-size: 16px;
+  min-height: 36px;
+  border-radius: 4px;
+  font-weight: 400;
+  ",
+          [Function],
+          "
+",
+        ],
+      },
+      "displayName": "Styled(ModalTag)",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-bdVaJa",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing FilterTag styles should render SelectedLabelContainer correctly 1`] = `<SelectedLabelContainer />`;
+
+exports[`Testing FilterTag styles should render SelectedLabelOption correctly 1`] = `<SelectedLabelOption />`;
+
+exports[`Testing FilterTag styles should render SelectedSwitch correctly 1`] = `<SelectedSwitch />`;

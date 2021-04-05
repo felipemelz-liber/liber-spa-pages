@@ -1,0 +1,313 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Typography components tests should render large Text correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Typography__Text-sc-17kgwpd-1",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:",
+          [Function],
+          ";color:",
+          [Function],
+          ";font-weight:normal;",
+        ],
+      },
+      "displayName": "Typography__Text",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Typography__Text-sc-17kgwpd-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  size="large"
+>
+  large
+   text
+</StyledComponent>
+`;
+
+exports[`Typography components tests should render large Title correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Typography__Title-sc-17kgwpd-0",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:",
+          [Function],
+          ";color:",
+          [Function],
+          ";font-weight:bold;",
+        ],
+      },
+      "displayName": "Typography__Title",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Typography__Title-sc-17kgwpd-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  size="large"
+>
+  large
+   title
+</StyledComponent>
+`;
+
+exports[`Typography components tests should render regular Text correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Typography__Text-sc-17kgwpd-1",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:",
+          [Function],
+          ";color:",
+          [Function],
+          ";font-weight:normal;",
+        ],
+      },
+      "displayName": "Typography__Text",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Typography__Text-sc-17kgwpd-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  size="regular"
+>
+  regular
+   text
+</StyledComponent>
+`;
+
+exports[`Typography components tests should render regular Title correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Typography__Title-sc-17kgwpd-0",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:",
+          [Function],
+          ";color:",
+          [Function],
+          ";font-weight:bold;",
+        ],
+      },
+      "displayName": "Typography__Title",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Typography__Title-sc-17kgwpd-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  size="regular"
+>
+  regular
+   title
+</StyledComponent>
+`;
+
+exports[`Typography components tests should render small Text correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Typography__Text-sc-17kgwpd-1",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:",
+          [Function],
+          ";color:",
+          [Function],
+          ";font-weight:normal;",
+        ],
+      },
+      "displayName": "Typography__Text",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Typography__Text-sc-17kgwpd-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  size="small"
+>
+  small
+   text
+</StyledComponent>
+`;
+
+exports[`Typography components tests should render small Title correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Typography__Title-sc-17kgwpd-0",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:",
+          [Function],
+          ";color:",
+          [Function],
+          ";font-weight:bold;",
+        ],
+      },
+      "displayName": "Typography__Title",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Typography__Title-sc-17kgwpd-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  size="small"
+>
+  small
+   title
+</StyledComponent>
+`;
+
+exports[`Typography components tests should render xlarge Text correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Typography__Text-sc-17kgwpd-1",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:",
+          [Function],
+          ";color:",
+          [Function],
+          ";font-weight:normal;",
+        ],
+      },
+      "displayName": "Typography__Text",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Typography__Text-sc-17kgwpd-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  size="xlarge"
+>
+  xlarge
+   text
+</StyledComponent>
+`;
+
+exports[`Typography components tests should render xlarge Title correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Typography__Title-sc-17kgwpd-0",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:",
+          [Function],
+          ";color:",
+          [Function],
+          ";font-weight:bold;",
+        ],
+      },
+      "displayName": "Typography__Title",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Typography__Title-sc-17kgwpd-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  size="xlarge"
+>
+  xlarge
+   title
+</StyledComponent>
+`;

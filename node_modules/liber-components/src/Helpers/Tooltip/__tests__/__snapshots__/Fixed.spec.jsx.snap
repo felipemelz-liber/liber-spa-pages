@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for Fixed Component Hoverable should render correctly 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <styles__Container
+    onBlur={[Function]}
+    onClick={null}
+    onFocus={[Function]}
+    onMouseLeave={[Function]}
+    onMouseOver={[Function]}
+  >
+    <styles__Icon />
+    <styles__Float
+      contentPosition="unset"
+      hoverable={true}
+      position="top-center"
+      visible={false}
+    >
+      <h6 />
+      <div>
+        <p>
+          Hello.
+        </p>
+      </div>
+    </styles__Float>
+  </styles__Container>
+</ClickOutside>
+`;
+
+exports[`Test for Fixed Component should render correctly with children 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <styles__Container
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onMouseLeave={null}
+    onMouseOver={null}
+  >
+    <styles__Icon />
+    <styles__Float
+      contentPosition="unset"
+      hoverable={false}
+      position="top-center"
+      visible={false}
+    >
+      <h6 />
+      <div>
+        <p>
+          Hello.
+        </p>
+      </div>
+    </styles__Float>
+  </styles__Container>
+</ClickOutside>
+`;
+
+exports[`Test for Fixed Component should spread props correctly 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <styles__Container
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onMouseLeave={null}
+    onMouseOver={null}
+  >
+    <styles__Icon />
+    <styles__Float
+      contentPosition="unset"
+      hoverable={false}
+      position="bottom-center"
+      visible={false}
+    >
+      <h6>
+        Helper
+      </h6>
+      <div>
+        <p>
+          Hello.
+        </p>
+      </div>
+    </styles__Float>
+  </styles__Container>
+</ClickOutside>
+`;

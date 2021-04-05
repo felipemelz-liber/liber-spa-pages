@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing NotificationBox Component should render correctly with props 1`] = `
+<styles__YellowBox>
+  <styles__NotificationLabel
+    onClick={[Function]}
+  >
+    test
+  </styles__NotificationLabel>
+  <styles__NotificationContent
+    show={false}
+  >
+    <p>
+      test
+    </p>
+  </styles__NotificationContent>
+</styles__YellowBox>
+`;
+
+exports[`Testing NotificationBox Component should render correctly without props closed 1`] = `
+<styles__YellowBox>
+  <styles__NotificationLabel
+    onClick={[Function]}
+  >
+    test
+  </styles__NotificationLabel>
+  <styles__NotificationContent
+    show={false}
+  >
+    <p>
+      test
+    </p>
+  </styles__NotificationContent>
+</styles__YellowBox>
+`;

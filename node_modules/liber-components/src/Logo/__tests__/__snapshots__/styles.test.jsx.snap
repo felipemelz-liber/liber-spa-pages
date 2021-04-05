@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Logo Styles Cls1 Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Cls1-sc-1acrnf4-0",
+        "isStatic": false,
+        "rules": Array [
+          "fill:#009dff;",
+        ],
+      },
+      "displayName": "styles__Cls1",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Cls1-sc-1acrnf4-0",
+      "target": "rect",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Logo Styles Cls2 Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Cls2-sc-1acrnf4-1",
+        "isStatic": false,
+        "rules": Array [
+          "fill:none;stroke:#fff;stroke-linecap:round;stroke-miterlimit:10;stroke-width:2.52px;",
+        ],
+      },
+      "displayName": "styles__Cls2",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Cls2-sc-1acrnf4-1",
+      "target": "path",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Logo Styles Cls3 Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Cls3-sc-1acrnf4-2",
+        "isStatic": false,
+        "rules": Array [
+          "fill:#fff;",
+        ],
+      },
+      "displayName": "styles__Cls3",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Cls3-sc-1acrnf4-2",
+      "target": "path",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

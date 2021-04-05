@@ -1,0 +1,208 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Dropzone Component Container should render correctly with color 1`] = `
+<StyledComponent
+  color="#aaa"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Dropzone__Container-sc-1mtb3oe-0",
+        "isStatic": false,
+        "lastClassName": "jSZBYL",
+        "rules": Array [
+          "display:flex;align-items:center;padding:20px;border-radius:4px;border:dashed 2px ",
+          [Function],
+          ";color:",
+          [Function],
+          ";fill:",
+          [Function],
+          ";font-family:Roboto;font-weight:500;transition:all 0.2s ease;",
+          [Function],
+        ],
+      },
+      "displayName": "Dropzone__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Dropzone__Container-sc-1mtb3oe-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Dropzone Component Container should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Dropzone__Container-sc-1mtb3oe-0",
+        "isStatic": false,
+        "lastClassName": "jSZBYL",
+        "rules": Array [
+          "display:flex;align-items:center;padding:20px;border-radius:4px;border:dashed 2px ",
+          [Function],
+          ";color:",
+          [Function],
+          ";fill:",
+          [Function],
+          ";font-family:Roboto;font-weight:500;transition:all 0.2s ease;",
+          [Function],
+        ],
+      },
+      "displayName": "Dropzone__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Dropzone__Container-sc-1mtb3oe-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Dropzone Component should forward ref to child component 1`] = `
+<ForwardRef
+  color={null}
+>
+  <n
+    disableClick={false}
+    disablePreview={false}
+    disabled={false}
+    getDataTransferItems={[Function]}
+    inputProps={Object {}}
+    maxSize={Infinity}
+    minSize={0}
+    multiple={true}
+    preventDropOnDocument={true}
+    style={Object {}}
+  >
+    <div
+      aria-disabled={false}
+      className=""
+      onClick={[Function]}
+      onDragEnter={[Function]}
+      onDragLeave={[Function]}
+      onDragOver={[Function]}
+      onDragStart={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "position": "relative",
+        }
+      }
+    >
+      <Dropzone__Container
+        color={null}
+        isDragAccept={false}
+        isDragReject={false}
+      >
+        <StyledComponent
+          color={null}
+          forwardedComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "Dropzone__Container-sc-1mtb3oe-0",
+                "isStatic": false,
+                "lastClassName": "jSZBYL",
+                "rules": Array [
+                  "display:flex;align-items:center;padding:20px;border-radius:4px;border:dashed 2px ",
+                  [Function],
+                  ";color:",
+                  [Function],
+                  ";fill:",
+                  [Function],
+                  ";font-family:Roboto;font-weight:500;transition:all 0.2s ease;",
+                  [Function],
+                ],
+              },
+              "displayName": "Dropzone__Container",
+              "foldedComponentIds": Array [],
+              "render": [Function],
+              "styledComponentId": "Dropzone__Container-sc-1mtb3oe-0",
+              "target": "div",
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          forwardedRef={null}
+          isDragAccept={false}
+          isDragReject={false}
+        >
+          <div
+            className="Dropzone__Container-sc-1mtb3oe-0 jSZBYL"
+            color={null}
+          >
+            Refzone
+          </div>
+        </StyledComponent>
+      </Dropzone__Container>
+      <input
+        autoComplete="off"
+        disabled={false}
+        multiple={true}
+        onChange={[Function]}
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "opacity": 0.00001,
+            "pointerEvents": "none",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+        type="file"
+      />
+    </div>
+  </n>
+</ForwardRef>
+`;
+
+exports[`Testing Dropzone Component should render correctly with children 1`] = `
+<n
+  disableClick={false}
+  disablePreview={false}
+  disabled={false}
+  getDataTransferItems={[Function]}
+  inputProps={Object {}}
+  maxSize={Infinity}
+  minSize={0}
+  multiple={true}
+  preventDropOnDocument={true}
+  style={Object {}}
+>
+  <Component />
+</n>
+`;
+
+exports[`Testing Dropzone Component should render correctly without props 1`] = `
+<n
+  disableClick={false}
+  disablePreview={false}
+  disabled={false}
+  getDataTransferItems={[Function]}
+  inputProps={Object {}}
+  maxSize={Infinity}
+  minSize={0}
+  multiple={true}
+  preventDropOnDocument={true}
+  style={Object {}}
+>
+  <Component />
+</n>
+`;

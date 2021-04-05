@@ -1,0 +1,1827 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for ActionButton Styles Button should render correctly with margin as object 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__Button-sc-1rtn1fx-0",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+        ],
+      },
+      "displayName": "StyledButtons__Button",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__Button-sc-1rtn1fx-0",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  margin={
+    Object {
+      "bottom": "10px",
+      "left": "10px",
+      "right": "10px",
+      "top": "10px",
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles Button should render correctly with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__Button-sc-1rtn1fx-0",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+        ],
+      },
+      "displayName": "StyledButtons__Button",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__Button-sc-1rtn1fx-0",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  height="100px"
+  margin="100px"
+  maxHeight="100px"
+  maxWidth="100px"
+  minHeight="100px"
+  minWidth="100px"
+  width="100px"
+/>
+`;
+
+exports[`Test for ActionButton Styles Button should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__Button-sc-1rtn1fx-0",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+        ],
+      },
+      "displayName": "StyledButtons__Button",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__Button-sc-1rtn1fx-0",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "buttons": Object {
+        "base": Object {
+          "background": "#456",
+          "backgroundHover": "#789",
+          "color": "#abc",
+          "ripple": "#123",
+        },
+        "disabled": Object {
+          "background": "#112233",
+          "color": "#aabbcc",
+        },
+        "primary": Object {
+          "background": "#bbb",
+          "backgroundHover": "#ccc",
+          "color": "#ddd",
+          "ripple": "#aaa",
+        },
+        "secondary": Object {
+          "background": "#fff",
+          "backgroundHover": "#aab",
+          "border": "#aac",
+          "borderHover": "#aaf",
+          "color": "#aad",
+          "colorHover": "#aae",
+          "ripple": "#eee",
+        },
+        "success": Object {
+          "background": "#111",
+          "backgroundHover": "#222",
+          "color": "#333",
+          "ripple": "#000",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles Button should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__Button-sc-1rtn1fx-0",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+        ],
+      },
+      "displayName": "StyledButtons__Button",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__Button-sc-1rtn1fx-0",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles Link should render correctly with margin as object 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__Link-sc-1rtn1fx-4",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " text-decoration:none;",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+        ],
+      },
+      "displayName": "StyledButtons__Link",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__Link-sc-1rtn1fx-4",
+      "target": "a",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+  margin={
+    Object {
+      "bottom": "10px",
+      "left": "10px",
+      "right": "10px",
+      "top": "10px",
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles Link should render correctly with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__Link-sc-1rtn1fx-4",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " text-decoration:none;",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+        ],
+      },
+      "displayName": "StyledButtons__Link",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__Link-sc-1rtn1fx-4",
+      "target": "a",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  height="100px"
+  href="/"
+  margin="100px"
+  maxHeight="100px"
+  maxWidth="100px"
+  minHeight="100px"
+  minWidth="100px"
+  width="100px"
+/>
+`;
+
+exports[`Test for ActionButton Styles Link should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__Link-sc-1rtn1fx-4",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " text-decoration:none;",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+        ],
+      },
+      "displayName": "StyledButtons__Link",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__Link-sc-1rtn1fx-4",
+      "target": "a",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+  theme={
+    Object {
+      "buttons": Object {
+        "base": Object {
+          "background": "#456",
+          "backgroundHover": "#789",
+          "color": "#abc",
+          "ripple": "#123",
+        },
+        "disabled": Object {
+          "background": "#112233",
+          "color": "#aabbcc",
+        },
+        "primary": Object {
+          "background": "#bbb",
+          "backgroundHover": "#ccc",
+          "color": "#ddd",
+          "ripple": "#aaa",
+        },
+        "secondary": Object {
+          "background": "#fff",
+          "backgroundHover": "#aab",
+          "border": "#aac",
+          "borderHover": "#aaf",
+          "color": "#aad",
+          "colorHover": "#aae",
+          "ripple": "#eee",
+        },
+        "success": Object {
+          "background": "#111",
+          "backgroundHover": "#222",
+          "color": "#333",
+          "ripple": "#000",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles Link should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__Link-sc-1rtn1fx-4",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " text-decoration:none;",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+        ],
+      },
+      "displayName": "StyledButtons__Link",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__Link-sc-1rtn1fx-4",
+      "target": "a",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+/>
+`;
+
+exports[`Test for ActionButton Styles PrimaryButton should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__PrimaryButton-sc-1rtn1fx-1",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";&:hover{background-color:",
+          [Function],
+          ";}&:after{background:",
+          [Function],
+          "}",
+        ],
+      },
+      "displayName": "StyledButtons__PrimaryButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1rtn1fx-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__PrimaryButton-sc-1rtn1fx-1",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "buttons": Object {
+        "base": Object {
+          "background": "#456",
+          "backgroundHover": "#789",
+          "color": "#abc",
+          "ripple": "#123",
+        },
+        "disabled": Object {
+          "background": "#112233",
+          "color": "#aabbcc",
+        },
+        "primary": Object {
+          "background": "#bbb",
+          "backgroundHover": "#ccc",
+          "color": "#ddd",
+          "ripple": "#aaa",
+        },
+        "secondary": Object {
+          "background": "#fff",
+          "backgroundHover": "#aab",
+          "border": "#aac",
+          "borderHover": "#aaf",
+          "color": "#aad",
+          "colorHover": "#aae",
+          "ripple": "#eee",
+        },
+        "success": Object {
+          "background": "#111",
+          "backgroundHover": "#222",
+          "color": "#333",
+          "ripple": "#000",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles PrimaryButton should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__PrimaryButton-sc-1rtn1fx-1",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";&:hover{background-color:",
+          [Function],
+          ";}&:after{background:",
+          [Function],
+          "}",
+        ],
+      },
+      "displayName": "StyledButtons__PrimaryButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1rtn1fx-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__PrimaryButton-sc-1rtn1fx-1",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles PrimaryLink should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__PrimaryLink-sc-1rtn1fx-5",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " text-decoration:none;",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          " !important;&:hover{background-color:",
+          [Function],
+          ";}&:after{background:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "StyledButtons__PrimaryLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Link-sc-1rtn1fx-4",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__PrimaryLink-sc-1rtn1fx-5",
+      "target": "a",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "buttons": Object {
+        "base": Object {
+          "background": "#456",
+          "backgroundHover": "#789",
+          "color": "#abc",
+          "ripple": "#123",
+        },
+        "disabled": Object {
+          "background": "#112233",
+          "color": "#aabbcc",
+        },
+        "primary": Object {
+          "background": "#bbb",
+          "backgroundHover": "#ccc",
+          "color": "#ddd",
+          "ripple": "#aaa",
+        },
+        "secondary": Object {
+          "background": "#fff",
+          "backgroundHover": "#aab",
+          "border": "#aac",
+          "borderHover": "#aaf",
+          "color": "#aad",
+          "colorHover": "#aae",
+          "ripple": "#eee",
+        },
+        "success": Object {
+          "background": "#111",
+          "backgroundHover": "#222",
+          "color": "#333",
+          "ripple": "#000",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles PrimaryLink should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__PrimaryLink-sc-1rtn1fx-5",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " text-decoration:none;",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          " !important;&:hover{background-color:",
+          [Function],
+          ";}&:after{background:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "StyledButtons__PrimaryLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Link-sc-1rtn1fx-4",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__PrimaryLink-sc-1rtn1fx-5",
+      "target": "a",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles SecondaryButton should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SecondaryButton-sc-1rtn1fx-2",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          " !important;border:2px solid ",
+          [Function],
+          ";&:hover{background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          " !important;border:2px solid ",
+          [Function],
+          ";}&:after{background:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "StyledButtons__SecondaryButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1rtn1fx-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SecondaryButton-sc-1rtn1fx-2",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "buttons": Object {
+        "base": Object {
+          "background": "#456",
+          "backgroundHover": "#789",
+          "color": "#abc",
+          "ripple": "#123",
+        },
+        "disabled": Object {
+          "background": "#112233",
+          "color": "#aabbcc",
+        },
+        "primary": Object {
+          "background": "#bbb",
+          "backgroundHover": "#ccc",
+          "color": "#ddd",
+          "ripple": "#aaa",
+        },
+        "secondary": Object {
+          "background": "#fff",
+          "backgroundHover": "#aab",
+          "border": "#aac",
+          "borderHover": "#aaf",
+          "color": "#aad",
+          "colorHover": "#aae",
+          "ripple": "#eee",
+        },
+        "success": Object {
+          "background": "#111",
+          "backgroundHover": "#222",
+          "color": "#333",
+          "ripple": "#000",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles SecondaryButton should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SecondaryButton-sc-1rtn1fx-2",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          " !important;border:2px solid ",
+          [Function],
+          ";&:hover{background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          " !important;border:2px solid ",
+          [Function],
+          ";}&:after{background:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "StyledButtons__SecondaryButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1rtn1fx-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SecondaryButton-sc-1rtn1fx-2",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles SecondaryLink should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SecondaryLink-sc-1rtn1fx-6",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " text-decoration:none;",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          " !important;border:2px solid ",
+          [Function],
+          ";&:hover{background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          " !important;border:2px solid ",
+          [Function],
+          ";}&:after{background:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "StyledButtons__SecondaryLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Link-sc-1rtn1fx-4",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SecondaryLink-sc-1rtn1fx-6",
+      "target": "a",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "buttons": Object {
+        "base": Object {
+          "background": "#456",
+          "backgroundHover": "#789",
+          "color": "#abc",
+          "ripple": "#123",
+        },
+        "disabled": Object {
+          "background": "#112233",
+          "color": "#aabbcc",
+        },
+        "primary": Object {
+          "background": "#bbb",
+          "backgroundHover": "#ccc",
+          "color": "#ddd",
+          "ripple": "#aaa",
+        },
+        "secondary": Object {
+          "background": "#fff",
+          "backgroundHover": "#aab",
+          "border": "#aac",
+          "borderHover": "#aaf",
+          "color": "#aad",
+          "colorHover": "#aae",
+          "ripple": "#eee",
+        },
+        "success": Object {
+          "background": "#111",
+          "backgroundHover": "#222",
+          "color": "#333",
+          "ripple": "#000",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles SecondaryLink should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SecondaryLink-sc-1rtn1fx-6",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " text-decoration:none;",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          " !important;border:2px solid ",
+          [Function],
+          ";&:hover{background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          " !important;border:2px solid ",
+          [Function],
+          ";}&:after{background:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "StyledButtons__SecondaryLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Link-sc-1rtn1fx-4",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SecondaryLink-sc-1rtn1fx-6",
+      "target": "a",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles SuccessButton should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SuccessButton-sc-1rtn1fx-3",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";&:hover{background-color:",
+          [Function],
+          ";}&:after{background:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "StyledButtons__SuccessButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1rtn1fx-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SuccessButton-sc-1rtn1fx-3",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "buttons": Object {
+        "base": Object {
+          "background": "#456",
+          "backgroundHover": "#789",
+          "color": "#abc",
+          "ripple": "#123",
+        },
+        "disabled": Object {
+          "background": "#112233",
+          "color": "#aabbcc",
+        },
+        "primary": Object {
+          "background": "#bbb",
+          "backgroundHover": "#ccc",
+          "color": "#ddd",
+          "ripple": "#aaa",
+        },
+        "secondary": Object {
+          "background": "#fff",
+          "backgroundHover": "#aab",
+          "border": "#aac",
+          "borderHover": "#aaf",
+          "color": "#aad",
+          "colorHover": "#aae",
+          "ripple": "#eee",
+        },
+        "success": Object {
+          "background": "#111",
+          "backgroundHover": "#222",
+          "color": "#333",
+          "ripple": "#000",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles SuccessButton should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SuccessButton-sc-1rtn1fx-3",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";&:hover{background-color:",
+          [Function],
+          ";}&:after{background:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "StyledButtons__SuccessButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1rtn1fx-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SuccessButton-sc-1rtn1fx-3",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles SuccessLink should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SuccessLink-sc-1rtn1fx-7",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " text-decoration:none;",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          " !important;&:hover{background-color:",
+          [Function],
+          ";}&:after{background:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "StyledButtons__SuccessLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Link-sc-1rtn1fx-4",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SuccessLink-sc-1rtn1fx-7",
+      "target": "a",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "buttons": Object {
+        "base": Object {
+          "background": "#456",
+          "backgroundHover": "#789",
+          "color": "#abc",
+          "ripple": "#123",
+        },
+        "disabled": Object {
+          "background": "#112233",
+          "color": "#aabbcc",
+        },
+        "primary": Object {
+          "background": "#bbb",
+          "backgroundHover": "#ccc",
+          "color": "#ddd",
+          "ripple": "#aaa",
+        },
+        "secondary": Object {
+          "background": "#fff",
+          "backgroundHover": "#aab",
+          "border": "#aac",
+          "borderHover": "#aaf",
+          "color": "#aad",
+          "colorHover": "#aae",
+          "ripple": "#eee",
+        },
+        "success": Object {
+          "background": "#111",
+          "backgroundHover": "#222",
+          "color": "#333",
+          "ripple": "#000",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles SuccessLink should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SuccessLink-sc-1rtn1fx-7",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " text-decoration:none;",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          " !important;&:hover{background-color:",
+          [Function],
+          ";}&:after{background:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "StyledButtons__SuccessLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Link-sc-1rtn1fx-4",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SuccessLink-sc-1rtn1fx-7",
+      "target": "a",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

@@ -1,0 +1,550 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Card v2 Styles Uncontrolled renders CardContent correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "CardV2__CardContent-mom78k-2",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " color:",
+          [Function],
+          ";flex-grow:1;padding:24px;",
+        ],
+      },
+      "displayName": "CardV2__CardContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "CardV2__CardContent-mom78k-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Card v2 Styles Uncontrolled renders CardFooter correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "CardV2__CardFooter-mom78k-3",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " font-family:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border-top:1px solid ",
+          [Function],
+          ";width:100%;height:48px;display:flex;align-items:center;justify-content:center;text-align:center;",
+        ],
+      },
+      "displayName": "CardV2__CardFooter",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "CardV2__CardFooter-mom78k-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Card v2 Styles Uncontrolled renders InnerCard correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "CardV2__InnerCard-mom78k-4",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " border-radius:4px;background-color:",
+          [Function],
+          ";min-width:50px;min-height:50px;display:flex;flex-direction:column;justify-content:flex-start;align-items:center;",
+          "box-shadow:unset;border:1px solid ",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "CardV2__InnerCard",
+      "foldedComponentIds": Array [
+        "CardV2__Card-mom78k-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "CardV2__InnerCard-mom78k-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Card v2 Styles Uncontrolled renders InnerCardHeader correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "CardV2__InnerCardHeader-mom78k-5",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " font-family:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border-bottom:1px solid ",
+          [Function],
+          ";width:100%;height:48px;display:flex;align-items:center;justify-content:center;text-align:center;padding:0px 24px;box-sizing:border-box;position:relative;&:after{content:\\"\\";position:absolute;bottom:-1px;height:0px;left:24px;width:calc(100% - 48px);border-bottom:2px solid ",
+          [Function],
+          ";}",
+          "justify-content:left;text-align:flex-start;font-weight:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "CardV2__InnerCardHeader",
+      "foldedComponentIds": Array [
+        "CardV2__CardHeader-mom78k-1",
+      ],
+      "render": [Function],
+      "styledComponentId": "CardV2__InnerCardHeader-mom78k-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Card v2 Styles controlled Card renders correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "CardV2__Card-mom78k-0",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " border-radius:4px;background-color:",
+          [Function],
+          ";min-width:50px;min-height:50px;display:flex;flex-direction:column;justify-content:flex-start;align-items:center;",
+        ],
+      },
+      "displayName": "CardV2__Card",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "CardV2__Card-mom78k-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Card v2 Styles controlled Card renders correctly without with elevation=1 1`] = `
+<StyledComponent
+  elevation="1"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "CardV2__Card-mom78k-0",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " border-radius:4px;background-color:",
+          [Function],
+          ";min-width:50px;min-height:50px;display:flex;flex-direction:column;justify-content:flex-start;align-items:center;",
+        ],
+      },
+      "displayName": "CardV2__Card",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "CardV2__Card-mom78k-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Card v2 Styles controlled Card renders correctly without with elevation=2 1`] = `
+<StyledComponent
+  elevation="2"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "CardV2__Card-mom78k-0",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " border-radius:4px;background-color:",
+          [Function],
+          ";min-width:50px;min-height:50px;display:flex;flex-direction:column;justify-content:flex-start;align-items:center;",
+        ],
+      },
+      "displayName": "CardV2__Card",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "CardV2__Card-mom78k-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Card v2 Styles controlled Card renders correctly without with elevation=3 1`] = `
+<StyledComponent
+  elevation="3"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "CardV2__Card-mom78k-0",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " border-radius:4px;background-color:",
+          [Function],
+          ";min-width:50px;min-height:50px;display:flex;flex-direction:column;justify-content:flex-start;align-items:center;",
+        ],
+      },
+      "displayName": "CardV2__Card",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "CardV2__Card-mom78k-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Card v2 Styles controlled Card renders correctly without with elevation=other 1`] = `
+<StyledComponent
+  elevation="other"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "CardV2__Card-mom78k-0",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " border-radius:4px;background-color:",
+          [Function],
+          ";min-width:50px;min-height:50px;display:flex;flex-direction:column;justify-content:flex-start;align-items:center;",
+        ],
+      },
+      "displayName": "CardV2__Card",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "CardV2__Card-mom78k-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Card v2 Styles controlled CardHeader renders correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "CardV2__CardHeader-mom78k-1",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " font-family:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border-bottom:1px solid ",
+          [Function],
+          ";width:100%;height:48px;display:flex;align-items:center;justify-content:center;text-align:center;padding:0px 24px;box-sizing:border-box;position:relative;&:after{content:\\"\\";position:absolute;bottom:-1px;height:0px;left:24px;width:calc(100% - 48px);border-bottom:2px solid ",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "CardV2__CardHeader",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "CardV2__CardHeader-mom78k-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Card v2 Styles controlled CardHeader renders correctly without with highlight=alert 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "CardV2__Card-mom78k-0",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " border-radius:4px;background-color:",
+          [Function],
+          ";min-width:50px;min-height:50px;display:flex;flex-direction:column;justify-content:flex-start;align-items:center;",
+        ],
+      },
+      "displayName": "CardV2__Card",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "CardV2__Card-mom78k-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  highlight="alert"
+/>
+`;
+
+exports[`Testing Card v2 Styles controlled CardHeader renders correctly without with highlight=dark 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "CardV2__Card-mom78k-0",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " border-radius:4px;background-color:",
+          [Function],
+          ";min-width:50px;min-height:50px;display:flex;flex-direction:column;justify-content:flex-start;align-items:center;",
+        ],
+      },
+      "displayName": "CardV2__Card",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "CardV2__Card-mom78k-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  highlight="dark"
+/>
+`;
+
+exports[`Testing Card v2 Styles controlled CardHeader renders correctly without with highlight=default 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "CardV2__Card-mom78k-0",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " border-radius:4px;background-color:",
+          [Function],
+          ";min-width:50px;min-height:50px;display:flex;flex-direction:column;justify-content:flex-start;align-items:center;",
+        ],
+      },
+      "displayName": "CardV2__Card",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "CardV2__Card-mom78k-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  highlight="default"
+/>
+`;
+
+exports[`Testing Card v2 Styles controlled CardHeader renders correctly without with highlight=error 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "CardV2__Card-mom78k-0",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " border-radius:4px;background-color:",
+          [Function],
+          ";min-width:50px;min-height:50px;display:flex;flex-direction:column;justify-content:flex-start;align-items:center;",
+        ],
+      },
+      "displayName": "CardV2__Card",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "CardV2__Card-mom78k-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  highlight="error"
+/>
+`;
+
+exports[`Testing Card v2 Styles controlled CardHeader renders correctly without with highlight=other 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "CardV2__Card-mom78k-0",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " border-radius:4px;background-color:",
+          [Function],
+          ";min-width:50px;min-height:50px;display:flex;flex-direction:column;justify-content:flex-start;align-items:center;",
+        ],
+      },
+      "displayName": "CardV2__Card",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "CardV2__Card-mom78k-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  highlight="other"
+/>
+`;
+
+exports[`Testing Card v2 Styles controlled CardHeader renders correctly without with highlight=primary 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "CardV2__Card-mom78k-0",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " border-radius:4px;background-color:",
+          [Function],
+          ";min-width:50px;min-height:50px;display:flex;flex-direction:column;justify-content:flex-start;align-items:center;",
+        ],
+      },
+      "displayName": "CardV2__Card",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "CardV2__Card-mom78k-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  highlight="primary"
+/>
+`;
+
+exports[`Testing Card v2 Styles controlled CardHeader renders correctly without with highlight=success 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "CardV2__Card-mom78k-0",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " border-radius:4px;background-color:",
+          [Function],
+          ";min-width:50px;min-height:50px;display:flex;flex-direction:column;justify-content:flex-start;align-items:center;",
+        ],
+      },
+      "displayName": "CardV2__Card",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "CardV2__Card-mom78k-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  highlight="success"
+/>
+`;

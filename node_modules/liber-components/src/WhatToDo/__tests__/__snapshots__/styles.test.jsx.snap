@@ -1,0 +1,231 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Checkbox Styles Bg should render correctly when closed 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Title-sc-1ciu2kn-0",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";font-weight:bold;font-size:24px;margin:15px 0px 9px 0px;font-family:inherit;",
+          "margin-top:10px !important;margin-bottom:0px !important;",
+        ],
+      },
+      "displayName": "styles__Title",
+      "foldedComponentIds": Array [
+        "GenericStyles__Header4-jict78-3",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__Title-sc-1ciu2kn-0",
+      "target": "h2",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Checkbox Styles Card should render correctly when open 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Separator-sc-1ciu2kn-1",
+        "isStatic": false,
+        "rules": Array [
+          "border:0;border-top:1px solid rgba(0,0,0,0.1);margin:18px 0px;",
+          "margin-top:6px !important;",
+        ],
+      },
+      "displayName": "styles__Separator",
+      "foldedComponentIds": Array [
+        "GenericStyles__Hr-jict78-9",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__Separator-sc-1ciu2kn-1",
+      "target": "hr",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Checkbox Styles MNotificationContent should render correctly when closed 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__NotificationContent-sc-1ciu2kn-6",
+        "isStatic": false,
+        "rules": Array [
+          "flex-grow:1;display:",
+          [Function],
+          ";padding:0 38px;margin-bottom:13px;font-size:20px;font-weight:500;color:#484848;",
+        ],
+      },
+      "displayName": "styles__NotificationContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__NotificationContent-sc-1ciu2kn-6",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  show={false}
+/>
+`;
+
+exports[`Testing Checkbox Styles MNotificationContent should render correctly when opened 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__NotificationContent-sc-1ciu2kn-6",
+        "isStatic": false,
+        "rules": Array [
+          "flex-grow:1;display:",
+          [Function],
+          ";padding:0 38px;margin-bottom:13px;font-size:20px;font-weight:500;color:#484848;",
+        ],
+      },
+      "displayName": "styles__NotificationContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__NotificationContent-sc-1ciu2kn-6",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  show={true}
+/>
+`;
+
+exports[`Testing Checkbox Styles ModalContainer should render correctly when closed 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Box-sc-1ciu2kn-2",
+        "isStatic": false,
+        "rules": Array [
+          "border-radius:2px;border:solid 2px #e6e6e6;padding:8px 66px 23px 66px;overflow:hidden;position:relative;width:100%;box-sizing:border-box;text-align:left;color:#4e4e4e;line-height:21px;font-size:16px;font-weight:500;margin-bottom:20px;& ol,& ul{padding-left:20px;}& ol > li,& ul > li{margin-bottom:10px;}",
+        ],
+      },
+      "displayName": "styles__Box",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Box-sc-1ciu2kn-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Checkbox Styles ModalContainer should render correctly when closed 2`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Question-sc-1ciu2kn-3",
+        "isStatic": false,
+        "rules": Array [
+          "fill:#009dff;width:24px;height:24px;position:absolute;top:16px;left:24px;",
+        ],
+      },
+      "displayName": "styles__Question",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Question-sc-1ciu2kn-3",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Checkbox Styles NotificationLabel should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__NotificationLabel-sc-1ciu2kn-5",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:inherit;font-size:22px;font-weight:bold;color:#484848;padding:13px 38px;position:relative;cursor:pointer;&:after{position:absolute;content:'';right:19px;top:calc(50% - 4px);width:0px;height:0px;border-left:8px solid transparent;border-right:8px solid transparent;border-bottom:8px solid transparent;border-top:8px solid #4e4e4e;}",
+        ],
+      },
+      "displayName": "styles__NotificationLabel",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__NotificationLabel-sc-1ciu2kn-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Checkbox Styles YellowBox should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__YellowBox-sc-1ciu2kn-4",
+        "isStatic": false,
+        "rules": Array [
+          "border-radius:4px;background-color:#feedc2;margin-bottom:20px;display:flex;justify-content:flex-start;flex-direction:column;",
+        ],
+      },
+      "displayName": "styles__YellowBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__YellowBox-sc-1ciu2kn-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

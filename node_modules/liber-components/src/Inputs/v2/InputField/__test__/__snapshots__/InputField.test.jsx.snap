@@ -1,0 +1,337 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing InputField Component renders InputField correctly without props 1`] = `
+<InputField
+  autoComplete={false}
+  autoCompleteList={Array []}
+  disabled={false}
+  errorMessage=""
+  fullWidth={false}
+  helper=""
+  hintText=""
+  id={null}
+  innerRef={null}
+  label=""
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={false}
+  precision={0}
+  prefix=""
+  showPasswordToggle={false}
+  type="text"
+  value={null}
+  width="247px"
+/>
+`;
+
+exports[`Testing InputField Component renders InputField disabled 1`] = `
+<InputField
+  autoComplete={false}
+  autoCompleteList={Array []}
+  disabled={true}
+  errorMessage=""
+  fullWidth={false}
+  helper=""
+  hintText=""
+  id={null}
+  innerRef={null}
+  label=""
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={false}
+  precision={0}
+  prefix=""
+  showPasswordToggle={false}
+  type="text"
+  value={null}
+  width="247px"
+/>
+`;
+
+exports[`Testing InputField Component renders InputField with autocomplete 1`] = `
+<InputField
+  autoComplete={true}
+  autoCompleteList={
+    Array [
+      "Item encontrado 1",
+      "Item encontrado 2",
+      "Item encontrado 3",
+      "Item encontrado 4",
+      "Item sob efeito de hover",
+    ]
+  }
+  disabled={false}
+  errorMessage=""
+  fullWidth={false}
+  helper=""
+  hintText="Comece digitando algo"
+  id={null}
+  innerRef={null}
+  label=""
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={false}
+  precision={0}
+  prefix=""
+  showPasswordToggle={false}
+  type="text"
+  value={null}
+  width="247px"
+/>
+`;
+
+exports[`Testing InputField Component renders InputField with error message 1`] = `
+<InputField
+  autoComplete={false}
+  autoCompleteList={Array []}
+  disabled={false}
+  errorMessage="CPF inválido"
+  fullWidth={false}
+  helper=""
+  hintText=""
+  id={null}
+  innerRef={null}
+  label="CPF"
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={false}
+  precision={0}
+  prefix=""
+  showPasswordToggle={false}
+  type="text"
+  value="226.718.96-0-77"
+  width="247px"
+/>
+`;
+
+exports[`Testing InputField Component renders InputField with helper 1`] = `
+<InputField
+  autoComplete={false}
+  autoCompleteList={Array []}
+  disabled={false}
+  errorMessage=""
+  fullWidth={false}
+  helper="Insira um CPF válido"
+  hintText=""
+  id={null}
+  innerRef={null}
+  label="CPF"
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={false}
+  precision={0}
+  prefix=""
+  showPasswordToggle={false}
+  type="text"
+  value={null}
+  width="247px"
+/>
+`;
+
+exports[`Testing InputField Component renders InputField with hint text 1`] = `
+<InputField
+  autoComplete={false}
+  autoCompleteList={Array []}
+  disabled={false}
+  errorMessage=""
+  fullWidth={false}
+  helper=""
+  hintText="999.999.999-99"
+  id={null}
+  innerRef={null}
+  label=""
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={false}
+  precision={0}
+  prefix=""
+  showPasswordToggle={false}
+  type="text"
+  value={null}
+  width="247px"
+/>
+`;
+
+exports[`Testing InputField Component renders InputField with open label 1`] = `
+<InputField
+  autoComplete={false}
+  autoCompleteList={Array []}
+  disabled={false}
+  errorMessage=""
+  fullWidth={false}
+  helper=""
+  hintText=""
+  id={null}
+  innerRef={null}
+  label="CPF"
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={true}
+  precision={0}
+  prefix=""
+  showPasswordToggle={false}
+  type="text"
+  value={null}
+  width="247px"
+/>
+`;
+
+exports[`Testing InputField Component renders InputField with prefix 1`] = `
+<InputField
+  autoComplete={false}
+  autoCompleteList={Array []}
+  disabled={false}
+  errorMessage=""
+  fullWidth={false}
+  helper=""
+  hintText=""
+  id={null}
+  innerRef={null}
+  label="Total"
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={false}
+  precision={0}
+  prefix="$"
+  showPasswordToggle={false}
+  type="text"
+  value="1000,00"
+  width="247px"
+/>
+`;
+
+exports[`Testing InputField Component renders InputField with type number 1`] = `
+<InputField
+  autoComplete={false}
+  autoCompleteList={Array []}
+  disabled={false}
+  errorMessage=""
+  fullWidth={false}
+  helper=""
+  hintText=""
+  id={null}
+  innerRef={null}
+  label=""
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={false}
+  precision={0}
+  prefix=""
+  showPasswordToggle={false}
+  type="number"
+  value={null}
+  width="247px"
+/>
+`;
+
+exports[`Testing InputField Component renders InputField with type number and max and min value 1`] = `
+<InputField
+  autoComplete={false}
+  autoCompleteList={Array []}
+  disabled={false}
+  errorMessage=""
+  fullWidth={false}
+  helper=""
+  hintText=""
+  id={null}
+  innerRef={null}
+  label=""
+  max={10}
+  min={0}
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={false}
+  precision={0}
+  prefix=""
+  showPasswordToggle={false}
+  type="number"
+  value={null}
+  width="247px"
+/>
+`;
+
+exports[`Testing InputField Component renders InputField with type number and step and precision value 1`] = `
+<InputField
+  autoComplete={false}
+  autoCompleteList={Array []}
+  disabled={false}
+  errorMessage=""
+  fullWidth={false}
+  helper=""
+  hintText=""
+  id={null}
+  innerRef={null}
+  label=""
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={false}
+  precision={2}
+  prefix=""
+  showPasswordToggle={false}
+  step={0.01}
+  type="number"
+  value={null}
+  width="247px"
+/>
+`;
+
+exports[`Testing InputField Component renders InputField with value 1`] = `
+<InputField
+  autoComplete={false}
+  autoCompleteList={Array []}
+  disabled={false}
+  errorMessage=""
+  fullWidth={false}
+  helper=""
+  hintText=""
+  id={null}
+  innerRef={null}
+  label="CPF"
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={false}
+  precision={0}
+  prefix=""
+  showPasswordToggle={false}
+  type="text"
+  value="226.718.960-77"
+  width="247px"
+/>
+`;
+
+exports[`Testing InputField Component should render correctly with password toggle 1`] = `
+<InputField
+  autoComplete={false}
+  autoCompleteList={Array []}
+  disabled={false}
+  errorMessage=""
+  fullWidth={false}
+  helper=""
+  hintText=""
+  id={null}
+  innerRef={null}
+  label=""
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={false}
+  precision={0}
+  prefix=""
+  showPasswordToggle={true}
+  type="password"
+  value={null}
+  width="247px"
+/>
+`;

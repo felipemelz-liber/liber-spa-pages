@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Form Component should not render token when rails is false 1`] = `
+<form
+  action=""
+  autoComplete="off"
+  className=""
+  id=""
+  method=""
+  name=""
+  onSubmit={[Function]}
+/>
+`;
+
+exports[`Testing Form Component should render correctly with props 1`] = `
+<form
+  action=""
+  autoComplete="off"
+  className=""
+  id=""
+  method=""
+  name=""
+  onSubmit={[Function]}
+>
+  <input
+    name="utf8"
+    type="hidden"
+    value="✓"
+  />
+  <input
+    name="authenticity_token"
+    type="hidden"
+    value=""
+  />
+</form>
+`;
+
+exports[`Testing Form Component should render correctly without props 1`] = `
+<form
+  action=""
+  autoComplete="off"
+  className=""
+  id=""
+  method=""
+  name=""
+  onSubmit={[Function]}
+>
+  <input
+    name="utf8"
+    type="hidden"
+    value="✓"
+  />
+  <input
+    name="authenticity_token"
+    type="hidden"
+    value=""
+  />
+</form>
+`;

@@ -1,0 +1,1514 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing DateTimePicker Styles Controlled Close renders correctly with show=false 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Icon-sc-183g0ms-6",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          "position:absolute;right:16px;top:calc(50% - 10px);",
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Icon-sc-183g0ms-6",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  show={false}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Close renders correctly with show=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Icon-sc-183g0ms-6",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          "position:absolute;right:16px;top:calc(50% - 10px);",
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Icon-sc-183g0ms-6",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  show={true}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Close renders correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Close-sc-183g0ms-7",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:",
+          [Function],
+          ";opacity:0;pointer-events:none;",
+          [Function],
+          " transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;z-index:2;cursor:pointer;",
+          "position:absolute;right:16px;top:calc(50% - 10px);",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Close",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Close-sc-183g0ms-7",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled DateInput renders correctly with disabled=false 1`] = `
+<StyledComponent
+  disabled={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "mask": "99/99/9999",
+        "maskChar": null,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__DateInput-sc-183g0ms-4",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:20px;text-align:left;color:",
+          [Function],
+          ";outline:0;border:0px;",
+          [Function],
+          " &::-moz-focus-inner{border:0;}&::placeholder{color:",
+          [Function],
+          ";}&:-webkit-autofill,&:-webkit-autofill:hover,&:-webkit-autofill:focus,&:-webkit-autofill:active{-webkit-box-shadow:0 0 0px 1000px #fff inset !important;transition:background-color 99999s ease-in-out 0s;}",
+          "width:88px;",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__DateInput",
+      "foldedComponentIds": Array [
+        "DateTimeRangePickerstyles__Input-sc-183g0ms-2",
+      ],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__DateInput-sc-183g0ms-4",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  mask="99/99/9999"
+  maskChar={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled DateInput renders correctly with disabled=true 1`] = `
+<StyledComponent
+  disabled={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "mask": "99/99/9999",
+        "maskChar": null,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__DateInput-sc-183g0ms-4",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:20px;text-align:left;color:",
+          [Function],
+          ";outline:0;border:0px;",
+          [Function],
+          " &::-moz-focus-inner{border:0;}&::placeholder{color:",
+          [Function],
+          ";}&:-webkit-autofill,&:-webkit-autofill:hover,&:-webkit-autofill:focus,&:-webkit-autofill:active{-webkit-box-shadow:0 0 0px 1000px #fff inset !important;transition:background-color 99999s ease-in-out 0s;}",
+          "width:88px;",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__DateInput",
+      "foldedComponentIds": Array [
+        "DateTimeRangePickerstyles__Input-sc-183g0ms-2",
+      ],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__DateInput-sc-183g0ms-4",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  mask="99/99/9999"
+  maskChar={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled DateInput renders correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "mask": "99/99/9999",
+        "maskChar": null,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__DateInput-sc-183g0ms-4",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:20px;text-align:left;color:",
+          [Function],
+          ";outline:0;border:0px;",
+          [Function],
+          " &::-moz-focus-inner{border:0;}&::placeholder{color:",
+          [Function],
+          ";}&:-webkit-autofill,&:-webkit-autofill:hover,&:-webkit-autofill:focus,&:-webkit-autofill:active{-webkit-box-shadow:0 0 0px 1000px #fff inset !important;transition:background-color 99999s ease-in-out 0s;}",
+          "width:88px;",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__DateInput",
+      "foldedComponentIds": Array [
+        "DateTimeRangePickerstyles__Input-sc-183g0ms-2",
+      ],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__DateInput-sc-183g0ms-4",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  mask="99/99/9999"
+  maskChar={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Icon renders correctly with error=false 1`] = `
+<StyledComponent
+  error={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Icon-sc-183g0ms-6",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          "position:absolute;right:16px;top:calc(50% - 10px);",
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Icon-sc-183g0ms-6",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Icon renders correctly with error=true 1`] = `
+<StyledComponent
+  error={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Icon-sc-183g0ms-6",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          "position:absolute;right:16px;top:calc(50% - 10px);",
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Icon-sc-183g0ms-6",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Icon renders correctly with hide=false 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Icon-sc-183g0ms-6",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          "position:absolute;right:16px;top:calc(50% - 10px);",
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Icon-sc-183g0ms-6",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  hide={false}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Icon renders correctly with hide=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Icon-sc-183g0ms-6",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          "position:absolute;right:16px;top:calc(50% - 10px);",
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Icon-sc-183g0ms-6",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  hide={true}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Icon renders correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Icon-sc-183g0ms-6",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          "position:absolute;right:16px;top:calc(50% - 10px);",
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Icon-sc-183g0ms-6",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled InputSeparator renders correctly with show=false 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "mask": "99/99/9999",
+        "maskChar": null,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__DateInput-sc-183g0ms-4",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:20px;text-align:left;color:",
+          [Function],
+          ";outline:0;border:0px;",
+          [Function],
+          " &::-moz-focus-inner{border:0;}&::placeholder{color:",
+          [Function],
+          ";}&:-webkit-autofill,&:-webkit-autofill:hover,&:-webkit-autofill:focus,&:-webkit-autofill:active{-webkit-box-shadow:0 0 0px 1000px #fff inset !important;transition:background-color 99999s ease-in-out 0s;}",
+          "width:88px;",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__DateInput",
+      "foldedComponentIds": Array [
+        "DateTimeRangePickerstyles__Input-sc-183g0ms-2",
+      ],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__DateInput-sc-183g0ms-4",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  mask="99/99/9999"
+  maskChar={null}
+  show={false}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled InputSeparator renders correctly with show=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "mask": "99/99/9999",
+        "maskChar": null,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__DateInput-sc-183g0ms-4",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:20px;text-align:left;color:",
+          [Function],
+          ";outline:0;border:0px;",
+          [Function],
+          " &::-moz-focus-inner{border:0;}&::placeholder{color:",
+          [Function],
+          ";}&:-webkit-autofill,&:-webkit-autofill:hover,&:-webkit-autofill:focus,&:-webkit-autofill:active{-webkit-box-shadow:0 0 0px 1000px #fff inset !important;transition:background-color 99999s ease-in-out 0s;}",
+          "width:88px;",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__DateInput",
+      "foldedComponentIds": Array [
+        "DateTimeRangePickerstyles__Input-sc-183g0ms-2",
+      ],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__DateInput-sc-183g0ms-4",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  mask="99/99/9999"
+  maskChar={null}
+  show={true}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled InputSeparator renders correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "mask": "99/99/9999",
+        "maskChar": null,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__DateInput-sc-183g0ms-4",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:20px;text-align:left;color:",
+          [Function],
+          ";outline:0;border:0px;",
+          [Function],
+          " &::-moz-focus-inner{border:0;}&::placeholder{color:",
+          [Function],
+          ";}&:-webkit-autofill,&:-webkit-autofill:hover,&:-webkit-autofill:focus,&:-webkit-autofill:active{-webkit-box-shadow:0 0 0px 1000px #fff inset !important;transition:background-color 99999s ease-in-out 0s;}",
+          "width:88px;",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__DateInput",
+      "foldedComponentIds": Array [
+        "DateTimeRangePickerstyles__Input-sc-183g0ms-2",
+      ],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__DateInput-sc-183g0ms-4",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  mask="99/99/9999"
+  maskChar={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled InputShell renders correctly with disabled=false 1`] = `
+<StyledComponent
+  disabled={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__InputShell-sc-183g0ms-1",
+        "isStatic": false,
+        "rules": Array [
+          "height:48px;border-radius:4px;padding:0px 68px 0px 16px;display:flex;justify-content:flex-start;align-items:center;box-sizing:border-box;",
+          [Function],
+          " ",
+          [Function],
+          " & > input:not(:last-child){margin-right:6px;}",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__InputShell",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__InputShell-sc-183g0ms-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled InputShell renders correctly with disabled=true 1`] = `
+<StyledComponent
+  disabled={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__InputShell-sc-183g0ms-1",
+        "isStatic": false,
+        "rules": Array [
+          "height:48px;border-radius:4px;padding:0px 68px 0px 16px;display:flex;justify-content:flex-start;align-items:center;box-sizing:border-box;",
+          [Function],
+          " ",
+          [Function],
+          " & > input:not(:last-child){margin-right:6px;}",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__InputShell",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__InputShell-sc-183g0ms-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled InputShell renders correctly with error=false 1`] = `
+<StyledComponent
+  error={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__InputShell-sc-183g0ms-1",
+        "isStatic": false,
+        "rules": Array [
+          "height:48px;border-radius:4px;padding:0px 68px 0px 16px;display:flex;justify-content:flex-start;align-items:center;box-sizing:border-box;",
+          [Function],
+          " ",
+          [Function],
+          " & > input:not(:last-child){margin-right:6px;}",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__InputShell",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__InputShell-sc-183g0ms-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled InputShell renders correctly with error=true 1`] = `
+<StyledComponent
+  error={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__InputShell-sc-183g0ms-1",
+        "isStatic": false,
+        "rules": Array [
+          "height:48px;border-radius:4px;padding:0px 68px 0px 16px;display:flex;justify-content:flex-start;align-items:center;box-sizing:border-box;",
+          [Function],
+          " ",
+          [Function],
+          " & > input:not(:last-child){margin-right:6px;}",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__InputShell",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__InputShell-sc-183g0ms-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled InputShell renders correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__InputShell-sc-183g0ms-1",
+        "isStatic": false,
+        "rules": Array [
+          "height:48px;border-radius:4px;padding:0px 68px 0px 16px;display:flex;justify-content:flex-start;align-items:center;box-sizing:border-box;",
+          [Function],
+          " ",
+          [Function],
+          " & > input:not(:last-child){margin-right:6px;}",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__InputShell",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__InputShell-sc-183g0ms-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Label renders correctly with disabled=true 1`] = `
+<StyledComponent
+  disabled={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Label-sc-183g0ms-8",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;padding:0px 6px;left:6px;text-align:left;background-color:transparent;transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;width:auto;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;user-select:none;z-index:1;",
+          [Function],
+          " &:before{content:'';position:absolute;",
+          [Function],
+          " left:0px;top:calc(50%);width:100%;z-index:-1;}",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Label-sc-183g0ms-8",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Label renders correctly with error=true 1`] = `
+<StyledComponent
+  error={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Label-sc-183g0ms-8",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;padding:0px 6px;left:6px;text-align:left;background-color:transparent;transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;width:auto;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;user-select:none;z-index:1;",
+          [Function],
+          " &:before{content:'';position:absolute;",
+          [Function],
+          " left:0px;top:calc(50%);width:100%;z-index:-1;}",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Label-sc-183g0ms-8",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Label renders correctly with focused=true 1`] = `
+<StyledComponent
+  focused={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Label-sc-183g0ms-8",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;padding:0px 6px;left:6px;text-align:left;background-color:transparent;transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;width:auto;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;user-select:none;z-index:1;",
+          [Function],
+          " &:before{content:'';position:absolute;",
+          [Function],
+          " left:0px;top:calc(50%);width:100%;z-index:-1;}",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Label-sc-183g0ms-8",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Label renders correctly with valid=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Label-sc-183g0ms-8",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;padding:0px 6px;left:6px;text-align:left;background-color:transparent;transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;width:auto;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;user-select:none;z-index:1;",
+          [Function],
+          " &:before{content:'';position:absolute;",
+          [Function],
+          " left:0px;top:calc(50%);width:100%;z-index:-1;}",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Label-sc-183g0ms-8",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  valid={true}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Label renders correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Label-sc-183g0ms-8",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;padding:0px 6px;left:6px;text-align:left;background-color:transparent;transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;width:auto;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;user-select:none;z-index:1;",
+          [Function],
+          " &:before{content:'';position:absolute;",
+          [Function],
+          " left:0px;top:calc(50%);width:100%;z-index:-1;}",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Label-sc-183g0ms-8",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled PickerSlider renders correctly with show=calendar 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__PickerSlider-sc-183g0ms-11",
+        "isStatic": false,
+        "rules": Array [
+          "width:680px;display:flex;align-items:flex-start;transition:transform 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          [Function],
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__PickerSlider",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__PickerSlider-sc-183g0ms-11",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  show="calendar"
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled PickerSlider renders correctly with show=clock 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__PickerSlider-sc-183g0ms-11",
+        "isStatic": false,
+        "rules": Array [
+          "width:680px;display:flex;align-items:flex-start;transition:transform 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          [Function],
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__PickerSlider",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__PickerSlider-sc-183g0ms-11",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  show="clock"
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled PickerSlider renders correctly with show=other 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__PickerSlider-sc-183g0ms-11",
+        "isStatic": false,
+        "rules": Array [
+          "width:680px;display:flex;align-items:flex-start;transition:transform 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          [Function],
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__PickerSlider",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__PickerSlider-sc-183g0ms-11",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  show="other"
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled PickerSlider renders correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__PickerSlider-sc-183g0ms-11",
+        "isStatic": false,
+        "rules": Array [
+          "width:680px;display:flex;align-items:flex-start;transition:transform 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          [Function],
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__PickerSlider",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__PickerSlider-sc-183g0ms-11",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Range renders correctly with checked=true and start=false 1`] = `
+<StyledComponent
+  checked={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Range-sc-183g0ms-15",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " height:36px;& > ",
+          ".MonthCalendarstyles__Unit-sc-1afnfnl-3",
+          "{margin-right:4px;cursor:pointer!important;}",
+          [Function],
+          " &:last-child > ",
+          ".MonthCalendarstyles__Unit-sc-1afnfnl-3",
+          "{margin-right:0px!important;margin-left:0px!important;}",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Range",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Range-sc-183g0ms-15",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  start={false}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Range renders correctly with empty=false, checked=false and start=false 1`] = `
+<StyledComponent
+  checked={false}
+  empty={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Range-sc-183g0ms-15",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " height:36px;& > ",
+          ".MonthCalendarstyles__Unit-sc-1afnfnl-3",
+          "{margin-right:4px;cursor:pointer!important;}",
+          [Function],
+          " &:last-child > ",
+          ".MonthCalendarstyles__Unit-sc-1afnfnl-3",
+          "{margin-right:0px!important;margin-left:0px!important;}",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Range",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Range-sc-183g0ms-15",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  start={false}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Range renders correctly with empty=true 1`] = `
+<StyledComponent
+  empty={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Range-sc-183g0ms-15",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " height:36px;& > ",
+          ".MonthCalendarstyles__Unit-sc-1afnfnl-3",
+          "{margin-right:4px;cursor:pointer!important;}",
+          [Function],
+          " &:last-child > ",
+          ".MonthCalendarstyles__Unit-sc-1afnfnl-3",
+          "{margin-right:0px!important;margin-left:0px!important;}",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Range",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Range-sc-183g0ms-15",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Range renders correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Range-sc-183g0ms-15",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " height:36px;& > ",
+          ".MonthCalendarstyles__Unit-sc-1afnfnl-3",
+          "{margin-right:4px;cursor:pointer!important;}",
+          [Function],
+          " &:last-child > ",
+          ".MonthCalendarstyles__Unit-sc-1afnfnl-3",
+          "{margin-right:0px!important;margin-left:0px!important;}",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Range",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Range-sc-183g0ms-15",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Row renders correctly with size=1000 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Row-sc-183g0ms-9",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;justify-content:flex-start;align-items:stretch;",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Row",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Row-sc-183g0ms-9",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  size={1000}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled Row renders correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Row-sc-183g0ms-9",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;justify-content:flex-start;align-items:stretch;",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Row",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Row-sc-183g0ms-9",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled TimeInput renders correctly with disabled=false 1`] = `
+<StyledComponent
+  disabled={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "mask": "99:99:99",
+        "maskChar": null,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__TimeInput-sc-183g0ms-3",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:20px;text-align:left;color:",
+          [Function],
+          ";outline:0;border:0px;",
+          [Function],
+          " &::-moz-focus-inner{border:0;}&::placeholder{color:",
+          [Function],
+          ";}&:-webkit-autofill,&:-webkit-autofill:hover,&:-webkit-autofill:focus,&:-webkit-autofill:active{-webkit-box-shadow:0 0 0px 1000px #fff inset !important;transition:background-color 99999s ease-in-out 0s;}",
+          "width:65px;",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__TimeInput",
+      "foldedComponentIds": Array [
+        "DateTimeRangePickerstyles__Input-sc-183g0ms-2",
+      ],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__TimeInput-sc-183g0ms-3",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  mask="99:99:99"
+  maskChar={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled TimeInput renders correctly with disabled=true 1`] = `
+<StyledComponent
+  disabled={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "mask": "99:99:99",
+        "maskChar": null,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__TimeInput-sc-183g0ms-3",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:20px;text-align:left;color:",
+          [Function],
+          ";outline:0;border:0px;",
+          [Function],
+          " &::-moz-focus-inner{border:0;}&::placeholder{color:",
+          [Function],
+          ";}&:-webkit-autofill,&:-webkit-autofill:hover,&:-webkit-autofill:focus,&:-webkit-autofill:active{-webkit-box-shadow:0 0 0px 1000px #fff inset !important;transition:background-color 99999s ease-in-out 0s;}",
+          "width:65px;",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__TimeInput",
+      "foldedComponentIds": Array [
+        "DateTimeRangePickerstyles__Input-sc-183g0ms-2",
+      ],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__TimeInput-sc-183g0ms-3",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  mask="99:99:99"
+  maskChar={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Controlled TimeInput renders correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "mask": "99:99:99",
+        "maskChar": null,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__TimeInput-sc-183g0ms-3",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:20px;text-align:left;color:",
+          [Function],
+          ";outline:0;border:0px;",
+          [Function],
+          " &::-moz-focus-inner{border:0;}&::placeholder{color:",
+          [Function],
+          ";}&:-webkit-autofill,&:-webkit-autofill:hover,&:-webkit-autofill:focus,&:-webkit-autofill:active{-webkit-box-shadow:0 0 0px 1000px #fff inset !important;transition:background-color 99999s ease-in-out 0s;}",
+          "width:65px;",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__TimeInput",
+      "foldedComponentIds": Array [
+        "DateTimeRangePickerstyles__Input-sc-183g0ms-2",
+      ],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__TimeInput-sc-183g0ms-3",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  mask="99:99:99"
+  maskChar={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Uncontrolled renders ActionFooter correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__ActionFooter-sc-183g0ms-14",
+        "isStatic": false,
+        "rules": Array [
+          "height:48px;display:flex;justify-content:center;align-items:center;border-top:1px solid ",
+          [Function],
+          ";margin-top:auto;",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__ActionFooter",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__ActionFooter-sc-183g0ms-14",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Uncontrolled renders CalendarContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__CalendarContainer-sc-183g0ms-12",
+        "isStatic": false,
+        "rules": Array [
+          "padding:32px;border-right:1px solid #f4f5f7;&:last-child{border-right:0px;}",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__CalendarContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__CalendarContainer-sc-183g0ms-12",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Uncontrolled renders ClockContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__ClockContainer-sc-183g0ms-13",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;height:100%;flex-grow:1;& > ",
+          ".TimePickerstyles__TimeContainer-sc-1tl353t-3",
+          "{width:100%;}",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__ClockContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__ClockContainer-sc-183g0ms-13",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Uncontrolled renders Container correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Container-sc-183g0ms-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Container-sc-183g0ms-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Uncontrolled renders Error correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Error-sc-183g0ms-17",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:100%;left:0px;width:auto;text-align:left;padding:12px 6px;color:",
+          [Function],
+          ";font-size:12px;line-height:12px;transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);&:before{content:'';}",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Error",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Error-sc-183g0ms-17",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Uncontrolled renders Hint correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__Hint-sc-183g0ms-16",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:calc(50% - 22px);left:6px;padding:10px 12px;color:",
+          [Function],
+          ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;overflow:hidden;",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__Hint",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__Hint-sc-183g0ms-16",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateTimePicker Styles Uncontrolled renders PickerBody correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateTimeRangePickerstyles__PickerBody-sc-183g0ms-10",
+        "isStatic": false,
+        "rules": Array [
+          "max-width:340px;overflow:hidden;display:flex;flex-direction:column;justify-content:flex-start;border-right:1px solid #f4f5f7;&:last-child{border-right:0px;}",
+        ],
+      },
+      "displayName": "DateTimeRangePickerstyles__PickerBody",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateTimeRangePickerstyles__PickerBody-sc-183g0ms-10",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

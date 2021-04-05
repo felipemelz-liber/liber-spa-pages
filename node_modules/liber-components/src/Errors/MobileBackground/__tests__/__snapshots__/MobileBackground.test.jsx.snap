@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing MobileBackground should render correctly 1`] = `
+<svg
+  className=""
+  preserveAspectRatio="none"
+  viewBox="0 0 375 668"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+    <linearGradient
+      gradientUnits="objectBoundingBox"
+      id="linear-gradient"
+      x1="0.5"
+      x2="0.5"
+      y2="1"
+    >
+      <stop
+        offset="0.12"
+        stopColor="#fff"
+      />
+      <stop
+        offset="0.16"
+        stopColor="#f6fbff"
+      />
+      <stop
+        offset="0.23"
+        stopColor="#dcf2ff"
+      />
+      <stop
+        offset="0.32"
+        stopColor="#b3e2ff"
+      />
+      <stop
+        offset="0.42"
+        stopColor="#7accff"
+      />
+      <stop
+        offset="0.54"
+        stopColor="#32b0ff"
+      />
+      <stop
+        offset="0.61"
+        stopColor="#009dff"
+      />
+    </linearGradient>
+  </defs>
+  <MobileBackground__Cls1
+    d="M0,0V668H375V0ZM308.5,625.25H66.5a24,24,0,0,1-24-24V66.75a24,24,0,0,1,24-24h242a24,24,0,0,1,24,24v534.5A24, 24,0,0,1,308.5,625.25Z"
+    id="Moldura"
+  />
+</svg>
+`;

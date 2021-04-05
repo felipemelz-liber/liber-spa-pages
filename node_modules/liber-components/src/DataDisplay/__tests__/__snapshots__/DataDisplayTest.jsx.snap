@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for DataDisplay Styles should render DisplayRow correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__DisplayRow-sc-450gse-0",
+        "isStatic": false,
+        "rules": Array [
+          "padding:0px;display:flex;flex-wrap:wrap;flex-basis:50%;box-sizing:border-box;flex-direction:column;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    flex-direction: row;
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__DisplayRow",
+      "foldedComponentIds": Array [
+        "Cards__CardContent-sc-1kn0psw-2",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__DisplayRow-sc-450gse-0",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

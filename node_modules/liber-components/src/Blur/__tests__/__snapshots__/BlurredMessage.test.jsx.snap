@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BlurredMessage tests should render correctly with children 1`] = `
+<Fragment>
+  <BlurredMessagestyles__BlurredBackground
+    blur={8}
+  >
+    <div />
+  </BlurredMessagestyles__BlurredBackground>
+  <BlurredMessagestyles__Overlay />
+</Fragment>
+`;
+
+exports[`BlurredMessage tests should render correctly with overlay 1`] = `
+<Fragment>
+  <BlurredMessagestyles__BlurredBackground
+    blur={8}
+  >
+    <div />
+  </BlurredMessagestyles__BlurredBackground>
+  <BlurredMessagestyles__Overlay>
+    mock
+  </BlurredMessagestyles__Overlay>
+</Fragment>
+`;
+
+exports[`BlurredMessage tests should render correctly with overlay and no blur 1`] = `
+<Fragment>
+  <BlurredMessagestyles__BlurredBackground
+    blur={0}
+  >
+    <div />
+  </BlurredMessagestyles__BlurredBackground>
+  <BlurredMessagestyles__Overlay />
+</Fragment>
+`;
+
+exports[`BlurredMessage tests should render correctly without props 1`] = `
+<Fragment>
+  <BlurredMessagestyles__BlurredBackground
+    blur={8}
+  />
+  <BlurredMessagestyles__Overlay />
+</Fragment>
+`;

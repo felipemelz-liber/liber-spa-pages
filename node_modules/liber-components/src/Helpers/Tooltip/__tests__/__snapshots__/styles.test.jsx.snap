@@ -1,0 +1,716 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for Inputs Styles Components Arrow should render Arrow with children 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Arrow-sc-1oomni5-1",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;",
+          [Function],
+          " overflow:hidden;pointer-events:none;padding:8px;box-sizing:border-box;&::after{content:'';position:absolute;pointer-events:none;width:15px;height:15px;background:#fff;transform:rotate(45deg);",
+          [Function],
+          " box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);}",
+        ],
+      },
+      "displayName": "styles__Arrow",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Arrow-sc-1oomni5-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  mock
+</StyledComponent>
+`;
+
+exports[`Test for Inputs Styles Components Arrow should render Arrow with props 1`] = `
+<StyledComponent
+  contenPosition="start"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Arrow-sc-1oomni5-1",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;",
+          [Function],
+          " overflow:hidden;pointer-events:none;padding:8px;box-sizing:border-box;&::after{content:'';position:absolute;pointer-events:none;width:15px;height:15px;background:#fff;transform:rotate(45deg);",
+          [Function],
+          " box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);}",
+        ],
+      },
+      "displayName": "styles__Arrow",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Arrow-sc-1oomni5-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  mount="left"
+/>
+`;
+
+exports[`Test for Inputs Styles Components Arrow should render Arrow without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Arrow-sc-1oomni5-1",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;",
+          [Function],
+          " overflow:hidden;pointer-events:none;padding:8px;box-sizing:border-box;&::after{content:'';position:absolute;pointer-events:none;width:15px;height:15px;background:#fff;transform:rotate(45deg);",
+          [Function],
+          " box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);}",
+        ],
+      },
+      "displayName": "styles__Arrow",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Arrow-sc-1oomni5-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components Container should render with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Container-sc-1oomni5-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;width:20px;height:20px;font-family:inherit;font-size:12px;font-weight:500;fill:",
+          [Function],
+          ";color:",
+          [Function],
+          ";display:flex;align-items:center;justify-content:center;&:hover{fill:",
+          [Function],
+          ";}@media (max-width:992px){width:28px;height:28px;}",
+        ],
+      },
+      "displayName": "styles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Container-sc-1oomni5-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "tooltip": Object {
+        "color": "#bbb",
+        "fill": "#aaa",
+        "floatBgPrimary": "#ddd",
+        "floatBgSecondary": "#eee",
+        "floatPrimary": "#fff",
+        "hover": "#ccc",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Inputs Styles Components Container should render without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Container-sc-1oomni5-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;width:20px;height:20px;font-family:inherit;font-size:12px;font-weight:500;fill:",
+          [Function],
+          ";color:",
+          [Function],
+          ";display:flex;align-items:center;justify-content:center;&:hover{fill:",
+          [Function],
+          ";}@media (max-width:992px){width:28px;height:28px;}",
+        ],
+      },
+      "displayName": "styles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Container-sc-1oomni5-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components Float Visible should be placed center 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Float-sc-1oomni5-2",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;border-radius:4px;background-color:",
+          [Function],
+          ";box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);z-index:9999;display:block;pointer-events:",
+          [Function],
+          ";opacity:",
+          [Function],
+          ";transition:",
+          [Function],
+          ";color:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:20px;",
+          [Function],
+          " & *{pointer-events:none;}& > h6{font-weight:bold;margin:0px;opacity:0.75;font-family:inherit;font-size:14px;text-align:left;color:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";padding:6px 0px;text-align:center;user-select:none;}& > div{display:flex;width:auto;justify-content:flex-start;align-items:center;padding:12px;overflow:hidden;}",
+        ],
+      },
+      "displayName": "styles__Float",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Float-sc-1oomni5-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  placement="center"
+  visible={true}
+/>
+`;
+
+exports[`Test for Inputs Styles Components Float Visible should be placed left 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Float-sc-1oomni5-2",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;border-radius:4px;background-color:",
+          [Function],
+          ";box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);z-index:9999;display:block;pointer-events:",
+          [Function],
+          ";opacity:",
+          [Function],
+          ";transition:",
+          [Function],
+          ";color:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:20px;",
+          [Function],
+          " & *{pointer-events:none;}& > h6{font-weight:bold;margin:0px;opacity:0.75;font-family:inherit;font-size:14px;text-align:left;color:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";padding:6px 0px;text-align:center;user-select:none;}& > div{display:flex;width:auto;justify-content:flex-start;align-items:center;padding:12px;overflow:hidden;}",
+        ],
+      },
+      "displayName": "styles__Float",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Float-sc-1oomni5-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  placement="left"
+  visible={true}
+/>
+`;
+
+exports[`Test for Inputs Styles Components Float Visible should be placed right 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Float-sc-1oomni5-2",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;border-radius:4px;background-color:",
+          [Function],
+          ";box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);z-index:9999;display:block;pointer-events:",
+          [Function],
+          ";opacity:",
+          [Function],
+          ";transition:",
+          [Function],
+          ";color:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:20px;",
+          [Function],
+          " & *{pointer-events:none;}& > h6{font-weight:bold;margin:0px;opacity:0.75;font-family:inherit;font-size:14px;text-align:left;color:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";padding:6px 0px;text-align:center;user-select:none;}& > div{display:flex;width:auto;justify-content:flex-start;align-items:center;padding:12px;overflow:hidden;}",
+        ],
+      },
+      "displayName": "styles__Float",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Float-sc-1oomni5-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  placement="right"
+  visible={true}
+/>
+`;
+
+exports[`Test for Inputs Styles Components Float Visible should render visible 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Float-sc-1oomni5-2",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;border-radius:4px;background-color:",
+          [Function],
+          ";box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);z-index:9999;display:block;pointer-events:",
+          [Function],
+          ";opacity:",
+          [Function],
+          ";transition:",
+          [Function],
+          ";color:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:20px;",
+          [Function],
+          " & *{pointer-events:none;}& > h6{font-weight:bold;margin:0px;opacity:0.75;font-family:inherit;font-size:14px;text-align:left;color:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";padding:6px 0px;text-align:center;user-select:none;}& > div{display:flex;width:auto;justify-content:flex-start;align-items:center;padding:12px;overflow:hidden;}",
+        ],
+      },
+      "displayName": "styles__Float",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Float-sc-1oomni5-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  visible={true}
+/>
+`;
+
+exports[`Test for Inputs Styles Components Float should render with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Float-sc-1oomni5-2",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;border-radius:4px;background-color:",
+          [Function],
+          ";box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);z-index:9999;display:block;pointer-events:",
+          [Function],
+          ";opacity:",
+          [Function],
+          ";transition:",
+          [Function],
+          ";color:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:20px;",
+          [Function],
+          " & *{pointer-events:none;}& > h6{font-weight:bold;margin:0px;opacity:0.75;font-family:inherit;font-size:14px;text-align:left;color:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";padding:6px 0px;text-align:center;user-select:none;}& > div{display:flex;width:auto;justify-content:flex-start;align-items:center;padding:12px;overflow:hidden;}",
+        ],
+      },
+      "displayName": "styles__Float",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Float-sc-1oomni5-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "tooltip": Object {
+        "color": "#bbb",
+        "fill": "#aaa",
+        "floatBgPrimary": "#ddd",
+        "floatBgSecondary": "#eee",
+        "floatPrimary": "#fff",
+        "hover": "#ccc",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Inputs Styles Components Float should render without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Float-sc-1oomni5-2",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;border-radius:4px;background-color:",
+          [Function],
+          ";box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);z-index:9999;display:block;pointer-events:",
+          [Function],
+          ";opacity:",
+          [Function],
+          ";transition:",
+          [Function],
+          ";color:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:20px;",
+          [Function],
+          " & *{pointer-events:none;}& > h6{font-weight:bold;margin:0px;opacity:0.75;font-family:inherit;font-size:14px;text-align:left;color:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";padding:6px 0px;text-align:center;user-select:none;}& > div{display:flex;width:auto;justify-content:flex-start;align-items:center;padding:12px;overflow:hidden;}",
+        ],
+      },
+      "displayName": "styles__Float",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Float-sc-1oomni5-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components Icon should render without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Icon-sc-1oomni5-3",
+        "isStatic": false,
+        "rules": Array [
+          "width:inherit;height:inherit;cursor:pointer;",
+        ],
+      },
+      "displayName": "styles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Icon-sc-1oomni5-3",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components should render with contentPosition should render with contentPosition = end 1`] = `
+<StyledComponent
+  contenPosition="end"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Float-sc-1oomni5-2",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;border-radius:4px;background-color:",
+          [Function],
+          ";box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);z-index:9999;display:block;pointer-events:",
+          [Function],
+          ";opacity:",
+          [Function],
+          ";transition:",
+          [Function],
+          ";color:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:20px;",
+          [Function],
+          " & *{pointer-events:none;}& > h6{font-weight:bold;margin:0px;opacity:0.75;font-family:inherit;font-size:14px;text-align:left;color:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";padding:6px 0px;text-align:center;user-select:none;}& > div{display:flex;width:auto;justify-content:flex-start;align-items:center;padding:12px;overflow:hidden;}",
+        ],
+      },
+      "displayName": "styles__Float",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Float-sc-1oomni5-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components should render with contentPosition should render with contentPosition = middle 1`] = `
+<StyledComponent
+  contenPosition="middle"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Float-sc-1oomni5-2",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;border-radius:4px;background-color:",
+          [Function],
+          ";box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);z-index:9999;display:block;pointer-events:",
+          [Function],
+          ";opacity:",
+          [Function],
+          ";transition:",
+          [Function],
+          ";color:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:20px;",
+          [Function],
+          " & *{pointer-events:none;}& > h6{font-weight:bold;margin:0px;opacity:0.75;font-family:inherit;font-size:14px;text-align:left;color:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";padding:6px 0px;text-align:center;user-select:none;}& > div{display:flex;width:auto;justify-content:flex-start;align-items:center;padding:12px;overflow:hidden;}",
+        ],
+      },
+      "displayName": "styles__Float",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Float-sc-1oomni5-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components should render with contentPosition should render with contentPosition = start 1`] = `
+<StyledComponent
+  contenPosition="start"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Float-sc-1oomni5-2",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;border-radius:4px;background-color:",
+          [Function],
+          ";box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);z-index:9999;display:block;pointer-events:",
+          [Function],
+          ";opacity:",
+          [Function],
+          ";transition:",
+          [Function],
+          ";color:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:20px;",
+          [Function],
+          " & *{pointer-events:none;}& > h6{font-weight:bold;margin:0px;opacity:0.75;font-family:inherit;font-size:14px;text-align:left;color:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";padding:6px 0px;text-align:center;user-select:none;}& > div{display:flex;width:auto;justify-content:flex-start;align-items:center;padding:12px;overflow:hidden;}",
+        ],
+      },
+      "displayName": "styles__Float",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Float-sc-1oomni5-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Inputs Styles Components should render with contentPosition should render with contentPosition = unset 1`] = `
+<StyledComponent
+  contenPosition="unset"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Float-sc-1oomni5-2",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;border-radius:4px;background-color:",
+          [Function],
+          ";box-shadow:0 2px 6px 0 rgba(0,0,0,0.2);z-index:9999;display:block;pointer-events:",
+          [Function],
+          ";opacity:",
+          [Function],
+          ";transition:",
+          [Function],
+          ";color:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:20px;",
+          [Function],
+          " & *{pointer-events:none;}& > h6{font-weight:bold;margin:0px;opacity:0.75;font-family:inherit;font-size:14px;text-align:left;color:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";padding:6px 0px;text-align:center;user-select:none;}& > div{display:flex;width:auto;justify-content:flex-start;align-items:center;padding:12px;overflow:hidden;}",
+        ],
+      },
+      "displayName": "styles__Float",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Float-sc-1oomni5-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

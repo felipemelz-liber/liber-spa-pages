@@ -1,0 +1,2993 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for V2 StyledButton Styles StyledButtons__AlertButton should render correctly with circle=true 1`] = `
+<StyledComponent
+  circle={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__AlertButton-sc-1e7va4d-10",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+        ],
+      },
+      "displayName": "StyledButtons__AlertButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__AlertButton-sc-1e7va4d-10",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__AlertButton should render correctly with outlined=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__AlertButton-sc-1e7va4d-10",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+        ],
+      },
+      "displayName": "StyledButtons__AlertButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__AlertButton-sc-1e7va4d-10",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  outlined={true}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__AlertButton should render correctly with size=small 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__AlertButton-sc-1e7va4d-10",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+        ],
+      },
+      "displayName": "StyledButtons__AlertButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__AlertButton-sc-1e7va4d-10",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  size="small"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__AlertButton should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__AlertButton-sc-1e7va4d-10",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+        ],
+      },
+      "displayName": "StyledButtons__AlertButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__AlertButton-sc-1e7va4d-10",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__AlertLink should render correctly with circle=true 1`] = `
+<StyledComponent
+  circle={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__AlertLink-sc-1e7va4d-11",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__AlertLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+        "StyledButtons__AlertButton-sc-1e7va4d-10",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__AlertLink-sc-1e7va4d-11",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__AlertLink should render correctly with outlined=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__AlertLink-sc-1e7va4d-11",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__AlertLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+        "StyledButtons__AlertButton-sc-1e7va4d-10",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__AlertLink-sc-1e7va4d-11",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+  outlined={true}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__AlertLink should render correctly with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__AlertLink-sc-1e7va4d-11",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__AlertLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+        "StyledButtons__AlertButton-sc-1e7va4d-10",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__AlertLink-sc-1e7va4d-11",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+  size="small"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__AlertLink should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__AlertLink-sc-1e7va4d-11",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__AlertLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+        "StyledButtons__AlertButton-sc-1e7va4d-10",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__AlertLink-sc-1e7va4d-11",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__Button should render correctly with circle=true 1`] = `
+<StyledComponent
+  circle={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__Button-sc-1e7va4d-0",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+        ],
+      },
+      "displayName": "StyledButtons__Button",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__Button-sc-1e7va4d-0",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__Button should render correctly with outlined=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__Button-sc-1e7va4d-0",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+        ],
+      },
+      "displayName": "StyledButtons__Button",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__Button-sc-1e7va4d-0",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  outlined={true}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__Button should render correctly with size=small 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__Button-sc-1e7va4d-0",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+        ],
+      },
+      "displayName": "StyledButtons__Button",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__Button-sc-1e7va4d-0",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  size="small"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__Button should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__Button-sc-1e7va4d-0",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+        ],
+      },
+      "displayName": "StyledButtons__Button",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__Button-sc-1e7va4d-0",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__ErrorButton should render correctly with circle=true 1`] = `
+<StyledComponent
+  circle={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__ErrorButton-sc-1e7va4d-12",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+        ],
+      },
+      "displayName": "StyledButtons__ErrorButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__ErrorButton-sc-1e7va4d-12",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__ErrorButton should render correctly with outlined=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__ErrorButton-sc-1e7va4d-12",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+        ],
+      },
+      "displayName": "StyledButtons__ErrorButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__ErrorButton-sc-1e7va4d-12",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  outlined={true}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__ErrorButton should render correctly with size=small 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__ErrorButton-sc-1e7va4d-12",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+        ],
+      },
+      "displayName": "StyledButtons__ErrorButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__ErrorButton-sc-1e7va4d-12",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  size="small"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__ErrorButton should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__ErrorButton-sc-1e7va4d-12",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+        ],
+      },
+      "displayName": "StyledButtons__ErrorButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__ErrorButton-sc-1e7va4d-12",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__ErrorLink should render correctly with circle=true 1`] = `
+<StyledComponent
+  circle={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__ErrorLink-sc-1e7va4d-13",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__ErrorLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+        "StyledButtons__ErrorButton-sc-1e7va4d-12",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__ErrorLink-sc-1e7va4d-13",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__ErrorLink should render correctly with outlined=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__ErrorLink-sc-1e7va4d-13",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__ErrorLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+        "StyledButtons__ErrorButton-sc-1e7va4d-12",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__ErrorLink-sc-1e7va4d-13",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+  outlined={true}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__ErrorLink should render correctly with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__ErrorLink-sc-1e7va4d-13",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__ErrorLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+        "StyledButtons__ErrorButton-sc-1e7va4d-12",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__ErrorLink-sc-1e7va4d-13",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+  size="small"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__ErrorLink should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__ErrorLink-sc-1e7va4d-13",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__ErrorLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+        "StyledButtons__ErrorButton-sc-1e7va4d-12",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__ErrorLink-sc-1e7va4d-13",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__Link should render correctly with circle=true 1`] = `
+<StyledComponent
+  circle={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__Link-sc-1e7va4d-1",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__Link",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__Link-sc-1e7va4d-1",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__Link should render correctly with outlined=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__Link-sc-1e7va4d-1",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__Link",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__Link-sc-1e7va4d-1",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+  outlined={true}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__Link should render correctly with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__Link-sc-1e7va4d-1",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__Link",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__Link-sc-1e7va4d-1",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+  size="small"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__Link should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__Link-sc-1e7va4d-1",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__Link",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__Link-sc-1e7va4d-1",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__PrimaryButton should render correctly with circle=true 1`] = `
+<StyledComponent
+  circle={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__PrimaryButton-sc-1e7va4d-4",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+        ],
+      },
+      "displayName": "StyledButtons__PrimaryButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__PrimaryButton-sc-1e7va4d-4",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__PrimaryButton should render correctly with outlined=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__PrimaryButton-sc-1e7va4d-4",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+        ],
+      },
+      "displayName": "StyledButtons__PrimaryButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__PrimaryButton-sc-1e7va4d-4",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  outlined={true}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__PrimaryButton should render correctly with size=small 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__PrimaryButton-sc-1e7va4d-4",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+        ],
+      },
+      "displayName": "StyledButtons__PrimaryButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__PrimaryButton-sc-1e7va4d-4",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  size="small"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__PrimaryButton should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__PrimaryButton-sc-1e7va4d-4",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+        ],
+      },
+      "displayName": "StyledButtons__PrimaryButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__PrimaryButton-sc-1e7va4d-4",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__PrimaryLink should render correctly with circle=true 1`] = `
+<StyledComponent
+  circle={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__PrimaryLink-sc-1e7va4d-5",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__PrimaryLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+        "StyledButtons__PrimaryButton-sc-1e7va4d-4",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__PrimaryLink-sc-1e7va4d-5",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__PrimaryLink should render correctly with outlined=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__PrimaryLink-sc-1e7va4d-5",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__PrimaryLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+        "StyledButtons__PrimaryButton-sc-1e7va4d-4",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__PrimaryLink-sc-1e7va4d-5",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+  outlined={true}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__PrimaryLink should render correctly with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__PrimaryLink-sc-1e7va4d-5",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__PrimaryLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+        "StyledButtons__PrimaryButton-sc-1e7va4d-4",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__PrimaryLink-sc-1e7va4d-5",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+  size="small"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__PrimaryLink should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__PrimaryLink-sc-1e7va4d-5",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__PrimaryLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+        "StyledButtons__PrimaryButton-sc-1e7va4d-4",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__PrimaryLink-sc-1e7va4d-5",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__SecondaryButton should render correctly with circle=true 1`] = `
+<StyledComponent
+  circle={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SecondaryButton-sc-1e7va4d-6",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          "background-color:",
+          [Function],
+          ";--button-ripple-color:",
+          [Function],
+          ";&:hover{background-color:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "StyledButtons__SecondaryButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SecondaryButton-sc-1e7va4d-6",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__SecondaryButton should render correctly with outlined=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SecondaryButton-sc-1e7va4d-6",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          "background-color:",
+          [Function],
+          ";--button-ripple-color:",
+          [Function],
+          ";&:hover{background-color:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "StyledButtons__SecondaryButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SecondaryButton-sc-1e7va4d-6",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  outlined={true}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__SecondaryButton should render correctly with size=small 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SecondaryButton-sc-1e7va4d-6",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          "background-color:",
+          [Function],
+          ";--button-ripple-color:",
+          [Function],
+          ";&:hover{background-color:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "StyledButtons__SecondaryButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SecondaryButton-sc-1e7va4d-6",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  size="small"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__SecondaryButton should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SecondaryButton-sc-1e7va4d-6",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          "background-color:",
+          [Function],
+          ";--button-ripple-color:",
+          [Function],
+          ";&:hover{background-color:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "StyledButtons__SecondaryButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SecondaryButton-sc-1e7va4d-6",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__SecondaryLink should render correctly with circle=true 1`] = `
+<StyledComponent
+  circle={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SecondaryLink-sc-1e7va4d-7",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          "background-color:",
+          [Function],
+          ";--button-ripple-color:",
+          [Function],
+          ";&:hover{background-color:",
+          [Function],
+          ";}",
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__SecondaryLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+        "StyledButtons__SecondaryButton-sc-1e7va4d-6",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SecondaryLink-sc-1e7va4d-7",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__SecondaryLink should render correctly with outlined=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SecondaryLink-sc-1e7va4d-7",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          "background-color:",
+          [Function],
+          ";--button-ripple-color:",
+          [Function],
+          ";&:hover{background-color:",
+          [Function],
+          ";}",
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__SecondaryLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+        "StyledButtons__SecondaryButton-sc-1e7va4d-6",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SecondaryLink-sc-1e7va4d-7",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+  outlined={true}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__SecondaryLink should render correctly with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SecondaryLink-sc-1e7va4d-7",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          "background-color:",
+          [Function],
+          ";--button-ripple-color:",
+          [Function],
+          ";&:hover{background-color:",
+          [Function],
+          ";}",
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__SecondaryLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+        "StyledButtons__SecondaryButton-sc-1e7va4d-6",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SecondaryLink-sc-1e7va4d-7",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+  size="small"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__SecondaryLink should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SecondaryLink-sc-1e7va4d-7",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          "background-color:",
+          [Function],
+          ";--button-ripple-color:",
+          [Function],
+          ";&:hover{background-color:",
+          [Function],
+          ";}",
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__SecondaryLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+        "StyledButtons__SecondaryButton-sc-1e7va4d-6",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SecondaryLink-sc-1e7va4d-7",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__SuccessButton should render correctly with circle=true 1`] = `
+<StyledComponent
+  circle={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SuccessButton-sc-1e7va4d-8",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+        ],
+      },
+      "displayName": "StyledButtons__SuccessButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SuccessButton-sc-1e7va4d-8",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__SuccessButton should render correctly with outlined=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SuccessButton-sc-1e7va4d-8",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+        ],
+      },
+      "displayName": "StyledButtons__SuccessButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SuccessButton-sc-1e7va4d-8",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  outlined={true}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__SuccessButton should render correctly with size=small 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SuccessButton-sc-1e7va4d-8",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+        ],
+      },
+      "displayName": "StyledButtons__SuccessButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SuccessButton-sc-1e7va4d-8",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  size="small"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__SuccessButton should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SuccessButton-sc-1e7va4d-8",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+        ],
+      },
+      "displayName": "StyledButtons__SuccessButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SuccessButton-sc-1e7va4d-8",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__SuccessLink should render correctly with circle=true 1`] = `
+<StyledComponent
+  circle={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SuccessLink-sc-1e7va4d-9",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__SuccessLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+        "StyledButtons__SuccessButton-sc-1e7va4d-8",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SuccessLink-sc-1e7va4d-9",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__SuccessLink should render correctly with outlined=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SuccessLink-sc-1e7va4d-9",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__SuccessLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+        "StyledButtons__SuccessButton-sc-1e7va4d-8",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SuccessLink-sc-1e7va4d-9",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+  outlined={true}
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__SuccessLink should render correctly with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SuccessLink-sc-1e7va4d-9",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__SuccessLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+        "StyledButtons__SuccessButton-sc-1e7va4d-8",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SuccessLink-sc-1e7va4d-9",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+  size="small"
+/>
+`;
+
+exports[`Test for V2 StyledButton Styles StyledButtons__SuccessLink should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "StyledButtons__SuccessLink-sc-1e7va4d-9",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          [Function],
+          "text-decoration:none;&:hover{color:var(--button-text-color);}",
+        ],
+      },
+      "displayName": "StyledButtons__SuccessLink",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+        "StyledButtons__SuccessButton-sc-1e7va4d-8",
+      ],
+      "render": [Function],
+      "styledComponentId": "StyledButtons__SuccessLink-sc-1e7va4d-9",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  href="/"
+/>
+`;

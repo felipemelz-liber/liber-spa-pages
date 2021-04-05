@@ -1,0 +1,926 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for Card Components Card should render correctly with border 1`] = `
+<StyledComponent
+  borderColor="#AABBCC"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Card-kwfx93-0",
+        "isStatic": false,
+        "rules": Array [
+          "height:unset;width:100%;background-color:",
+          [Function],
+          ";box-shadow:0 2px 5px 0 rgba(0,0,0,0.2);display:inline-flex;position:relative;margin:8px 25px 16px 0;margin-right:0px;flex-direction:column;z-index:5;box-sizing:border-box;border-radius:4px;overflow:hidden;",
+          [Function],
+          ";",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    margin-right: 25px;
+    height: ",
+          [Function],
+          ";
+    width: ",
+          [Function],
+          ";
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    margin-right: 25px;
+    height: ",
+          [Function],
+          ";
+    width: ",
+          [Function],
+          ";
+  ",
+          "}",
+        ],
+      },
+      "displayName": "Card",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Card-kwfx93-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Card Components Card should render correctly with border and position 1`] = `
+<StyledComponent
+  borderColor="#AABBCC"
+  borderPosition="top"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Card-kwfx93-0",
+        "isStatic": false,
+        "rules": Array [
+          "height:unset;width:100%;background-color:",
+          [Function],
+          ";box-shadow:0 2px 5px 0 rgba(0,0,0,0.2);display:inline-flex;position:relative;margin:8px 25px 16px 0;margin-right:0px;flex-direction:column;z-index:5;box-sizing:border-box;border-radius:4px;overflow:hidden;",
+          [Function],
+          ";",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    margin-right: 25px;
+    height: ",
+          [Function],
+          ";
+    width: ",
+          [Function],
+          ";
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    margin-right: 25px;
+    height: ",
+          [Function],
+          ";
+    width: ",
+          [Function],
+          ";
+  ",
+          "}",
+        ],
+      },
+      "displayName": "Card",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Card-kwfx93-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Card Components Card should render correctly with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Card-kwfx93-0",
+        "isStatic": false,
+        "rules": Array [
+          "height:unset;width:100%;background-color:",
+          [Function],
+          ";box-shadow:0 2px 5px 0 rgba(0,0,0,0.2);display:inline-flex;position:relative;margin:8px 25px 16px 0;margin-right:0px;flex-direction:column;z-index:5;box-sizing:border-box;border-radius:4px;overflow:hidden;",
+          [Function],
+          ";",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    margin-right: 25px;
+    height: ",
+          [Function],
+          ";
+    width: ",
+          [Function],
+          ";
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    margin-right: 25px;
+    height: ",
+          [Function],
+          ";
+    width: ",
+          [Function],
+          ";
+  ",
+          "}",
+        ],
+      },
+      "displayName": "Card",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Card-kwfx93-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  height="100px"
+  width="100px"
+/>
+`;
+
+exports[`Test for Card Components Card should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Card-kwfx93-0",
+        "isStatic": false,
+        "rules": Array [
+          "height:unset;width:100%;background-color:",
+          [Function],
+          ";box-shadow:0 2px 5px 0 rgba(0,0,0,0.2);display:inline-flex;position:relative;margin:8px 25px 16px 0;margin-right:0px;flex-direction:column;z-index:5;box-sizing:border-box;border-radius:4px;overflow:hidden;",
+          [Function],
+          ";",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    margin-right: 25px;
+    height: ",
+          [Function],
+          ";
+    width: ",
+          [Function],
+          ";
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    margin-right: 25px;
+    height: ",
+          [Function],
+          ";
+    width: ",
+          [Function],
+          ";
+  ",
+          "}",
+        ],
+      },
+      "displayName": "Card",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Card-kwfx93-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "card": Object {
+        "background": "#aaa",
+        "border": "#bbb",
+        "footer": Object {
+          "background": "#000",
+        },
+        "header": Object {
+          "background": "#eee",
+          "color": "#fff",
+        },
+        "listItem": Object {
+          "hover": "#111",
+        },
+        "title": Object {
+          "background": "#ccc",
+          "color": "#ddd",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Card Components Card should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Card-kwfx93-0",
+        "isStatic": false,
+        "rules": Array [
+          "height:unset;width:100%;background-color:",
+          [Function],
+          ";box-shadow:0 2px 5px 0 rgba(0,0,0,0.2);display:inline-flex;position:relative;margin:8px 25px 16px 0;margin-right:0px;flex-direction:column;z-index:5;box-sizing:border-box;border-radius:4px;overflow:hidden;",
+          [Function],
+          ";",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    margin-right: 25px;
+    height: ",
+          [Function],
+          ";
+    width: ",
+          [Function],
+          ";
+  ",
+          "}",
+          " ",
+          "@media (min-width:",
+          "1200px",
+          "){",
+          "
+    margin-right: 25px;
+    height: ",
+          [Function],
+          ";
+    width: ",
+          [Function],
+          ";
+  ",
+          "}",
+        ],
+      },
+      "displayName": "Card",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Card-kwfx93-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Card Components CardFooter should render correctly with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Card__CardFooter-kwfx93-4",
+        "isStatic": false,
+        "rules": Array [
+          "min-height:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";border-top:solid 1px ",
+          [Function],
+          ";padding:23px;box-sizing:border-box;font-family:Roboto;",
+        ],
+      },
+      "displayName": "Card__CardFooter",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Card__CardFooter-kwfx93-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  height="100px"
+/>
+`;
+
+exports[`Test for Card Components CardFooter should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Card__CardFooter-kwfx93-4",
+        "isStatic": false,
+        "rules": Array [
+          "min-height:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";border-top:solid 1px ",
+          [Function],
+          ";padding:23px;box-sizing:border-box;font-family:Roboto;",
+        ],
+      },
+      "displayName": "Card__CardFooter",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Card__CardFooter-kwfx93-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "card": Object {
+        "background": "#aaa",
+        "border": "#bbb",
+        "footer": Object {
+          "background": "#000",
+        },
+        "header": Object {
+          "background": "#eee",
+          "color": "#fff",
+        },
+        "listItem": Object {
+          "hover": "#111",
+        },
+        "title": Object {
+          "background": "#ccc",
+          "color": "#ddd",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Card Components CardFooter should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Card__CardFooter-kwfx93-4",
+        "isStatic": false,
+        "rules": Array [
+          "min-height:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";border-top:solid 1px ",
+          [Function],
+          ";padding:23px;box-sizing:border-box;font-family:Roboto;",
+        ],
+      },
+      "displayName": "Card__CardFooter",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Card__CardFooter-kwfx93-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Card Components CardHeader should render correctly with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Card__CardHeader-kwfx93-2",
+        "isStatic": false,
+        "rules": Array [
+          "height:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";border-bottom:solid 1px ",
+          [Function],
+          ";padding:23px;box-sizing:border-box;font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Card__CardHeader",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Card__CardHeader-kwfx93-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  height="100px"
+/>
+`;
+
+exports[`Test for Card Components CardHeader should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Card__CardHeader-kwfx93-2",
+        "isStatic": false,
+        "rules": Array [
+          "height:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";border-bottom:solid 1px ",
+          [Function],
+          ";padding:23px;box-sizing:border-box;font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Card__CardHeader",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Card__CardHeader-kwfx93-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "card": Object {
+        "background": "#aaa",
+        "border": "#bbb",
+        "footer": Object {
+          "background": "#000",
+        },
+        "header": Object {
+          "background": "#eee",
+          "color": "#fff",
+        },
+        "listItem": Object {
+          "hover": "#111",
+        },
+        "title": Object {
+          "background": "#ccc",
+          "color": "#ddd",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Card Components CardHeader should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Card__CardHeader-kwfx93-2",
+        "isStatic": false,
+        "rules": Array [
+          "height:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";border-bottom:solid 1px ",
+          [Function],
+          ";padding:23px;box-sizing:border-box;font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Card__CardHeader",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Card__CardHeader-kwfx93-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Card Components CardListContent should render correctly with adapt 1`] = `
+<StyledComponent
+  adapt={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Card__CardListContent-kwfx93-6",
+        "isStatic": false,
+        "rules": Array [
+          "flex-grow:1;overflow:auto;margin:0;padding:0;display:flex;flex-direction:column;justify-content:center;align-items:stretch;",
+          [Function],
+        ],
+      },
+      "displayName": "Card__CardListContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Card__CardListContent-kwfx93-6",
+      "target": "ul",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  <Card__CardListItem />
+</StyledComponent>
+`;
+
+exports[`Test for Card Components CardListContent should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Card__CardListContent-kwfx93-6",
+        "isStatic": false,
+        "rules": Array [
+          "flex-grow:1;overflow:auto;margin:0;padding:0;display:flex;flex-direction:column;justify-content:center;align-items:stretch;",
+          [Function],
+        ],
+      },
+      "displayName": "Card__CardListContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Card__CardListContent-kwfx93-6",
+      "target": "ul",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  <Card__CardListItem />
+</StyledComponent>
+`;
+
+exports[`Test for Card Components CardListItem should render correctly with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Card__CardListItem-kwfx93-5",
+        "isStatic": false,
+        "rules": Array [
+          "height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";border-bottom:solid 1px ",
+          [Function],
+          ";font-family:Roboto;font-size:20px;font-weight:bold;list-style-type:none;&:hover{background-color:",
+          [Function],
+          ";}&:last-child{border-bottom:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "Card__CardListItem",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Card__CardListItem-kwfx93-5",
+      "target": "li",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  height="100px"
+  last={true}
+/>
+`;
+
+exports[`Test for Card Components CardListItem should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Card__CardListItem-kwfx93-5",
+        "isStatic": false,
+        "rules": Array [
+          "height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";border-bottom:solid 1px ",
+          [Function],
+          ";font-family:Roboto;font-size:20px;font-weight:bold;list-style-type:none;&:hover{background-color:",
+          [Function],
+          ";}&:last-child{border-bottom:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "Card__CardListItem",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Card__CardListItem-kwfx93-5",
+      "target": "li",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "card": Object {
+        "background": "#aaa",
+        "border": "#bbb",
+        "footer": Object {
+          "background": "#000",
+        },
+        "header": Object {
+          "background": "#eee",
+          "color": "#fff",
+        },
+        "listItem": Object {
+          "hover": "#111",
+        },
+        "title": Object {
+          "background": "#ccc",
+          "color": "#ddd",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Card Components CardListItem should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Card__CardListItem-kwfx93-5",
+        "isStatic": false,
+        "rules": Array [
+          "height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";border-bottom:solid 1px ",
+          [Function],
+          ";font-family:Roboto;font-size:20px;font-weight:bold;list-style-type:none;&:hover{background-color:",
+          [Function],
+          ";}&:last-child{border-bottom:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "Card__CardListItem",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Card__CardListItem-kwfx93-5",
+      "target": "li",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Card Components CardTitle should render correctly with props 1`] = `
+<StyledComponent
+  backgroundColor="#000"
+  color="#000"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Card__CardTitle-kwfx93-1",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:Roboto;font-size:25px;font-weight:900;text-align:center;color:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";border-radius:2px 2px 0px 0;padding:14px 0;text-transform:uppercase;box-sizing:border-box;",
+        ],
+      },
+      "displayName": "Card__CardTitle",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Card__CardTitle-kwfx93-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Card Components CardTitle should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Card__CardTitle-kwfx93-1",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:Roboto;font-size:25px;font-weight:900;text-align:center;color:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";border-radius:2px 2px 0px 0;padding:14px 0;text-transform:uppercase;box-sizing:border-box;",
+        ],
+      },
+      "displayName": "Card__CardTitle",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Card__CardTitle-kwfx93-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "card": Object {
+        "background": "#aaa",
+        "border": "#bbb",
+        "footer": Object {
+          "background": "#000",
+        },
+        "header": Object {
+          "background": "#eee",
+          "color": "#fff",
+        },
+        "listItem": Object {
+          "hover": "#111",
+        },
+        "title": Object {
+          "background": "#ccc",
+          "color": "#ddd",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for Card Components CardTitle should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Card__CardTitle-kwfx93-1",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:Roboto;font-size:25px;font-weight:900;text-align:center;color:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";border-radius:2px 2px 0px 0;padding:14px 0;text-transform:uppercase;box-sizing:border-box;",
+        ],
+      },
+      "displayName": "Card__CardTitle",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Card__CardTitle-kwfx93-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for Card Components should render CardContent correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Card__CardContent-kwfx93-3",
+        "isStatic": false,
+        "rules": Array [
+          "flex-grow:1;padding:23px;overflow:hidden;font-family:Roboto;box-sizing:border-box;",
+        ],
+      },
+      "displayName": "Card__CardContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Card__CardContent-kwfx93-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

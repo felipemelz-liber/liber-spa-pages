@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing MonthPicker Styles Month Should render correctly  1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__MonthPickerContainer-sc-59to88-1",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;overflow:hidden;top:0px;right:0px;width:270px;display:",
+          [Function],
+          ";background-color:#fafafa;box-shadow:0 2px 6px 0 rgba(0,0,0,0.1);",
+        ],
+      },
+      "displayName": "styles__MonthPickerContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__MonthPickerContainer-sc-59to88-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing MonthPicker Styles Month Should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Content-sc-59to88-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;",
+        ],
+      },
+      "displayName": "styles__Content",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Content-sc-59to88-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing MonthPicker Styles Month Should render correctly selected with show 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__MonthPickerContainer-sc-59to88-1",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;overflow:hidden;top:0px;right:0px;width:270px;display:",
+          [Function],
+          ";background-color:#fafafa;box-shadow:0 2px 6px 0 rgba(0,0,0,0.1);",
+        ],
+      },
+      "displayName": "styles__MonthPickerContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__MonthPickerContainer-sc-59to88-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  show={true}
+/>
+`;

@@ -1,0 +1,205 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing TimePicker Component renders TimePicker correctly with props 1`] = `
+<Fragment>
+  <GlobalStyleComponent />
+  <ClickOutside
+    onOutsideClick={[Function]}
+  >
+    <TimePickerstyles__Container>
+      <SimpleDropDown
+        autoPosition={true}
+        containerSize={false}
+        customButton={
+          <ForwardRef(TimePickerstyles__Field)
+            label="label"
+            mask="99:99:99"
+            maskChar={null}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            time={null}
+            value=""
+            version="2"
+            width="340px"
+          />
+        }
+        hasOutsideLabel={false}
+        label=""
+        open={false}
+        position="bottom-left-down-right"
+        window={[Window]}
+      >
+        <Clock
+          hour=""
+          min=""
+          onClick={[Function]}
+          sec=""
+        />
+      </SimpleDropDown>
+      <TimePickerstyles__Icon
+        hide={false}
+      />
+      <TimePickerstyles__Close
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+        show={false}
+      />
+    </TimePickerstyles__Container>
+  </ClickOutside>
+</Fragment>
+`;
+
+exports[`Testing TimePicker Component renders TimePicker correctly with time 1`] = `
+<Fragment>
+  <GlobalStyleComponent />
+  <ClickOutside
+    onOutsideClick={[Function]}
+  >
+    <TimePickerstyles__Container>
+      <SimpleDropDown
+        autoPosition={true}
+        containerSize={false}
+        customButton={
+          <ForwardRef(TimePickerstyles__Field)
+            label="label"
+            mask="99:99:99"
+            maskChar={null}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            time="12:00:00"
+            value="12:00:00"
+            version="2"
+            width="340px"
+          />
+        }
+        hasOutsideLabel={false}
+        label=""
+        open={false}
+        position="bottom-left-down-right"
+        window={[Window]}
+      >
+        <Clock
+          hour="12"
+          min="00"
+          onClick={[Function]}
+          sec="00"
+        />
+      </SimpleDropDown>
+      <TimePickerstyles__Icon
+        hide={false}
+      />
+      <TimePickerstyles__Close
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+        show={false}
+      />
+    </TimePickerstyles__Container>
+  </ClickOutside>
+</Fragment>
+`;
+
+exports[`Testing TimePicker Component renders TimePicker correctly without props 1`] = `
+<Fragment>
+  <GlobalStyleComponent />
+  <ClickOutside
+    onOutsideClick={[Function]}
+  >
+    <TimePickerstyles__Container>
+      <SimpleDropDown
+        autoPosition={true}
+        containerSize={false}
+        customButton={
+          <ForwardRef(TimePickerstyles__Field)
+            label=""
+            mask="99:99:99"
+            maskChar={null}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            time={null}
+            value=""
+            version="2"
+            width="340px"
+          />
+        }
+        hasOutsideLabel={false}
+        label=""
+        open={false}
+        position="bottom-left-down-right"
+        window={[Window]}
+      >
+        <Clock
+          hour=""
+          min=""
+          onClick={[Function]}
+          sec=""
+        />
+      </SimpleDropDown>
+      <TimePickerstyles__Icon
+        hide={false}
+      />
+      <TimePickerstyles__Close
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+        show={false}
+      />
+    </TimePickerstyles__Container>
+  </ClickOutside>
+</Fragment>
+`;
+
+exports[`Testing TimePicker Component should open on Input Focus 1`] = `
+<Fragment>
+  <GlobalStyleComponent />
+  <ClickOutside
+    onOutsideClick={[Function]}
+  >
+    <TimePickerstyles__Container>
+      <SimpleDropDown
+        autoPosition={true}
+        containerSize={false}
+        customButton={
+          <ForwardRef(TimePickerstyles__Field)
+            label="label"
+            mask="99:99:99"
+            maskChar={null}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            time={null}
+            value=""
+            version="2"
+            width="340px"
+          />
+        }
+        hasOutsideLabel={false}
+        label=""
+        open={true}
+        position="bottom-left-down-right"
+        window={[Window]}
+      >
+        <Clock
+          hour=""
+          min=""
+          onClick={[Function]}
+          sec=""
+        />
+      </SimpleDropDown>
+      <TimePickerstyles__Icon
+        hide={false}
+      />
+      <TimePickerstyles__Close
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+        show={false}
+      />
+    </TimePickerstyles__Container>
+  </ClickOutside>
+</Fragment>
+`;

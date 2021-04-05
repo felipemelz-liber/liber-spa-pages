@@ -1,0 +1,141 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InvoicesTable styled components test should render DropDownContent correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bdVaJa",
+        "isStatic": false,
+        "rules": Array [
+          "
+  display: flex;
+  flex-direction: column;
+",
+        ],
+      },
+      "displayName": "styled.div",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-bdVaJa",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`InvoicesTable styled components test should render DropDownContentRow correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bwzfXH",
+        "isStatic": false,
+        "rules": Array [
+          "
+  display: flex;
+  flex-direction: row;
+  padding: 4px;
+  color: inherit;
+  & > svg {
+    margin-right: 8px;
+    margin-top: 4px;
+  }
+  :hover {
+    color: #009dff;
+    & > svg {
+      fill: #009dff;
+    }
+  }
+",
+        ],
+      },
+      "displayName": "styled.a",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-bwzfXH",
+      "target": "a",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`InvoicesTable styled components test should render Icon correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-htpNat",
+        "isStatic": false,
+        "rules": Array [
+          "
+  cursor: pointer;
+",
+        ],
+      },
+      "displayName": "Styled(Icon)",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "className": [Function],
+        "color": [Function],
+        "horizontal": [Function],
+        "inStack": [Function],
+        "path": [Function],
+        "rotate": [Function],
+        "size": [Function],
+        "spin": [Function],
+        "style": [Function],
+        "vertical": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "sc-htpNat",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "color": "currentColor",
+          "horizontal": false,
+          "rotate": 0,
+          "size": null,
+          "spin": false,
+          "vertical": false,
+        },
+        "displayName": "Icon",
+        "propTypes": Object {
+          "className": [Function],
+          "color": [Function],
+          "horizontal": [Function],
+          "inStack": [Function],
+          "path": [Function],
+          "rotate": [Function],
+          "size": [Function],
+          "spin": [Function],
+          "style": [Function],
+          "vertical": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  path=""
+/>
+`;

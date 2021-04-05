@@ -1,0 +1,1307 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing ToastLisy Component should render correctly 1`] = `
+<ToastList
+  autoClose={0}
+  close={[Function]}
+  onTop={false}
+  remove={[Function]}
+  toasts={
+    Array [
+      Object {
+        "duration": 0,
+        "id": "aaaaa",
+        "message": "mock",
+        "show": true,
+        "type": "info",
+      },
+    ]
+  }
+>
+  <Portal
+    containerInfo={
+      <div
+        id="toast"
+      >
+        <div
+          class="Toaststyles__Container-fxfvhp-11 ciOSid"
+        >
+          <div
+            class="Toaststyles__AnimationContainer-fxfvhp-12 hWTGkc"
+          >
+            <div
+              class="Toaststyles__Card-fxfvhp-1 cZsyhO"
+            >
+              <div
+                class="Toaststyles__BaseToast-fxfvhp-0 Toaststyles__Info-fxfvhp-2 gDBUar"
+              >
+                <div
+                  class="Toaststyles__Content-fxfvhp-13 dVSHkI"
+                >
+                  <div
+                    class="Toaststyles__IconBox-fxfvhp-15 bemdGs"
+                  >
+                    <svg
+                      class="Toaststyles__InfoIcon-fxfvhp-6 jipVyo"
+                      height="52"
+                      viewBox="0 0 24 24"
+                      width="52"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M13,9H11V7H13M13,17H11V11H13M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2Z"
+                      />
+                    </svg>
+                  </div>
+                  <div
+                    class="Toaststyles__Message-fxfvhp-14 HtrcA"
+                  >
+                    mock
+                  </div>
+                </div>
+              </div>
+              <svg
+                class="Toaststyles__CloseIcon-fxfvhp-10 bKACpB"
+                height="52"
+                viewBox="0 0 24 24"
+                width="52"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    }
+  >
+    <Toaststyles__Container>
+      <StyledComponent
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "Toaststyles__Container-fxfvhp-11",
+              "isStatic": false,
+              "lastClassName": "ciOSid",
+              "rules": Array [
+                "position:fixed;top:0px;right:0px;width:100%;z-index:9999;",
+                "@media (min-width:",
+                "576px",
+                "){",
+                "
+    top: 15px;
+    right: 15px;
+    ",
+                [Function],
+                "
+  ",
+                "}",
+              ],
+            },
+            "displayName": "Toaststyles__Container",
+            "foldedComponentIds": Array [],
+            "render": [Function],
+            "styledComponentId": "Toaststyles__Container-fxfvhp-11",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+      >
+        <div
+          className="Toaststyles__Container-fxfvhp-11 ciOSid"
+        >
+          <Toast
+            content={null}
+            customWidth={null}
+            duration={0}
+            id="aaaaa"
+            info={null}
+            key="aaaaa"
+            onClose={[Function]}
+            onExited={[Function]}
+            show={true}
+            type="info"
+          >
+            <Animate
+              customWidth={null}
+              onExited={[Function]}
+              show={true}
+            >
+              <Transition
+                appear={false}
+                enter={true}
+                exit={true}
+                in={true}
+                mountOnEnter={true}
+                onEnter={[Function]}
+                onEntered={[Function]}
+                onEntering={[Function]}
+                onExit={[Function]}
+                onExited={[Function]}
+                onExiting={[Function]}
+                timeout={400}
+                unmountOnExit={true}
+              >
+                <Toaststyles__AnimationContainer
+                  duration={400}
+                  state="entered"
+                >
+                  <StyledComponent
+                    duration={400}
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "Toaststyles__AnimationContainer-fxfvhp-12",
+                          "isStatic": false,
+                          "lastClassName": "hWTGkc",
+                          "rules": Array [
+                            "animation:",
+                            [Function],
+                            " forwards;animation-duration:",
+                            [Function],
+                            "ms;overflow:hidden;",
+                          ],
+                        },
+                        "displayName": "Toaststyles__AnimationContainer",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "Toaststyles__AnimationContainer-fxfvhp-12",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    state="entered"
+                  >
+                    <div
+                      className="Toaststyles__AnimationContainer-fxfvhp-12 hWTGkc"
+                    >
+                      <Toaststyles__Card
+                        customWidth={null}
+                        onMouseEnter={[Function]}
+                        onMouseLeave={[Function]}
+                      >
+                        <StyledComponent
+                          customWidth={null}
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "Toaststyles__Card-fxfvhp-1",
+                                "isStatic": false,
+                                "lastClassName": "cZsyhO",
+                                "rules": Array [
+                                  "display:flex;justify-content:space-between;align-items:center;border-radius:4px;",
+                                  [Function],
+                                  " overflow:hidden;position:relative;background-color:",
+                                  [Function],
+                                  ";margin:0px 8px 24px 8px;&:last-child{margin-bottom:0px;}",
+                                  "@media (min-width:",
+                                  "576px",
+                                  "){",
+                                  "
+    ",
+                                  [Function],
+                                  "
+  ",
+                                  "}",
+                                ],
+                              },
+                              "displayName": "Toaststyles__Card",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "Toaststyles__Card-fxfvhp-1",
+                              "target": "div",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          onMouseEnter={[Function]}
+                          onMouseLeave={[Function]}
+                        >
+                          <div
+                            className="Toaststyles__Card-fxfvhp-1 cZsyhO"
+                            onMouseEnter={[Function]}
+                            onMouseLeave={[Function]}
+                          >
+                            <Toaststyles__Info>
+                              <StyledComponent
+                                forwardedComponent={
+                                  Object {
+                                    "$$typeof": Symbol(react.forward_ref),
+                                    "attrs": Array [],
+                                    "componentStyle": ComponentStyle {
+                                      "componentId": "Toaststyles__Info-fxfvhp-2",
+                                      "isStatic": false,
+                                      "lastClassName": "gDBUar",
+                                      "rules": Array [
+                                        "border-left:4px solid;border-color:",
+                                        [Function],
+                                        ";width:100%;max-width:100%;min-height:72px;box-sizing:border-box;padding:21px 24px;display:flex;flex-direction:column;justify-content:flex-start;align-items:flex-start;background-color:",
+                                        [Function],
+                                        ";",
+                                        "border-color:",
+                                        [Function],
+                                        ";",
+                                      ],
+                                    },
+                                    "displayName": "Toaststyles__Info",
+                                    "foldedComponentIds": Array [
+                                      "Toaststyles__BaseToast-fxfvhp-0",
+                                    ],
+                                    "render": [Function],
+                                    "styledComponentId": "Toaststyles__Info-fxfvhp-2",
+                                    "target": "div",
+                                    "toString": [Function],
+                                    "warnTooManyClasses": [Function],
+                                    "withComponent": [Function],
+                                  }
+                                }
+                                forwardedRef={null}
+                              >
+                                <div
+                                  className="Toaststyles__BaseToast-fxfvhp-0 Toaststyles__Info-fxfvhp-2 gDBUar"
+                                >
+                                  <Toaststyles__Content>
+                                    <StyledComponent
+                                      forwardedComponent={
+                                        Object {
+                                          "$$typeof": Symbol(react.forward_ref),
+                                          "attrs": Array [],
+                                          "componentStyle": ComponentStyle {
+                                            "componentId": "Toaststyles__Content-fxfvhp-13",
+                                            "isStatic": false,
+                                            "lastClassName": "dVSHkI",
+                                            "rules": Array [
+                                              "display:flex;justify-content:flex-start;align-items:center;min-height:24px;",
+                                            ],
+                                          },
+                                          "displayName": "Toaststyles__Content",
+                                          "foldedComponentIds": Array [],
+                                          "render": [Function],
+                                          "styledComponentId": "Toaststyles__Content-fxfvhp-13",
+                                          "target": "div",
+                                          "toString": [Function],
+                                          "warnTooManyClasses": [Function],
+                                          "withComponent": [Function],
+                                        }
+                                      }
+                                      forwardedRef={null}
+                                    >
+                                      <div
+                                        className="Toaststyles__Content-fxfvhp-13 dVSHkI"
+                                      >
+                                        <Toaststyles__IconBox>
+                                          <StyledComponent
+                                            forwardedComponent={
+                                              Object {
+                                                "$$typeof": Symbol(react.forward_ref),
+                                                "attrs": Array [],
+                                                "componentStyle": ComponentStyle {
+                                                  "componentId": "Toaststyles__IconBox-fxfvhp-15",
+                                                  "isStatic": false,
+                                                  "lastClassName": "bemdGs",
+                                                  "rules": Array [
+                                                    "display:flex;justify-content:center;align-items:center;margin-right:24px;",
+                                                  ],
+                                                },
+                                                "displayName": "Toaststyles__IconBox",
+                                                "foldedComponentIds": Array [],
+                                                "render": [Function],
+                                                "styledComponentId": "Toaststyles__IconBox-fxfvhp-15",
+                                                "target": "div",
+                                                "toString": [Function],
+                                                "warnTooManyClasses": [Function],
+                                                "withComponent": [Function],
+                                              }
+                                            }
+                                            forwardedRef={null}
+                                          >
+                                            <div
+                                              className="Toaststyles__IconBox-fxfvhp-15 bemdGs"
+                                            >
+                                              <Toaststyles__InfoIcon>
+                                                <StyledComponent
+                                                  forwardedComponent={
+                                                    Object {
+                                                      "$$typeof": Symbol(react.forward_ref),
+                                                      "attrs": Array [],
+                                                      "componentStyle": ComponentStyle {
+                                                        "componentId": "Toaststyles__InfoIcon-fxfvhp-6",
+                                                        "isStatic": false,
+                                                        "lastClassName": "jipVyo",
+                                                        "rules": Array [
+                                                          "min-",
+                                                          "width",
+                                                          ":",
+                                                          "24px",
+                                                          ";max-",
+                                                          "width",
+                                                          ":",
+                                                          "24px",
+                                                          ";",
+                                                          " ",
+                                                          "min-",
+                                                          "height",
+                                                          ":",
+                                                          "24px",
+                                                          ";max-",
+                                                          "height",
+                                                          ":",
+                                                          "24px",
+                                                          ";",
+                                                          " fill:",
+                                                          [Function],
+                                                          ";",
+                                                        ],
+                                                      },
+                                                      "displayName": "Toaststyles__InfoIcon",
+                                                      "foldedComponentIds": Array [],
+                                                      "render": [Function],
+                                                      "styledComponentId": "Toaststyles__InfoIcon-fxfvhp-6",
+                                                      "target": [Function],
+                                                      "toString": [Function],
+                                                      "warnTooManyClasses": [Function],
+                                                      "withComponent": [Function],
+                                                    }
+                                                  }
+                                                  forwardedRef={null}
+                                                >
+                                                  <MdInformation
+                                                    className="Toaststyles__InfoIcon-fxfvhp-6 jipVyo"
+                                                  >
+                                                    <svg
+                                                      className="Toaststyles__InfoIcon-fxfvhp-6 jipVyo"
+                                                      height="52"
+                                                      viewBox="0 0 24 24"
+                                                      width="52"
+                                                      xmlns="http://www.w3.org/2000/svg"
+                                                    >
+                                                      <path
+                                                        d="M13,9H11V7H13M13,17H11V11H13M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2Z"
+                                                      />
+                                                    </svg>
+                                                  </MdInformation>
+                                                </StyledComponent>
+                                              </Toaststyles__InfoIcon>
+                                            </div>
+                                          </StyledComponent>
+                                        </Toaststyles__IconBox>
+                                        <Toaststyles__Message>
+                                          <StyledComponent
+                                            forwardedComponent={
+                                              Object {
+                                                "$$typeof": Symbol(react.forward_ref),
+                                                "attrs": Array [],
+                                                "componentStyle": ComponentStyle {
+                                                  "componentId": "Toaststyles__Message-fxfvhp-14",
+                                                  "isStatic": false,
+                                                  "lastClassName": "HtrcA",
+                                                  "rules": Array [
+                                                    "display:flex;flex-direction:column;justify-content:center;align-items:flex-start;font-family:",
+                                                    [Function],
+                                                    ";",
+                                                    [Function],
+                                                    ";text-align:left;color:",
+                                                    [Function],
+                                                    ";& span{margin-top:8px;font-family:",
+                                                    [Function],
+                                                    ";",
+                                                    [Function],
+                                                    ";letter-spacing:0px;text-align:left;color:",
+                                                    [Function],
+                                                    ";}",
+                                                  ],
+                                                },
+                                                "displayName": "Toaststyles__Message",
+                                                "foldedComponentIds": Array [],
+                                                "render": [Function],
+                                                "styledComponentId": "Toaststyles__Message-fxfvhp-14",
+                                                "target": "div",
+                                                "toString": [Function],
+                                                "warnTooManyClasses": [Function],
+                                                "withComponent": [Function],
+                                              }
+                                            }
+                                            forwardedRef={null}
+                                          >
+                                            <div
+                                              className="Toaststyles__Message-fxfvhp-14 HtrcA"
+                                            >
+                                              mock
+                                            </div>
+                                          </StyledComponent>
+                                        </Toaststyles__Message>
+                                      </div>
+                                    </StyledComponent>
+                                  </Toaststyles__Content>
+                                </div>
+                              </StyledComponent>
+                            </Toaststyles__Info>
+                            <Toaststyles__CloseIcon
+                              onClick={[Function]}
+                            >
+                              <StyledComponent
+                                forwardedComponent={
+                                  Object {
+                                    "$$typeof": Symbol(react.forward_ref),
+                                    "attrs": Array [],
+                                    "componentStyle": ComponentStyle {
+                                      "componentId": "Toaststyles__CloseIcon-fxfvhp-10",
+                                      "isStatic": false,
+                                      "lastClassName": "bKACpB",
+                                      "rules": Array [
+                                        "min-",
+                                        "width",
+                                        ":",
+                                        "24px",
+                                        ";max-",
+                                        "width",
+                                        ":",
+                                        "24px",
+                                        ";",
+                                        " ",
+                                        "min-",
+                                        "height",
+                                        ":",
+                                        "24px",
+                                        ";max-",
+                                        "height",
+                                        ":",
+                                        "24px",
+                                        ";",
+                                        " fill:#b6c2c9;fill:",
+                                        [Function],
+                                        ";margin-right:24px;",
+                                        [Function],
+                                        ";cursor:pointer;",
+                                      ],
+                                    },
+                                    "displayName": "Toaststyles__CloseIcon",
+                                    "foldedComponentIds": Array [],
+                                    "render": [Function],
+                                    "styledComponentId": "Toaststyles__CloseIcon-fxfvhp-10",
+                                    "target": [Function],
+                                    "toString": [Function],
+                                    "warnTooManyClasses": [Function],
+                                    "withComponent": [Function],
+                                  }
+                                }
+                                forwardedRef={null}
+                                onClick={[Function]}
+                              >
+                                <MdClose
+                                  className="Toaststyles__CloseIcon-fxfvhp-10 bKACpB"
+                                  onClick={[Function]}
+                                >
+                                  <svg
+                                    className="Toaststyles__CloseIcon-fxfvhp-10 bKACpB"
+                                    height="52"
+                                    onClick={[Function]}
+                                    viewBox="0 0 24 24"
+                                    width="52"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                  >
+                                    <path
+                                      d="M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z"
+                                    />
+                                  </svg>
+                                </MdClose>
+                              </StyledComponent>
+                            </Toaststyles__CloseIcon>
+                          </div>
+                        </StyledComponent>
+                      </Toaststyles__Card>
+                    </div>
+                  </StyledComponent>
+                </Toaststyles__AnimationContainer>
+              </Transition>
+            </Animate>
+          </Toast>
+        </div>
+      </StyledComponent>
+    </Toaststyles__Container>
+  </Portal>
+</ToastList>
+`;
+
+exports[`Testing ToastLisy Component should render correctly onTop 1`] = `
+<ToastList
+  autoClose={0}
+  close={[Function]}
+  onTop={true}
+  remove={[Function]}
+  toasts={
+    Array [
+      Object {
+        "duration": 0,
+        "id": "aaaaa",
+        "message": "mock",
+        "show": true,
+        "type": "info",
+      },
+    ]
+  }
+>
+  <Portal
+    containerInfo={
+      <div
+        id="toast"
+      >
+        <div
+          class="Toaststyles__Container-fxfvhp-11 ciOSid"
+        >
+          <div
+            class="Toaststyles__AnimationContainer-fxfvhp-12 hWTGkc"
+          >
+            <div
+              class="Toaststyles__Card-fxfvhp-1 cZsyhO"
+            >
+              <div
+                class="Toaststyles__BaseToast-fxfvhp-0 Toaststyles__Info-fxfvhp-2 gDBUar"
+              >
+                <div
+                  class="Toaststyles__Content-fxfvhp-13 dVSHkI"
+                >
+                  <div
+                    class="Toaststyles__IconBox-fxfvhp-15 bemdGs"
+                  >
+                    <svg
+                      class="Toaststyles__InfoIcon-fxfvhp-6 jipVyo"
+                      height="52"
+                      viewBox="0 0 24 24"
+                      width="52"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M13,9H11V7H13M13,17H11V11H13M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2Z"
+                      />
+                    </svg>
+                  </div>
+                  <div
+                    class="Toaststyles__Message-fxfvhp-14 HtrcA"
+                  >
+                    mock
+                  </div>
+                </div>
+              </div>
+              <svg
+                class="Toaststyles__CloseIcon-fxfvhp-10 bKACpB"
+                height="52"
+                viewBox="0 0 24 24"
+                width="52"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="Toaststyles__Container-fxfvhp-11 ciOSid"
+        >
+          <div
+            class="Toaststyles__AnimationContainer-fxfvhp-12 hWTGkc"
+          >
+            <div
+              class="Toaststyles__Card-fxfvhp-1 cZsyhO"
+            >
+              <div
+                class="Toaststyles__BaseToast-fxfvhp-0 Toaststyles__Info-fxfvhp-2 gDBUar"
+              >
+                <div
+                  class="Toaststyles__Content-fxfvhp-13 dVSHkI"
+                >
+                  <div
+                    class="Toaststyles__IconBox-fxfvhp-15 bemdGs"
+                  >
+                    <svg
+                      class="Toaststyles__InfoIcon-fxfvhp-6 jipVyo"
+                      height="52"
+                      viewBox="0 0 24 24"
+                      width="52"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M13,9H11V7H13M13,17H11V11H13M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2Z"
+                      />
+                    </svg>
+                  </div>
+                  <div
+                    class="Toaststyles__Message-fxfvhp-14 HtrcA"
+                  >
+                    mock
+                  </div>
+                </div>
+              </div>
+              <svg
+                class="Toaststyles__CloseIcon-fxfvhp-10 bKACpB"
+                height="52"
+                viewBox="0 0 24 24"
+                width="52"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    }
+  >
+    <Toaststyles__Container>
+      <StyledComponent
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "Toaststyles__Container-fxfvhp-11",
+              "isStatic": false,
+              "lastClassName": "ciOSid",
+              "rules": Array [
+                "position:fixed;top:0px;right:0px;width:100%;z-index:9999;",
+                "@media (min-width:",
+                "576px",
+                "){",
+                "
+    top: 15px;
+    right: 15px;
+    ",
+                [Function],
+                "
+  ",
+                "}",
+              ],
+            },
+            "displayName": "Toaststyles__Container",
+            "foldedComponentIds": Array [],
+            "render": [Function],
+            "styledComponentId": "Toaststyles__Container-fxfvhp-11",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+      >
+        <div
+          className="Toaststyles__Container-fxfvhp-11 ciOSid"
+        >
+          <Toast
+            content={null}
+            customWidth={null}
+            duration={0}
+            id="aaaaa"
+            info={null}
+            key="aaaaa"
+            onClose={[Function]}
+            onExited={[Function]}
+            show={true}
+            type="info"
+          >
+            <Animate
+              customWidth={null}
+              onExited={[Function]}
+              show={true}
+            >
+              <Transition
+                appear={false}
+                enter={true}
+                exit={true}
+                in={true}
+                mountOnEnter={true}
+                onEnter={[Function]}
+                onEntered={[Function]}
+                onEntering={[Function]}
+                onExit={[Function]}
+                onExited={[Function]}
+                onExiting={[Function]}
+                timeout={400}
+                unmountOnExit={true}
+              >
+                <Toaststyles__AnimationContainer
+                  duration={400}
+                  state="entered"
+                >
+                  <StyledComponent
+                    duration={400}
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "Toaststyles__AnimationContainer-fxfvhp-12",
+                          "isStatic": false,
+                          "lastClassName": "hWTGkc",
+                          "rules": Array [
+                            "animation:",
+                            [Function],
+                            " forwards;animation-duration:",
+                            [Function],
+                            "ms;overflow:hidden;",
+                          ],
+                        },
+                        "displayName": "Toaststyles__AnimationContainer",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "Toaststyles__AnimationContainer-fxfvhp-12",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    state="entered"
+                  >
+                    <div
+                      className="Toaststyles__AnimationContainer-fxfvhp-12 hWTGkc"
+                    >
+                      <Toaststyles__Card
+                        customWidth={null}
+                        onMouseEnter={[Function]}
+                        onMouseLeave={[Function]}
+                      >
+                        <StyledComponent
+                          customWidth={null}
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "Toaststyles__Card-fxfvhp-1",
+                                "isStatic": false,
+                                "lastClassName": "cZsyhO",
+                                "rules": Array [
+                                  "display:flex;justify-content:space-between;align-items:center;border-radius:4px;",
+                                  [Function],
+                                  " overflow:hidden;position:relative;background-color:",
+                                  [Function],
+                                  ";margin:0px 8px 24px 8px;&:last-child{margin-bottom:0px;}",
+                                  "@media (min-width:",
+                                  "576px",
+                                  "){",
+                                  "
+    ",
+                                  [Function],
+                                  "
+  ",
+                                  "}",
+                                ],
+                              },
+                              "displayName": "Toaststyles__Card",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "Toaststyles__Card-fxfvhp-1",
+                              "target": "div",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          onMouseEnter={[Function]}
+                          onMouseLeave={[Function]}
+                        >
+                          <div
+                            className="Toaststyles__Card-fxfvhp-1 cZsyhO"
+                            onMouseEnter={[Function]}
+                            onMouseLeave={[Function]}
+                          >
+                            <Toaststyles__Info>
+                              <StyledComponent
+                                forwardedComponent={
+                                  Object {
+                                    "$$typeof": Symbol(react.forward_ref),
+                                    "attrs": Array [],
+                                    "componentStyle": ComponentStyle {
+                                      "componentId": "Toaststyles__Info-fxfvhp-2",
+                                      "isStatic": false,
+                                      "lastClassName": "gDBUar",
+                                      "rules": Array [
+                                        "border-left:4px solid;border-color:",
+                                        [Function],
+                                        ";width:100%;max-width:100%;min-height:72px;box-sizing:border-box;padding:21px 24px;display:flex;flex-direction:column;justify-content:flex-start;align-items:flex-start;background-color:",
+                                        [Function],
+                                        ";",
+                                        "border-color:",
+                                        [Function],
+                                        ";",
+                                      ],
+                                    },
+                                    "displayName": "Toaststyles__Info",
+                                    "foldedComponentIds": Array [
+                                      "Toaststyles__BaseToast-fxfvhp-0",
+                                    ],
+                                    "render": [Function],
+                                    "styledComponentId": "Toaststyles__Info-fxfvhp-2",
+                                    "target": "div",
+                                    "toString": [Function],
+                                    "warnTooManyClasses": [Function],
+                                    "withComponent": [Function],
+                                  }
+                                }
+                                forwardedRef={null}
+                              >
+                                <div
+                                  className="Toaststyles__BaseToast-fxfvhp-0 Toaststyles__Info-fxfvhp-2 gDBUar"
+                                >
+                                  <Toaststyles__Content>
+                                    <StyledComponent
+                                      forwardedComponent={
+                                        Object {
+                                          "$$typeof": Symbol(react.forward_ref),
+                                          "attrs": Array [],
+                                          "componentStyle": ComponentStyle {
+                                            "componentId": "Toaststyles__Content-fxfvhp-13",
+                                            "isStatic": false,
+                                            "lastClassName": "dVSHkI",
+                                            "rules": Array [
+                                              "display:flex;justify-content:flex-start;align-items:center;min-height:24px;",
+                                            ],
+                                          },
+                                          "displayName": "Toaststyles__Content",
+                                          "foldedComponentIds": Array [],
+                                          "render": [Function],
+                                          "styledComponentId": "Toaststyles__Content-fxfvhp-13",
+                                          "target": "div",
+                                          "toString": [Function],
+                                          "warnTooManyClasses": [Function],
+                                          "withComponent": [Function],
+                                        }
+                                      }
+                                      forwardedRef={null}
+                                    >
+                                      <div
+                                        className="Toaststyles__Content-fxfvhp-13 dVSHkI"
+                                      >
+                                        <Toaststyles__IconBox>
+                                          <StyledComponent
+                                            forwardedComponent={
+                                              Object {
+                                                "$$typeof": Symbol(react.forward_ref),
+                                                "attrs": Array [],
+                                                "componentStyle": ComponentStyle {
+                                                  "componentId": "Toaststyles__IconBox-fxfvhp-15",
+                                                  "isStatic": false,
+                                                  "lastClassName": "bemdGs",
+                                                  "rules": Array [
+                                                    "display:flex;justify-content:center;align-items:center;margin-right:24px;",
+                                                  ],
+                                                },
+                                                "displayName": "Toaststyles__IconBox",
+                                                "foldedComponentIds": Array [],
+                                                "render": [Function],
+                                                "styledComponentId": "Toaststyles__IconBox-fxfvhp-15",
+                                                "target": "div",
+                                                "toString": [Function],
+                                                "warnTooManyClasses": [Function],
+                                                "withComponent": [Function],
+                                              }
+                                            }
+                                            forwardedRef={null}
+                                          >
+                                            <div
+                                              className="Toaststyles__IconBox-fxfvhp-15 bemdGs"
+                                            >
+                                              <Toaststyles__InfoIcon>
+                                                <StyledComponent
+                                                  forwardedComponent={
+                                                    Object {
+                                                      "$$typeof": Symbol(react.forward_ref),
+                                                      "attrs": Array [],
+                                                      "componentStyle": ComponentStyle {
+                                                        "componentId": "Toaststyles__InfoIcon-fxfvhp-6",
+                                                        "isStatic": false,
+                                                        "lastClassName": "jipVyo",
+                                                        "rules": Array [
+                                                          "min-",
+                                                          "width",
+                                                          ":",
+                                                          "24px",
+                                                          ";max-",
+                                                          "width",
+                                                          ":",
+                                                          "24px",
+                                                          ";",
+                                                          " ",
+                                                          "min-",
+                                                          "height",
+                                                          ":",
+                                                          "24px",
+                                                          ";max-",
+                                                          "height",
+                                                          ":",
+                                                          "24px",
+                                                          ";",
+                                                          " fill:",
+                                                          [Function],
+                                                          ";",
+                                                        ],
+                                                      },
+                                                      "displayName": "Toaststyles__InfoIcon",
+                                                      "foldedComponentIds": Array [],
+                                                      "render": [Function],
+                                                      "styledComponentId": "Toaststyles__InfoIcon-fxfvhp-6",
+                                                      "target": [Function],
+                                                      "toString": [Function],
+                                                      "warnTooManyClasses": [Function],
+                                                      "withComponent": [Function],
+                                                    }
+                                                  }
+                                                  forwardedRef={null}
+                                                >
+                                                  <MdInformation
+                                                    className="Toaststyles__InfoIcon-fxfvhp-6 jipVyo"
+                                                  >
+                                                    <svg
+                                                      className="Toaststyles__InfoIcon-fxfvhp-6 jipVyo"
+                                                      height="52"
+                                                      viewBox="0 0 24 24"
+                                                      width="52"
+                                                      xmlns="http://www.w3.org/2000/svg"
+                                                    >
+                                                      <path
+                                                        d="M13,9H11V7H13M13,17H11V11H13M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2Z"
+                                                      />
+                                                    </svg>
+                                                  </MdInformation>
+                                                </StyledComponent>
+                                              </Toaststyles__InfoIcon>
+                                            </div>
+                                          </StyledComponent>
+                                        </Toaststyles__IconBox>
+                                        <Toaststyles__Message>
+                                          <StyledComponent
+                                            forwardedComponent={
+                                              Object {
+                                                "$$typeof": Symbol(react.forward_ref),
+                                                "attrs": Array [],
+                                                "componentStyle": ComponentStyle {
+                                                  "componentId": "Toaststyles__Message-fxfvhp-14",
+                                                  "isStatic": false,
+                                                  "lastClassName": "HtrcA",
+                                                  "rules": Array [
+                                                    "display:flex;flex-direction:column;justify-content:center;align-items:flex-start;font-family:",
+                                                    [Function],
+                                                    ";",
+                                                    [Function],
+                                                    ";text-align:left;color:",
+                                                    [Function],
+                                                    ";& span{margin-top:8px;font-family:",
+                                                    [Function],
+                                                    ";",
+                                                    [Function],
+                                                    ";letter-spacing:0px;text-align:left;color:",
+                                                    [Function],
+                                                    ";}",
+                                                  ],
+                                                },
+                                                "displayName": "Toaststyles__Message",
+                                                "foldedComponentIds": Array [],
+                                                "render": [Function],
+                                                "styledComponentId": "Toaststyles__Message-fxfvhp-14",
+                                                "target": "div",
+                                                "toString": [Function],
+                                                "warnTooManyClasses": [Function],
+                                                "withComponent": [Function],
+                                              }
+                                            }
+                                            forwardedRef={null}
+                                          >
+                                            <div
+                                              className="Toaststyles__Message-fxfvhp-14 HtrcA"
+                                            >
+                                              mock
+                                            </div>
+                                          </StyledComponent>
+                                        </Toaststyles__Message>
+                                      </div>
+                                    </StyledComponent>
+                                  </Toaststyles__Content>
+                                </div>
+                              </StyledComponent>
+                            </Toaststyles__Info>
+                            <Toaststyles__CloseIcon
+                              onClick={[Function]}
+                            >
+                              <StyledComponent
+                                forwardedComponent={
+                                  Object {
+                                    "$$typeof": Symbol(react.forward_ref),
+                                    "attrs": Array [],
+                                    "componentStyle": ComponentStyle {
+                                      "componentId": "Toaststyles__CloseIcon-fxfvhp-10",
+                                      "isStatic": false,
+                                      "lastClassName": "bKACpB",
+                                      "rules": Array [
+                                        "min-",
+                                        "width",
+                                        ":",
+                                        "24px",
+                                        ";max-",
+                                        "width",
+                                        ":",
+                                        "24px",
+                                        ";",
+                                        " ",
+                                        "min-",
+                                        "height",
+                                        ":",
+                                        "24px",
+                                        ";max-",
+                                        "height",
+                                        ":",
+                                        "24px",
+                                        ";",
+                                        " fill:#b6c2c9;fill:",
+                                        [Function],
+                                        ";margin-right:24px;",
+                                        [Function],
+                                        ";cursor:pointer;",
+                                      ],
+                                    },
+                                    "displayName": "Toaststyles__CloseIcon",
+                                    "foldedComponentIds": Array [],
+                                    "render": [Function],
+                                    "styledComponentId": "Toaststyles__CloseIcon-fxfvhp-10",
+                                    "target": [Function],
+                                    "toString": [Function],
+                                    "warnTooManyClasses": [Function],
+                                    "withComponent": [Function],
+                                  }
+                                }
+                                forwardedRef={null}
+                                onClick={[Function]}
+                              >
+                                <MdClose
+                                  className="Toaststyles__CloseIcon-fxfvhp-10 bKACpB"
+                                  onClick={[Function]}
+                                >
+                                  <svg
+                                    className="Toaststyles__CloseIcon-fxfvhp-10 bKACpB"
+                                    height="52"
+                                    onClick={[Function]}
+                                    viewBox="0 0 24 24"
+                                    width="52"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                  >
+                                    <path
+                                      d="M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z"
+                                    />
+                                  </svg>
+                                </MdClose>
+                              </StyledComponent>
+                            </Toaststyles__CloseIcon>
+                          </div>
+                        </StyledComponent>
+                      </Toaststyles__Card>
+                    </div>
+                  </StyledComponent>
+                </Toaststyles__AnimationContainer>
+              </Transition>
+            </Animate>
+          </Toast>
+        </div>
+      </StyledComponent>
+    </Toaststyles__Container>
+  </Portal>
+</ToastList>
+`;
+
+exports[`Testing ToastLisy Component should render empty when toast has no message 1`] = `
+<ToastList
+  autoClose={0}
+  close={[Function]}
+  onTop={false}
+  remove={[Function]}
+  toasts={
+    Array [
+      Object {
+        "duration": 0,
+        "id": "aaaaa",
+        "message": "",
+        "show": true,
+        "type": "info",
+      },
+    ]
+  }
+>
+  <Portal
+    containerInfo={
+      <div
+        id="toast"
+      >
+        <div
+          class="Toaststyles__Container-fxfvhp-11 ciOSid"
+        >
+          <div
+            class="Toaststyles__AnimationContainer-fxfvhp-12 hWTGkc"
+          >
+            <div
+              class="Toaststyles__Card-fxfvhp-1 cZsyhO"
+            >
+              <div
+                class="Toaststyles__BaseToast-fxfvhp-0 Toaststyles__Info-fxfvhp-2 gDBUar"
+              >
+                <div
+                  class="Toaststyles__Content-fxfvhp-13 dVSHkI"
+                >
+                  <div
+                    class="Toaststyles__IconBox-fxfvhp-15 bemdGs"
+                  >
+                    <svg
+                      class="Toaststyles__InfoIcon-fxfvhp-6 jipVyo"
+                      height="52"
+                      viewBox="0 0 24 24"
+                      width="52"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M13,9H11V7H13M13,17H11V11H13M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2Z"
+                      />
+                    </svg>
+                  </div>
+                  <div
+                    class="Toaststyles__Message-fxfvhp-14 HtrcA"
+                  >
+                    mock
+                  </div>
+                </div>
+              </div>
+              <svg
+                class="Toaststyles__CloseIcon-fxfvhp-10 bKACpB"
+                height="52"
+                viewBox="0 0 24 24"
+                width="52"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="Toaststyles__Container-fxfvhp-11 ciOSid"
+        >
+          <div
+            class="Toaststyles__AnimationContainer-fxfvhp-12 hWTGkc"
+          >
+            <div
+              class="Toaststyles__Card-fxfvhp-1 cZsyhO"
+            >
+              <div
+                class="Toaststyles__BaseToast-fxfvhp-0 Toaststyles__Info-fxfvhp-2 gDBUar"
+              >
+                <div
+                  class="Toaststyles__Content-fxfvhp-13 dVSHkI"
+                >
+                  <div
+                    class="Toaststyles__IconBox-fxfvhp-15 bemdGs"
+                  >
+                    <svg
+                      class="Toaststyles__InfoIcon-fxfvhp-6 jipVyo"
+                      height="52"
+                      viewBox="0 0 24 24"
+                      width="52"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M13,9H11V7H13M13,17H11V11H13M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2Z"
+                      />
+                    </svg>
+                  </div>
+                  <div
+                    class="Toaststyles__Message-fxfvhp-14 HtrcA"
+                  >
+                    mock
+                  </div>
+                </div>
+              </div>
+              <svg
+                class="Toaststyles__CloseIcon-fxfvhp-10 bKACpB"
+                height="52"
+                viewBox="0 0 24 24"
+                width="52"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="Toaststyles__Container-fxfvhp-11 ciOSid"
+        />
+      </div>
+    }
+  >
+    <Toaststyles__Container>
+      <StyledComponent
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "Toaststyles__Container-fxfvhp-11",
+              "isStatic": false,
+              "lastClassName": "ciOSid",
+              "rules": Array [
+                "position:fixed;top:0px;right:0px;width:100%;z-index:9999;",
+                "@media (min-width:",
+                "576px",
+                "){",
+                "
+    top: 15px;
+    right: 15px;
+    ",
+                [Function],
+                "
+  ",
+                "}",
+              ],
+            },
+            "displayName": "Toaststyles__Container",
+            "foldedComponentIds": Array [],
+            "render": [Function],
+            "styledComponentId": "Toaststyles__Container-fxfvhp-11",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+      >
+        <div
+          className="Toaststyles__Container-fxfvhp-11 ciOSid"
+        />
+      </StyledComponent>
+    </Toaststyles__Container>
+  </Portal>
+</ToastList>
+`;

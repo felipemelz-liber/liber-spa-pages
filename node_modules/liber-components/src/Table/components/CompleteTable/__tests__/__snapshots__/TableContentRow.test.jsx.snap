@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing TableContentRow component renders TableContentRow correctly for table body content 1`] = `
+<CompleteTablestyles__ContentRow
+  width="100%"
+>
+  <CompleteTablestyles__RowFreeWidth
+    percentWidth="100"
+  >
+    <CompleteTablestyles__Table>
+      <SelectionTable__SelectionTableBody>
+        <CompleteTablestyles__Row>
+          <div>
+            Row
+          </div>
+        </CompleteTablestyles__Row>
+      </SelectionTable__SelectionTableBody>
+    </CompleteTablestyles__Table>
+  </CompleteTablestyles__RowFreeWidth>
+</CompleteTablestyles__ContentRow>
+`;
+
+exports[`Testing TableContentRow component renders TableContentRow correctly for table header content 1`] = `
+<CompleteTablestyles__ContentRow
+  width="100%"
+>
+  <CompleteTablestyles__RowFreeWidth
+    percentWidth="100"
+  >
+    <CompleteTablestyles__Table>
+      <TableHeaderstyles__HeaderContent>
+        <CompleteTablestyles__Row>
+          <div>
+            Row
+          </div>
+        </CompleteTablestyles__Row>
+      </TableHeaderstyles__HeaderContent>
+    </CompleteTablestyles__Table>
+  </CompleteTablestyles__RowFreeWidth>
+</CompleteTablestyles__ContentRow>
+`;

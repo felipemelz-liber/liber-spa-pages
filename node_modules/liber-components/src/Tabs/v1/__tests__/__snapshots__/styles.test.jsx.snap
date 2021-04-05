@@ -1,0 +1,323 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Tabs Styles Header should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Header-sc-1j5mqhi-2",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;height:100%;position:relative;",
+          "height:60px;align-items:center;width:100%;",
+        ],
+      },
+      "displayName": "styles__Header",
+      "foldedComponentIds": Array [
+        "styles__BasicHeader-sc-1j5mqhi-1",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__Header-sc-1j5mqhi-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Tabs Styles Label should render correctly with props 1`] = `
+<StyledComponent
+  active={true}
+  activeColor="#ccc"
+  backgroundColor="#ccc"
+  bordeColor="#ccc"
+  commonCOlor="#ccc"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Label-sc-1j5mqhi-0",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";text-transform:uppercase;background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border-bottom:1px solid ",
+          [Function],
+          ";display:flex;justify-content:center;align-items:center;text-align:center;cursor:pointer;flex-grow:1;flex-basis:50%;margin-bottom:0px;& > input[type='radio']{display:none;}&:hover{color:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "styles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Label-sc-1j5mqhi-0",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Tabs Styles Label should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Label-sc-1j5mqhi-0",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";text-transform:uppercase;background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border-bottom:1px solid ",
+          [Function],
+          ";display:flex;justify-content:center;align-items:center;text-align:center;cursor:pointer;flex-grow:1;flex-basis:50%;margin-bottom:0px;& > input[type='radio']{display:none;}&:hover{color:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "styles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Label-sc-1j5mqhi-0",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "label": Object {
+        "active": "#bbb",
+        "background": "#ddd",
+        "border": "#eee",
+        "common": "#ccc",
+      },
+      "slider": "#aaa",
+    }
+  }
+/>
+`;
+
+exports[`Testing Tabs Styles Label should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Label-sc-1j5mqhi-0",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";text-transform:uppercase;background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border-bottom:1px solid ",
+          [Function],
+          ";display:flex;justify-content:center;align-items:center;text-align:center;cursor:pointer;flex-grow:1;flex-basis:50%;margin-bottom:0px;& > input[type='radio']{display:none;}&:hover{color:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "styles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Label-sc-1j5mqhi-0",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Tabs Styles Slide should render correctly with gradient 1`] = `
+<StyledComponent
+  color={
+    Array [
+      "#ccc",
+      "#ddd",
+      "#eee",
+    ]
+  }
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Slide-sc-1j5mqhi-3",
+        "isStatic": false,
+        "rules": Array [
+          "background:",
+          [Function],
+          ";width:",
+          [Function],
+          "%;height:4px;position:absolute;left:",
+          [Function],
+          "%;top:calc(100% - 2px);transition:left 0.3s ease-out;border:0px;",
+        ],
+      },
+      "displayName": "styles__Slide",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Slide-sc-1j5mqhi-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Tabs Styles Slide should render correctly with props 1`] = `
+<StyledComponent
+  color="#ccc"
+  current={0}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Slide-sc-1j5mqhi-3",
+        "isStatic": false,
+        "rules": Array [
+          "background:",
+          [Function],
+          ";width:",
+          [Function],
+          "%;height:4px;position:absolute;left:",
+          [Function],
+          "%;top:calc(100% - 2px);transition:left 0.3s ease-out;border:0px;",
+        ],
+      },
+      "displayName": "styles__Slide",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Slide-sc-1j5mqhi-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  number={4}
+/>
+`;
+
+exports[`Testing Tabs Styles Slide should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Slide-sc-1j5mqhi-3",
+        "isStatic": false,
+        "rules": Array [
+          "background:",
+          [Function],
+          ";width:",
+          [Function],
+          "%;height:4px;position:absolute;left:",
+          [Function],
+          "%;top:calc(100% - 2px);transition:left 0.3s ease-out;border:0px;",
+        ],
+      },
+      "displayName": "styles__Slide",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Slide-sc-1j5mqhi-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "label": Object {
+        "active": "#bbb",
+        "background": "#ddd",
+        "border": "#eee",
+        "common": "#ccc",
+      },
+      "slider": "#aaa",
+    }
+  }
+/>
+`;
+
+exports[`Testing Tabs Styles Slide should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Slide-sc-1j5mqhi-3",
+        "isStatic": false,
+        "rules": Array [
+          "background:",
+          [Function],
+          ";width:",
+          [Function],
+          "%;height:4px;position:absolute;left:",
+          [Function],
+          "%;top:calc(100% - 2px);transition:left 0.3s ease-out;border:0px;",
+        ],
+      },
+      "displayName": "styles__Slide",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Slide-sc-1j5mqhi-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

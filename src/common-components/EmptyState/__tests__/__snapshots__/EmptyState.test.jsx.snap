@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EmptyState tests should render correctly with props 1`] = `
+<styled.div
+  backgroundPath="background.png"
+>
+  <styled.img
+    src="mock"
+  />
+  <styled.div>
+    <styled.h1>
+      mock
+    </styled.h1>
+    <styled.div>
+      mock
+    </styled.div>
+  </styled.div>
+  <styled.img
+    src="envelope.png"
+  />
+</styled.div>
+`;
+
+exports[`EmptyState tests should render correctly without props 1`] = `
+<styled.div
+  backgroundPath="background.png"
+>
+  <styled.img
+    src=""
+  />
+  <styled.div>
+    <styled.h1 />
+    <styled.div />
+  </styled.div>
+  <styled.img
+    src="envelope.png"
+  />
+</styled.div>
+`;

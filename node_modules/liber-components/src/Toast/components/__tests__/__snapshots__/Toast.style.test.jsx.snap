@@ -1,0 +1,823 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing KeyValueDisplay Styles Controlled CloseIcon renders correctly with  base=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Toaststyles__CloseIcon-fxfvhp-10",
+        "isStatic": false,
+        "rules": Array [
+          "min-",
+          "width",
+          ":",
+          "24px",
+          ";max-",
+          "width",
+          ":",
+          "24px",
+          ";",
+          " ",
+          "min-",
+          "height",
+          ":",
+          "24px",
+          ";max-",
+          "height",
+          ":",
+          "24px",
+          ";",
+          " fill:#b6c2c9;fill:",
+          [Function],
+          ";margin-right:24px;",
+          [Function],
+          ";cursor:pointer;",
+        ],
+      },
+      "displayName": "Toaststyles__CloseIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Toaststyles__CloseIcon-fxfvhp-10",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  top={true}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled CloseIcon renders correctly with  top=false 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Toaststyles__CloseIcon-fxfvhp-10",
+        "isStatic": false,
+        "rules": Array [
+          "min-",
+          "width",
+          ":",
+          "24px",
+          ";max-",
+          "width",
+          ":",
+          "24px",
+          ";",
+          " ",
+          "min-",
+          "height",
+          ":",
+          "24px",
+          ";max-",
+          "height",
+          ":",
+          "24px",
+          ";",
+          " fill:#b6c2c9;fill:",
+          [Function],
+          ";margin-right:24px;",
+          [Function],
+          ";cursor:pointer;",
+        ],
+      },
+      "displayName": "Toaststyles__CloseIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Toaststyles__CloseIcon-fxfvhp-10",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  top={false}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled CloseIcon renders correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Toaststyles__CloseIcon-fxfvhp-10",
+        "isStatic": false,
+        "rules": Array [
+          "min-",
+          "width",
+          ":",
+          "24px",
+          ";max-",
+          "width",
+          ":",
+          "24px",
+          ";",
+          " ",
+          "min-",
+          "height",
+          ":",
+          "24px",
+          ";max-",
+          "height",
+          ":",
+          "24px",
+          ";",
+          " fill:#b6c2c9;fill:",
+          [Function],
+          ";margin-right:24px;",
+          [Function],
+          ";cursor:pointer;",
+        ],
+      },
+      "displayName": "Toaststyles__CloseIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Toaststyles__CloseIcon-fxfvhp-10",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled LargeContent renders correctly with  base=false 1`] = `
+<StyledComponent
+  base={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Toaststyles__LargeContent-fxfvhp-16",
+        "isStatic": false,
+        "rules": Array [
+          "margin-left:",
+          [Function],
+          ";margin-right:24px;margin-top:3px;font-family:",
+          [Function],
+          ";",
+          [Function],
+          ";letter-spacing:0px;text-align:left;color:#798e9b;",
+        ],
+      },
+      "displayName": "Toaststyles__LargeContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Toaststyles__LargeContent-fxfvhp-16",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled LargeContent renders correctly with  base=true 1`] = `
+<StyledComponent
+  base={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Toaststyles__LargeContent-fxfvhp-16",
+        "isStatic": false,
+        "rules": Array [
+          "margin-left:",
+          [Function],
+          ";margin-right:24px;margin-top:3px;font-family:",
+          [Function],
+          ";",
+          [Function],
+          ";letter-spacing:0px;text-align:left;color:#798e9b;",
+        ],
+      },
+      "displayName": "Toaststyles__LargeContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Toaststyles__LargeContent-fxfvhp-16",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles Controlled LargeContent renders correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Toaststyles__LargeContent-fxfvhp-16",
+        "isStatic": false,
+        "rules": Array [
+          "margin-left:",
+          [Function],
+          ";margin-right:24px;margin-top:3px;font-family:",
+          [Function],
+          ";",
+          [Function],
+          ";letter-spacing:0px;text-align:left;color:#798e9b;",
+        ],
+      },
+      "displayName": "Toaststyles__LargeContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Toaststyles__LargeContent-fxfvhp-16",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles uncontrolled renders AnimationContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Toaststyles__AnimationContainer-fxfvhp-12",
+        "isStatic": false,
+        "rules": Array [
+          "animation:",
+          [Function],
+          " forwards;animation-duration:",
+          [Function],
+          "ms;overflow:hidden;",
+        ],
+      },
+      "displayName": "Toaststyles__AnimationContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Toaststyles__AnimationContainer-fxfvhp-12",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles uncontrolled renders BaseToast correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Toaststyles__BaseToast-fxfvhp-0",
+        "isStatic": false,
+        "rules": Array [
+          "border-left:4px solid;border-color:",
+          [Function],
+          ";width:100%;max-width:100%;min-height:72px;box-sizing:border-box;padding:21px 24px;display:flex;flex-direction:column;justify-content:flex-start;align-items:flex-start;background-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Toaststyles__BaseToast",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Toaststyles__BaseToast-fxfvhp-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles uncontrolled renders Card correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Toaststyles__Card-fxfvhp-1",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;justify-content:space-between;align-items:center;border-radius:4px;",
+          [Function],
+          " overflow:hidden;position:relative;background-color:",
+          [Function],
+          ";margin:0px 8px 24px 8px;&:last-child{margin-bottom:0px;}",
+          "@media (min-width:",
+          "576px",
+          "){",
+          "
+    ",
+          [Function],
+          "
+  ",
+          "}",
+        ],
+      },
+      "displayName": "Toaststyles__Card",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Toaststyles__Card-fxfvhp-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles uncontrolled renders Container correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Toaststyles__Container-fxfvhp-11",
+        "isStatic": false,
+        "rules": Array [
+          "position:fixed;top:0px;right:0px;width:100%;z-index:9999;",
+          "@media (min-width:",
+          "576px",
+          "){",
+          "
+    top: 15px;
+    right: 15px;
+    ",
+          [Function],
+          "
+  ",
+          "}",
+        ],
+      },
+      "displayName": "Toaststyles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Toaststyles__Container-fxfvhp-11",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles uncontrolled renders Content correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Toaststyles__Content-fxfvhp-13",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;justify-content:flex-start;align-items:center;min-height:24px;",
+        ],
+      },
+      "displayName": "Toaststyles__Content",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Toaststyles__Content-fxfvhp-13",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles uncontrolled renders ErroIcon correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Toaststyles__ErroIcon-fxfvhp-8",
+        "isStatic": false,
+        "rules": Array [
+          "min-",
+          "width",
+          ":",
+          "24px",
+          ";max-",
+          "width",
+          ":",
+          "24px",
+          ";",
+          " ",
+          "min-",
+          "height",
+          ":",
+          "24px",
+          ";max-",
+          "height",
+          ":",
+          "24px",
+          ";",
+          " fill:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Toaststyles__ErroIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Toaststyles__ErroIcon-fxfvhp-8",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles uncontrolled renders Error correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Toaststyles__Error-fxfvhp-4",
+        "isStatic": false,
+        "rules": Array [
+          "border-left:4px solid;border-color:",
+          [Function],
+          ";width:100%;max-width:100%;min-height:72px;box-sizing:border-box;padding:21px 24px;display:flex;flex-direction:column;justify-content:flex-start;align-items:flex-start;background-color:",
+          [Function],
+          ";",
+          "border-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Toaststyles__Error",
+      "foldedComponentIds": Array [
+        "Toaststyles__BaseToast-fxfvhp-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "Toaststyles__Error-fxfvhp-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles uncontrolled renders IconBox correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Toaststyles__IconBox-fxfvhp-15",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;justify-content:center;align-items:center;margin-right:24px;",
+        ],
+      },
+      "displayName": "Toaststyles__IconBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Toaststyles__IconBox-fxfvhp-15",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles uncontrolled renders Info correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Toaststyles__Info-fxfvhp-2",
+        "isStatic": false,
+        "rules": Array [
+          "border-left:4px solid;border-color:",
+          [Function],
+          ";width:100%;max-width:100%;min-height:72px;box-sizing:border-box;padding:21px 24px;display:flex;flex-direction:column;justify-content:flex-start;align-items:flex-start;background-color:",
+          [Function],
+          ";",
+          "border-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Toaststyles__Info",
+      "foldedComponentIds": Array [
+        "Toaststyles__BaseToast-fxfvhp-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "Toaststyles__Info-fxfvhp-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles uncontrolled renders InfoIcon correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Toaststyles__InfoIcon-fxfvhp-6",
+        "isStatic": false,
+        "rules": Array [
+          "min-",
+          "width",
+          ":",
+          "24px",
+          ";max-",
+          "width",
+          ":",
+          "24px",
+          ";",
+          " ",
+          "min-",
+          "height",
+          ":",
+          "24px",
+          ";max-",
+          "height",
+          ":",
+          "24px",
+          ";",
+          " fill:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Toaststyles__InfoIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Toaststyles__InfoIcon-fxfvhp-6",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles uncontrolled renders Message correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Toaststyles__Message-fxfvhp-14",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;flex-direction:column;justify-content:center;align-items:flex-start;font-family:",
+          [Function],
+          ";",
+          [Function],
+          ";text-align:left;color:",
+          [Function],
+          ";& span{margin-top:8px;font-family:",
+          [Function],
+          ";",
+          [Function],
+          ";letter-spacing:0px;text-align:left;color:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "Toaststyles__Message",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Toaststyles__Message-fxfvhp-14",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles uncontrolled renders Success correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Toaststyles__Success-fxfvhp-3",
+        "isStatic": false,
+        "rules": Array [
+          "border-left:4px solid;border-color:",
+          [Function],
+          ";width:100%;max-width:100%;min-height:72px;box-sizing:border-box;padding:21px 24px;display:flex;flex-direction:column;justify-content:flex-start;align-items:flex-start;background-color:",
+          [Function],
+          ";",
+          "border-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Toaststyles__Success",
+      "foldedComponentIds": Array [
+        "Toaststyles__BaseToast-fxfvhp-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "Toaststyles__Success-fxfvhp-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles uncontrolled renders SuccessIcon correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Toaststyles__SuccessIcon-fxfvhp-7",
+        "isStatic": false,
+        "rules": Array [
+          "min-",
+          "width",
+          ":",
+          "24px",
+          ";max-",
+          "width",
+          ":",
+          "24px",
+          ";",
+          " ",
+          "min-",
+          "height",
+          ":",
+          "24px",
+          ";max-",
+          "height",
+          ":",
+          "24px",
+          ";",
+          " fill:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Toaststyles__SuccessIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Toaststyles__SuccessIcon-fxfvhp-7",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles uncontrolled renders Warning correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Toaststyles__Warning-fxfvhp-5",
+        "isStatic": false,
+        "rules": Array [
+          "border-left:4px solid;border-color:",
+          [Function],
+          ";width:100%;max-width:100%;min-height:72px;box-sizing:border-box;padding:21px 24px;display:flex;flex-direction:column;justify-content:flex-start;align-items:flex-start;background-color:",
+          [Function],
+          ";",
+          "border-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Toaststyles__Warning",
+      "foldedComponentIds": Array [
+        "Toaststyles__BaseToast-fxfvhp-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "Toaststyles__Warning-fxfvhp-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing KeyValueDisplay Styles uncontrolled renders WarningIcon correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Toaststyles__WarningIcon-fxfvhp-9",
+        "isStatic": false,
+        "rules": Array [
+          "min-",
+          "width",
+          ":",
+          "24px",
+          ";max-",
+          "width",
+          ":",
+          "24px",
+          ";",
+          " ",
+          "min-",
+          "height",
+          ":",
+          "24px",
+          ";max-",
+          "height",
+          ":",
+          "24px",
+          ";",
+          " fill:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Toaststyles__WarningIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Toaststyles__WarningIcon-fxfvhp-9",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

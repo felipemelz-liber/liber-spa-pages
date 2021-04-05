@@ -1,0 +1,232 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing TextArea Component renders TextArea correctly without props 1`] = `
+<TextArea
+  autoComplete={false}
+  autoCompleteList={Array []}
+  disabled={false}
+  errorMessage=""
+  fixed={false}
+  fullWidth={false}
+  helper=""
+  hintText=""
+  id={null}
+  innerRef={null}
+  label=""
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={false}
+  prefix=""
+  type="text"
+  value={null}
+  version={2}
+  width="247px"
+/>
+`;
+
+exports[`Testing TextArea Component renders TextArea disabled 1`] = `
+<TextArea
+  autoComplete={false}
+  autoCompleteList={Array []}
+  disabled={true}
+  errorMessage=""
+  fixed={false}
+  fullWidth={false}
+  helper=""
+  hintText=""
+  id={null}
+  innerRef={null}
+  label=""
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={false}
+  prefix=""
+  type="text"
+  value={null}
+  version={2}
+  width="247px"
+/>
+`;
+
+exports[`Testing TextArea Component renders TextArea with autocomplete 1`] = `
+<TextArea
+  autoComplete={true}
+  autoCompleteList={
+    Array [
+      "ABCD",
+      "DCBA",
+      "QWERT",
+    ]
+  }
+  disabled={false}
+  errorMessage=""
+  fixed={false}
+  fullWidth={false}
+  helper=""
+  hintText="Comece digitando algo"
+  id={null}
+  innerRef={null}
+  label=""
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={false}
+  prefix=""
+  type="text"
+  value={null}
+  version={2}
+  width="247px"
+/>
+`;
+
+exports[`Testing TextArea Component renders TextArea with error message 1`] = `
+<TextArea
+  autoComplete={false}
+  autoCompleteList={Array []}
+  disabled={false}
+  errorMessage="CPF inválido"
+  fixed={false}
+  fullWidth={false}
+  helper=""
+  hintText=""
+  id={null}
+  innerRef={null}
+  label="CPF"
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={false}
+  prefix=""
+  type="text"
+  value="226.718.96-0-77"
+  version={2}
+  width="247px"
+/>
+`;
+
+exports[`Testing TextArea Component renders TextArea with helper 1`] = `
+<TextArea
+  autoComplete={false}
+  autoCompleteList={Array []}
+  disabled={false}
+  errorMessage=""
+  fixed={false}
+  fullWidth={false}
+  helper="Insira um CPF válido"
+  hintText=""
+  id={null}
+  innerRef={null}
+  label="CPF"
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={false}
+  prefix=""
+  type="text"
+  value={null}
+  version={2}
+  width="247px"
+/>
+`;
+
+exports[`Testing TextArea Component renders TextArea with hint text 1`] = `
+<TextArea
+  autoComplete={false}
+  autoCompleteList={Array []}
+  disabled={false}
+  errorMessage=""
+  fixed={false}
+  fullWidth={false}
+  helper=""
+  hintText="999.999.999-99"
+  id={null}
+  innerRef={null}
+  label=""
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={false}
+  prefix=""
+  type="text"
+  value={null}
+  version={2}
+  width="247px"
+/>
+`;
+
+exports[`Testing TextArea Component renders TextArea with open label 1`] = `
+<TextArea
+  autoComplete={false}
+  autoCompleteList={Array []}
+  disabled={false}
+  errorMessage=""
+  fixed={false}
+  fullWidth={false}
+  helper=""
+  hintText=""
+  id={null}
+  innerRef={null}
+  label="CPF"
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={true}
+  prefix=""
+  type="text"
+  value={null}
+  version={2}
+  width="247px"
+/>
+`;
+
+exports[`Testing TextArea Component renders TextArea with prefix 1`] = `
+<TextArea
+  autoComplete={false}
+  autoCompleteList={Array []}
+  disabled={false}
+  errorMessage=""
+  fixed={false}
+  fullWidth={false}
+  helper=""
+  hintText=""
+  id={null}
+  innerRef={null}
+  label="Total"
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={false}
+  prefix="$"
+  type="text"
+  value="1000,00"
+  version={2}
+  width="247px"
+/>
+`;
+
+exports[`Testing TextArea Component renders TextArea with value 1`] = `
+<TextArea
+  autoComplete={false}
+  autoCompleteList={Array []}
+  disabled={false}
+  errorMessage=""
+  fixed={false}
+  fullWidth={false}
+  helper=""
+  hintText=""
+  id={null}
+  innerRef={null}
+  label="CPF"
+  onBlur={[Function]}
+  onChange={null}
+  onFocus={[Function]}
+  openLabel={false}
+  prefix=""
+  type="text"
+  value="226.718.960-77"
+  version={2}
+  width="247px"
+/>
+`;

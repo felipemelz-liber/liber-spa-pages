@@ -1,0 +1,1000 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for ModalButton Styles DangerButton should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ModalButtons__DangerButton-sc-13a33n5-5",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:transparent !important;font-size:18px;align-items:center;white-space:nowrap;",
+          [Function],
+          " &:hover{",
+          [Function],
+          "}&:disabled{background-color:transparent !important;",
+          [Function],
+          "}&:after{display:none;}",
+          [Function],
+          " &:hover{",
+          [Function],
+          "}",
+        ],
+      },
+      "displayName": "ModalButtons__DangerButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1rtn1fx-0",
+        "ModalButtons__ModalButton-sc-13a33n5-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "ModalButtons__DangerButton-sc-13a33n5-5",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "buttons": Object {
+        "base": Object {
+          "background": "#456",
+          "backgroundHover": "#789",
+          "color": "#abc",
+          "ripple": "#123",
+        },
+        "danger": Object {
+          "background": "#aaa",
+          "backgroundHover": "#bbb",
+        },
+        "primary": Object {
+          "background": "#bbb",
+          "backgroundHover": "#ccc",
+          "color": "#ddd",
+          "ripple": "#aaa",
+        },
+        "success": Object {
+          "background": "#111",
+          "backgroundHover": "#222",
+          "color": "#333",
+          "ripple": "#000",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ModalButton Styles DangerButton should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ModalButtons__DangerButton-sc-13a33n5-5",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:transparent !important;font-size:18px;align-items:center;white-space:nowrap;",
+          [Function],
+          " &:hover{",
+          [Function],
+          "}&:disabled{background-color:transparent !important;",
+          [Function],
+          "}&:after{display:none;}",
+          [Function],
+          " &:hover{",
+          [Function],
+          "}",
+        ],
+      },
+      "displayName": "ModalButtons__DangerButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1rtn1fx-0",
+        "ModalButtons__ModalButton-sc-13a33n5-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "ModalButtons__DangerButton-sc-13a33n5-5",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ModalButton Styles DangerIcon should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ModalButtons__DangerIcon-sc-13a33n5-4",
+        "isStatic": false,
+        "rules": Array [
+          "width:18px;height:18px;margin:auto;margin-right:16px;",
+        ],
+      },
+      "displayName": "ModalButtons__DangerIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "ModalButtons__DangerIcon-sc-13a33n5-4",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ModalButton Styles ModalButton should render correctly with margin as object 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ModalButtons__ModalButton-sc-13a33n5-0",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:transparent !important;font-size:18px;align-items:center;white-space:nowrap;",
+          [Function],
+          " &:hover{",
+          [Function],
+          "}&:disabled{background-color:transparent !important;",
+          [Function],
+          "}&:after{display:none;}",
+        ],
+      },
+      "displayName": "ModalButtons__ModalButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1rtn1fx-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "ModalButtons__ModalButton-sc-13a33n5-0",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  margin={
+    Object {
+      "bottom": "10px",
+      "left": "10px",
+      "right": "10px",
+      "top": "10px",
+    }
+  }
+/>
+`;
+
+exports[`Test for ModalButton Styles ModalButton should render correctly with props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ModalButtons__ModalButton-sc-13a33n5-0",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:transparent !important;font-size:18px;align-items:center;white-space:nowrap;",
+          [Function],
+          " &:hover{",
+          [Function],
+          "}&:disabled{background-color:transparent !important;",
+          [Function],
+          "}&:after{display:none;}",
+        ],
+      },
+      "displayName": "ModalButtons__ModalButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1rtn1fx-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "ModalButtons__ModalButton-sc-13a33n5-0",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  height="100px"
+  margin="100px"
+  maxHeight="100px"
+  maxWidth="100px"
+  minHeight="100px"
+  minWidth="100px"
+  width="100px"
+/>
+`;
+
+exports[`Test for ModalButton Styles ModalButton should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ModalButtons__ModalButton-sc-13a33n5-0",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:transparent !important;font-size:18px;align-items:center;white-space:nowrap;",
+          [Function],
+          " &:hover{",
+          [Function],
+          "}&:disabled{background-color:transparent !important;",
+          [Function],
+          "}&:after{display:none;}",
+        ],
+      },
+      "displayName": "ModalButtons__ModalButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1rtn1fx-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "ModalButtons__ModalButton-sc-13a33n5-0",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "buttons": Object {
+        "base": Object {
+          "background": "#456",
+          "backgroundHover": "#789",
+          "color": "#abc",
+          "ripple": "#123",
+        },
+        "danger": Object {
+          "background": "#aaa",
+          "backgroundHover": "#bbb",
+        },
+        "primary": Object {
+          "background": "#bbb",
+          "backgroundHover": "#ccc",
+          "color": "#ddd",
+          "ripple": "#aaa",
+        },
+        "success": Object {
+          "background": "#111",
+          "backgroundHover": "#222",
+          "color": "#333",
+          "ripple": "#000",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ModalButton Styles ModalButton should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ModalButtons__ModalButton-sc-13a33n5-0",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:transparent !important;font-size:18px;align-items:center;white-space:nowrap;",
+          [Function],
+          " &:hover{",
+          [Function],
+          "}&:disabled{background-color:transparent !important;",
+          [Function],
+          "}&:after{display:none;}",
+        ],
+      },
+      "displayName": "ModalButtons__ModalButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1rtn1fx-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "ModalButtons__ModalButton-sc-13a33n5-0",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ModalButton Styles ModalDangerButton should render correctly with icon 1`] = `
+<ModalButtons__DangerButton>
+  <ModalButtons__DangerIcon />
+</ModalButtons__DangerButton>
+`;
+
+exports[`Test for ModalButton Styles ModalDangerButton should render correctly without props 1`] = `<ModalButtons__DangerButton />`;
+
+exports[`Test for ModalButton Styles ModalDangerButton should render with props 1`] = `
+<ModalButtons__DangerButton
+  width="50%"
+/>
+`;
+
+exports[`Test for ModalButton Styles ModalPrimaryButton should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ModalButtons__ModalPrimaryButton-sc-13a33n5-1",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:transparent !important;font-size:18px;align-items:center;white-space:nowrap;",
+          [Function],
+          " &:hover{",
+          [Function],
+          "}&:disabled{background-color:transparent !important;",
+          [Function],
+          "}&:after{display:none;}",
+          [Function],
+          " &:hover{",
+          [Function],
+          "}",
+        ],
+      },
+      "displayName": "ModalButtons__ModalPrimaryButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1rtn1fx-0",
+        "ModalButtons__ModalButton-sc-13a33n5-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "ModalButtons__ModalPrimaryButton-sc-13a33n5-1",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "buttons": Object {
+        "base": Object {
+          "background": "#456",
+          "backgroundHover": "#789",
+          "color": "#abc",
+          "ripple": "#123",
+        },
+        "danger": Object {
+          "background": "#aaa",
+          "backgroundHover": "#bbb",
+        },
+        "primary": Object {
+          "background": "#bbb",
+          "backgroundHover": "#ccc",
+          "color": "#ddd",
+          "ripple": "#aaa",
+        },
+        "success": Object {
+          "background": "#111",
+          "backgroundHover": "#222",
+          "color": "#333",
+          "ripple": "#000",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ModalButton Styles ModalPrimaryButton should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ModalButtons__ModalPrimaryButton-sc-13a33n5-1",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:transparent !important;font-size:18px;align-items:center;white-space:nowrap;",
+          [Function],
+          " &:hover{",
+          [Function],
+          "}&:disabled{background-color:transparent !important;",
+          [Function],
+          "}&:after{display:none;}",
+          [Function],
+          " &:hover{",
+          [Function],
+          "}",
+        ],
+      },
+      "displayName": "ModalButtons__ModalPrimaryButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1rtn1fx-0",
+        "ModalButtons__ModalButton-sc-13a33n5-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "ModalButtons__ModalPrimaryButton-sc-13a33n5-1",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ModalButton Styles ModalSuccessButton should render correctly with icon 1`] = `
+<ModalButtons__SuccessButton>
+  <ModalButtons__SuccessIcon />
+</ModalButtons__SuccessButton>
+`;
+
+exports[`Test for ModalButton Styles ModalSuccessButton should render correctly without props 1`] = `<ModalButtons__SuccessButton />`;
+
+exports[`Test for ModalButton Styles ModalSuccessButton should render with props 1`] = `
+<ModalButtons__SuccessButton
+  width="50%"
+/>
+`;
+
+exports[`Test for ModalButton Styles SuccessButton should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ModalButtons__SuccessButton-sc-13a33n5-3",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:transparent !important;font-size:18px;align-items:center;white-space:nowrap;",
+          [Function],
+          " &:hover{",
+          [Function],
+          "}&:disabled{background-color:transparent !important;",
+          [Function],
+          "}&:after{display:none;}",
+          [Function],
+          " &:hover{",
+          [Function],
+          "}",
+        ],
+      },
+      "displayName": "ModalButtons__SuccessButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1rtn1fx-0",
+        "ModalButtons__ModalButton-sc-13a33n5-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "ModalButtons__SuccessButton-sc-13a33n5-3",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "buttons": Object {
+        "base": Object {
+          "background": "#456",
+          "backgroundHover": "#789",
+          "color": "#abc",
+          "ripple": "#123",
+        },
+        "danger": Object {
+          "background": "#aaa",
+          "backgroundHover": "#bbb",
+        },
+        "primary": Object {
+          "background": "#bbb",
+          "backgroundHover": "#ccc",
+          "color": "#ddd",
+          "ripple": "#aaa",
+        },
+        "success": Object {
+          "background": "#111",
+          "backgroundHover": "#222",
+          "color": "#333",
+          "ripple": "#000",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ModalButton Styles SuccessButton should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ModalButtons__SuccessButton-sc-13a33n5-3",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";min-width:",
+          [Function],
+          ";max-width:",
+          [Function],
+          ";height:",
+          [Function],
+          ";min-height:",
+          [Function],
+          ";max-height:",
+          [Function],
+          ";margin:",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          "background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border:0px;border-radius:4px;font-size:18px;font-weight:600;font-family:inherit;cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:hover{background-color:",
+          [Function],
+          ";}&:disabled{background-color:",
+          [Function],
+          " !important;border:none !important;color:",
+          [Function],
+          " !important;}&:after{content:'';position:absolute;top:50%;left:50%;width:5px;height:5px;background:",
+          [Function],
+          ";opacity:0.5;opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-dqEYVM",
+            "inject": [Function],
+            "name": "dqEYVM",
+            "rules": Array [
+              "@-webkit-keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes dqEYVM{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:1;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:1;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}",
+          "background-color:transparent !important;font-size:18px;align-items:center;white-space:nowrap;",
+          [Function],
+          " &:hover{",
+          [Function],
+          "}&:disabled{background-color:transparent !important;",
+          [Function],
+          "}&:after{display:none;}",
+          [Function],
+          " &:hover{",
+          [Function],
+          "}",
+        ],
+      },
+      "displayName": "ModalButtons__SuccessButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1rtn1fx-0",
+        "ModalButtons__ModalButton-sc-13a33n5-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "ModalButtons__SuccessButton-sc-13a33n5-3",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ModalButton Styles SuccessIcon should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "ModalButtons__SuccessIcon-sc-13a33n5-2",
+        "isStatic": false,
+        "rules": Array [
+          "width:18px;height:18px;margin:auto;margin-right:16px;",
+        ],
+      },
+      "displayName": "ModalButtons__SuccessIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "ModalButtons__SuccessIcon-sc-13a33n5-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

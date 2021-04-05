@@ -1,0 +1,115 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for Action Button should render correctly with props type=empty 1`] = `
+<TableSelectControlstyles__Container
+  onDeselect={[Function]}
+  selectedTitles={0}
+  totalSelectedTitles="0,00"
+  type="empty"
+>
+  <TableSelectControlstyles__SelectedTitles
+    type="empty"
+  >
+    Nenhum título selecionado
+  </TableSelectControlstyles__SelectedTitles>
+  <TableSelectControlstyles__TotalSelectedTitles
+    onClick={[Function]}
+    type="empty"
+  >
+    <TableSelectControlstyles__Currency
+      type="empty"
+    >
+      R$
+    </TableSelectControlstyles__Currency>
+    0,00
+  </TableSelectControlstyles__TotalSelectedTitles>
+</TableSelectControlstyles__Container>
+`;
+
+exports[`Test for Action Button should render correctly with props type=multiple 1`] = `
+<TableSelectControlstyles__Container
+  onDeselect={[Function]}
+  selectedTitles={100}
+  totalSelectedTitles="10.000,00"
+  type="multiple"
+>
+  <TableSelectControlstyles__SelectedTitles
+    type="multiple"
+  >
+    100 títulos selecionados
+  </TableSelectControlstyles__SelectedTitles>
+  <TableSelectControlstyles__TotalSelectedTitles
+    onClick={[Function]}
+    type="multiple"
+  >
+    <TableSelectControlstyles__Currency
+      type="multiple"
+    >
+      R$
+    </TableSelectControlstyles__Currency>
+    10.000,00
+    <TableSelectControlstyles__DeselectIndicator
+      type="multiple"
+    >
+      <TableSelectControlstyles__Close />
+    </TableSelectControlstyles__DeselectIndicator>
+  </TableSelectControlstyles__TotalSelectedTitles>
+</TableSelectControlstyles__Container>
+`;
+
+exports[`Test for Action Button should render correctly with props type=single 1`] = `
+<TableSelectControlstyles__Container
+  onDeselect={[Function]}
+  selectedTitles={5}
+  totalSelectedTitles="100,00"
+  type="single"
+>
+  <TableSelectControlstyles__SelectedTitles
+    type="single"
+  >
+    5 títulos selecionados
+  </TableSelectControlstyles__SelectedTitles>
+  <TableSelectControlstyles__TotalSelectedTitles
+    onClick={[Function]}
+    type="single"
+  >
+    <TableSelectControlstyles__Currency
+      type="single"
+    >
+      R$
+    </TableSelectControlstyles__Currency>
+    100,00
+    <TableSelectControlstyles__DeselectIndicator
+      type="single"
+    >
+      <TableSelectControlstyles__Close />
+    </TableSelectControlstyles__DeselectIndicator>
+  </TableSelectControlstyles__TotalSelectedTitles>
+</TableSelectControlstyles__Container>
+`;
+
+exports[`Test for Action Button should render correctly without props 1`] = `
+<TableSelectControlstyles__Container
+  onDeselect={[Function]}
+  selectedTitles={0}
+  totalSelectedTitles="0,00"
+  type="empty"
+>
+  <TableSelectControlstyles__SelectedTitles
+    type="empty"
+  >
+    Nenhum título selecionado
+  </TableSelectControlstyles__SelectedTitles>
+  <TableSelectControlstyles__TotalSelectedTitles
+    onClick={[Function]}
+    type="empty"
+  >
+    <TableSelectControlstyles__Currency
+      type="empty"
+    >
+      R$
+    </TableSelectControlstyles__Currency>
+    0,00
+  </TableSelectControlstyles__TotalSelectedTitles>
+</TableSelectControlstyles__Container>
+`;

@@ -1,0 +1,714 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for SimpleDisplay style Components Container should render correctly with evidentiate=true 1`] = `
+<StyledComponent
+  evidentiate={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Container-sc-1u0ztoh-2",
+        "isStatic": false,
+        "rules": Array [
+          "flex-grow:1;display:flex;flex-direction:column;justify-content:center;align-items:center;position:relative;padding:25px 0px;flex-basis:50%;max-width:unset;max-height:114px;min-height:0;min-width:0;border-left:",
+          [Function],
+          ";cursor:",
+          [Function],
+          ";color:",
+          [Function],
+          ";box-sizing:border-box;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    max-width: 50%;
+    background-color: ",
+          [Function],
+          ";
+    color: ",
+          [Function],
+          ";
+    max-height: unset;
+    padding: 0px;
+
+    & ",
+          ".styles__Value-sc-1u0ztoh-1",
+          " {
+      font-size:  ",
+          [Function],
+          ";
+      color: ",
+          [Function],
+          ";
+    }
+    & ",
+          ".styles__Label-sc-1u0ztoh-0",
+          " {
+      color: ",
+          [Function],
+          " ;
+    }
+    &:hover {
+      background-color: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Value-sc-1u0ztoh-1",
+          " {
+      font-size: 34px;
+      color: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Label-sc-1u0ztoh-0",
+          " {
+      color: ",
+          [Function],
+          ";
+    }
+    &:after {
+      display: ",
+          [Function],
+          ";
+      position: absolute;
+      top: 20%;
+      right: -1px;
+      content: '';
+      width: 0px;
+      height: 60%;
+      border-right: 2px solid #e6e6e6;
+    }
+    &:last-child:after {
+      display: none;
+    }
+",
+          "}",
+        ],
+      },
+      "displayName": "styles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Container-sc-1u0ztoh-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for SimpleDisplay style Components Container should render correctly with hasAction=true 1`] = `
+<StyledComponent
+  asAction={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Container-sc-1u0ztoh-2",
+        "isStatic": false,
+        "rules": Array [
+          "flex-grow:1;display:flex;flex-direction:column;justify-content:center;align-items:center;position:relative;padding:25px 0px;flex-basis:50%;max-width:unset;max-height:114px;min-height:0;min-width:0;border-left:",
+          [Function],
+          ";cursor:",
+          [Function],
+          ";color:",
+          [Function],
+          ";box-sizing:border-box;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    max-width: 50%;
+    background-color: ",
+          [Function],
+          ";
+    color: ",
+          [Function],
+          ";
+    max-height: unset;
+    padding: 0px;
+
+    & ",
+          ".styles__Value-sc-1u0ztoh-1",
+          " {
+      font-size:  ",
+          [Function],
+          ";
+      color: ",
+          [Function],
+          ";
+    }
+    & ",
+          ".styles__Label-sc-1u0ztoh-0",
+          " {
+      color: ",
+          [Function],
+          " ;
+    }
+    &:hover {
+      background-color: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Value-sc-1u0ztoh-1",
+          " {
+      font-size: 34px;
+      color: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Label-sc-1u0ztoh-0",
+          " {
+      color: ",
+          [Function],
+          ";
+    }
+    &:after {
+      display: ",
+          [Function],
+          ";
+      position: absolute;
+      top: 20%;
+      right: -1px;
+      content: '';
+      width: 0px;
+      height: 60%;
+      border-right: 2px solid #e6e6e6;
+    }
+    &:last-child:after {
+      display: none;
+    }
+",
+          "}",
+        ],
+      },
+      "displayName": "styles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Container-sc-1u0ztoh-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for SimpleDisplay style Components Container should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Container-sc-1u0ztoh-2",
+        "isStatic": false,
+        "rules": Array [
+          "flex-grow:1;display:flex;flex-direction:column;justify-content:center;align-items:center;position:relative;padding:25px 0px;flex-basis:50%;max-width:unset;max-height:114px;min-height:0;min-width:0;border-left:",
+          [Function],
+          ";cursor:",
+          [Function],
+          ";color:",
+          [Function],
+          ";box-sizing:border-box;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    max-width: 50%;
+    background-color: ",
+          [Function],
+          ";
+    color: ",
+          [Function],
+          ";
+    max-height: unset;
+    padding: 0px;
+
+    & ",
+          ".styles__Value-sc-1u0ztoh-1",
+          " {
+      font-size:  ",
+          [Function],
+          ";
+      color: ",
+          [Function],
+          ";
+    }
+    & ",
+          ".styles__Label-sc-1u0ztoh-0",
+          " {
+      color: ",
+          [Function],
+          " ;
+    }
+    &:hover {
+      background-color: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Value-sc-1u0ztoh-1",
+          " {
+      font-size: 34px;
+      color: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Label-sc-1u0ztoh-0",
+          " {
+      color: ",
+          [Function],
+          ";
+    }
+    &:after {
+      display: ",
+          [Function],
+          ";
+      position: absolute;
+      top: 20%;
+      right: -1px;
+      content: '';
+      width: 0px;
+      height: 60%;
+      border-right: 2px solid #e6e6e6;
+    }
+    &:last-child:after {
+      display: none;
+    }
+",
+          "}",
+        ],
+      },
+      "displayName": "styles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Container-sc-1u0ztoh-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "simpleDisplay": Object {
+        "container": Object {
+          "color": "#222",
+          "highlight": Object {
+            "background": "#333",
+            "label": "#444",
+            "value": "#555",
+          },
+          "hover": Object {
+            "background": "#666",
+            "label": "#777",
+            "value": "#888",
+          },
+        },
+        "label": "#000",
+        "value": "#111",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for SimpleDisplay style Components Container should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Container-sc-1u0ztoh-2",
+        "isStatic": false,
+        "rules": Array [
+          "flex-grow:1;display:flex;flex-direction:column;justify-content:center;align-items:center;position:relative;padding:25px 0px;flex-basis:50%;max-width:unset;max-height:114px;min-height:0;min-width:0;border-left:",
+          [Function],
+          ";cursor:",
+          [Function],
+          ";color:",
+          [Function],
+          ";box-sizing:border-box;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    max-width: 50%;
+    background-color: ",
+          [Function],
+          ";
+    color: ",
+          [Function],
+          ";
+    max-height: unset;
+    padding: 0px;
+
+    & ",
+          ".styles__Value-sc-1u0ztoh-1",
+          " {
+      font-size:  ",
+          [Function],
+          ";
+      color: ",
+          [Function],
+          ";
+    }
+    & ",
+          ".styles__Label-sc-1u0ztoh-0",
+          " {
+      color: ",
+          [Function],
+          " ;
+    }
+    &:hover {
+      background-color: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Value-sc-1u0ztoh-1",
+          " {
+      font-size: 34px;
+      color: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Label-sc-1u0ztoh-0",
+          " {
+      color: ",
+          [Function],
+          ";
+    }
+    &:after {
+      display: ",
+          [Function],
+          ";
+      position: absolute;
+      top: 20%;
+      right: -1px;
+      content: '';
+      width: 0px;
+      height: 60%;
+      border-right: 2px solid #e6e6e6;
+    }
+    &:last-child:after {
+      display: none;
+    }
+",
+          "}",
+        ],
+      },
+      "displayName": "styles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Container-sc-1u0ztoh-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for SimpleDisplay style Components Label should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Label-sc-1u0ztoh-0",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";color:",
+          [Function],
+          ";text-align:center;transition:all 100ms linear;",
+        ],
+      },
+      "displayName": "styles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Label-sc-1u0ztoh-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "simpleDisplay": Object {
+        "container": Object {
+          "color": "#222",
+          "highlight": Object {
+            "background": "#333",
+            "label": "#444",
+            "value": "#555",
+          },
+          "hover": Object {
+            "background": "#666",
+            "label": "#777",
+            "value": "#888",
+          },
+        },
+        "label": "#000",
+        "value": "#111",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for SimpleDisplay style Components Label should render correctly without color 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Label-sc-1u0ztoh-0",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";color:",
+          [Function],
+          ";text-align:center;transition:all 100ms linear;",
+        ],
+      },
+      "displayName": "styles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Label-sc-1u0ztoh-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for SimpleDisplay style Components Value should render correctly with prefix="" 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Value-sc-1u0ztoh-1",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";color:",
+          [Function],
+          ";line-height:0.8em;transition:all 100ms linear;position:relative;margin-left:",
+          [Function],
+          ";margin-bottom:10px;box-sizing:border-box;",
+          [Function],
+          "}}",
+        ],
+      },
+      "displayName": "styles__Value",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Value-sc-1u0ztoh-1",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  prefix=""
+>
+  <div>
+    child
+  </div>
+</StyledComponent>
+`;
+
+exports[`Test for SimpleDisplay style Components Value should render correctly with prefix="pf" 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Value-sc-1u0ztoh-1",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";color:",
+          [Function],
+          ";line-height:0.8em;transition:all 100ms linear;position:relative;margin-left:",
+          [Function],
+          ";margin-bottom:10px;box-sizing:border-box;",
+          [Function],
+          "}}",
+        ],
+      },
+      "displayName": "styles__Value",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Value-sc-1u0ztoh-1",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  prefix="pf"
+>
+  <div>
+    child
+  </div>
+</StyledComponent>
+`;
+
+exports[`Test for SimpleDisplay style Components Value should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Value-sc-1u0ztoh-1",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";color:",
+          [Function],
+          ";line-height:0.8em;transition:all 100ms linear;position:relative;margin-left:",
+          [Function],
+          ";margin-bottom:10px;box-sizing:border-box;",
+          [Function],
+          "}}",
+        ],
+      },
+      "displayName": "styles__Value",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Value-sc-1u0ztoh-1",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "simpleDisplay": Object {
+        "container": Object {
+          "color": "#222",
+          "highlight": Object {
+            "background": "#333",
+            "label": "#444",
+            "value": "#555",
+          },
+          "hover": Object {
+            "background": "#666",
+            "label": "#777",
+            "value": "#888",
+          },
+        },
+        "label": "#000",
+        "value": "#111",
+      },
+    }
+  }
+>
+  <div>
+    child
+  </div>
+</StyledComponent>
+`;
+
+exports[`Test for SimpleDisplay style Components Value should render correctly without prefix 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Value-sc-1u0ztoh-1",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";color:",
+          [Function],
+          ";line-height:0.8em;transition:all 100ms linear;position:relative;margin-left:",
+          [Function],
+          ";margin-bottom:10px;box-sizing:border-box;",
+          [Function],
+          "}}",
+        ],
+      },
+      "displayName": "styles__Value",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Value-sc-1u0ztoh-1",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  <div>
+    child
+  </div>
+</StyledComponent>
+`;

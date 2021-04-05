@@ -1,0 +1,993 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing RadioButton Styles Controled Styles FieldBox should render correctly with layout === opened 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__FieldBox-sc-1456he2-2",
+        "isStatic": false,
+        "rules": Array [
+          "--color:",
+          [Function],
+          ";width:140px;height:36px;line-height:36px;padding:0 8px;color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;border:2px solid var(--color);border-radius:4px;position:relative;cursor:pointer;&:after{--height:8px;--width:7px;content:\\"\\";opacity:0.8;border-top:var(--height) solid var(--color);border-right:var(--width) solid transparent;border-bottom:var(--height) solid transparent;border-left:var(--width) solid transparent;border-radius:4px;position:absolute;right:8px;top:calc(50% - (var(--height) - (var(--height)/2)));transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;}",
+        ],
+      },
+      "displayName": "RangeFieldstyles__FieldBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__FieldBox-sc-1456he2-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  layout="opened"
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles FieldBox should render correctly with layout === selected 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__FieldBox-sc-1456he2-2",
+        "isStatic": false,
+        "rules": Array [
+          "--color:",
+          [Function],
+          ";width:140px;height:36px;line-height:36px;padding:0 8px;color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;border:2px solid var(--color);border-radius:4px;position:relative;cursor:pointer;&:after{--height:8px;--width:7px;content:\\"\\";opacity:0.8;border-top:var(--height) solid var(--color);border-right:var(--width) solid transparent;border-bottom:var(--height) solid transparent;border-left:var(--width) solid transparent;border-radius:4px;position:absolute;right:8px;top:calc(50% - (var(--height) - (var(--height)/2)));transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;}",
+        ],
+      },
+      "displayName": "RangeFieldstyles__FieldBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__FieldBox-sc-1456he2-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  layout="selected"
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles FieldBox should render correctly with layout === unselected 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__FieldBox-sc-1456he2-2",
+        "isStatic": false,
+        "rules": Array [
+          "--color:",
+          [Function],
+          ";width:140px;height:36px;line-height:36px;padding:0 8px;color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;border:2px solid var(--color);border-radius:4px;position:relative;cursor:pointer;&:after{--height:8px;--width:7px;content:\\"\\";opacity:0.8;border-top:var(--height) solid var(--color);border-right:var(--width) solid transparent;border-bottom:var(--height) solid transparent;border-left:var(--width) solid transparent;border-radius:4px;position:absolute;right:8px;top:calc(50% - (var(--height) - (var(--height)/2)));transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;}",
+        ],
+      },
+      "displayName": "RangeFieldstyles__FieldBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__FieldBox-sc-1456he2-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  layout="unselected"
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles FieldBox should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__FieldBox-sc-1456he2-2",
+        "isStatic": false,
+        "rules": Array [
+          "--color:",
+          [Function],
+          ";width:140px;height:36px;line-height:36px;padding:0 8px;color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;border:2px solid var(--color);border-radius:4px;position:relative;cursor:pointer;&:after{--height:8px;--width:7px;content:\\"\\";opacity:0.8;border-top:var(--height) solid var(--color);border-right:var(--width) solid transparent;border-bottom:var(--height) solid transparent;border-left:var(--width) solid transparent;border-radius:4px;position:absolute;right:8px;top:calc(50% - (var(--height) - (var(--height)/2)));transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;}",
+        ],
+      },
+      "displayName": "RangeFieldstyles__FieldBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__FieldBox-sc-1456he2-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles FromTooltip should render correctly with unselected = true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__FromTooltip-sc-1456he2-12",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;min-width:20px;width:var(--size);height:15px;padding:0px 4px;box-sizing:border-box;color:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-shadow:0px 2px 5px ",
+          [Function],
+          ";display:flex;justify-content:center;align-items:center;border-radius:4px;z-index:4;top:10px;",
+          [Function],
+          "left:calc(var(--from) - var(--half-size));",
+        ],
+      },
+      "displayName": "RangeFieldstyles__FromTooltip",
+      "foldedComponentIds": Array [
+        "RangeFieldstyles__Tooltip-sc-1456he2-11",
+      ],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__FromTooltip-sc-1456he2-12",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  unselected={true}
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles FromTooltip should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__FromTooltip-sc-1456he2-12",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;min-width:20px;width:var(--size);height:15px;padding:0px 4px;box-sizing:border-box;color:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-shadow:0px 2px 5px ",
+          [Function],
+          ";display:flex;justify-content:center;align-items:center;border-radius:4px;z-index:4;top:10px;",
+          [Function],
+          "left:calc(var(--from) - var(--half-size));",
+        ],
+      },
+      "displayName": "RangeFieldstyles__FromTooltip",
+      "foldedComponentIds": Array [
+        "RangeFieldstyles__Tooltip-sc-1456he2-11",
+      ],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__FromTooltip-sc-1456he2-12",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles Label should render correctly with layout === opened 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__Label-sc-1456he2-4",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";line-height:14px;margin:8px 0px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "RangeFieldstyles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__Label-sc-1456he2-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  layout="opened"
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles Label should render correctly with layout === selected 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__Label-sc-1456he2-4",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";line-height:14px;margin:8px 0px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "RangeFieldstyles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__Label-sc-1456he2-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  layout="selected"
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles Label should render correctly with layout === unselected 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__Label-sc-1456he2-4",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";line-height:14px;margin:8px 0px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "RangeFieldstyles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__Label-sc-1456he2-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  layout="unselected"
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles Label should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__Label-sc-1456he2-4",
+        "isStatic": false,
+        "rules": Array [
+          "color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";line-height:14px;margin:8px 0px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "RangeFieldstyles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__Label-sc-1456he2-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles RangeContainer should render correctly with open = true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__FieldBox-sc-1456he2-2",
+        "isStatic": false,
+        "rules": Array [
+          "--color:",
+          [Function],
+          ";width:140px;height:36px;line-height:36px;padding:0 8px;color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;border:2px solid var(--color);border-radius:4px;position:relative;cursor:pointer;&:after{--height:8px;--width:7px;content:\\"\\";opacity:0.8;border-top:var(--height) solid var(--color);border-right:var(--width) solid transparent;border-bottom:var(--height) solid transparent;border-left:var(--width) solid transparent;border-radius:4px;position:absolute;right:8px;top:calc(50% - (var(--height) - (var(--height)/2)));transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;}",
+        ],
+      },
+      "displayName": "RangeFieldstyles__FieldBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__FieldBox-sc-1456he2-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={true}
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles RangeContainer should render correctly with open = true and position = center 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__FieldBox-sc-1456he2-2",
+        "isStatic": false,
+        "rules": Array [
+          "--color:",
+          [Function],
+          ";width:140px;height:36px;line-height:36px;padding:0 8px;color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;border:2px solid var(--color);border-radius:4px;position:relative;cursor:pointer;&:after{--height:8px;--width:7px;content:\\"\\";opacity:0.8;border-top:var(--height) solid var(--color);border-right:var(--width) solid transparent;border-bottom:var(--height) solid transparent;border-left:var(--width) solid transparent;border-radius:4px;position:absolute;right:8px;top:calc(50% - (var(--height) - (var(--height)/2)));transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;}",
+        ],
+      },
+      "displayName": "RangeFieldstyles__FieldBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__FieldBox-sc-1456he2-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={true}
+  position="center"
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles RangeContainer should render correctly with open = true and position = left 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__FieldBox-sc-1456he2-2",
+        "isStatic": false,
+        "rules": Array [
+          "--color:",
+          [Function],
+          ";width:140px;height:36px;line-height:36px;padding:0 8px;color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;border:2px solid var(--color);border-radius:4px;position:relative;cursor:pointer;&:after{--height:8px;--width:7px;content:\\"\\";opacity:0.8;border-top:var(--height) solid var(--color);border-right:var(--width) solid transparent;border-bottom:var(--height) solid transparent;border-left:var(--width) solid transparent;border-radius:4px;position:absolute;right:8px;top:calc(50% - (var(--height) - (var(--height)/2)));transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;}",
+        ],
+      },
+      "displayName": "RangeFieldstyles__FieldBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__FieldBox-sc-1456he2-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={true}
+  position="left"
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles RangeContainer should render correctly with open = true and position = right 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__FieldBox-sc-1456he2-2",
+        "isStatic": false,
+        "rules": Array [
+          "--color:",
+          [Function],
+          ";width:140px;height:36px;line-height:36px;padding:0 8px;color:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;border:2px solid var(--color);border-radius:4px;position:relative;cursor:pointer;&:after{--height:8px;--width:7px;content:\\"\\";opacity:0.8;border-top:var(--height) solid var(--color);border-right:var(--width) solid transparent;border-bottom:var(--height) solid transparent;border-left:var(--width) solid transparent;border-radius:4px;position:absolute;right:8px;top:calc(50% - (var(--height) - (var(--height)/2)));transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;}",
+        ],
+      },
+      "displayName": "RangeFieldstyles__FieldBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__FieldBox-sc-1456he2-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={true}
+  position="right"
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles RangeContainer should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__RangeContainer-sc-1456he2-3",
+        "isStatic": false,
+        "rules": Array [
+          "--width:260px;width:var(--width);height:100px;margin-top:2px;position:absolute;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          [Function],
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "RangeFieldstyles__RangeContainer",
+      "foldedComponentIds": Array [
+        "Cards__Card-sc-1kn0psw-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__RangeContainer-sc-1456he2-3",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles ToTooltip should render correctly with unselected = true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__ToTooltip-sc-1456he2-13",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;min-width:20px;width:var(--size);height:15px;padding:0px 4px;box-sizing:border-box;color:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-shadow:0px 2px 5px ",
+          [Function],
+          ";display:flex;justify-content:center;align-items:center;border-radius:4px;z-index:4;top:10px;",
+          [Function],
+          "left:calc(var(--to) - var(--half-size));",
+        ],
+      },
+      "displayName": "RangeFieldstyles__ToTooltip",
+      "foldedComponentIds": Array [
+        "RangeFieldstyles__Tooltip-sc-1456he2-11",
+      ],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__ToTooltip-sc-1456he2-13",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  unselected={true}
+/>
+`;
+
+exports[`Testing RadioButton Styles Controled Styles ToTooltip should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__ToTooltip-sc-1456he2-13",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;min-width:20px;width:var(--size);height:15px;padding:0px 4px;box-sizing:border-box;color:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-shadow:0px 2px 5px ",
+          [Function],
+          ";display:flex;justify-content:center;align-items:center;border-radius:4px;z-index:4;top:10px;",
+          [Function],
+          "left:calc(var(--to) - var(--half-size));",
+        ],
+      },
+      "displayName": "RangeFieldstyles__ToTooltip",
+      "foldedComponentIds": Array [
+        "RangeFieldstyles__Tooltip-sc-1456he2-11",
+      ],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__ToTooltip-sc-1456he2-13",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing RadioButton Styles Uncontrolled Styles should CardContent render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__CardContent-sc-1456he2-1",
+        "isStatic": false,
+        "rules": Array [
+          "padding:8px 16px;display:flex;flex-direction:column;",
+        ],
+      },
+      "displayName": "RangeFieldstyles__CardContent",
+      "foldedComponentIds": Array [
+        "Cards__CardContent-sc-1kn0psw-2",
+      ],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__CardContent-sc-1456he2-1",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing RadioButton Styles Uncontrolled Styles should DiffBar render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__DiffBar-sc-1456he2-14",
+        "isStatic": false,
+        "rules": Array [
+          "--color:",
+          [Function],
+          ";height:3px;width:calc(100% - 20px);z-index:1;position:absolute;display:block;background:linear-gradient(to right,transparent var(--from),var(--color) 0,var(--color) var(--to),transparent 0 ) no-repeat;",
+        ],
+      },
+      "displayName": "RangeFieldstyles__DiffBar",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__DiffBar-sc-1456he2-14",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing RadioButton Styles Uncontrolled Styles should FieldContainer render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__FieldContainer-sc-1456he2-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;",
+        ],
+      },
+      "displayName": "RangeFieldstyles__FieldContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__FieldContainer-sc-1456he2-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing RadioButton Styles Uncontrolled Styles should RangeInputContainer render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__RangeInputContainer-sc-1456he2-8",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;flex-grow:1;position:relative;display:flex;justify-content:center;align-items:center;",
+        ],
+      },
+      "displayName": "RangeFieldstyles__RangeInputContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__RangeInputContainer-sc-1456he2-8",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing RadioButton Styles Uncontrolled Styles should RangeInputFrom render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        Object {
+          "type": "range",
+        },
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__RangeInputFrom-sc-1456he2-9",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;",
+          "-webkit-appearance:none;padding:0;margin:0;display:inline-block;vertical-align:top;width:100%;&:focus{outline:none!important;border:0;}&::-moz-focus-outer{border:0;}",
+          " &::-webkit-slider-thumb{-webkit-appearance:none;position:relative;z-index:3;",
+          "width:18px;height:18px;border:1px solid ",
+          [Function],
+          ";border-radius:50%;box-shadow:0px 2px 5px ",
+          [Function],
+          ";cursor:pointer;background-color:#fff;margin-top:-9px;",
+          "}&::-moz-range-thumb{transform:scale(1);z-index:2;",
+          "width:18px;height:18px;border:1px solid ",
+          [Function],
+          ";border-radius:50%;box-shadow:0px 2px 5px ",
+          [Function],
+          ";cursor:pointer;background-color:#fff;margin-top:-9px;",
+          "}&::-webkit-slider-runnable-track{",
+          "width:100%;cursor:pointer;height:0px;border-radius:1px;border:1px solid ",
+          [Function],
+          ";",
+          "}&::-moz-range-track{",
+          "width:100%;cursor:pointer;height:0px;border-radius:1px;border:1px solid ",
+          [Function],
+          ";",
+          "}",
+        ],
+      },
+      "displayName": "RangeFieldstyles__RangeInputFrom",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__RangeInputFrom-sc-1456he2-9",
+      "target": "input",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing RadioButton Styles Uncontrolled Styles should RangeInputTo render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        Object {
+          "type": "range",
+        },
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__RangeInputTo-sc-1456he2-10",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;",
+          "-webkit-appearance:none;padding:0;margin:0;display:inline-block;vertical-align:top;width:100%;&:focus{outline:none!important;border:0;}&::-moz-focus-outer{border:0;}",
+          " &::-webkit-slider-runnable-track{",
+          "width:100%;cursor:pointer;height:0px;border-radius:1px;border:1px solid ",
+          [Function],
+          ";",
+          "}&::-moz-range-track{",
+          "width:100%;cursor:pointer;height:0px;border-radius:1px;border:1px solid ",
+          [Function],
+          ";",
+          "}&::-webkit-slider-thumb{-webkit-appearance:none;position:relative;z-index:3;",
+          "width:18px;height:18px;border:1px solid ",
+          [Function],
+          ";border-radius:50%;box-shadow:0px 2px 5px ",
+          [Function],
+          ";cursor:pointer;background-color:#fff;margin-top:-9px;",
+          "}&::-moz-range-thumb{transform:scale(1);z-index:2;",
+          "width:18px;height:18px;border:1px solid ",
+          [Function],
+          ";border-radius:50%;box-shadow:0px 2px 5px ",
+          [Function],
+          ";cursor:pointer;background-color:#fff;margin-top:-9px;",
+          "}",
+        ],
+      },
+      "displayName": "RangeFieldstyles__RangeInputTo",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__RangeInputTo-sc-1456he2-10",
+      "target": "input",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing RadioButton Styles Uncontrolled Styles should ValueContainer render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__ValueContainer-sc-1456he2-7",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;display:flex;justify-content:space-between;align-items:center;",
+        ],
+      },
+      "displayName": "RangeFieldstyles__ValueContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__ValueContainer-sc-1456he2-7",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing RadioButton Styles Uncontrolled Styles should ValueField render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        Object {
+          "type": "number",
+        },
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__ValueField-sc-1456he2-5",
+        "isStatic": false,
+        "rules": Array [
+          "--field-color:",
+          [Function],
+          ";border:1px solid;border-color:var(--field-color);border-radius:4px;width:36px;height:20px;color:",
+          [Function],
+          ";text-align:center;line-height:36px;font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";outline:none;-moz-appearance:textfield;&::-webkit-input-placeholder{color:var(--field-color);}&::-moz-placeholder{color:var(--field-color);}&:-ms-input-placeholder{color:var(--field-color);}&:-moz-placeholder{color:var(--field-color);}&::-webkit-inner-spin-button,&::-webkit-outer-spin-button{-webkit-appearance:none;margin:0;}",
+        ],
+      },
+      "displayName": "RangeFieldstyles__ValueField",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__ValueField-sc-1456he2-5",
+      "target": "input",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing RadioButton Styles Uncontrolled Styles should ValueLabel render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "RangeFieldstyles__ValueLabel-sc-1456he2-6",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;flex-direction:column;color:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "RangeFieldstyles__ValueLabel",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "RangeFieldstyles__ValueLabel-sc-1456he2-6",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

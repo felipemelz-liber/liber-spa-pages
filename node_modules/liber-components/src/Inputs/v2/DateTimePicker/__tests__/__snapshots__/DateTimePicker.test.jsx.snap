@@ -1,0 +1,783 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for DateTimePicker should change date on calendar Click 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <DateTimePickerstyles__Container>
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={
+        <ForwardRef(DateTimePickerstyles__Field)
+          label="Data"
+          mask="99/99/9999          99:99:99"
+          maskChar={null}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
+          value="15/05/1987     "
+          version="2"
+          width="340px"
+        />
+      }
+      hasOutsideLabel={false}
+      label=""
+      open={false}
+      position="bottom-left-down-right"
+      window={[Window]}
+    >
+      <DateTimePickerstyles__PickerBody>
+        <DateTimePickerstyles__PickerSlider
+          show="clock"
+        >
+          <DateTimePickerstyles__CalendarContainer>
+            <MonthCalendar
+              date={"1987-05-01T03:00:00.000Z"}
+              dayRenderer={[Function]}
+              defaultDate={null}
+              firstDayOfWeek={0}
+              innerRef={null}
+              minDate={null}
+              monthsLabels={
+                Array [
+                  "Janeiro",
+                  "Fevereiro",
+                  "Março",
+                  "Abril",
+                  "Maio",
+                  "Junho",
+                  "Julho",
+                  "Agosto",
+                  "Setembro",
+                  "Outubro",
+                  "Novembro",
+                  "Dezembro",
+                ]
+              }
+              navigation={
+                Array [
+                  "prev",
+                  "next",
+                ]
+              }
+              onClick={[Function]}
+              onNavigate={[Function]}
+              onlyCurrent={false}
+              version="2"
+              weekLabels={
+                Array [
+                  "D",
+                  "S",
+                  "T",
+                  "Q",
+                  "Q",
+                  "S",
+                  "S",
+                ]
+              }
+            />
+          </DateTimePickerstyles__CalendarContainer>
+          <DateTimePickerstyles__ClockContainer>
+            <Clock
+              hour=""
+              min=""
+              onClick={[Function]}
+              sec=""
+            />
+          </DateTimePickerstyles__ClockContainer>
+        </DateTimePickerstyles__PickerSlider>
+        <DateTimePickerstyles__ActionFooter>
+          <Buttons__Button
+            onClick={[Function]}
+            version={2}
+          >
+            SELECIONAR DATA
+          </Buttons__Button>
+        </DateTimePickerstyles__ActionFooter>
+      </DateTimePickerstyles__PickerBody>
+    </SimpleDropDown>
+    <DateTimePickerstyles__Icon
+      hide={false}
+    />
+    <DateTimePickerstyles__Close
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+      show={false}
+    />
+    <DateTimePickerstyles__InputSeparator>
+      ás
+    </DateTimePickerstyles__InputSeparator>
+  </DateTimePickerstyles__Container>
+</ClickOutside>
+`;
+
+exports[`Test for DateTimePicker should change date on input change 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <DateTimePickerstyles__Container>
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={
+        <ForwardRef(DateTimePickerstyles__Field)
+          label="Data"
+          mask="99/99/9999          99:99:99"
+          maskChar={null}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
+          value="15/05/1987          "
+          version="2"
+          width="340px"
+        />
+      }
+      hasOutsideLabel={false}
+      label=""
+      open={false}
+      position="bottom-left-down-right"
+      window={[Window]}
+    >
+      <DateTimePickerstyles__PickerBody>
+        <DateTimePickerstyles__PickerSlider
+          show="clock"
+        >
+          <DateTimePickerstyles__CalendarContainer>
+            <MonthCalendar
+              date={"1987-05-01T03:00:00.000Z"}
+              dayRenderer={[Function]}
+              defaultDate={null}
+              firstDayOfWeek={0}
+              innerRef={null}
+              minDate={null}
+              monthsLabels={
+                Array [
+                  "Janeiro",
+                  "Fevereiro",
+                  "Março",
+                  "Abril",
+                  "Maio",
+                  "Junho",
+                  "Julho",
+                  "Agosto",
+                  "Setembro",
+                  "Outubro",
+                  "Novembro",
+                  "Dezembro",
+                ]
+              }
+              navigation={
+                Array [
+                  "prev",
+                  "next",
+                ]
+              }
+              onClick={[Function]}
+              onNavigate={[Function]}
+              onlyCurrent={false}
+              version="2"
+              weekLabels={
+                Array [
+                  "D",
+                  "S",
+                  "T",
+                  "Q",
+                  "Q",
+                  "S",
+                  "S",
+                ]
+              }
+            />
+          </DateTimePickerstyles__CalendarContainer>
+          <DateTimePickerstyles__ClockContainer>
+            <Clock
+              hour=""
+              min=""
+              onClick={[Function]}
+              sec=""
+            />
+          </DateTimePickerstyles__ClockContainer>
+        </DateTimePickerstyles__PickerSlider>
+        <DateTimePickerstyles__ActionFooter>
+          <Buttons__Button
+            onClick={[Function]}
+            version={2}
+          >
+            SELECIONAR DATA
+          </Buttons__Button>
+        </DateTimePickerstyles__ActionFooter>
+      </DateTimePickerstyles__PickerBody>
+    </SimpleDropDown>
+    <DateTimePickerstyles__Icon
+      hide={false}
+    />
+    <DateTimePickerstyles__Close
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+      show={false}
+    />
+    <DateTimePickerstyles__InputSeparator>
+      ás
+    </DateTimePickerstyles__InputSeparator>
+  </DateTimePickerstyles__Container>
+</ClickOutside>
+`;
+
+exports[`Test for DateTimePicker should change time on Clock Click 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <DateTimePickerstyles__Container>
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={
+        <ForwardRef(DateTimePickerstyles__Field)
+          label="Data"
+          mask="99/99/9999          99:99:99"
+          maskChar={null}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
+          value="06/06/2019          12:00:00"
+          version="2"
+          width="340px"
+        />
+      }
+      hasOutsideLabel={false}
+      label=""
+      open={false}
+      position="bottom-left-down-right"
+      window={[Window]}
+    >
+      <DateTimePickerstyles__PickerBody>
+        <DateTimePickerstyles__PickerSlider
+          show="calendar"
+        >
+          <DateTimePickerstyles__CalendarContainer>
+            <MonthCalendar
+              date={null}
+              dayRenderer={[Function]}
+              defaultDate={null}
+              firstDayOfWeek={0}
+              innerRef={null}
+              minDate={null}
+              monthsLabels={
+                Array [
+                  "Janeiro",
+                  "Fevereiro",
+                  "Março",
+                  "Abril",
+                  "Maio",
+                  "Junho",
+                  "Julho",
+                  "Agosto",
+                  "Setembro",
+                  "Outubro",
+                  "Novembro",
+                  "Dezembro",
+                ]
+              }
+              navigation={
+                Array [
+                  "prev",
+                  "next",
+                ]
+              }
+              onClick={[Function]}
+              onNavigate={[Function]}
+              onlyCurrent={false}
+              version="2"
+              weekLabels={
+                Array [
+                  "D",
+                  "S",
+                  "T",
+                  "Q",
+                  "Q",
+                  "S",
+                  "S",
+                ]
+              }
+            />
+          </DateTimePickerstyles__CalendarContainer>
+          <DateTimePickerstyles__ClockContainer>
+            <Clock
+              hour={12}
+              min={0}
+              onClick={[Function]}
+              sec={0}
+            />
+          </DateTimePickerstyles__ClockContainer>
+        </DateTimePickerstyles__PickerSlider>
+        <DateTimePickerstyles__ActionFooter>
+          <Buttons__Button
+            onClick={[Function]}
+            version={2}
+          >
+            SELECIONAR HORÁRIO
+          </Buttons__Button>
+        </DateTimePickerstyles__ActionFooter>
+      </DateTimePickerstyles__PickerBody>
+    </SimpleDropDown>
+    <DateTimePickerstyles__Icon
+      hide={false}
+    />
+    <DateTimePickerstyles__Close
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+      show={false}
+    />
+    <DateTimePickerstyles__InputSeparator>
+      ás
+    </DateTimePickerstyles__InputSeparator>
+  </DateTimePickerstyles__Container>
+</ClickOutside>
+`;
+
+exports[`Test for DateTimePicker should change time on input change 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <DateTimePickerstyles__Container>
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={
+        <ForwardRef(DateTimePickerstyles__Field)
+          label="Data"
+          mask="99/99/9999          99:99:99"
+          maskChar={null}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
+          value="15/05/1987          12:00:00"
+          version="2"
+          width="340px"
+        />
+      }
+      hasOutsideLabel={false}
+      label=""
+      open={false}
+      position="bottom-left-down-right"
+      window={[Window]}
+    >
+      <DateTimePickerstyles__PickerBody>
+        <DateTimePickerstyles__PickerSlider
+          show="clock"
+        >
+          <DateTimePickerstyles__CalendarContainer>
+            <MonthCalendar
+              date={"1987-05-01T03:00:00.000Z"}
+              dayRenderer={[Function]}
+              defaultDate={null}
+              firstDayOfWeek={0}
+              innerRef={null}
+              minDate={null}
+              monthsLabels={
+                Array [
+                  "Janeiro",
+                  "Fevereiro",
+                  "Março",
+                  "Abril",
+                  "Maio",
+                  "Junho",
+                  "Julho",
+                  "Agosto",
+                  "Setembro",
+                  "Outubro",
+                  "Novembro",
+                  "Dezembro",
+                ]
+              }
+              navigation={
+                Array [
+                  "prev",
+                  "next",
+                ]
+              }
+              onClick={[Function]}
+              onNavigate={[Function]}
+              onlyCurrent={false}
+              version="2"
+              weekLabels={
+                Array [
+                  "D",
+                  "S",
+                  "T",
+                  "Q",
+                  "Q",
+                  "S",
+                  "S",
+                ]
+              }
+            />
+          </DateTimePickerstyles__CalendarContainer>
+          <DateTimePickerstyles__ClockContainer>
+            <Clock
+              hour="12"
+              min="00"
+              onClick={[Function]}
+              sec="00"
+            />
+          </DateTimePickerstyles__ClockContainer>
+        </DateTimePickerstyles__PickerSlider>
+        <DateTimePickerstyles__ActionFooter>
+          <Buttons__Button
+            onClick={[Function]}
+            version={2}
+          >
+            SELECIONAR DATA
+          </Buttons__Button>
+        </DateTimePickerstyles__ActionFooter>
+      </DateTimePickerstyles__PickerBody>
+    </SimpleDropDown>
+    <DateTimePickerstyles__Icon
+      hide={false}
+    />
+    <DateTimePickerstyles__Close
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+      show={false}
+    />
+    <DateTimePickerstyles__InputSeparator>
+      ás
+    </DateTimePickerstyles__InputSeparator>
+  </DateTimePickerstyles__Container>
+</ClickOutside>
+`;
+
+exports[`Test for DateTimePicker should open on Input Focus 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <DateTimePickerstyles__Container>
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={
+        <ForwardRef(DateTimePickerstyles__Field)
+          label="Data"
+          mask="99/99/9999          99:99:99"
+          maskChar={null}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
+          value=""
+          version="2"
+          width="340px"
+        />
+      }
+      hasOutsideLabel={false}
+      label=""
+      open={true}
+      position="bottom-left-down-right"
+      window={[Window]}
+    >
+      <DateTimePickerstyles__PickerBody>
+        <DateTimePickerstyles__PickerSlider
+          show="calendar"
+        >
+          <DateTimePickerstyles__CalendarContainer>
+            <MonthCalendar
+              date={null}
+              dayRenderer={[Function]}
+              defaultDate={null}
+              firstDayOfWeek={0}
+              innerRef={null}
+              minDate={null}
+              monthsLabels={
+                Array [
+                  "Janeiro",
+                  "Fevereiro",
+                  "Março",
+                  "Abril",
+                  "Maio",
+                  "Junho",
+                  "Julho",
+                  "Agosto",
+                  "Setembro",
+                  "Outubro",
+                  "Novembro",
+                  "Dezembro",
+                ]
+              }
+              navigation={
+                Array [
+                  "prev",
+                  "next",
+                ]
+              }
+              onClick={[Function]}
+              onNavigate={[Function]}
+              onlyCurrent={false}
+              version="2"
+              weekLabels={
+                Array [
+                  "D",
+                  "S",
+                  "T",
+                  "Q",
+                  "Q",
+                  "S",
+                  "S",
+                ]
+              }
+            />
+          </DateTimePickerstyles__CalendarContainer>
+          <DateTimePickerstyles__ClockContainer>
+            <Clock
+              hour=""
+              min=""
+              onClick={[Function]}
+              sec=""
+            />
+          </DateTimePickerstyles__ClockContainer>
+        </DateTimePickerstyles__PickerSlider>
+        <DateTimePickerstyles__ActionFooter>
+          <Buttons__Button
+            onClick={[Function]}
+            version={2}
+          >
+            SELECIONAR HORÁRIO
+          </Buttons__Button>
+        </DateTimePickerstyles__ActionFooter>
+      </DateTimePickerstyles__PickerBody>
+    </SimpleDropDown>
+    <DateTimePickerstyles__Icon
+      hide={false}
+    />
+    <DateTimePickerstyles__Close
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+      show={false}
+    />
+  </DateTimePickerstyles__Container>
+</ClickOutside>
+`;
+
+exports[`Test for DateTimePicker should render correctly with props 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <DateTimePickerstyles__Container>
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={
+        <ForwardRef(DateTimePickerstyles__Field)
+          label=""
+          mask="99/99/9999          99:99:99"
+          maskChar={null}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
+          value=""
+          version="2"
+          width="340px"
+        />
+      }
+      hasOutsideLabel={false}
+      label=""
+      open={false}
+      position="bottom-left-down-right"
+      window={[Window]}
+    >
+      <DateTimePickerstyles__PickerBody>
+        <DateTimePickerstyles__PickerSlider
+          show="calendar"
+        >
+          <DateTimePickerstyles__CalendarContainer>
+            <MonthCalendar
+              date={null}
+              dayRenderer={[Function]}
+              defaultDate={null}
+              firstDayOfWeek={0}
+              innerRef={null}
+              minDate={null}
+              monthsLabels={
+                Array [
+                  "Janeiro",
+                  "Fevereiro",
+                  "Março",
+                  "Abril",
+                  "Maio",
+                  "Junho",
+                  "Julho",
+                  "Agosto",
+                  "Setembro",
+                  "Outubro",
+                  "Novembro",
+                  "Dezembro",
+                ]
+              }
+              navigation={
+                Array [
+                  "prev",
+                  "next",
+                ]
+              }
+              onClick={[Function]}
+              onNavigate={[Function]}
+              onlyCurrent={false}
+              version="2"
+              weekLabels={
+                Array [
+                  "D",
+                  "S",
+                  "T",
+                  "Q",
+                  "Q",
+                  "S",
+                  "S",
+                ]
+              }
+            />
+          </DateTimePickerstyles__CalendarContainer>
+          <DateTimePickerstyles__ClockContainer>
+            <Clock
+              hour=""
+              min=""
+              onClick={[Function]}
+              sec=""
+            />
+          </DateTimePickerstyles__ClockContainer>
+        </DateTimePickerstyles__PickerSlider>
+        <DateTimePickerstyles__ActionFooter>
+          <Buttons__Button
+            onClick={[Function]}
+            version={2}
+          >
+            SELECIONAR HORÁRIO
+          </Buttons__Button>
+        </DateTimePickerstyles__ActionFooter>
+      </DateTimePickerstyles__PickerBody>
+    </SimpleDropDown>
+    <DateTimePickerstyles__Icon
+      hide={false}
+    />
+    <DateTimePickerstyles__Close
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+      show={false}
+    />
+  </DateTimePickerstyles__Container>
+</ClickOutside>
+`;
+
+exports[`Test for DateTimePicker should render correctly without props 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <DateTimePickerstyles__Container>
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={
+        <ForwardRef(DateTimePickerstyles__Field)
+          label=""
+          mask="99/99/9999          99:99:99"
+          maskChar={null}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
+          value=""
+          version="2"
+          width="340px"
+        />
+      }
+      hasOutsideLabel={false}
+      label=""
+      open={false}
+      position="bottom-left-down-right"
+      window={[Window]}
+    >
+      <DateTimePickerstyles__PickerBody>
+        <DateTimePickerstyles__PickerSlider
+          show="calendar"
+        >
+          <DateTimePickerstyles__CalendarContainer>
+            <MonthCalendar
+              date={null}
+              dayRenderer={[Function]}
+              defaultDate={null}
+              firstDayOfWeek={0}
+              innerRef={null}
+              minDate={null}
+              monthsLabels={
+                Array [
+                  "Janeiro",
+                  "Fevereiro",
+                  "Março",
+                  "Abril",
+                  "Maio",
+                  "Junho",
+                  "Julho",
+                  "Agosto",
+                  "Setembro",
+                  "Outubro",
+                  "Novembro",
+                  "Dezembro",
+                ]
+              }
+              navigation={
+                Array [
+                  "prev",
+                  "next",
+                ]
+              }
+              onClick={[Function]}
+              onNavigate={[Function]}
+              onlyCurrent={false}
+              version="2"
+              weekLabels={
+                Array [
+                  "D",
+                  "S",
+                  "T",
+                  "Q",
+                  "Q",
+                  "S",
+                  "S",
+                ]
+              }
+            />
+          </DateTimePickerstyles__CalendarContainer>
+          <DateTimePickerstyles__ClockContainer>
+            <Clock
+              hour=""
+              min=""
+              onClick={[Function]}
+              sec=""
+            />
+          </DateTimePickerstyles__ClockContainer>
+        </DateTimePickerstyles__PickerSlider>
+        <DateTimePickerstyles__ActionFooter>
+          <Buttons__Button
+            onClick={[Function]}
+            version={2}
+          >
+            SELECIONAR HORÁRIO
+          </Buttons__Button>
+        </DateTimePickerstyles__ActionFooter>
+      </DateTimePickerstyles__PickerBody>
+    </SimpleDropDown>
+    <DateTimePickerstyles__Icon
+      hide={false}
+    />
+    <DateTimePickerstyles__Close
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+      show={false}
+    />
+  </DateTimePickerstyles__Container>
+</ClickOutside>
+`;

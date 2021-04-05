@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing FilterFooter component should render FilterFooter correctly with props 1`] = `
+<Styled(Cards__CardFooter)>
+  <Styled(Buttons__Button)
+    disabled={false}
+    onClick={[Function]}
+  >
+    FILTRAR
+  </Styled(Buttons__Button)>
+  <Styled(Buttons__Button)
+    disabled={false}
+    onClick={[Function]}
+  >
+    LIMPAR
+  </Styled(Buttons__Button)>
+</Styled(Cards__CardFooter)>
+`;
+
+exports[`Testing FilterFooter component should render FilterFooter correctly without props 1`] = `
+<Styled(Cards__CardFooter)>
+  <Styled(Buttons__Button)
+    disabled={false}
+    onClick={[Function]}
+  >
+    FILTRAR
+  </Styled(Buttons__Button)>
+  <Styled(Buttons__Button)
+    disabled={false}
+    onClick={[Function]}
+  >
+    LIMPAR
+  </Styled(Buttons__Button)>
+</Styled(Cards__CardFooter)>
+`;

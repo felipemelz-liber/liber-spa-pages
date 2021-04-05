@@ -1,0 +1,428 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Carousel Styles should render correctly with custom Left Arrow 1`] = `
+<Carouselstyles__Body>
+  <ReactSwipe
+    allowMouseEvents={false}
+    onSwipeDown={[Function]}
+    onSwipeEnd={[Function]}
+    onSwipeLeft={[Function]}
+    onSwipeMove={[Function]}
+    onSwipeRight={[Function]}
+    onSwipeStart={[Function]}
+    onSwipeUp={[Function]}
+    tagName="div"
+    tolerance={0}
+  >
+    <Carouselstyles__Hidden
+      height={300}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      width={1200}
+    >
+      <Carouselstyles__Carousels
+        index={0}
+        size={1200}
+      >
+        <div />
+        <div />
+        <div />
+      </Carouselstyles__Carousels>
+      <CustomArrowLeft
+        onClick={[Function]}
+      />
+      <Carouselstyles__DotsContainer
+        inner={true}
+      >
+        <Carouselstyles__Dot
+          current={true}
+          data-index={0}
+          key="carousel_child_16"
+          onClick={[Function]}
+        />
+        <Carouselstyles__Dot
+          current={false}
+          data-index={1}
+          key="carousel_child_17"
+          onClick={[Function]}
+        />
+        <Carouselstyles__Dot
+          current={false}
+          data-index={2}
+          key="carousel_child_18"
+          onClick={[Function]}
+        />
+      </Carouselstyles__DotsContainer>
+      <Carouselstyles__RightChavron
+        onClick={[Function]}
+      />
+    </Carouselstyles__Hidden>
+  </ReactSwipe>
+</Carouselstyles__Body>
+`;
+
+exports[`Testing Carousel Styles should render correctly with custom Right Arrow 1`] = `
+<Carouselstyles__Body>
+  <ReactSwipe
+    allowMouseEvents={false}
+    onSwipeDown={[Function]}
+    onSwipeEnd={[Function]}
+    onSwipeLeft={[Function]}
+    onSwipeMove={[Function]}
+    onSwipeRight={[Function]}
+    onSwipeStart={[Function]}
+    onSwipeUp={[Function]}
+    tagName="div"
+    tolerance={0}
+  >
+    <Carouselstyles__Hidden
+      height={300}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      width={1200}
+    >
+      <Carouselstyles__Carousels
+        index={0}
+        size={1200}
+      >
+        <div />
+        <div />
+        <div />
+      </Carouselstyles__Carousels>
+      <Carouselstyles__LeftChavron
+        onClick={[Function]}
+      />
+      <Carouselstyles__DotsContainer
+        inner={true}
+      >
+        <Carouselstyles__Dot
+          current={true}
+          data-index={0}
+          key="carousel_child_19"
+          onClick={[Function]}
+        />
+        <Carouselstyles__Dot
+          current={false}
+          data-index={1}
+          key="carousel_child_20"
+          onClick={[Function]}
+        />
+        <Carouselstyles__Dot
+          current={false}
+          data-index={2}
+          key="carousel_child_21"
+          onClick={[Function]}
+        />
+      </Carouselstyles__DotsContainer>
+      <CustomArrowRight
+        onClick={[Function]}
+      />
+    </Carouselstyles__Hidden>
+  </ReactSwipe>
+</Carouselstyles__Body>
+`;
+
+exports[`Testing Carousel Styles should render correctly with custom dot 1`] = `
+<Carouselstyles__Body>
+  <ReactSwipe
+    allowMouseEvents={false}
+    onSwipeDown={[Function]}
+    onSwipeEnd={[Function]}
+    onSwipeLeft={[Function]}
+    onSwipeMove={[Function]}
+    onSwipeRight={[Function]}
+    onSwipeStart={[Function]}
+    onSwipeUp={[Function]}
+    tagName="div"
+    tolerance={0}
+  >
+    <Carouselstyles__Hidden
+      height={300}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      width={1200}
+    >
+      <Carouselstyles__Carousels
+        index={0}
+        size={1200}
+      >
+        <div />
+        <div />
+        <div />
+      </Carouselstyles__Carousels>
+      <Carouselstyles__LeftChavron
+        onClick={[Function]}
+      />
+      <Carouselstyles__DotsContainer
+        inner={true}
+      >
+        <CustomDot
+          current={true}
+          data-index={0}
+          key="carousel_child_13"
+          onClick={[Function]}
+        />
+        <CustomDot
+          current={false}
+          data-index={1}
+          key="carousel_child_14"
+          onClick={[Function]}
+        />
+        <CustomDot
+          current={false}
+          data-index={2}
+          key="carousel_child_15"
+          onClick={[Function]}
+        />
+      </Carouselstyles__DotsContainer>
+      <Carouselstyles__RightChavron
+        onClick={[Function]}
+      />
+    </Carouselstyles__Hidden>
+  </ReactSwipe>
+</Carouselstyles__Body>
+`;
+
+exports[`Testing Carousel Styles should render correctly with custom size 1`] = `
+<Carouselstyles__Body>
+  <ReactSwipe
+    allowMouseEvents={false}
+    onSwipeDown={[Function]}
+    onSwipeEnd={[Function]}
+    onSwipeLeft={[Function]}
+    onSwipeMove={[Function]}
+    onSwipeRight={[Function]}
+    onSwipeStart={[Function]}
+    onSwipeUp={[Function]}
+    tagName="div"
+    tolerance={0}
+  >
+    <Carouselstyles__Hidden
+      height={500}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      width={600}
+    >
+      <Carouselstyles__Carousels
+        index={0}
+        size={600}
+      >
+        <div />
+        <div />
+        <div />
+      </Carouselstyles__Carousels>
+      <Carouselstyles__LeftChavron
+        onClick={[Function]}
+      />
+      <Carouselstyles__DotsContainer
+        inner={true}
+      >
+        <Carouselstyles__Dot
+          current={true}
+          data-index={0}
+          key="carousel_child_7"
+          onClick={[Function]}
+        />
+        <Carouselstyles__Dot
+          current={false}
+          data-index={1}
+          key="carousel_child_8"
+          onClick={[Function]}
+        />
+        <Carouselstyles__Dot
+          current={false}
+          data-index={2}
+          key="carousel_child_9"
+          onClick={[Function]}
+        />
+      </Carouselstyles__DotsContainer>
+      <Carouselstyles__RightChavron
+        onClick={[Function]}
+      />
+    </Carouselstyles__Hidden>
+  </ReactSwipe>
+</Carouselstyles__Body>
+`;
+
+exports[`Testing Carousel Styles should render correctly with outerDots 1`] = `
+<Carouselstyles__Body>
+  <ReactSwipe
+    allowMouseEvents={false}
+    onSwipeDown={[Function]}
+    onSwipeEnd={[Function]}
+    onSwipeLeft={[Function]}
+    onSwipeMove={[Function]}
+    onSwipeRight={[Function]}
+    onSwipeStart={[Function]}
+    onSwipeUp={[Function]}
+    tagName="div"
+    tolerance={0}
+  >
+    <Carouselstyles__Hidden
+      height={300}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      width={1200}
+    >
+      <Carouselstyles__Carousels
+        index={0}
+        size={1200}
+      >
+        <div />
+        <div />
+        <div />
+      </Carouselstyles__Carousels>
+      <Carouselstyles__LeftChavron
+        onClick={[Function]}
+      />
+      <Carouselstyles__RightChavron
+        onClick={[Function]}
+      />
+    </Carouselstyles__Hidden>
+  </ReactSwipe>
+  <Carouselstyles__DotsContainer
+    inner={false}
+  >
+    <Carouselstyles__Dot
+      current={true}
+      data-index={0}
+      key="carousel_child_10"
+      onClick={[Function]}
+    />
+    <Carouselstyles__Dot
+      current={false}
+      data-index={1}
+      key="carousel_child_11"
+      onClick={[Function]}
+    />
+    <Carouselstyles__Dot
+      current={false}
+      data-index={2}
+      key="carousel_child_12"
+      onClick={[Function]}
+    />
+  </Carouselstyles__DotsContainer>
+</Carouselstyles__Body>
+`;
+
+exports[`Testing Carousel Styles should render correctly with props 1`] = `
+<Carouselstyles__Body>
+  <ReactSwipe
+    allowMouseEvents={false}
+    onSwipeDown={[Function]}
+    onSwipeEnd={[Function]}
+    onSwipeLeft={[Function]}
+    onSwipeMove={[Function]}
+    onSwipeRight={[Function]}
+    onSwipeStart={[Function]}
+    onSwipeUp={[Function]}
+    tagName="div"
+    tolerance={0}
+  >
+    <Carouselstyles__Hidden
+      height={300}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      width={1200}
+    >
+      <Carouselstyles__Carousels
+        index={0}
+        size={1200}
+      >
+        <div />
+        <div />
+        <div />
+      </Carouselstyles__Carousels>
+      <Carouselstyles__LeftChavron
+        onClick={[Function]}
+      />
+      <Carouselstyles__DotsContainer
+        inner={true}
+      >
+        <Carouselstyles__Dot
+          current={true}
+          data-index={0}
+          key="carousel_child_4"
+          onClick={[Function]}
+        />
+        <Carouselstyles__Dot
+          current={false}
+          data-index={1}
+          key="carousel_child_5"
+          onClick={[Function]}
+        />
+        <Carouselstyles__Dot
+          current={false}
+          data-index={2}
+          key="carousel_child_6"
+          onClick={[Function]}
+        />
+      </Carouselstyles__DotsContainer>
+      <Carouselstyles__RightChavron
+        onClick={[Function]}
+      />
+    </Carouselstyles__Hidden>
+  </ReactSwipe>
+</Carouselstyles__Body>
+`;
+
+exports[`Testing Carousel Styles should render correctly without props 1`] = `
+<Carouselstyles__Body>
+  <ReactSwipe
+    allowMouseEvents={false}
+    onSwipeDown={[Function]}
+    onSwipeEnd={[Function]}
+    onSwipeLeft={[Function]}
+    onSwipeMove={[Function]}
+    onSwipeRight={[Function]}
+    onSwipeStart={[Function]}
+    onSwipeUp={[Function]}
+    tagName="div"
+    tolerance={0}
+  >
+    <Carouselstyles__Hidden
+      height={300}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      width={1200}
+    >
+      <Carouselstyles__Carousels
+        index={0}
+        size={1200}
+      >
+        <div />
+        <div />
+        <div />
+      </Carouselstyles__Carousels>
+      <Carouselstyles__LeftChavron
+        onClick={[Function]}
+      />
+      <Carouselstyles__DotsContainer
+        inner={true}
+      >
+        <Carouselstyles__Dot
+          current={true}
+          data-index={0}
+          key="carousel_child_1"
+          onClick={[Function]}
+        />
+        <Carouselstyles__Dot
+          current={false}
+          data-index={1}
+          key="carousel_child_2"
+          onClick={[Function]}
+        />
+        <Carouselstyles__Dot
+          current={false}
+          data-index={2}
+          key="carousel_child_3"
+          onClick={[Function]}
+        />
+      </Carouselstyles__DotsContainer>
+      <Carouselstyles__RightChavron
+        onClick={[Function]}
+      />
+    </Carouselstyles__Hidden>
+  </ReactSwipe>
+</Carouselstyles__Body>
+`;

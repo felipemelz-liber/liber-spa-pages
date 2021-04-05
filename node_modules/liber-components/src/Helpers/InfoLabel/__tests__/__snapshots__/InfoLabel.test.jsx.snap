@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for InfoLabel Component should pass props correctly 1`] = `
+<styles__Container
+  prop="value"
+>
+  <styles__Icon
+    color=""
+  />
+  <styles__Label>
+    Label
+  </styles__Label>
+</styles__Container>
+`;
+
+exports[`Test for InfoLabel Component should render correctly with children 1`] = `
+<styles__Container>
+  <styles__Icon
+    color=""
+  />
+  <styles__Label>
+    Children
+  </styles__Label>
+</styles__Container>
+`;
+
+exports[`Test for InfoLabel Component should render correctly with color 1`] = `
+<styles__Container>
+  <styles__Icon
+    color="#ABCDEF"
+  />
+  <styles__Label />
+</styles__Container>
+`;
+
+exports[`Test for InfoLabel Component should render correctly with label 1`] = `
+<styles__Container>
+  <styles__Icon
+    color=""
+  />
+  <styles__Label>
+    Label
+  </styles__Label>
+</styles__Container>
+`;
+
+exports[`Test for InfoLabel Component should render correctly without props 1`] = `
+<styles__Container>
+  <styles__Icon
+    color=""
+  />
+  <styles__Label />
+</styles__Container>
+`;

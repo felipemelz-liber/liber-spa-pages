@@ -1,0 +1,1422 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TableBody component tests should render TableBody correctly for test case 0 1`] = `
+<CompleteTablestyles__Table>
+  <SelectionTable__SelectionTableBody>
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 1,
+          "name": "Item 1",
+          "value": 100,
+        }
+      }
+      key="row-7"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 2,
+          "name": "Item 2",
+          "value": 200,
+        }
+      }
+      key="row-8"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 3,
+          "name": "Item 3",
+          "value": 700,
+        }
+      }
+      key="row-9"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 4,
+          "name": "Item 4",
+          "value": 300,
+        }
+      }
+      key="row-10"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 5,
+          "name": "Item 5",
+          "value": 450,
+        }
+      }
+      key="row-11"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 6,
+          "name": "Item 6",
+          "value": 905,
+        }
+      }
+      key="row-12"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+  </SelectionTable__SelectionTableBody>
+</CompleteTablestyles__Table>
+`;
+
+exports[`TableBody component tests should render TableBody correctly for test case 1 1`] = `
+<CompleteTablestyles__Table>
+  <SelectionTable__SelectionTableBody>
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 1,
+          "name": "Item 1",
+          "value": 100,
+        }
+      }
+      key="row-13"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 2,
+          "name": "Item 2",
+          "value": 200,
+        }
+      }
+      key="row-14"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 3,
+          "name": "Item 3",
+          "value": 700,
+        }
+      }
+      key="row-15"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 4,
+          "name": "Item 4",
+          "value": 300,
+        }
+      }
+      key="row-16"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 5,
+          "name": "Item 5",
+          "value": 450,
+        }
+      }
+      key="row-17"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 6,
+          "name": "Item 6",
+          "value": 905,
+        }
+      }
+      key="row-18"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+  </SelectionTable__SelectionTableBody>
+</CompleteTablestyles__Table>
+`;
+
+exports[`TableBody component tests should render TableBody correctly for test case 2 1`] = `
+<CompleteTablestyles__Table>
+  <SelectionTable__SelectionTableBody>
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 1,
+          "name": "Item 1",
+          "value": 100,
+        }
+      }
+      key="row-19"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 2,
+          "name": "Item 2",
+          "value": 200,
+        }
+      }
+      key="row-20"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 3,
+          "name": "Item 3",
+          "value": 700,
+        }
+      }
+      key="row-21"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 4,
+          "name": "Item 4",
+          "value": 300,
+        }
+      }
+      key="row-22"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 5,
+          "name": "Item 5",
+          "value": 450,
+        }
+      }
+      key="row-23"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 6,
+          "name": "Item 6",
+          "value": 905,
+        }
+      }
+      key="row-24"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+  </SelectionTable__SelectionTableBody>
+</CompleteTablestyles__Table>
+`;
+
+exports[`TableBody component tests should render TableBody correctly for test case 3 1`] = `
+<CompleteTablestyles__Table>
+  <SelectionTable__SelectionTableBody>
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 1,
+          "name": "Item 1",
+          "value": 100,
+        }
+      }
+      key="row-25"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 2,
+          "name": "Item 2",
+          "value": 200,
+        }
+      }
+      key="row-26"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 3,
+          "name": "Item 3",
+          "value": 700,
+        }
+      }
+      key="row-27"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 4,
+          "name": "Item 4",
+          "value": 300,
+        }
+      }
+      key="row-28"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 5,
+          "name": "Item 5",
+          "value": 450,
+        }
+      }
+      key="row-29"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={
+        <div>
+          Actions
+        </div>
+      }
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 6,
+          "name": "Item 6",
+          "value": 905,
+        }
+      }
+      key="row-30"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+  </SelectionTable__SelectionTableBody>
+</CompleteTablestyles__Table>
+`;
+
+exports[`TableBody component tests should render TableBody correctly with just required props 1`] = `
+<CompleteTablestyles__Table>
+  <SelectionTable__SelectionTableBody>
+    <TableRow
+      actions={null}
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 1,
+          "name": "Item 1",
+          "value": 100,
+        }
+      }
+      key="row-1"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={null}
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 2,
+          "name": "Item 2",
+          "value": 200,
+        }
+      }
+      key="row-2"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={null}
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 3,
+          "name": "Item 3",
+          "value": 700,
+        }
+      }
+      key="row-3"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={null}
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 4,
+          "name": "Item 4",
+          "value": 300,
+        }
+      }
+      key="row-4"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={null}
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 5,
+          "name": "Item 5",
+          "value": 450,
+        }
+      }
+      key="row-5"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+    <TableRow
+      actions={null}
+      availableSpace={90}
+      columns={
+        Array [
+          Object {
+            "align": "center",
+            "label": "Nome",
+            "name": "name",
+            "width": 12,
+          },
+          Object {
+            "align": "right",
+            "label": "Data",
+            "name": "date",
+            "width": 20,
+          },
+          Object {
+            "align": "left",
+            "getCellValue": [Function],
+            "label": "Valor",
+            "name": "value",
+            "width": 25,
+          },
+        ]
+      }
+      hasSelection={false}
+      hiddenColumns={Array []}
+      isItemSelectable={[Function]}
+      isItemSelected={[Function]}
+      item={
+        Object {
+          "date": "01/01/2020",
+          "id": 6,
+          "name": "Item 6",
+          "value": 905,
+        }
+      }
+      key="row-6"
+      onSelect={[Function]}
+      tooltipContent={[Function]}
+      weightedColumns={false}
+    />
+  </SelectionTable__SelectionTableBody>
+</CompleteTablestyles__Table>
+`;

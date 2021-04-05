@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Tabs Component Should render correctly 1`] = `
+<Fragment>
+  <styles__Header>
+    <styles__Label
+      active={true}
+      data-value="test"
+      htmlFor="test1"
+      key="test1"
+    >
+      <input
+        checked={true}
+        id="test1"
+        name="tabs"
+        onChange={[Function]}
+        type="radio"
+      />
+      test
+    </styles__Label>
+    <styles__Slide
+      current={0}
+      number={1}
+    />
+  </styles__Header>
+  <ForwardRef
+    key=".0"
+    label="test"
+  >
+    Test
+  </ForwardRef>
+</Fragment>
+`;
+
+exports[`Testing Tabs Component Should render correctly with header 1`] = `
+<Fragment>
+  <Header
+    asList={false}
+    header={null}
+    key=".0"
+    labels={
+      <ForwardRef(styles__BasicHeader)>
+        <ForwardRef(styles__Label)
+          active={true}
+          data-value="test"
+          htmlFor="test2"
+        >
+          <input
+            checked={true}
+            id="test2"
+            name="tabs"
+            onChange={[Function]}
+            type="radio"
+          />
+          test
+        </ForwardRef(styles__Label)>
+        <ForwardRef(styles__Slide)
+          current={0}
+          number={1}
+          role="slider"
+        />
+      </ForwardRef(styles__BasicHeader)>
+    }
+    slider={null}
+  >
+    <Component />
+  </Header>
+  <ForwardRef
+    key=".1"
+    label="test"
+  >
+    Test
+  </ForwardRef>
+</Fragment>
+`;

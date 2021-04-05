@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Checkbox Styles Bg should render correctly when closed 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DialogStyles__Bg-sc-1tnwai9-0",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;height:100%;background-color:",
+          [Function],
+          ";position:fixed;top:0px;left:0px;",
+        ],
+      },
+      "displayName": "DialogStyles__Bg",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DialogStyles__Bg-sc-1tnwai9-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Checkbox Styles Bg should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DialogStyles__Bg-sc-1tnwai9-0",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;height:100%;background-color:",
+          [Function],
+          ";position:fixed;top:0px;left:0px;",
+        ],
+      },
+      "displayName": "DialogStyles__Bg",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DialogStyles__Bg-sc-1tnwai9-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "dialog": Object {
+        "background": "#aaa",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Testing Checkbox Styles DialogContainer should render correctly 1`] = `
+<StyledComponent
+  blockNavigation={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "blockNavigation": true,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+        "isStatic": false,
+        "rules": Array [
+          "position:fixed;pointer-events:",
+          [Function],
+          ";top:0px;left:0px;width:100vw;height:100vh;z-index:9999;display:",
+          [Function],
+          ";justify-content:center;align-items:center;",
+        ],
+      },
+      "displayName": "DialogStyles__DialogContainer",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "blockNavigation": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "DialogStyles__DialogContainer-sc-1tnwai9-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

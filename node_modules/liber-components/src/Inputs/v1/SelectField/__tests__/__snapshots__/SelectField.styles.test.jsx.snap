@@ -1,0 +1,564 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing SelectField Styles OptionLists OptionList should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__OptionList-sc-1fxzu3t-1",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:0px;left:0px;width:100%;background-color:#fafafa !important;box-shadow:0 2px 6px 0 rgba(0,0,0,0.1);z-index:5;padding:0px;margin:0px;list-style-type:none;overflow-y:auto;user-select:none;transform-origin:top;",
+          " ",
+          [Function],
+          " &:focus{outline:0;}&::-moz-focus-inner{border:0;}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__OptionList",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__OptionList-sc-1fxzu3t-1",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  height={150}
+  rowCount={5}
+  rowHeight={30}
+  rowRenderer={[MockFunction]}
+  width={300}
+/>
+`;
+
+exports[`Testing SelectField Styles OptionLists SearchableOptionList should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__SearchableOptionList-sc-1fxzu3t-2",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:0px;left:0px;width:100%;background-color:#fafafa !important;box-shadow:0 2px 6px 0 rgba(0,0,0,0.1);z-index:5;padding:0px;margin:0px;list-style-type:none;overflow-y:auto;user-select:none;transform-origin:top;",
+          " ",
+          [Function],
+          " &:focus{outline:0;}&::-moz-focus-inner{border:0;}",
+          "top:42px;",
+        ],
+      },
+      "displayName": "SelectFieldstyles__SearchableOptionList",
+      "foldedComponentIds": Array [
+        "SelectFieldstyles__OptionList-sc-1fxzu3t-1",
+      ],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__SearchableOptionList-sc-1fxzu3t-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  height={150}
+  rowCount={5}
+  rowHeight={30}
+  rowRenderer={[MockFunction]}
+  width={300}
+/>
+`;
+
+exports[`Testing SelectField Styles SelectBox should render correctly selected 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__SelectBox-sc-1fxzu3t-0",
+        "isStatic": false,
+        "rules": Array [
+          "cursor:pointer;width:100%;padding:8px 0px;border-bottom:2px solid ",
+          [Function],
+          " !important;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;&:focus{outline:0;}&::-moz-focus-inner{border:0;}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__SelectBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__SelectBox-sc-1fxzu3t-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles SelectBox should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__SelectBox-sc-1fxzu3t-0",
+        "isStatic": false,
+        "rules": Array [
+          "cursor:pointer;width:100%;padding:8px 0px;border-bottom:2px solid ",
+          [Function],
+          " !important;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;&:focus{outline:0;}&::-moz-focus-inner{border:0;}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__SelectBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__SelectBox-sc-1fxzu3t-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "fields": Object {
+        "caret": Object {
+          "circle": "#333",
+          "selected": "#444",
+          "unselected": "#555",
+        },
+        "hover": "#123",
+        "inactive": "#000",
+        "primary": "#111",
+        "secondary": "#222",
+        "select": Object {
+          "default": "#666",
+          "focused": "#777",
+          "label": Object {
+            "background": "#999",
+            "color": "#aaa",
+          },
+          "selected": "#888",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Testing SelectField Styles SelectItem should render correctly focused 1`] = `
+<StyledComponent
+  focused={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__SelectItem-sc-1fxzu3t-3",
+        "isStatic": false,
+        "rules": Array [
+          "line-height:",
+          "23.333333333333332",
+          "px;text-align:left;padding:8px 10px;box-sizing:border-box;vertical-align:middle;cursor:pointer;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:",
+          [Function],
+          ";user-select:none;font-weight:500;pointer-events:",
+          [Function],
+          ";& div{color:",
+          [Function],
+          " !important;& > span{color:",
+          [Function],
+          ";}}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__SelectItem",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__SelectItem-sc-1fxzu3t-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles SelectItem should render correctly focused with theme 1`] = `
+<StyledComponent
+  focused={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__SelectItem-sc-1fxzu3t-3",
+        "isStatic": false,
+        "rules": Array [
+          "line-height:",
+          "23.333333333333332",
+          "px;text-align:left;padding:8px 10px;box-sizing:border-box;vertical-align:middle;cursor:pointer;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:",
+          [Function],
+          ";user-select:none;font-weight:500;pointer-events:",
+          [Function],
+          ";& div{color:",
+          [Function],
+          " !important;& > span{color:",
+          [Function],
+          ";}}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__SelectItem",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__SelectItem-sc-1fxzu3t-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "fields": Object {
+        "caret": Object {
+          "circle": "#333",
+          "selected": "#444",
+          "unselected": "#555",
+        },
+        "hover": "#123",
+        "inactive": "#000",
+        "primary": "#111",
+        "secondary": "#222",
+        "select": Object {
+          "default": "#666",
+          "focused": "#777",
+          "label": Object {
+            "background": "#999",
+            "color": "#aaa",
+          },
+          "selected": "#888",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Testing SelectField Styles SelectItem should render correctly selected 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__SelectItem-sc-1fxzu3t-3",
+        "isStatic": false,
+        "rules": Array [
+          "line-height:",
+          "23.333333333333332",
+          "px;text-align:left;padding:8px 10px;box-sizing:border-box;vertical-align:middle;cursor:pointer;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:",
+          [Function],
+          ";user-select:none;font-weight:500;pointer-events:",
+          [Function],
+          ";& div{color:",
+          [Function],
+          " !important;& > span{color:",
+          [Function],
+          ";}}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__SelectItem",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__SelectItem-sc-1fxzu3t-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  selected={true}
+/>
+`;
+
+exports[`Testing SelectField Styles SelectItem should render correctly selected with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__SelectItem-sc-1fxzu3t-3",
+        "isStatic": false,
+        "rules": Array [
+          "line-height:",
+          "23.333333333333332",
+          "px;text-align:left;padding:8px 10px;box-sizing:border-box;vertical-align:middle;cursor:pointer;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:",
+          [Function],
+          ";user-select:none;font-weight:500;pointer-events:",
+          [Function],
+          ";& div{color:",
+          [Function],
+          " !important;& > span{color:",
+          [Function],
+          ";}}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__SelectItem",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__SelectItem-sc-1fxzu3t-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  selected={true}
+  theme={
+    Object {
+      "fields": Object {
+        "caret": Object {
+          "circle": "#333",
+          "selected": "#444",
+          "unselected": "#555",
+        },
+        "hover": "#123",
+        "inactive": "#000",
+        "primary": "#111",
+        "secondary": "#222",
+        "select": Object {
+          "default": "#666",
+          "focused": "#777",
+          "label": Object {
+            "background": "#999",
+            "color": "#aaa",
+          },
+          "selected": "#888",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Testing SelectField Styles SelectItem should render correctly unselected 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__SelectItem-sc-1fxzu3t-3",
+        "isStatic": false,
+        "rules": Array [
+          "line-height:",
+          "23.333333333333332",
+          "px;text-align:left;padding:8px 10px;box-sizing:border-box;vertical-align:middle;cursor:pointer;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:",
+          [Function],
+          ";user-select:none;font-weight:500;pointer-events:",
+          [Function],
+          ";& div{color:",
+          [Function],
+          " !important;& > span{color:",
+          [Function],
+          ";}}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__SelectItem",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__SelectItem-sc-1fxzu3t-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  selected={false}
+/>
+`;
+
+exports[`Testing SelectField Styles SelectItem should render correctly unselected with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__SelectItem-sc-1fxzu3t-3",
+        "isStatic": false,
+        "rules": Array [
+          "line-height:",
+          "23.333333333333332",
+          "px;text-align:left;padding:8px 10px;box-sizing:border-box;vertical-align:middle;cursor:pointer;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:",
+          [Function],
+          ";user-select:none;font-weight:500;pointer-events:",
+          [Function],
+          ";& div{color:",
+          [Function],
+          " !important;& > span{color:",
+          [Function],
+          ";}}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__SelectItem",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__SelectItem-sc-1fxzu3t-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  selected={false}
+  theme={
+    Object {
+      "fields": Object {
+        "caret": Object {
+          "circle": "#333",
+          "selected": "#444",
+          "unselected": "#555",
+        },
+        "hover": "#123",
+        "inactive": "#000",
+        "primary": "#111",
+        "secondary": "#222",
+        "select": Object {
+          "default": "#666",
+          "focused": "#777",
+          "label": Object {
+            "background": "#999",
+            "color": "#aaa",
+          },
+          "selected": "#888",
+        },
+      },
+    }
+  }
+/>
+`;
+
+exports[`Testing SelectField Styles SelectLabel should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__SelectLabel-sc-1fxzu3t-4",
+        "isStatic": false,
+        "rules": Array [
+          "line-height:",
+          "23.333333333333332",
+          "px;text-align:left;padding:8px 10px;box-sizing:border-box;vertical-align:middle;cursor:pointer;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:",
+          [Function],
+          ";user-select:none;font-weight:500;pointer-events:",
+          [Function],
+          ";& div{color:",
+          [Function],
+          " !important;& > span{color:",
+          [Function],
+          ";}}",
+          "background-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "SelectFieldstyles__SelectLabel",
+      "foldedComponentIds": Array [
+        "SelectFieldstyles__SelectItem-sc-1fxzu3t-3",
+      ],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__SelectLabel-sc-1fxzu3t-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles SelectLabel should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__SelectLabel-sc-1fxzu3t-4",
+        "isStatic": false,
+        "rules": Array [
+          "line-height:",
+          "23.333333333333332",
+          "px;text-align:left;padding:8px 10px;box-sizing:border-box;vertical-align:middle;cursor:pointer;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:",
+          [Function],
+          ";user-select:none;font-weight:500;pointer-events:",
+          [Function],
+          ";& div{color:",
+          [Function],
+          " !important;& > span{color:",
+          [Function],
+          ";}}",
+          "background-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "SelectFieldstyles__SelectLabel",
+      "foldedComponentIds": Array [
+        "SelectFieldstyles__SelectItem-sc-1fxzu3t-3",
+      ],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__SelectLabel-sc-1fxzu3t-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "fields": Object {
+        "caret": Object {
+          "circle": "#333",
+          "selected": "#444",
+          "unselected": "#555",
+        },
+        "hover": "#123",
+        "inactive": "#000",
+        "primary": "#111",
+        "secondary": "#222",
+        "select": Object {
+          "default": "#666",
+          "focused": "#777",
+          "label": Object {
+            "background": "#999",
+            "color": "#aaa",
+          },
+          "selected": "#888",
+        },
+      },
+    }
+  }
+/>
+`;

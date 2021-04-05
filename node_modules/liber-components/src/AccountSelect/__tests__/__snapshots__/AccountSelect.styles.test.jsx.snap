@@ -1,0 +1,370 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing AccountSelect Styles Controlled Box should render corectly cheked 1`] = `
+<StyledComponent
+  checked={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "AcccountSelectstyles__Box-sc-3gzxsc-6",
+        "isStatic": false,
+        "rules": Array [
+          "transition:color 250ms cubic-bezier(0.23,1,0.32,1) 0ms;border-top:0px;border-right:1px solid ",
+          [Function],
+          ";border-bottom:1px solid ",
+          [Function],
+          ";border-left:1px solid ",
+          [Function],
+          ";padding:12px;width:100%;box-sizing:border-box;min-height:91px;position:relative;cursor:pointer;",
+          [Function],
+        ],
+      },
+      "displayName": "AcccountSelectstyles__Box",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "AcccountSelectstyles__Box-sc-3gzxsc-6",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  children
+</StyledComponent>
+`;
+
+exports[`Testing AccountSelect Styles Controlled Box should render corectly uncheked 1`] = `
+<StyledComponent
+  checked={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "AcccountSelectstyles__Box-sc-3gzxsc-6",
+        "isStatic": false,
+        "rules": Array [
+          "transition:color 250ms cubic-bezier(0.23,1,0.32,1) 0ms;border-top:0px;border-right:1px solid ",
+          [Function],
+          ";border-bottom:1px solid ",
+          [Function],
+          ";border-left:1px solid ",
+          [Function],
+          ";padding:12px;width:100%;box-sizing:border-box;min-height:91px;position:relative;cursor:pointer;",
+          [Function],
+        ],
+      },
+      "displayName": "AcccountSelectstyles__Box",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "AcccountSelectstyles__Box-sc-3gzxsc-6",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  children
+</StyledComponent>
+`;
+
+exports[`Testing AccountSelect Styles Controlled Box should render corectly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "AcccountSelectstyles__Box-sc-3gzxsc-6",
+        "isStatic": false,
+        "rules": Array [
+          "transition:color 250ms cubic-bezier(0.23,1,0.32,1) 0ms;border-top:0px;border-right:1px solid ",
+          [Function],
+          ";border-bottom:1px solid ",
+          [Function],
+          ";border-left:1px solid ",
+          [Function],
+          ";padding:12px;width:100%;box-sizing:border-box;min-height:91px;position:relative;cursor:pointer;",
+          [Function],
+        ],
+      },
+      "displayName": "AcccountSelectstyles__Box",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "AcccountSelectstyles__Box-sc-3gzxsc-6",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  children
+</StyledComponent>
+`;
+
+exports[`Testing AccountSelect Styles Uncontrolled renders Body correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "AcccountSelectstyles__Body-sc-3gzxsc-7",
+        "isStatic": false,
+        "rules": Array [
+          "padding:16px 16px 0px 16px;overflow:auto;flex-grow:1;box-sizing:border-box;width:100%;& > div:first-child{border-top:1px solid ",
+          [Function],
+          ";border-radius:4px 4px 0px 0px;}& > div:nth-last-child(3){border-radius:0px 0px 4px 4px;margin-bottom:16px;}& .ps__rail-y{margin-top:16px;margin-bottom:16px;}& .ps__thumb-y{background-color:#e2e2e2!important;right:4px;}& .ps__rail-y:hover,& .ps--clicking{background-color:transparent!important;}& .ps__rail-y:hover .ps__thumb-y,& .ps__rail-y.ps--clicking .ps__thumb-y{width:8px;}& .ps__rail-y{z-index:10;}",
+        ],
+      },
+      "displayName": "AcccountSelectstyles__Body",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "AcccountSelectstyles__Body-sc-3gzxsc-7",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing AccountSelect Styles Uncontrolled renders BoxRow correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "AcccountSelectstyles__BoxRow-sc-3gzxsc-3",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;display:flex;justify-content:flex-start;align-items:center;font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:20px;white-space:nowrap;",
+        ],
+      },
+      "displayName": "AcccountSelectstyles__BoxRow",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "AcccountSelectstyles__BoxRow-sc-3gzxsc-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing AccountSelect Styles Uncontrolled renders BoxTitle correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "AcccountSelectstyles__BoxTitle-sc-3gzxsc-5",
+        "isStatic": false,
+        "rules": Array [
+          "font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";line-height:22px;text-align:left;color:var(--title-color);overflow:hidden;text-overflow:ellipsis;transition:color 250ms cubic-bezier(0.23,1,0.32,1) 0ms;margin-right:12px;",
+        ],
+      },
+      "displayName": "AcccountSelectstyles__BoxTitle",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "AcccountSelectstyles__BoxTitle-sc-3gzxsc-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing AccountSelect Styles Uncontrolled renders CheckBox correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "AcccountSelectstyles__Checkbox-sc-3gzxsc-1",
+        "isStatic": false,
+        "rules": Array [
+          "margin-top:0px;max-height:18px;min-height:16px;margin-left:auto;& > span{padding:0px 16px 0px 0px;}& > span:before{border-radius:50%;width:16px;height:16px;}& > span:after{left:5px;width:6px;height:10px;border-top-width:1px;border-left-width:1px;border-right-width:1px;border-bottom-width:1px;}",
+        ],
+      },
+      "displayName": "AcccountSelectstyles__Checkbox",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "checked": [Function],
+        "children": [Function],
+        "className": [Function],
+        "color": [Function],
+        "id": [Function],
+        "labelColor": [Function],
+        "name": [Function],
+        "onChange": [Function],
+        "value": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "AcccountSelectstyles__Checkbox-sc-3gzxsc-1",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "checked": null,
+          "children": "",
+          "className": "",
+          "color": "",
+          "labelColor": "",
+          "name": "checkboxes",
+          "onChange": [Function],
+          "value": "",
+        },
+        "propTypes": Object {
+          "checked": [Function],
+          "children": [Function],
+          "className": [Function],
+          "color": [Function],
+          "id": [Function],
+          "labelColor": [Function],
+          "name": [Function],
+          "onChange": [Function],
+          "value": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  id="mock-id"
+/>
+`;
+
+exports[`Testing AccountSelect Styles Uncontrolled renders Container correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "AcccountSelectstyles__Container-sc-3gzxsc-0",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;max-height:320px;display:flex;flex-direction:column;justify-content:flex-start;align-items:stretch;",
+        ],
+      },
+      "displayName": "AcccountSelectstyles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "AcccountSelectstyles__Container-sc-3gzxsc-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing AccountSelect Styles Uncontrolled renders Footer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "AcccountSelectstyles__Footer-sc-3gzxsc-2",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;height:48px;border-top:1px solid ",
+          [Function],
+          ";display:flex;justify-content:center;align-items:center;& > button{border-radius:4px;border:0px;padding:10px 23px;background-color:transparent;line-height:20px;font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";color:",
+          [Function],
+          ";cursor:pointer}",
+        ],
+      },
+      "displayName": "AcccountSelectstyles__Footer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "AcccountSelectstyles__Footer-sc-3gzxsc-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing AccountSelect Styles Uncontrolled renders Tag correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "AcccountSelectstyles__Tag-sc-3gzxsc-4",
+        "isStatic": false,
+        "rules": Array [
+          "padding:2px 8px;border-radius:4px;background-color:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";line-height:20px;text-align:left;color:",
+          [Function],
+          ";margin-right:12px;",
+        ],
+      },
+      "displayName": "AcccountSelectstyles__Tag",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "AcccountSelectstyles__Tag-sc-3gzxsc-4",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

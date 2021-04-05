@@ -1,0 +1,241 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ExpasibleCard styled components test should render ButtonContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bxivhb",
+        "isStatic": false,
+        "rules": Array [
+          "
+  width: 100%;
+  display: flex;
+  justify-content: center;
+",
+        ],
+      },
+      "displayName": "styled.div",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-bxivhb",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`ExpasibleCard styled components test should render Card correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bdVaJa",
+        "isStatic": false,
+        "rules": Array [
+          "
+  width: 100%;
+  min-height: 100px;
+  padding: 32px;
+  border: solid 1px #cdd7df;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  transition: 300ms linear all;
+
+  ",
+          [Function],
+          "
+",
+        ],
+      },
+      "displayName": "Styled(Cards__Card)",
+      "foldedComponentIds": Array [
+        "Cards__Card-sc-1kn0psw-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "sc-bdVaJa",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`ExpasibleCard styled components test should render Container correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bwzfXH",
+        "isStatic": false,
+        "rules": Array [
+          "
+  width: 100%;
+  height: 100%;
+  overflow-y: hidden;
+",
+        ],
+      },
+      "displayName": "styled.div",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-bwzfXH",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`ExpasibleCard styled components test should render ExpanseButton correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-htpNat",
+        "isStatic": false,
+        "rules": Array [
+          "
+  height: 48px;
+  border-radius: 24px;
+  color: #6287a7;
+  background-color: #fff;
+  border: solid 1px #cdd7df;
+  width: fit-content;
+  margin-top: -40px;
+  z-index: 5;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: 0.06px;
+  text-align: left;
+
+  :hover {
+    background-color: #f2f2f2;
+  }
+
+  & > svg {
+    width: 20px;
+    height: 20px;
+    fill: #6287a7;
+    margin-bottom: 2px;
+    margin-right: 14px;
+    transition: 300ms linear all;
+
+    ",
+          [Function],
+          "
+  }
+",
+        ],
+      },
+      "displayName": "Styled(Buttons__Button)",
+      "foldedComponentIds": Array [
+        "Buttons__Button-u35aut-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "sc-htpNat",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`ExpasibleCard styled components test should render ExpanseButton correctly with open prop 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-htpNat",
+        "isStatic": false,
+        "rules": Array [
+          "
+  height: 48px;
+  border-radius: 24px;
+  color: #6287a7;
+  background-color: #fff;
+  border: solid 1px #cdd7df;
+  width: fit-content;
+  margin-top: -40px;
+  z-index: 5;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: 0.06px;
+  text-align: left;
+
+  :hover {
+    background-color: #f2f2f2;
+  }
+
+  & > svg {
+    width: 20px;
+    height: 20px;
+    fill: #6287a7;
+    margin-bottom: 2px;
+    margin-right: 14px;
+    transition: 300ms linear all;
+
+    ",
+          [Function],
+          "
+  }
+",
+        ],
+      },
+      "displayName": "Styled(Buttons__Button)",
+      "foldedComponentIds": Array [
+        "Buttons__Button-u35aut-0",
+      ],
+      "render": [Function],
+      "styledComponentId": "sc-htpNat",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  open={true}
+/>
+`;

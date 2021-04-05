@@ -1,0 +1,133 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VendorInvoices tests should render correctly whend vendor can input xml 1`] = `
+<LoadingContainer
+  loading={false}
+>
+  <_default />
+  <styled.div>
+    <GlobalStyleComponent />
+    <UnavailableLimitDialog
+      onLeaved={[Function]}
+      redirectUrl={null}
+      show={false}
+      surplusValue={0}
+    />
+    <styled.div>
+      <styled.span>
+        Títulos
+      </styled.span>
+    </styled.div>
+    <styled.span>
+      Não encontramos nenhum título disponível para antecipação. 
+      <br />
+       Verifique em
+       
+      <Styled(styled.span)
+        href="/fornecedor/negociacoes?q%5Bstatus_in%5D%5B%5D=0&q%5Bstatus_in%5D%5B%5D=7"
+      >
+        Antecipações
+      </Styled(styled.span)>
+       
+      se existe alguma operação não concluída.
+    </styled.span>
+    <AnticipationLimitCard
+      token=""
+    />
+    <styled.div>
+      <img
+        alt=""
+        src="invoices_empty.svg"
+      />
+    </styled.div>
+  </styled.div>
+</LoadingContainer>
+`;
+
+exports[`VendorInvoices tests should render correctly with loading 1`] = `
+<LoadingContainer
+  loading={true}
+>
+  <_default />
+  <styled.div>
+    <GlobalStyleComponent />
+    <UnavailableLimitDialog
+      onLeaved={[Function]}
+      redirectUrl={null}
+      show={false}
+      surplusValue={0}
+    />
+    <styled.div>
+      <styled.span>
+        Títulos
+      </styled.span>
+    </styled.div>
+    <styled.span>
+      Não encontramos nenhum título disponível para antecipação. 
+      <br />
+       Verifique em
+       
+      <Styled(styled.span)
+        href="/fornecedor/negociacoes?q%5Bstatus_in%5D%5B%5D=0&q%5Bstatus_in%5D%5B%5D=7"
+      >
+        Antecipações
+      </Styled(styled.span)>
+       
+      se existe alguma operação não concluída.
+    </styled.span>
+    <AnticipationLimitCard
+      token=""
+    />
+    <styled.div>
+      <img
+        alt=""
+        src="invoices_empty.svg"
+      />
+    </styled.div>
+  </styled.div>
+</LoadingContainer>
+`;
+
+exports[`VendorInvoices tests should render correctly without props 1`] = `
+<LoadingContainer
+  loading={false}
+>
+  <_default />
+  <styled.div>
+    <GlobalStyleComponent />
+    <UnavailableLimitDialog
+      onLeaved={[Function]}
+      redirectUrl={null}
+      show={false}
+      surplusValue={0}
+    />
+    <styled.div>
+      <styled.span>
+        Títulos
+      </styled.span>
+    </styled.div>
+    <styled.span>
+      Não encontramos nenhum título disponível para antecipação. 
+      <br />
+       Verifique em
+       
+      <Styled(styled.span)
+        href="/fornecedor/negociacoes?q%5Bstatus_in%5D%5B%5D=0&q%5Bstatus_in%5D%5B%5D=7"
+      >
+        Antecipações
+      </Styled(styled.span)>
+       
+      se existe alguma operação não concluída.
+    </styled.span>
+    <AnticipationLimitCard
+      token=""
+    />
+    <styled.div>
+      <img
+        alt=""
+        src="invoices_empty.svg"
+      />
+    </styled.div>
+  </styled.div>
+</LoadingContainer>
+`;

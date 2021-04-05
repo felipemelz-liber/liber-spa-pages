@@ -1,0 +1,342 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing MonthSelect Styles renders Arrow correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthSelectstyles__Arrow-ualydn-6",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " cursor:pointer;",
+        ],
+      },
+      "displayName": "MonthSelectstyles__Arrow",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "MonthSelectstyles__Arrow-ualydn-6",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing MonthSelect Styles renders CalendarIcon correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthSelectstyles__CalendarIcon-ualydn-4",
+        "isStatic": false,
+        "rules": Array [
+          "width:12px;height:12px;fill:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "MonthSelectstyles__CalendarIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "MonthSelectstyles__CalendarIcon-ualydn-4",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing MonthSelect Styles renders DropdownContent correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthSelectstyles__DropdownContent-ualydn-2",
+        "isStatic": false,
+        "rules": Array [
+          "padding:12px;min-width:310px;display:flex;flex-direction:column;align-items:center;",
+        ],
+      },
+      "displayName": "MonthSelectstyles__DropdownContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "MonthSelectstyles__DropdownContent-ualydn-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing MonthSelect Styles renders IconButton correctly 1`] = `
+<StyledComponent
+  color="primary"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "color": "primary",
+      },
+      "attrs": Array [
+        [Function],
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthSelectstyles__IconButton-ualydn-5",
+        "isStatic": false,
+        "rules": Array [
+          "--inner-button-text-color:var(--button-text-color,",
+          [Function],
+          ");--inner-button-ripple-color:var(--button-ripple-color,",
+          [Function],
+          ");padding:24px 0px;",
+          [Function],
+          " ",
+          [Function],
+          " background-color:",
+          [Function],
+          ";color:var(--inner-button-text-color);border:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";cursor:pointer;padding:0 16px;transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;position:relative;overflow:hidden;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&:disabled{opacity:0.38;cursor:default;pointer-events:none;}&:after{content:'';--ripple-color:;position:absolute;top:50%;left:50%;width:5px;height:5px;background:var(--inner-button-ripple-color);opacity:0;border-radius:100%;transform:scale(1,1) translate(-50%);transform-origin:50% 50%;}&:focus:not(:active)::after{animation:",
+          Keyframes {
+            "id": "sc-keyframes-kHeZab",
+            "inject": [Function],
+            "name": "kHeZab",
+            "rules": Array [
+              "@-webkit-keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+              "@keyframes kHeZab{0%{-webkit-transform:scale(0,0);-ms-transform:scale(0,0);transform:scale(0,0);opacity:0.8;}20%{-webkit-transform:scale(25,25);-ms-transform:scale(25,25);transform:scale(25,25);opacity:0.8;}100%{opacity:0;-webkit-transform:scale(40,40);-ms-transform:scale(40,40);transform:scale(40,40);}}",
+            ],
+            "toString": [Function],
+          },
+          " 0.8s ease-out;}& > svg{min-width:var(--icon-size,16px)!important;max-width:var(--icon-size,16px)!important;min-height:var(--icon-size,16px)!important;max-height:var(--icon-size,16px)!important;fill:var(--inner-button-text-color);margin-right:var(--svg-margin,12px);}",
+          "background-color:transparent;",
+          [Function],
+          "padding:8px;",
+        ],
+      },
+      "displayName": "MonthSelectstyles__IconButton",
+      "foldedComponentIds": Array [
+        "StyledButtons__Button-sc-1e7va4d-0",
+        "StyledButtons__FlatButton-sc-1e7va4d-2",
+      ],
+      "propTypes": Object {
+        "color": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "MonthSelectstyles__IconButton-ualydn-5",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing MonthSelect Styles renders Option correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthSelectstyles__Option-ualydn-0",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;align-items:center;justify-content:center;flex-basis:33%;box-sizing:border-box;height:36px;cursor:pointer;border-radius:4px;font-family:Roboto;font-size:16px;font-weight:normal;font-stretch:normal;font-style:normal;line-height:1.38;letter-spacing:0.06px;text-align:left;color:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "MonthSelectstyles__Option",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "MonthSelectstyles__Option-ualydn-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing MonthSelect Styles renders OptionsContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthSelectstyles__OptionsContainer-ualydn-1",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;flex-wrap:wrap;width:calc(100% - 8px);box-sizing:border-box;margin:-4px;& > ",
+          ".MonthSelectstyles__Option-ualydn-0",
+          "{padding:8px;}",
+        ],
+      },
+      "displayName": "MonthSelectstyles__OptionsContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "MonthSelectstyles__OptionsContainer-ualydn-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing MonthSelect Styles renders Shell correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthSelectstyles__Shell-ualydn-9",
+        "isStatic": false,
+        "rules": Array [
+          "height:48px;border-radius:4px;width:100%;outline:0;padding:0px 68px 0px 16px;display:flex;justify-content:flex-start;align-items:center;box-sizing:border-box;transition:border 200ms cubic-bezier(0.645,0.045,0.355,1);will-change:border;border:1px solid ",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          [Function],
+          " ",
+          [Function],
+          " ",
+          [Function],
+          " & > input:not(:last-child){margin-right:6px;}",
+          "padding:0px 16px;display:flex;align-items:center;justify-content:",
+          [Function],
+          ";font-family:Roboto;font-size:16px;font-weight:normal;font-stretch:normal;font-style:normal;line-height:1.38;letter-spacing:0.06px;text-align:left;color:#405f71;",
+        ],
+      },
+      "displayName": "MonthSelectstyles__Shell",
+      "foldedComponentIds": Array [
+        "SelectFieldstyles__InputShell-sc-1mtgqt4-2",
+      ],
+      "render": [Function],
+      "styledComponentId": "MonthSelectstyles__Shell-ualydn-9",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing MonthSelect Styles renders TextContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthSelectstyles__TextContainer-ualydn-7",
+        "isStatic": false,
+        "rules": Array [
+          "overflow:hidden;box-sizing:border-box;display:flex;align-items:center;justify-content:center;width:36px;",
+        ],
+      },
+      "displayName": "MonthSelectstyles__TextContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "MonthSelectstyles__TextContainer-ualydn-7",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing MonthSelect Styles renders YearSelection correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthSelectstyles__YearSelection-ualydn-3",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;align-items:center;justify-content:space-between;width:100%;margin-bottom:24px;margin-top:16px;",
+        ],
+      },
+      "displayName": "MonthSelectstyles__YearSelection",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "MonthSelectstyles__YearSelection-ualydn-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing MonthSelect Styles renders YearText correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "MonthSelectstyles__YearText-ualydn-8",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:Roboto;font-size:16px;font-weight:normal;font-stretch:normal;font-style:normal;line-height:1.38;letter-spacing:0.06px;text-align:left;color:#405f71;position:relative;transform:",
+          [Function],
+          ";transition:",
+          [Function],
+          "ms;",
+        ],
+      },
+      "displayName": "MonthSelectstyles__YearText",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "MonthSelectstyles__YearText-ualydn-8",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

@@ -1,0 +1,240 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing SimpleSelect Styles Controlled Option should render correctly with active = false 1`] = `
+<StyledComponent
+  active={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SimpleSelectstyles__Option-njx2cw-4",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;height:40px;line-height:22px;font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";display:flex;align-items:center;padding:0 24px;cursor:pointer;",
+          [Function],
+          " &:hover{background-color:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "SimpleSelectstyles__Option",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SimpleSelectstyles__Option-njx2cw-4",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SimpleSelect Styles Controlled Option should render correctly with active = true 1`] = `
+<StyledComponent
+  active={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SimpleSelectstyles__Option-njx2cw-4",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;height:40px;line-height:22px;font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";display:flex;align-items:center;padding:0 24px;cursor:pointer;",
+          [Function],
+          " &:hover{background-color:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "SimpleSelectstyles__Option",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SimpleSelectstyles__Option-njx2cw-4",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SimpleSelect Styles Controlled Option should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SimpleSelectstyles__Option-njx2cw-4",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;height:40px;line-height:22px;font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";background-color:",
+          [Function],
+          ";display:flex;align-items:center;padding:0 24px;cursor:pointer;",
+          [Function],
+          " &:hover{background-color:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "SimpleSelectstyles__Option",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SimpleSelectstyles__Option-njx2cw-4",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SimpleSelect Styles Uncontrolled renders Chevron correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SimpleSelectstyles__Chevron-njx2cw-3",
+        "isStatic": false,
+        "rules": Array [
+          "--size:18px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:",
+          [Function],
+          ";margin-left:12px;",
+        ],
+      },
+      "displayName": "SimpleSelectstyles__Chevron",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SimpleSelectstyles__Chevron-njx2cw-3",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SimpleSelect Styles Uncontrolled renders Container correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SimpleSelectstyles__Container-njx2cw-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;margin-right:auto;width:100%;",
+        ],
+      },
+      "displayName": "SimpleSelectstyles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SimpleSelectstyles__Container-njx2cw-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SimpleSelect Styles Uncontrolled renders DisplayBox correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SimpleSelectstyles__DisplayBox-njx2cw-1",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;height:32px;border-radius:4px;border:solid 1px #ecf0f3;background-color:",
+          [Function],
+          ";padding:0px 12px;box-sizing:border-box;display:flex;align-items:center;",
+        ],
+      },
+      "displayName": "SimpleSelectstyles__DisplayBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SimpleSelectstyles__DisplayBox-njx2cw-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SimpleSelect Styles Uncontrolled renders ValueBox correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SimpleSelectstyles__ValueBox-njx2cw-2",
+        "isStatic": false,
+        "rules": Array [
+          "flex-grow:1;line-height:22px;font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";color:",
+          [Function],
+          ";white-space:nowrap;max-width:calc(100% - 36px);overflow:hidden;text-overflow:ellipsis;",
+        ],
+      },
+      "displayName": "SimpleSelectstyles__ValueBox",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SimpleSelectstyles__ValueBox-njx2cw-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OptionsFilter tests should render correctly with props 1`] = `
+<FilterTag
+  formatSelected={[Function]}
+  label="mock"
+  onChange={[Function]}
+  onClear={[Function]}
+  selected={
+    Array [
+      Array [
+        1,
+      ],
+    ]
+  }
+  show={false}
+>
+  <styled.div>
+    <SelectTag
+      key="option-1"
+      onChange={[Function]}
+      selected={true}
+    >
+      Concluída
+    </SelectTag>
+    <SelectTag
+      key="option-2"
+      onChange={[Function]}
+      selected={false}
+    >
+      Cancelada
+    </SelectTag>
+  </styled.div>
+  <FilterFooter
+    disabled={false}
+    onClear={[Function]}
+    onFilter={[Function]}
+  />
+</FilterTag>
+`;
+
+exports[`OptionsFilter tests should render correctly without props 1`] = `
+<FilterTag
+  formatSelected={[Function]}
+  label=""
+  onChange={[Function]}
+  onClear={[Function]}
+  selected={
+    Array [
+      null,
+    ]
+  }
+  show={false}
+>
+  <styled.div />
+  <FilterFooter
+    disabled={true}
+    onClear={[Function]}
+    onFilter={[Function]}
+  />
+</FilterTag>
+`;

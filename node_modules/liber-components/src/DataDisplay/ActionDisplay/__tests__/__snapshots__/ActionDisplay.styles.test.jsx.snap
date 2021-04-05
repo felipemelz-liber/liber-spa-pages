@@ -1,0 +1,922 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for ActionButton Styles Display should render correctly with action 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Display-h1txsb-3",
+        "isStatic": false,
+        "rules": Array [
+          "height:100%;width:100%;flex-basis:100%;flex-grow:1;background-color:",
+          [Function],
+          ";display:flex;flex-direction:column;justify-content:center;align-items:center;overflow:hidden;padding:17px 25px;box-sizing:border-box;position:relative;--resize:scale(0.9);&:after{display:",
+          [Function],
+          ";position:absolute;top:20%;right:0px;content:'';width:0px;height:60%;border-right:2px solid #e6e6e6;}&:last-child:after{display:none;}& ",
+          ".styles__ActionContainer-h1txsb-2",
+          "{height:",
+          [Function],
+          ";opacity:",
+          [Function],
+          ";}",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    flex-basis: ",
+          [Function],
+          ";
+    background-color: ",
+          [Function],
+          ";
+    padding: 12px;
+
+    &:hover {
+      background-color: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__ActionContainer-h1txsb-2",
+          " {
+      height: ",
+          [Function],
+          ";
+      opacity: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Value-h1txsb-0",
+          ":before {
+      transform: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Value-h1txsb-0",
+          "{
+      transform: ",
+          [Function],
+          ";
+      color: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Label-h1txsb-1",
+          " {
+      transform: ",
+          [Function],
+          ";
+      color: ",
+          [Function],
+          ";
+    }
+    & ",
+          ".styles__ActionContainer-h1txsb-2",
+          " {
+      height: 0px;
+      opacity: 0;
+    }
+",
+          "}",
+        ],
+      },
+      "displayName": "styles__Display",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Display-h1txsb-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  hasAction={true}
+/>
+`;
+
+exports[`Test for ActionButton Styles Display should render correctly with size 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Display-h1txsb-3",
+        "isStatic": false,
+        "rules": Array [
+          "height:100%;width:100%;flex-basis:100%;flex-grow:1;background-color:",
+          [Function],
+          ";display:flex;flex-direction:column;justify-content:center;align-items:center;overflow:hidden;padding:17px 25px;box-sizing:border-box;position:relative;--resize:scale(0.9);&:after{display:",
+          [Function],
+          ";position:absolute;top:20%;right:0px;content:'';width:0px;height:60%;border-right:2px solid #e6e6e6;}&:last-child:after{display:none;}& ",
+          ".styles__ActionContainer-h1txsb-2",
+          "{height:",
+          [Function],
+          ";opacity:",
+          [Function],
+          ";}",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    flex-basis: ",
+          [Function],
+          ";
+    background-color: ",
+          [Function],
+          ";
+    padding: 12px;
+
+    &:hover {
+      background-color: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__ActionContainer-h1txsb-2",
+          " {
+      height: ",
+          [Function],
+          ";
+      opacity: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Value-h1txsb-0",
+          ":before {
+      transform: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Value-h1txsb-0",
+          "{
+      transform: ",
+          [Function],
+          ";
+      color: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Label-h1txsb-1",
+          " {
+      transform: ",
+          [Function],
+          ";
+      color: ",
+          [Function],
+          ";
+    }
+    & ",
+          ".styles__ActionContainer-h1txsb-2",
+          " {
+      height: 0px;
+      opacity: 0;
+    }
+",
+          "}",
+        ],
+      },
+      "displayName": "styles__Display",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Display-h1txsb-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  size="70%"
+/>
+`;
+
+exports[`Test for ActionButton Styles Display should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Display-h1txsb-3",
+        "isStatic": false,
+        "rules": Array [
+          "height:100%;width:100%;flex-basis:100%;flex-grow:1;background-color:",
+          [Function],
+          ";display:flex;flex-direction:column;justify-content:center;align-items:center;overflow:hidden;padding:17px 25px;box-sizing:border-box;position:relative;--resize:scale(0.9);&:after{display:",
+          [Function],
+          ";position:absolute;top:20%;right:0px;content:'';width:0px;height:60%;border-right:2px solid #e6e6e6;}&:last-child:after{display:none;}& ",
+          ".styles__ActionContainer-h1txsb-2",
+          "{height:",
+          [Function],
+          ";opacity:",
+          [Function],
+          ";}",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    flex-basis: ",
+          [Function],
+          ";
+    background-color: ",
+          [Function],
+          ";
+    padding: 12px;
+
+    &:hover {
+      background-color: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__ActionContainer-h1txsb-2",
+          " {
+      height: ",
+          [Function],
+          ";
+      opacity: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Value-h1txsb-0",
+          ":before {
+      transform: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Value-h1txsb-0",
+          "{
+      transform: ",
+          [Function],
+          ";
+      color: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Label-h1txsb-1",
+          " {
+      transform: ",
+          [Function],
+          ";
+      color: ",
+          [Function],
+          ";
+    }
+    & ",
+          ".styles__ActionContainer-h1txsb-2",
+          " {
+      height: 0px;
+      opacity: 0;
+    }
+",
+          "}",
+        ],
+      },
+      "displayName": "styles__Display",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Display-h1txsb-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "actionDisplay": Object {
+        "display": Object {
+          "background": "#ccc",
+          "hover": Object {
+            "background": "#ddd",
+            "label": "#fff",
+            "value": "#eee",
+          },
+        },
+        "label": "#bbb",
+        "value": "#aaa",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles Display should render correctly with valueBig 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Display-h1txsb-3",
+        "isStatic": false,
+        "rules": Array [
+          "height:100%;width:100%;flex-basis:100%;flex-grow:1;background-color:",
+          [Function],
+          ";display:flex;flex-direction:column;justify-content:center;align-items:center;overflow:hidden;padding:17px 25px;box-sizing:border-box;position:relative;--resize:scale(0.9);&:after{display:",
+          [Function],
+          ";position:absolute;top:20%;right:0px;content:'';width:0px;height:60%;border-right:2px solid #e6e6e6;}&:last-child:after{display:none;}& ",
+          ".styles__ActionContainer-h1txsb-2",
+          "{height:",
+          [Function],
+          ";opacity:",
+          [Function],
+          ";}",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    flex-basis: ",
+          [Function],
+          ";
+    background-color: ",
+          [Function],
+          ";
+    padding: 12px;
+
+    &:hover {
+      background-color: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__ActionContainer-h1txsb-2",
+          " {
+      height: ",
+          [Function],
+          ";
+      opacity: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Value-h1txsb-0",
+          ":before {
+      transform: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Value-h1txsb-0",
+          "{
+      transform: ",
+          [Function],
+          ";
+      color: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Label-h1txsb-1",
+          " {
+      transform: ",
+          [Function],
+          ";
+      color: ",
+          [Function],
+          ";
+    }
+    & ",
+          ".styles__ActionContainer-h1txsb-2",
+          " {
+      height: 0px;
+      opacity: 0;
+    }
+",
+          "}",
+        ],
+      },
+      "displayName": "styles__Display",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Display-h1txsb-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  valueBig="32px"
+/>
+`;
+
+exports[`Test for ActionButton Styles Display should render correctly with valueSmall 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Display-h1txsb-3",
+        "isStatic": false,
+        "rules": Array [
+          "height:100%;width:100%;flex-basis:100%;flex-grow:1;background-color:",
+          [Function],
+          ";display:flex;flex-direction:column;justify-content:center;align-items:center;overflow:hidden;padding:17px 25px;box-sizing:border-box;position:relative;--resize:scale(0.9);&:after{display:",
+          [Function],
+          ";position:absolute;top:20%;right:0px;content:'';width:0px;height:60%;border-right:2px solid #e6e6e6;}&:last-child:after{display:none;}& ",
+          ".styles__ActionContainer-h1txsb-2",
+          "{height:",
+          [Function],
+          ";opacity:",
+          [Function],
+          ";}",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    flex-basis: ",
+          [Function],
+          ";
+    background-color: ",
+          [Function],
+          ";
+    padding: 12px;
+
+    &:hover {
+      background-color: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__ActionContainer-h1txsb-2",
+          " {
+      height: ",
+          [Function],
+          ";
+      opacity: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Value-h1txsb-0",
+          ":before {
+      transform: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Value-h1txsb-0",
+          "{
+      transform: ",
+          [Function],
+          ";
+      color: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Label-h1txsb-1",
+          " {
+      transform: ",
+          [Function],
+          ";
+      color: ",
+          [Function],
+          ";
+    }
+    & ",
+          ".styles__ActionContainer-h1txsb-2",
+          " {
+      height: 0px;
+      opacity: 0;
+    }
+",
+          "}",
+        ],
+      },
+      "displayName": "styles__Display",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Display-h1txsb-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  valueBig="30px"
+/>
+`;
+
+exports[`Test for ActionButton Styles Display should render correctly without action 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Display-h1txsb-3",
+        "isStatic": false,
+        "rules": Array [
+          "height:100%;width:100%;flex-basis:100%;flex-grow:1;background-color:",
+          [Function],
+          ";display:flex;flex-direction:column;justify-content:center;align-items:center;overflow:hidden;padding:17px 25px;box-sizing:border-box;position:relative;--resize:scale(0.9);&:after{display:",
+          [Function],
+          ";position:absolute;top:20%;right:0px;content:'';width:0px;height:60%;border-right:2px solid #e6e6e6;}&:last-child:after{display:none;}& ",
+          ".styles__ActionContainer-h1txsb-2",
+          "{height:",
+          [Function],
+          ";opacity:",
+          [Function],
+          ";}",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    flex-basis: ",
+          [Function],
+          ";
+    background-color: ",
+          [Function],
+          ";
+    padding: 12px;
+
+    &:hover {
+      background-color: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__ActionContainer-h1txsb-2",
+          " {
+      height: ",
+          [Function],
+          ";
+      opacity: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Value-h1txsb-0",
+          ":before {
+      transform: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Value-h1txsb-0",
+          "{
+      transform: ",
+          [Function],
+          ";
+      color: ",
+          [Function],
+          ";
+    }
+    &:hover ",
+          ".styles__Label-h1txsb-1",
+          " {
+      transform: ",
+          [Function],
+          ";
+      color: ",
+          [Function],
+          ";
+    }
+    & ",
+          ".styles__ActionContainer-h1txsb-2",
+          " {
+      height: 0px;
+      opacity: 0;
+    }
+",
+          "}",
+        ],
+      },
+      "displayName": "styles__Display",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Display-h1txsb-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  hasAction={false}
+/>
+`;
+
+exports[`Test for ActionButton Styles Label should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Label-h1txsb-1",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";color:",
+          [Function],
+          ";text-align:center;transition:all 100ms linear;",
+        ],
+      },
+      "displayName": "styles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Label-h1txsb-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles Label should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Label-h1txsb-1",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";color:",
+          [Function],
+          ";text-align:center;transition:all 100ms linear;",
+        ],
+      },
+      "displayName": "styles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Label-h1txsb-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "actionDisplay": Object {
+        "display": Object {
+          "background": "#ccc",
+          "hover": Object {
+            "background": "#ddd",
+            "label": "#fff",
+            "value": "#eee",
+          },
+        },
+        "label": "#bbb",
+        "value": "#aaa",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for ActionButton Styles Value should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Value-h1txsb-0",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";color:",
+          [Function],
+          ";line-height:0.8em;transition:all 100ms linear;position:relative;margin-left:",
+          [Function],
+          ";margin-bottom:8px;box-sizing:border-box;",
+          [Function],
+        ],
+      },
+      "displayName": "styles__Value",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Value-h1txsb-0",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  child
+</StyledComponent>
+`;
+
+exports[`Test for ActionButton Styles Value should render correctly with currency 1`] = `
+<StyledComponent
+  currency="R$"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Value-h1txsb-0",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";color:",
+          [Function],
+          ";line-height:0.8em;transition:all 100ms linear;position:relative;margin-left:",
+          [Function],
+          ";margin-bottom:8px;box-sizing:border-box;",
+          [Function],
+        ],
+      },
+      "displayName": "styles__Value",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Value-h1txsb-0",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  child
+</StyledComponent>
+`;
+
+exports[`Test for ActionButton Styles Value should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Value-h1txsb-0",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";color:",
+          [Function],
+          ";line-height:0.8em;transition:all 100ms linear;position:relative;margin-left:",
+          [Function],
+          ";margin-bottom:8px;box-sizing:border-box;",
+          [Function],
+        ],
+      },
+      "displayName": "styles__Value",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Value-h1txsb-0",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "actionDisplay": Object {
+        "display": Object {
+          "background": "#ccc",
+          "hover": Object {
+            "background": "#ddd",
+            "label": "#fff",
+            "value": "#eee",
+          },
+        },
+        "label": "#bbb",
+        "value": "#aaa",
+      },
+    }
+  }
+>
+  child
+</StyledComponent>
+`;
+
+exports[`Test for ActionButton Styles should render ActionContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__ActionContainer-h1txsb-2",
+        "isStatic": false,
+        "rules": Array [
+          "height:0px;margin-top:15px;box-sizing:border-box;opacity:0;width:80%;text-align:center;& button{margin-bottom:10px;font-size:20px;}transition:all 100ms linear;& ",
+          ".StyledButtons__Button-sc-1rtn1fx-0",
+          "{min-width:50%;width:unset;}& ",
+          ".StyledButtons__Link-sc-1rtn1fx-4",
+          "{min-width:50%;width:unset;}",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    margin-top: 0px;
+
+    & ",
+          ".StyledButtons__Button-sc-1rtn1fx-0",
+          " {
+      width: 100%;
+      height: 30px;
+    }
+    & ",
+          ".StyledButtons__Link-sc-1rtn1fx-4",
+          " {
+      width: 100%;
+      height: 30px;
+    }
+",
+          "}",
+        ],
+      },
+      "displayName": "styles__ActionContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__ActionContainer-h1txsb-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for ActionButton Styles should render DisplayRow correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__DisplayRow-h1txsb-4",
+        "isStatic": false,
+        "rules": Array [
+          "padding:0px;display:flex;flex-wrap:wrap;",
+        ],
+      },
+      "displayName": "styles__DisplayRow",
+      "foldedComponentIds": Array [
+        "Cards__CardContent-sc-1kn0psw-2",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__DisplayRow-h1txsb-4",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

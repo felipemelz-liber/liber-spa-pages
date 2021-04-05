@@ -1,0 +1,105 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for BarChart Styles Components Slider should render with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "type": "range",
+        "valueAsNumber": true,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Slider-mqrhoq-0",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";appearance:none;height:8.5px;background-color:",
+          [Function],
+          ";outline:none;border-radius:4.25px;border:solid 2px ",
+          [Function],
+          ";&::-webkit-slider-thumb{-webkit-appearance:none;border:0px;width:55px;height:6px;border-radius:3px;background-color:",
+          [Function],
+          ";;}&::-moz-range-thumb{border:0px;width:55px;height:6px;border-radius:3px;background-color:",
+          [Function],
+          ";;}&::-ms-thumb{border:0px;width:55px;height:6px;border-radius:3px;background-color:",
+          [Function],
+          ";;}&:focus{outline:none;}&::-moz-focus-outer{border:0;}&::-moz-range-track{background-color:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "styles__Slider",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Slider-mqrhoq-0",
+      "target": "input",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "barChart": Object {
+        "slider": Object {
+          "background": "#666",
+          "border": "#777",
+        },
+      },
+    }
+  }
+  type="range"
+  valueAsNumber={true}
+/>
+`;
+
+exports[`Test for BarChart Styles Components Slider should render without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "type": "range",
+        "valueAsNumber": true,
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Slider-mqrhoq-0",
+        "isStatic": false,
+        "rules": Array [
+          "width:",
+          [Function],
+          ";appearance:none;height:8.5px;background-color:",
+          [Function],
+          ";outline:none;border-radius:4.25px;border:solid 2px ",
+          [Function],
+          ";&::-webkit-slider-thumb{-webkit-appearance:none;border:0px;width:55px;height:6px;border-radius:3px;background-color:",
+          [Function],
+          ";;}&::-moz-range-thumb{border:0px;width:55px;height:6px;border-radius:3px;background-color:",
+          [Function],
+          ";;}&::-ms-thumb{border:0px;width:55px;height:6px;border-radius:3px;background-color:",
+          [Function],
+          ";;}&:focus{outline:none;}&::-moz-focus-outer{border:0;}&::-moz-range-track{background-color:",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "styles__Slider",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Slider-mqrhoq-0",
+      "target": "input",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="range"
+  valueAsNumber={true}
+/>
+`;

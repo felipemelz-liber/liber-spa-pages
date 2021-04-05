@@ -1,0 +1,311 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Checkbox Styles Card should render correctly when open 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Card-sc-1qag6pi-0",
+        "isStatic": false,
+        "rules": Array [
+          "background-color:#ffffff;box-shadow:0 2px 5px 0 rgba(0,0,0,0.2);overflow:hidden;display:inline-block;position:relative;margin:8px 25px 16px 0;height:",
+          [Function],
+          ";margin-right:0px;width:100%;@media (min-width:576px){margin-right:0px;width:100%;}@media (min-width:768px){margin-right:0px;width:100%;}@media (min-width:992px){margin-right:25px;width:",
+          [Function],
+          ";}@media (min-width:1200px){margin-right:25px;width:",
+          [Function],
+          ";}",
+          "position:relative;",
+          [Function],
+          " overflow:",
+          [Function],
+          ";border-radius:4px;box-shadow:0 4px 15px 0 rgba(0,0,0,0.2);background-color:",
+          [Function],
+          ";margin:0px !important;",
+        ],
+      },
+      "displayName": "styles__Card",
+      "foldedComponentIds": Array [
+        "GenericStyles__Card-jict78-4",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__Card-sc-1qag6pi-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Checkbox Styles Card should render correctly with overflow 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Card-sc-1qag6pi-0",
+        "isStatic": false,
+        "rules": Array [
+          "background-color:#ffffff;box-shadow:0 2px 5px 0 rgba(0,0,0,0.2);overflow:hidden;display:inline-block;position:relative;margin:8px 25px 16px 0;height:",
+          [Function],
+          ";margin-right:0px;width:100%;@media (min-width:576px){margin-right:0px;width:100%;}@media (min-width:768px){margin-right:0px;width:100%;}@media (min-width:992px){margin-right:25px;width:",
+          [Function],
+          ";}@media (min-width:1200px){margin-right:25px;width:",
+          [Function],
+          ";}",
+          "position:relative;",
+          [Function],
+          " overflow:",
+          [Function],
+          ";border-radius:4px;box-shadow:0 4px 15px 0 rgba(0,0,0,0.2);background-color:",
+          [Function],
+          ";margin:0px !important;",
+        ],
+      },
+      "displayName": "styles__Card",
+      "foldedComponentIds": Array [
+        "GenericStyles__Card-jict78-4",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__Card-sc-1qag6pi-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  overflow="hidden"
+/>
+`;
+
+exports[`Testing Checkbox Styles Card should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Card-sc-1qag6pi-0",
+        "isStatic": false,
+        "rules": Array [
+          "background-color:#ffffff;box-shadow:0 2px 5px 0 rgba(0,0,0,0.2);overflow:hidden;display:inline-block;position:relative;margin:8px 25px 16px 0;height:",
+          [Function],
+          ";margin-right:0px;width:100%;@media (min-width:576px){margin-right:0px;width:100%;}@media (min-width:768px){margin-right:0px;width:100%;}@media (min-width:992px){margin-right:25px;width:",
+          [Function],
+          ";}@media (min-width:1200px){margin-right:25px;width:",
+          [Function],
+          ";}",
+          "position:relative;",
+          [Function],
+          " overflow:",
+          [Function],
+          ";border-radius:4px;box-shadow:0 4px 15px 0 rgba(0,0,0,0.2);background-color:",
+          [Function],
+          ";margin:0px !important;",
+        ],
+      },
+      "displayName": "styles__Card",
+      "foldedComponentIds": Array [
+        "GenericStyles__Card-jict78-4",
+      ],
+      "render": [Function],
+      "styledComponentId": "styles__Card-sc-1qag6pi-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "dialog": Object {
+        "background": "#aaa",
+        "card": "#bbb",
+        "header": "#ccc",
+        "separator": "#ddd",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Testing Checkbox Styles CardHeader should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__CardHeader-sc-1qag6pi-1",
+        "isStatic": false,
+        "rules": Array [
+          "padding:16px 24px;white-space:nowrap;font-family:inherit;font-size:20px;font-weight:bold;text-align:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border-bottom:1px solid ",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "styles__CardHeader",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__CardHeader-sc-1qag6pi-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Checkbox Styles CardHeader should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__CardHeader-sc-1qag6pi-1",
+        "isStatic": false,
+        "rules": Array [
+          "padding:16px 24px;white-space:nowrap;font-family:inherit;font-size:20px;font-weight:bold;text-align:",
+          [Function],
+          ";color:",
+          [Function],
+          ";border-bottom:1px solid ",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "styles__CardHeader",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__CardHeader-sc-1qag6pi-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "dialog": Object {
+        "background": "#aaa",
+        "card": "#bbb",
+        "header": "#ccc",
+        "separator": "#ddd",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Testing Checkbox Styles CloseButton should render without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__CloseButton-sc-1qag6pi-3",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;padding:",
+          [Function],
+          ";top:0;right:0;cursor:pointer;",
+        ],
+      },
+      "displayName": "styles__CloseButton",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__CloseButton-sc-1qag6pi-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Checkbox Styles CloseIcon should render correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__CloseIcon-sc-1qag6pi-2",
+        "isStatic": false,
+        "rules": Array [
+          "width:23px;height:23px;fill:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "styles__CloseIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__CloseIcon-sc-1qag6pi-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Checkbox Styles CloseIcon should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__CloseIcon-sc-1qag6pi-2",
+        "isStatic": false,
+        "rules": Array [
+          "width:23px;height:23px;fill:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "styles__CloseIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__CloseIcon-sc-1qag6pi-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "dialog": Object {
+        "background": "#aaa",
+        "card": "#bbb",
+        "header": "#ccc",
+        "separator": "#ddd",
+      },
+    }
+  }
+/>
+`;

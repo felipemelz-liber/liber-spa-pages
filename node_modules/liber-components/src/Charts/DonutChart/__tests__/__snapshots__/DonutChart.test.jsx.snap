@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for DonutChart should render correctly 1`] = `
+<PieChart
+  data={
+    Array [
+      Object {
+        "x": "A",
+        "y": 25,
+      },
+      Object {
+        "x": "B",
+        "y": 10,
+      },
+      Object {
+        "x": "C",
+        "y": 15,
+      },
+      Object {
+        "x": "D",
+        "y": 50,
+      },
+    ]
+  }
+  disableInternalEvents={false}
+  height={250}
+  innerRadius={50}
+  labelRadius={80}
+  labels={Array []}
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+  padding={25}
+  target={null}
+  targetEvent="hover"
+  width={250}
+  x="x"
+  y="y"
+/>
+`;
+
+exports[`Test for DonutChart should render correctly with innerRadius 1`] = `
+<PieChart
+  data={
+    Array [
+      Object {
+        "x": "A",
+        "y": 25,
+      },
+      Object {
+        "x": "B",
+        "y": 10,
+      },
+      Object {
+        "x": "C",
+        "y": 15,
+      },
+      Object {
+        "x": "D",
+        "y": 50,
+      },
+    ]
+  }
+  disableInternalEvents={false}
+  height={250}
+  innerRadius={50}
+  labelRadius={80}
+  labels={Array []}
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+  padding={25}
+  target={null}
+  targetEvent="hover"
+  width={250}
+  x="x"
+  y="y"
+/>
+`;

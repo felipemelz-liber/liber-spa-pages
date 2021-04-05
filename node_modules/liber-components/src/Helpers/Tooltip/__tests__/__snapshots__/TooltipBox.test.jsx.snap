@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for Floater Component should not show tooltip with show=false 1`] = `
+<Fragment>
+  <div
+    id="child"
+    onMouseEnter={null}
+    onMouseLeave={[Function]}
+    onMouseMove={[Function]}
+  >
+    mock
+  </div>
+</Fragment>
+`;
+
+exports[`Test for Floater Component should remove Tooltip on mouseLeave 1`] = `
+<Fragment>
+  <div
+    id="child"
+    onMouseEnter={null}
+    onMouseLeave={[Function]}
+    onMouseMove={[Function]}
+  >
+    mock
+  </div>
+</Fragment>
+`;
+
+exports[`Test for Floater Component should render Tooltip on mouseEnter 1`] = `
+<Fragment>
+  <div
+    id="child"
+    onMouseEnter={null}
+    onMouseLeave={[Function]}
+    onMouseMove={[Function]}
+  >
+    mock
+  </div>
+</Fragment>
+`;
+
+exports[`Test for Floater Component should render Tooltip on mouseMove 1`] = `
+<Fragment>
+  <div
+    id="child"
+    onMouseEnter={null}
+    onMouseLeave={[Function]}
+    onMouseMove={[Function]}
+  >
+    mock
+  </div>
+</Fragment>
+`;
+
+exports[`Test for Floater Component should render correctly being fixed and with contentPostion  1`] = `
+<Fragment>
+  <div
+    id="child"
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseMove={null}
+  >
+    mock
+  </div>
+</Fragment>
+`;
+
+exports[`Test for Floater Component should render correctly with children 1`] = `
+<Fragment>
+  <div
+    id="child"
+    onMouseEnter={null}
+    onMouseLeave={[Function]}
+    onMouseMove={[Function]}
+  >
+    mock
+  </div>
+</Fragment>
+`;

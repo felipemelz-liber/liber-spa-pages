@@ -1,0 +1,106 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for SimpleDisplay should render correctly with prefix 1`] = `
+<Fragment>
+  <styles__Container
+    divider={true}
+    hasClick={false}
+    highlight={false}
+    label="test"
+    onClick={null}
+    onMouseLeave={null}
+    onMouseMove={null}
+    tooltipLabel=""
+  >
+    <styles__Value
+      prefix="R$"
+    >
+      3
+    </styles__Value>
+    <styles__Label
+      color={null}
+    >
+      test
+    </styles__Label>
+  </styles__Container>
+</Fragment>
+`;
+
+exports[`Test for SimpleDisplay should render correctly with value and label(object) 1`] = `
+<Fragment>
+  <styles__Container
+    divider={true}
+    hasClick={false}
+    highlight={false}
+    label={
+      Object {
+        "color": "#000",
+        "text": "test",
+      }
+    }
+    onClick={null}
+    onMouseLeave={null}
+    onMouseMove={null}
+    tooltipLabel=""
+  >
+    <styles__Value
+      prefix={null}
+    >
+      3
+    </styles__Value>
+    <styles__Label
+      color="#000"
+    >
+      test
+    </styles__Label>
+  </styles__Container>
+</Fragment>
+`;
+
+exports[`Test for SimpleDisplay should render correctly with value and label(string) 1`] = `
+<Fragment>
+  <styles__Container
+    divider={true}
+    hasClick={false}
+    highlight={false}
+    label="test"
+    onClick={null}
+    onMouseLeave={null}
+    onMouseMove={null}
+    tooltipLabel=""
+  >
+    <styles__Value
+      prefix={null}
+    >
+      3
+    </styles__Value>
+    <styles__Label
+      color={null}
+    >
+      test
+    </styles__Label>
+  </styles__Container>
+</Fragment>
+`;
+
+exports[`Test for SimpleDisplay should render correctly without props 1`] = `
+<Fragment>
+  <styles__Container
+    divider={true}
+    hasClick={false}
+    highlight={false}
+    label=""
+    onClick={null}
+    onMouseLeave={null}
+    onMouseMove={null}
+    tooltipLabel=""
+  >
+    <styles__Value
+      prefix={null}
+    />
+    <styles__Label
+      color={null}
+    />
+  </styles__Container>
+</Fragment>
+`;

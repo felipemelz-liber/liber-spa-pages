@@ -1,0 +1,186 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing DateRangePicker Styles Controlled Close render correctly with show = true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateRangePickerstyles__Close-sc-1480kn8-2",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:",
+          [Function],
+          ";position:absolute;right:16px;top:calc(50% - 10px);opacity:0;pointer-events:none;",
+          [Function],
+          " transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;z-index:2;cursor:pointer;",
+        ],
+      },
+      "displayName": "DateRangePickerstyles__Close",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateRangePickerstyles__Close-sc-1480kn8-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  show={true}
+/>
+`;
+
+exports[`Testing DateRangePicker Styles Controlled Close render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateRangePickerstyles__Close-sc-1480kn8-2",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:",
+          [Function],
+          ";position:absolute;right:16px;top:calc(50% - 10px);opacity:0;pointer-events:none;",
+          [Function],
+          " transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;z-index:2;cursor:pointer;",
+        ],
+      },
+      "displayName": "DateRangePickerstyles__Close",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateRangePickerstyles__Close-sc-1480kn8-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateRangePicker Styles Controlled Icon render correctly with error = true 1`] = `
+<StyledComponent
+  error={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateRangePickerstyles__Icon-sc-1480kn8-1",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:",
+          [Function],
+          ";position:absolute;right:16px;top:calc(50% - 10px);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "DateRangePickerstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateRangePickerstyles__Icon-sc-1480kn8-1",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateRangePicker Styles Controlled Icon render correctly with hide = true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateRangePickerstyles__Icon-sc-1480kn8-1",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:",
+          [Function],
+          ";position:absolute;right:16px;top:calc(50% - 10px);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "DateRangePickerstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateRangePickerstyles__Icon-sc-1480kn8-1",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  hide={true}
+/>
+`;
+
+exports[`Testing DateRangePicker Styles Controlled Icon render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateRangePickerstyles__Icon-sc-1480kn8-1",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:",
+          [Function],
+          ";position:absolute;right:16px;top:calc(50% - 10px);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+        ],
+      },
+      "displayName": "DateRangePickerstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateRangePickerstyles__Icon-sc-1480kn8-1",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing DateRangePicker Styles Uncontrolled renders Container correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "DateRangePickerstyles__Container-sc-1480kn8-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;",
+        ],
+      },
+      "displayName": "DateRangePickerstyles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "DateRangePickerstyles__Container-sc-1480kn8-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

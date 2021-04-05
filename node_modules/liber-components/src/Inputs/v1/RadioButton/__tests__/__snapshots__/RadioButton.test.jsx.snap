@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing RadioButton Component should render correctly checked 1`] = `
+<RadioButtonstyles
+  className="test"
+  color="#000"
+  htmlFor="test"
+  labelColor="#000"
+  onKeyDown={[Function]}
+  tabIndex="0"
+>
+  <input
+    checked={true}
+    id="test"
+    name="test"
+    onChange={[Function]}
+    type="radio"
+    value="test"
+  />
+  <div>
+    Test
+  </div>
+</RadioButtonstyles>
+`;
+
+exports[`Testing RadioButton Component should render correctly unchecked 1`] = `
+<RadioButtonstyles
+  className="test"
+  color="#000"
+  htmlFor="test"
+  labelColor="#000"
+  onKeyDown={[Function]}
+  tabIndex="0"
+>
+  <input
+    checked={false}
+    id="test"
+    name="test"
+    onChange={[Function]}
+    type="radio"
+    value="test"
+  />
+  <div>
+    Test
+  </div>
+</RadioButtonstyles>
+`;

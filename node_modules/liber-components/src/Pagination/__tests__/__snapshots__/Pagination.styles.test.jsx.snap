@@ -1,0 +1,174 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Pagination Styles renders Container correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Paginationstyles__Container-gpe49t-2",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;justify-content:flex-start;align-items:center;width:100%;",
+        ],
+      },
+      "displayName": "Paginationstyles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Paginationstyles__Container-gpe49t-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Pagination Styles renders NextButton correctly 1`] = `
+<Paginationstyles__Next>
+  <Paginationstyles__NextIcon />
+</Paginationstyles__Next>
+`;
+
+exports[`Testing Pagination Styles renders NextIcon correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Paginationstyles__NextIcon-gpe49t-1",
+        "isStatic": false,
+        "rules": Array [
+          "--size:24px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);margin-top:2px;fill:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Paginationstyles__NextIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Paginationstyles__NextIcon-gpe49t-1",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Pagination Styles renders PageContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Paginationstyles__PageContainer-gpe49t-3",
+        "isStatic": false,
+        "rules": Array [
+          "margin-left:auto;display:flex;justify-content:flex-start;align-items:center;line-height:22px;letter-spacing:0.1px;text-align:left;font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Paginationstyles__PageContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Paginationstyles__PageContainer-gpe49t-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing Pagination Styles renders PageInput correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "_foldedDefaultProps": Object {
+        "type": "number",
+      },
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Paginationstyles__PageInput-gpe49t-6",
+        "isStatic": false,
+        "rules": Array [
+          "height:36px;width:75px;border-radius:4px;border:solid 1px #ecf0f3;background-color:",
+          [Function],
+          ";margin:0 12px;padding:0px 12px;line-height:22px;font-size:",
+          [Function],
+          ";font-family:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";color:",
+          [Function],
+          ";box-sizing:border-box;",
+        ],
+      },
+      "displayName": "Paginationstyles__PageInput",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Paginationstyles__PageInput-gpe49t-6",
+      "target": "input",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  type="number"
+/>
+`;
+
+exports[`Testing Pagination Styles renders PrevButton correctly 1`] = `
+<Paginationstyles__Prev>
+  <Paginationstyles__PrevIcon />
+</Paginationstyles__Prev>
+`;
+
+exports[`Testing Pagination Styles renders PrevIcon correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Paginationstyles__PrevIcon-gpe49t-0",
+        "isStatic": false,
+        "rules": Array [
+          "--size:24px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);margin-top:2px;fill:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Paginationstyles__PrevIcon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Paginationstyles__PrevIcon-gpe49t-0",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

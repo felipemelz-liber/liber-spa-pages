@@ -1,0 +1,105 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Checkbox Component should open when clicked with props 1`] = `
+<styles__AccordionBox
+  className=""
+  open={true}
+>
+  <styles__AccordionAction
+    color="#fff"
+    onClick={[Function]}
+    open={true}
+  >
+    test
+  </styles__AccordionAction>
+  <styles__ShowBox
+    open={true}
+    size="9999px"
+  >
+    <div>
+      <DetectChange
+        onChange={[Function]}
+      >
+        <p>
+          Testando
+        </p>
+      </DetectChange>
+    </div>
+  </styles__ShowBox>
+</styles__AccordionBox>
+`;
+
+exports[`Testing Checkbox Component should open when clicked without props 1`] = `
+<styles__AccordionBox
+  className=""
+  open={true}
+>
+  <styles__AccordionAction
+    color="#fff"
+    onClick={[Function]}
+    open={true}
+  />
+  <styles__ShowBox
+    open={true}
+    size="9999px"
+  >
+    <div>
+      <DetectChange
+        onChange={[Function]}
+      />
+    </div>
+  </styles__ShowBox>
+</styles__AccordionBox>
+`;
+
+exports[`Testing Checkbox Component should render correctly with props 1`] = `
+<styles__AccordionBox
+  className=""
+  open={false}
+>
+  <styles__AccordionAction
+    color="#fff"
+    onClick={[Function]}
+    open={false}
+  >
+    test
+  </styles__AccordionAction>
+  <styles__ShowBox
+    open={false}
+    size="9999px"
+  >
+    <div>
+      <DetectChange
+        onChange={[Function]}
+      >
+        <p>
+          Testando
+        </p>
+      </DetectChange>
+    </div>
+  </styles__ShowBox>
+</styles__AccordionBox>
+`;
+
+exports[`Testing Checkbox Component should render correctly without props 1`] = `
+<styles__AccordionBox
+  className=""
+  open={false}
+>
+  <styles__AccordionAction
+    color="#fff"
+    onClick={[Function]}
+    open={false}
+  />
+  <styles__ShowBox
+    open={false}
+    size="9999px"
+  >
+    <div>
+      <DetectChange
+        onChange={[Function]}
+      />
+    </div>
+  </styles__ShowBox>
+</styles__AccordionBox>
+`;

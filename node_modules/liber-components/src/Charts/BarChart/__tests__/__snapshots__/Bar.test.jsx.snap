@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for Bar should render correctly 1`] = `
+<Fragment>
+  <Bar
+    barRatio={1}
+    datum={
+      Object {
+        "tooltipContent": <div>
+          mock
+        </div>,
+        "x": "1990-01-01T00:00:00.000Z",
+        "y": 100,
+      }
+    }
+    defaultBarWidth={8}
+    events={
+      Object {
+        "onMouseLeave": [Function],
+        "onMouseMove": [Function],
+      }
+    }
+    pathComponent={<Path />}
+    role="presentation"
+    shapeRendering="auto"
+    style={
+      Object {
+        "fill": "#000",
+      }
+    }
+  />
+  ;
+</Fragment>
+`;

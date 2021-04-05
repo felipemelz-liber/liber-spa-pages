@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing StickyBar Component renders Bar correctly when sticked 1`] = `
+<Fragment>
+  <Waypoint
+    bottomOffset="0px"
+    debug={false}
+    fireOnRapidScroll={true}
+    horizontal={false}
+    onEnter={[Function]}
+    onLeave={[Function]}
+    onPositionChange={[Function]}
+    topOffset="0px"
+  />
+  <StickyBarstyles__Bar
+    sticked={true}
+  />
+</Fragment>
+`;
+
+exports[`Testing StickyBar Component renders Bar correctly without props 1`] = `
+<Fragment>
+  <Waypoint
+    bottomOffset="0px"
+    debug={false}
+    fireOnRapidScroll={true}
+    horizontal={false}
+    onEnter={[Function]}
+    onLeave={[Function]}
+    onPositionChange={[Function]}
+    topOffset="0px"
+  />
+  <StickyBarstyles__Bar
+    sticked={true}
+  />
+</Fragment>
+`;

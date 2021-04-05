@@ -1,0 +1,505 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VendorAdvances component test should render correctly with all props 1`] = `
+<Fragment>
+  <GlobalStyleComponent />
+  <styled.div
+    loading={false}
+  >
+    <styled.div>
+      <Connect(HideFromAdmin)>
+        <styled.div>
+          <styled.span>
+            Antecipações
+          </styled.span>
+        </styled.div>
+        <styled.span>
+          Encontramos 
+          1
+           solicitação em andamento.
+          <br />
+           Verifique se existem ações pendentes ou confira o histórico de antecipações.
+        </styled.span>
+      </Connect(HideFromAdmin)>
+      <Connect(PendingAdvances)
+        onDetailsClick={[Function]}
+      />
+      <styled.span>
+        Histórico de Antecipações
+      </styled.span>
+      <CompleteTable
+        actions={null}
+        allChecked={false}
+        borderBottom={false}
+        columns={
+          Array [
+            Object {
+              "align": "left",
+              "getCellValue": [Function],
+              "label": "Status",
+              "name": "status",
+              "width": 14,
+            },
+            Object {
+              "align": "right",
+              "getCellValue": [Function],
+              "label": "Valor Antecipado (R$)",
+              "name": "netValue",
+              "width": 18,
+            },
+            Object {
+              "align": "right",
+              "label": "Títulos Solicitados",
+              "name": "invoiceCount",
+              "width": 15,
+            },
+            Object {
+              "align": "right",
+              "getCellValue": [Function],
+              "label": "Títulos Antecipados",
+              "name": "invoicesAnticipated",
+              "width": 15,
+            },
+            Object {
+              "align": "center",
+              "label": "Solicitado Em",
+              "name": "requestedAt",
+              "width": 18,
+            },
+            Object {
+              "align": "center",
+              "getCellValue": [Function],
+              "label": "Ações",
+              "name": "documentUrl",
+              "width": 8,
+            },
+          ]
+        }
+        emptyState={<Empty />}
+        filterBorderTop={true}
+        filters={<Memo(Connect(Filters)) />}
+        headerBorderTop={true}
+        hiddenColumns={Array []}
+        isItemSelectable={[Function]}
+        isItemSelected={[Function]}
+        items={
+          Array [
+            Object {
+              "number": 0,
+            },
+          ]
+        }
+        onSelect={[Function]}
+        onSelectAll={null}
+        paginationProps={
+          Object {
+            "currentPage": "1",
+            "hasListing": true,
+            "listingProps": Object {
+              "listing": "10",
+              "listingLabelPlural": "adiantamentos",
+              "listingLabelSingular": "adiantamento",
+              "onSelectListing": [Function],
+              "showInterval": Object {
+                "end": "0",
+                "start": "1",
+              },
+              "total": "0",
+            },
+            "onChangePage": [Function],
+            "onClickNext": [Function],
+            "onClickPrev": [Function],
+            "onKeyDownPage": [Function],
+            "pageTotal": "1",
+          }
+        }
+        selectionControl={null}
+        sortingProps={
+          Object {
+            "onSort": [Function],
+            "sortedColumns": false,
+            "sorting": Array [],
+          }
+        }
+        tooltipContent={[Function]}
+        weightedColumns={false}
+      />
+    </styled.div>
+  </styled.div>
+  <_default />
+</Fragment>
+`;
+
+exports[`VendorAdvances component test should render correctly with concluded advances and no pending advances 1`] = `
+<Fragment>
+  <GlobalStyleComponent />
+  <styled.div
+    loading={false}
+  >
+    <styled.div>
+      <Connect(HideFromAdmin)>
+        <styled.div>
+          <styled.span>
+            Antecipações
+          </styled.span>
+        </styled.div>
+        <styled.span>
+          Não encontramos nenhuma solicitação em andamento.
+          <br />
+           Confira abaixo o seu histórico de antecipações.
+        </styled.span>
+      </Connect(HideFromAdmin)>
+      <Connect(PendingAdvances)
+        onDetailsClick={[Function]}
+      />
+      <CompleteTable
+        actions={null}
+        allChecked={false}
+        borderBottom={false}
+        columns={
+          Array [
+            Object {
+              "align": "left",
+              "getCellValue": [Function],
+              "label": "Status",
+              "name": "status",
+              "width": 14,
+            },
+            Object {
+              "align": "right",
+              "getCellValue": [Function],
+              "label": "Valor Antecipado (R$)",
+              "name": "netValue",
+              "width": 18,
+            },
+            Object {
+              "align": "right",
+              "label": "Títulos Solicitados",
+              "name": "invoiceCount",
+              "width": 15,
+            },
+            Object {
+              "align": "right",
+              "getCellValue": [Function],
+              "label": "Títulos Antecipados",
+              "name": "invoicesAnticipated",
+              "width": 15,
+            },
+            Object {
+              "align": "center",
+              "label": "Solicitado Em",
+              "name": "requestedAt",
+              "width": 18,
+            },
+            Object {
+              "align": "center",
+              "getCellValue": [Function],
+              "label": "Ações",
+              "name": "documentUrl",
+              "width": 8,
+            },
+          ]
+        }
+        emptyState={<Empty />}
+        filterBorderTop={true}
+        filters={<Memo(Connect(Filters)) />}
+        headerBorderTop={true}
+        hiddenColumns={Array []}
+        isItemSelectable={[Function]}
+        isItemSelected={[Function]}
+        items={
+          Array [
+            Object {
+              "number": 0,
+            },
+          ]
+        }
+        onSelect={[Function]}
+        onSelectAll={null}
+        paginationProps={
+          Object {
+            "currentPage": "1",
+            "hasListing": true,
+            "listingProps": Object {
+              "listing": "10",
+              "listingLabelPlural": "adiantamentos",
+              "listingLabelSingular": "adiantamento",
+              "onSelectListing": [Function],
+              "showInterval": Object {
+                "end": "0",
+                "start": "1",
+              },
+              "total": "0",
+            },
+            "onChangePage": [Function],
+            "onClickNext": [Function],
+            "onClickPrev": [Function],
+            "onKeyDownPage": [Function],
+            "pageTotal": "1",
+          }
+        }
+        selectionControl={null}
+        sortingProps={
+          Object {
+            "onSort": [Function],
+            "sortedColumns": false,
+            "sorting": Array [],
+          }
+        }
+        tooltipContent={[Function]}
+        weightedColumns={false}
+      />
+    </styled.div>
+  </styled.div>
+  <_default />
+</Fragment>
+`;
+
+exports[`VendorAdvances component test should render correctly with no concluded advances and pending advances 1`] = `
+<Fragment>
+  <GlobalStyleComponent />
+  <styled.div
+    loading={false}
+  >
+    <styled.div>
+      <Connect(HideFromAdmin)>
+        <styled.div>
+          <styled.span>
+            Antecipações
+          </styled.span>
+        </styled.div>
+        <styled.span>
+          Encontramos 
+          1
+           solicitação em andamento.
+          <br />
+           Verifique se existem ações pendentes ou confira o histórico de antecipações.
+        </styled.span>
+      </Connect(HideFromAdmin)>
+      <Connect(PendingAdvances)
+        onDetailsClick={[Function]}
+      />
+      <styled.span>
+        Histórico de Antecipações
+      </styled.span>
+      <CompleteTable
+        actions={null}
+        allChecked={false}
+        borderBottom={false}
+        columns={
+          Array [
+            Object {
+              "align": "left",
+              "getCellValue": [Function],
+              "label": "Status",
+              "name": "status",
+              "width": 14,
+            },
+            Object {
+              "align": "right",
+              "getCellValue": [Function],
+              "label": "Valor Antecipado (R$)",
+              "name": "netValue",
+              "width": 18,
+            },
+            Object {
+              "align": "right",
+              "label": "Títulos Solicitados",
+              "name": "invoiceCount",
+              "width": 15,
+            },
+            Object {
+              "align": "right",
+              "getCellValue": [Function],
+              "label": "Títulos Antecipados",
+              "name": "invoicesAnticipated",
+              "width": 15,
+            },
+            Object {
+              "align": "center",
+              "label": "Solicitado Em",
+              "name": "requestedAt",
+              "width": 18,
+            },
+            Object {
+              "align": "center",
+              "getCellValue": [Function],
+              "label": "Ações",
+              "name": "documentUrl",
+              "width": 8,
+            },
+          ]
+        }
+        emptyState={<Empty />}
+        filterBorderTop={true}
+        filters={<Memo(Connect(Filters)) />}
+        headerBorderTop={true}
+        hiddenColumns={Array []}
+        isItemSelectable={[Function]}
+        isItemSelected={[Function]}
+        items={Array []}
+        onSelect={[Function]}
+        onSelectAll={null}
+        paginationProps={
+          Object {
+            "currentPage": "1",
+            "hasListing": true,
+            "listingProps": Object {
+              "listing": "10",
+              "listingLabelPlural": "adiantamentos",
+              "listingLabelSingular": "adiantamento",
+              "onSelectListing": [Function],
+              "showInterval": Object {
+                "end": "0",
+                "start": "1",
+              },
+              "total": "0",
+            },
+            "onChangePage": [Function],
+            "onClickNext": [Function],
+            "onClickPrev": [Function],
+            "onKeyDownPage": [Function],
+            "pageTotal": "1",
+          }
+        }
+        selectionControl={null}
+        sortingProps={
+          Object {
+            "onSort": [Function],
+            "sortedColumns": false,
+            "sorting": Array [],
+          }
+        }
+        tooltipContent={[Function]}
+        weightedColumns={false}
+      />
+    </styled.div>
+  </styled.div>
+  <_default />
+</Fragment>
+`;
+
+exports[`VendorAdvances component test should render correctly with required props 1`] = `
+<Fragment>
+  <GlobalStyleComponent />
+  <styled.div
+    loading={false}
+  >
+    <styled.div>
+      <Connect(HideFromAdmin)>
+        <styled.div>
+          <styled.span>
+            Antecipações
+          </styled.span>
+        </styled.div>
+        <styled.span>
+          Não encontramos nenhum registro de antecipações realizadas. 
+          <br />
+          Verifique em 
+          <Styled(styled.span)
+            href="/fornecedor/duplicatas"
+          >
+            Títulos
+          </Styled(styled.span)>
+           se é possível fazer a sua primeira antecipação.
+        </styled.span>
+      </Connect(HideFromAdmin)>
+      <Connect(PendingAdvances)
+        onDetailsClick={[Function]}
+      />
+      <CompleteTable
+        actions={null}
+        allChecked={false}
+        borderBottom={false}
+        columns={
+          Array [
+            Object {
+              "align": "left",
+              "getCellValue": [Function],
+              "label": "Status",
+              "name": "status",
+              "width": 14,
+            },
+            Object {
+              "align": "right",
+              "getCellValue": [Function],
+              "label": "Valor Antecipado (R$)",
+              "name": "netValue",
+              "width": 18,
+            },
+            Object {
+              "align": "right",
+              "label": "Títulos Solicitados",
+              "name": "invoiceCount",
+              "width": 15,
+            },
+            Object {
+              "align": "right",
+              "getCellValue": [Function],
+              "label": "Títulos Antecipados",
+              "name": "invoicesAnticipated",
+              "width": 15,
+            },
+            Object {
+              "align": "center",
+              "label": "Solicitado Em",
+              "name": "requestedAt",
+              "width": 18,
+            },
+            Object {
+              "align": "center",
+              "getCellValue": [Function],
+              "label": "Ações",
+              "name": "documentUrl",
+              "width": 8,
+            },
+          ]
+        }
+        emptyState={<Empty />}
+        filterBorderTop={true}
+        filters={<Memo(Connect(Filters)) />}
+        headerBorderTop={true}
+        hiddenColumns={Array []}
+        isItemSelectable={[Function]}
+        isItemSelected={[Function]}
+        items={Array []}
+        onSelect={[Function]}
+        onSelectAll={null}
+        paginationProps={
+          Object {
+            "currentPage": "1",
+            "hasListing": true,
+            "listingProps": Object {
+              "listing": "10",
+              "listingLabelPlural": "adiantamentos",
+              "listingLabelSingular": "adiantamento",
+              "onSelectListing": [Function],
+              "showInterval": Object {
+                "end": "0",
+                "start": "1",
+              },
+              "total": "0",
+            },
+            "onChangePage": [Function],
+            "onClickNext": [Function],
+            "onClickPrev": [Function],
+            "onKeyDownPage": [Function],
+            "pageTotal": "1",
+          }
+        }
+        selectionControl={null}
+        sortingProps={
+          Object {
+            "onSort": [Function],
+            "sortedColumns": false,
+            "sorting": Array [],
+          }
+        }
+        tooltipContent={[Function]}
+        weightedColumns={false}
+      />
+    </styled.div>
+  </styled.div>
+  <_default />
+</Fragment>
+`;

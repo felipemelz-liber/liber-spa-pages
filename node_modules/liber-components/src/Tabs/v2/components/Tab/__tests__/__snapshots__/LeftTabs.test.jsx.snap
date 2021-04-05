@@ -1,0 +1,1936 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing LeftTabs Styles ContentDisplay should renders correctly 1`] = `
+.c0 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-transition: margin-left 450ms cubic-bezier(0.23,1,0.32,1) 0ms;
+  transition: margin-left 450ms cubic-bezier(0.23,1,0.32,1) 0ms;
+  will-change: margin-left;
+  margin-left: -0%;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  width: 100%;
+}
+
+.c8 {
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  width: 100%;
+  -webkit-transition: opacity 0.45s;
+  transition: opacity 0.45s;
+  color: #798e9b;
+}
+
+.c9 {
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  width: 100%;
+  -webkit-transition: opacity 0.45s;
+  transition: opacity 0.45s;
+  height: 0;
+  padding: 0 !important;
+  overflow: hidden;
+  opacity: 0;
+  pointer-events: none;
+  color: #798e9b;
+}
+
+.c1 {
+  position: relative;
+}
+
+.c6 {
+  position: absolute;
+  width: var(--slider-size);
+  height: 0px;
+  border-bottom: 2px solid #009dff;
+  left: var(--slider-position);
+  bottom: 0px;
+  -webkit-transition: left 450ms cubic-bezier(0.23,1,0.32,1) 0ms,width 450ms cubic-bezier(0.23,1,0.32,1) 0ms;
+  transition: left 450ms cubic-bezier(0.23,1,0.32,1) 0ms,width 450ms cubic-bezier(0.23,1,0.32,1) 0ms;
+  will-change: left,width;
+}
+
+.c2 {
+  max-width: 100%;
+  height: 48px;
+  background-color: transparent;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0px 24px;
+  border-bottom: 1px solid #e8ebee;
+}
+
+.c3 {
+  --icon-size: 16px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  border: 0px !important;
+  color: #798e9b;
+  padding: 0px 24px;
+  position: relative;
+  background-color: transparent;
+  -webkit-transition: color 450ms cubic-bezier(0.23,1,0.32,1) 0ms;
+  transition: color 450ms cubic-bezier(0.23,1,0.32,1) 0ms;
+  -webkit-flex-basis: 225px;
+  -ms-flex-preferred-size: 225px;
+  flex-basis: 225px;
+  white-space: nowrap;
+  background-color: transparent;
+  border-bottom: none;
+  color: #009dff;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.c3:focus {
+  outline: 0;
+}
+
+.c3:after {
+  content: '';
+  position: absolute;
+  left: 0px;
+  bottom: -1px;
+  width: 100%;
+  height: 0px;
+  border-bottom: 2px solid transparent;
+}
+
+.c5 {
+  --icon-size: 16px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  border: 0px !important;
+  color: #798e9b;
+  padding: 0px 24px;
+  position: relative;
+  background-color: transparent;
+  -webkit-transition: color 450ms cubic-bezier(0.23,1,0.32,1) 0ms;
+  transition: color 450ms cubic-bezier(0.23,1,0.32,1) 0ms;
+  -webkit-flex-basis: 225px;
+  -ms-flex-preferred-size: 225px;
+  flex-basis: 225px;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.c5:focus {
+  outline: 0;
+}
+
+.c5:after {
+  content: '';
+  position: absolute;
+  left: 0px;
+  bottom: -1px;
+  width: 100%;
+  height: 0px;
+  border-bottom: 2px solid transparent;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  height: 100%;
+  -webkit-flex-basis: 225px;
+  -ms-flex-preferred-size: 225px;
+  flex-basis: 225px;
+}
+
+<Tabs
+  ControlComponent={
+    <TabsCtrl
+      active={0}
+      header={<div />}
+      tabs={Array []}
+    />
+  }
+  onChange={[Function]}
+>
+  <TabsCtrl
+    active={0}
+    header={
+      <ForwardRef(Tabsstyles__HeaderContainer)>
+        <ForwardRef(SimpleTabstyles__SimpleTabs)
+          left={true}
+        >
+          <ForwardRef
+            active={true}
+            as="button"
+            label="1"
+            left={true}
+            onClick={[Function]}
+            showUnderline={false}
+            tooltip={null}
+            tooltipDelay={1000}
+            tooltipDirection="bottom"
+            tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+          >
+            1
+          </ForwardRef>
+          <ForwardRef
+            active={false}
+            as="button"
+            label="2"
+            left={true}
+            onClick={[Function]}
+            showUnderline={false}
+            tooltip={null}
+            tooltipDelay={1000}
+            tooltipDirection="bottom"
+            tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+          >
+            2
+          </ForwardRef>
+          <ForwardRef
+            active={false}
+            as="button"
+            label="3"
+            left={true}
+            onClick={[Function]}
+            showUnderline={false}
+            tooltip={null}
+            tooltipDelay={1000}
+            tooltipDirection="bottom"
+            tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+          >
+            3
+          </ForwardRef>
+        </ForwardRef(SimpleTabstyles__SimpleTabs)>
+        <ForwardRef(Tabsstyles__Slider)
+          active={0}
+          size={0}
+        />
+      </ForwardRef(Tabsstyles__HeaderContainer)>
+    }
+    tabs={
+      Array [
+        Object {
+          "content": "1",
+          "key": "12",
+        },
+        Object {
+          "content": "2",
+          "key": "24",
+        },
+        Object {
+          "content": "3",
+          "key": "36",
+        },
+      ]
+    }
+  >
+    <Tabsstyles__TabContainer
+      transitioning={false}
+    >
+      <StyledComponent
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "Tabsstyles__TabContainer-sc-1vor55y-0",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "width:100%;display:flex;flex-direction:column;overflow:",
+                [Function],
+                ";",
+              ],
+            },
+            "displayName": "Tabsstyles__TabContainer",
+            "foldedComponentIds": Array [],
+            "render": [Function],
+            "styledComponentId": "Tabsstyles__TabContainer-sc-1vor55y-0",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        transitioning={false}
+      >
+        <div
+          className="c0"
+        >
+          <Tabsstyles__HeaderContainer>
+            <StyledComponent
+              forwardedComponent={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "Tabsstyles__HeaderContainer-sc-1vor55y-3",
+                    "isStatic": false,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "position:relative;",
+                    ],
+                  },
+                  "displayName": "Tabsstyles__HeaderContainer",
+                  "foldedComponentIds": Array [],
+                  "render": [Function],
+                  "styledComponentId": "Tabsstyles__HeaderContainer-sc-1vor55y-3",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+            >
+              <div
+                className="c1"
+              >
+                <SimpleTabstyles__SimpleTabs
+                  left={true}
+                >
+                  <StyledComponent
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "SimpleTabstyles__SimpleTabs-sc-17by6iu-0",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "max-width:100%;height:48px;background-color:transparent;display:inline-flex;justify-content:flex-start;width:100%;box-sizing:border-box;",
+                            [Function],
+                          ],
+                        },
+                        "displayName": "SimpleTabstyles__SimpleTabs",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "SimpleTabstyles__SimpleTabs-sc-17by6iu-0",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    left={true}
+                  >
+                    <div
+                      className="c2"
+                    >
+                      <ForwardRef
+                        active={true}
+                        as="button"
+                        key="tab_11"
+                        label="1"
+                        left={true}
+                        onClick={[Function]}
+                        showUnderline={false}
+                        tooltip={null}
+                        tooltipDelay={1000}
+                        tooltipDirection="bottom"
+                        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+                      >
+                        <ForwardRef
+                          active={true}
+                          as="button"
+                          label="1"
+                          left={true}
+                          onClick={[Function]}
+                          showUnderline={false}
+                        >
+                          <SimpleTabstyles__LeftTab
+                            active={true}
+                            as="button"
+                            label="1"
+                            onClick={[Function]}
+                            showUnderline={false}
+                          >
+                            <StyledComponent
+                              active={true}
+                              as="button"
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "_foldedDefaultProps": Object {
+                                    "showUnderline": true,
+                                  },
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "SimpleTabstyles__LeftTab-sc-17by6iu-2",
+                                    "isStatic": false,
+                                    "lastClassName": "c5",
+                                    "rules": Array [
+                                      "--icon-size:16px;display:flex;justify-content:center;align-items:center;font-family:",
+                                      [Function],
+                                      ";",
+                                      [Function],
+                                      " text-decoration:none;border:0px !important;color:",
+                                      [Function],
+                                      ";padding:0px 24px;position:relative;background-color:transparent;transition:color 450ms cubic-bezier(0.23,1,0.32,1) 0ms;flex-basis:225px;white-space:nowrap;",
+                                      [Function],
+                                      " ",
+                                      [Function],
+                                      " &:focus{outline:0;}cursor:pointer;&:after{content:'';position:absolute;left:0px;bottom:-1px;width:100%;height:0px;",
+                                      [Function],
+                                      "}",
+                                    ],
+                                  },
+                                  "displayName": "SimpleTabstyles__LeftTab",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "SimpleTabstyles__LeftTab-sc-17by6iu-2",
+                                  "target": "a",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={[Function]}
+                              label="1"
+                              onClick={[Function]}
+                              showUnderline={false}
+                            >
+                              <button
+                                className="c3"
+                                label="1"
+                                onClick={[Function]}
+                              >
+                                <SimpleTabstyles__ChildContainer
+                                  left={true}
+                                >
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "SimpleTabstyles__ChildContainer-sc-17by6iu-3",
+                                          "isStatic": false,
+                                          "lastClassName": "c4",
+                                          "rules": Array [
+                                            "display:flex;justify-content:center;align-items:center;height:100%;",
+                                            [Function],
+                                          ],
+                                        },
+                                        "displayName": "SimpleTabstyles__ChildContainer",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "SimpleTabstyles__ChildContainer-sc-17by6iu-3",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                    left={true}
+                                  >
+                                    <div
+                                      className="c4"
+                                    >
+                                      1
+                                    </div>
+                                  </StyledComponent>
+                                </SimpleTabstyles__ChildContainer>
+                              </button>
+                            </StyledComponent>
+                          </SimpleTabstyles__LeftTab>
+                        </ForwardRef>
+                      </ForwardRef>
+                      <ForwardRef
+                        active={false}
+                        as="button"
+                        key="tab_23"
+                        label="2"
+                        left={true}
+                        onClick={[Function]}
+                        showUnderline={false}
+                        tooltip={null}
+                        tooltipDelay={1000}
+                        tooltipDirection="bottom"
+                        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+                      >
+                        <ForwardRef
+                          active={false}
+                          as="button"
+                          label="2"
+                          left={true}
+                          onClick={[Function]}
+                          showUnderline={false}
+                        >
+                          <SimpleTabstyles__LeftTab
+                            active={false}
+                            as="button"
+                            label="2"
+                            onClick={[Function]}
+                            showUnderline={false}
+                          >
+                            <StyledComponent
+                              active={false}
+                              as="button"
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "_foldedDefaultProps": Object {
+                                    "showUnderline": true,
+                                  },
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "SimpleTabstyles__LeftTab-sc-17by6iu-2",
+                                    "isStatic": false,
+                                    "lastClassName": "c5",
+                                    "rules": Array [
+                                      "--icon-size:16px;display:flex;justify-content:center;align-items:center;font-family:",
+                                      [Function],
+                                      ";",
+                                      [Function],
+                                      " text-decoration:none;border:0px !important;color:",
+                                      [Function],
+                                      ";padding:0px 24px;position:relative;background-color:transparent;transition:color 450ms cubic-bezier(0.23,1,0.32,1) 0ms;flex-basis:225px;white-space:nowrap;",
+                                      [Function],
+                                      " ",
+                                      [Function],
+                                      " &:focus{outline:0;}cursor:pointer;&:after{content:'';position:absolute;left:0px;bottom:-1px;width:100%;height:0px;",
+                                      [Function],
+                                      "}",
+                                    ],
+                                  },
+                                  "displayName": "SimpleTabstyles__LeftTab",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "SimpleTabstyles__LeftTab-sc-17by6iu-2",
+                                  "target": "a",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={[Function]}
+                              label="2"
+                              onClick={[Function]}
+                              showUnderline={false}
+                            >
+                              <button
+                                className="c5"
+                                label="2"
+                                onClick={[Function]}
+                              >
+                                <SimpleTabstyles__ChildContainer
+                                  left={true}
+                                >
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "SimpleTabstyles__ChildContainer-sc-17by6iu-3",
+                                          "isStatic": false,
+                                          "lastClassName": "c4",
+                                          "rules": Array [
+                                            "display:flex;justify-content:center;align-items:center;height:100%;",
+                                            [Function],
+                                          ],
+                                        },
+                                        "displayName": "SimpleTabstyles__ChildContainer",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "SimpleTabstyles__ChildContainer-sc-17by6iu-3",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                    left={true}
+                                  >
+                                    <div
+                                      className="c4"
+                                    >
+                                      2
+                                    </div>
+                                  </StyledComponent>
+                                </SimpleTabstyles__ChildContainer>
+                              </button>
+                            </StyledComponent>
+                          </SimpleTabstyles__LeftTab>
+                        </ForwardRef>
+                      </ForwardRef>
+                      <ForwardRef
+                        active={false}
+                        as="button"
+                        key="tab_35"
+                        label="3"
+                        left={true}
+                        onClick={[Function]}
+                        showUnderline={false}
+                        tooltip={null}
+                        tooltipDelay={1000}
+                        tooltipDirection="bottom"
+                        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+                      >
+                        <ForwardRef
+                          active={false}
+                          as="button"
+                          label="3"
+                          left={true}
+                          onClick={[Function]}
+                          showUnderline={false}
+                        >
+                          <SimpleTabstyles__LeftTab
+                            active={false}
+                            as="button"
+                            label="3"
+                            onClick={[Function]}
+                            showUnderline={false}
+                          >
+                            <StyledComponent
+                              active={false}
+                              as="button"
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "_foldedDefaultProps": Object {
+                                    "showUnderline": true,
+                                  },
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "SimpleTabstyles__LeftTab-sc-17by6iu-2",
+                                    "isStatic": false,
+                                    "lastClassName": "c5",
+                                    "rules": Array [
+                                      "--icon-size:16px;display:flex;justify-content:center;align-items:center;font-family:",
+                                      [Function],
+                                      ";",
+                                      [Function],
+                                      " text-decoration:none;border:0px !important;color:",
+                                      [Function],
+                                      ";padding:0px 24px;position:relative;background-color:transparent;transition:color 450ms cubic-bezier(0.23,1,0.32,1) 0ms;flex-basis:225px;white-space:nowrap;",
+                                      [Function],
+                                      " ",
+                                      [Function],
+                                      " &:focus{outline:0;}cursor:pointer;&:after{content:'';position:absolute;left:0px;bottom:-1px;width:100%;height:0px;",
+                                      [Function],
+                                      "}",
+                                    ],
+                                  },
+                                  "displayName": "SimpleTabstyles__LeftTab",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "SimpleTabstyles__LeftTab-sc-17by6iu-2",
+                                  "target": "a",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={[Function]}
+                              label="3"
+                              onClick={[Function]}
+                              showUnderline={false}
+                            >
+                              <button
+                                className="c5"
+                                label="3"
+                                onClick={[Function]}
+                              >
+                                <SimpleTabstyles__ChildContainer
+                                  left={true}
+                                >
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "SimpleTabstyles__ChildContainer-sc-17by6iu-3",
+                                          "isStatic": false,
+                                          "lastClassName": "c4",
+                                          "rules": Array [
+                                            "display:flex;justify-content:center;align-items:center;height:100%;",
+                                            [Function],
+                                          ],
+                                        },
+                                        "displayName": "SimpleTabstyles__ChildContainer",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "SimpleTabstyles__ChildContainer-sc-17by6iu-3",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                    left={true}
+                                  >
+                                    <div
+                                      className="c4"
+                                    >
+                                      3
+                                    </div>
+                                  </StyledComponent>
+                                </SimpleTabstyles__ChildContainer>
+                              </button>
+                            </StyledComponent>
+                          </SimpleTabstyles__LeftTab>
+                        </ForwardRef>
+                      </ForwardRef>
+                    </div>
+                  </StyledComponent>
+                </SimpleTabstyles__SimpleTabs>
+                <Tabsstyles__Slider
+                  active={0}
+                  size={0}
+                >
+                  <StyledComponent
+                    active={0}
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [
+                          [Function],
+                        ],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "Tabsstyles__Slider-sc-1vor55y-4",
+                          "isStatic": false,
+                          "lastClassName": "c6",
+                          "rules": Array [
+                            "position:absolute;width:var(--slider-size);height:0px;border-bottom:2px solid ",
+                            [Function],
+                            ";left:var(--slider-position);bottom:0px;transition:left 450ms cubic-bezier(0.23,1,0.32,1) 0ms,width 450ms cubic-bezier(0.23,1,0.32,1) 0ms;will-change:left,width;",
+                          ],
+                        },
+                        "displayName": "Tabsstyles__Slider",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "Tabsstyles__Slider-sc-1vor55y-4",
+                        "target": "span",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    size={0}
+                  >
+                    <span
+                      className="c6"
+                      size={0}
+                      style={
+                        Object {
+                          "--slider-position": "24px",
+                          "--slider-size": "0px",
+                        }
+                      }
+                    />
+                  </StyledComponent>
+                </Tabsstyles__Slider>
+              </div>
+            </StyledComponent>
+          </Tabsstyles__HeaderContainer>
+          <Tabsstyles__TabContentDisplay
+            active={0}
+            onTransitionEnd={[Function]}
+          >
+            <StyledComponent
+              active={0}
+              forwardedComponent={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "Tabsstyles__TabContentDisplay-sc-1vor55y-1",
+                    "isStatic": false,
+                    "lastClassName": "c7",
+                    "rules": Array [
+                      "display:flex;transition:margin-left 450ms cubic-bezier(0.23,1,0.32,1) 0ms;will-change:margin-left;margin-left:",
+                      [Function],
+                      ";flex-direction:row;width:100%;",
+                    ],
+                  },
+                  "displayName": "Tabsstyles__TabContentDisplay",
+                  "foldedComponentIds": Array [],
+                  "render": [Function],
+                  "styledComponentId": "Tabsstyles__TabContentDisplay-sc-1vor55y-1",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              onTransitionEnd={[Function]}
+            >
+              <div
+                className="c7"
+                onTransitionEnd={[Function]}
+              >
+                <Tabsstyles__TabContent
+                  active={true}
+                  key="12"
+                >
+                  <StyledComponent
+                    active={true}
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "Tabsstyles__TabContent-sc-1vor55y-2",
+                          "isStatic": false,
+                          "lastClassName": "c9",
+                          "rules": Array [
+                            "flex-shrink:0;width:100%;transition:opacity 0.45s;",
+                            [Function],
+                            ";color:",
+                            [Function],
+                            ";",
+                          ],
+                        },
+                        "displayName": "Tabsstyles__TabContent",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "Tabsstyles__TabContent-sc-1vor55y-2",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      className="c8"
+                    >
+                      1
+                    </div>
+                  </StyledComponent>
+                </Tabsstyles__TabContent>
+                <Tabsstyles__TabContent
+                  active={false}
+                  key="24"
+                >
+                  <StyledComponent
+                    active={false}
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "Tabsstyles__TabContent-sc-1vor55y-2",
+                          "isStatic": false,
+                          "lastClassName": "c9",
+                          "rules": Array [
+                            "flex-shrink:0;width:100%;transition:opacity 0.45s;",
+                            [Function],
+                            ";color:",
+                            [Function],
+                            ";",
+                          ],
+                        },
+                        "displayName": "Tabsstyles__TabContent",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "Tabsstyles__TabContent-sc-1vor55y-2",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      className="c9"
+                    >
+                      2
+                    </div>
+                  </StyledComponent>
+                </Tabsstyles__TabContent>
+                <Tabsstyles__TabContent
+                  active={false}
+                  key="36"
+                >
+                  <StyledComponent
+                    active={false}
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "Tabsstyles__TabContent-sc-1vor55y-2",
+                          "isStatic": false,
+                          "lastClassName": "c9",
+                          "rules": Array [
+                            "flex-shrink:0;width:100%;transition:opacity 0.45s;",
+                            [Function],
+                            ";color:",
+                            [Function],
+                            ";",
+                          ],
+                        },
+                        "displayName": "Tabsstyles__TabContent",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "Tabsstyles__TabContent-sc-1vor55y-2",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      className="c9"
+                    >
+                      3
+                    </div>
+                  </StyledComponent>
+                </Tabsstyles__TabContent>
+              </div>
+            </StyledComponent>
+          </Tabsstyles__TabContentDisplay>
+        </div>
+      </StyledComponent>
+    </Tabsstyles__TabContainer>
+  </TabsCtrl>
+</Tabs>
+`;
+
+exports[`Testing LeftTabs Styles ContentDisplay should renders correctly after click on Tab 1`] = `
+.c0 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-transition: margin-left 450ms cubic-bezier(0.23,1,0.32,1) 0ms;
+  transition: margin-left 450ms cubic-bezier(0.23,1,0.32,1) 0ms;
+  will-change: margin-left;
+  margin-left: -100%;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  width: 100%;
+}
+
+.c9 {
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  width: 100%;
+  -webkit-transition: opacity 0.45s;
+  transition: opacity 0.45s;
+  color: #798e9b;
+}
+
+.c8 {
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  width: 100%;
+  -webkit-transition: opacity 0.45s;
+  transition: opacity 0.45s;
+  height: 0;
+  padding: 0 !important;
+  overflow: hidden;
+  opacity: 0;
+  pointer-events: none;
+  color: #798e9b;
+}
+
+.c1 {
+  position: relative;
+}
+
+.c6 {
+  position: absolute;
+  width: var(--slider-size);
+  height: 0px;
+  border-bottom: 2px solid #009dff;
+  left: var(--slider-position);
+  bottom: 0px;
+  -webkit-transition: left 450ms cubic-bezier(0.23,1,0.32,1) 0ms,width 450ms cubic-bezier(0.23,1,0.32,1) 0ms;
+  transition: left 450ms cubic-bezier(0.23,1,0.32,1) 0ms,width 450ms cubic-bezier(0.23,1,0.32,1) 0ms;
+  will-change: left,width;
+}
+
+.c2 {
+  max-width: 100%;
+  height: 48px;
+  background-color: transparent;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0px 24px;
+  border-bottom: 1px solid #e8ebee;
+}
+
+.c5 {
+  --icon-size: 16px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  border: 0px !important;
+  color: #798e9b;
+  padding: 0px 24px;
+  position: relative;
+  background-color: transparent;
+  -webkit-transition: color 450ms cubic-bezier(0.23,1,0.32,1) 0ms;
+  transition: color 450ms cubic-bezier(0.23,1,0.32,1) 0ms;
+  -webkit-flex-basis: 225px;
+  -ms-flex-preferred-size: 225px;
+  flex-basis: 225px;
+  white-space: nowrap;
+  background-color: transparent;
+  border-bottom: none;
+  color: #009dff;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.c5:focus {
+  outline: 0;
+}
+
+.c5:after {
+  content: '';
+  position: absolute;
+  left: 0px;
+  bottom: -1px;
+  width: 100%;
+  height: 0px;
+  border-bottom: 2px solid transparent;
+}
+
+.c3 {
+  --icon-size: 16px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  border: 0px !important;
+  color: #798e9b;
+  padding: 0px 24px;
+  position: relative;
+  background-color: transparent;
+  -webkit-transition: color 450ms cubic-bezier(0.23,1,0.32,1) 0ms;
+  transition: color 450ms cubic-bezier(0.23,1,0.32,1) 0ms;
+  -webkit-flex-basis: 225px;
+  -ms-flex-preferred-size: 225px;
+  flex-basis: 225px;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.c3:focus {
+  outline: 0;
+}
+
+.c3:after {
+  content: '';
+  position: absolute;
+  left: 0px;
+  bottom: -1px;
+  width: 100%;
+  height: 0px;
+  border-bottom: 2px solid transparent;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  height: 100%;
+  -webkit-flex-basis: 225px;
+  -ms-flex-preferred-size: 225px;
+  flex-basis: 225px;
+}
+
+<Tabs
+  ControlComponent={
+    <TabsCtrl
+      active={0}
+      header={<div />}
+      tabs={Array []}
+    />
+  }
+  onChange={[Function]}
+>
+  <TabsCtrl
+    active={1}
+    header={
+      <ForwardRef(Tabsstyles__HeaderContainer)>
+        <ForwardRef(SimpleTabstyles__SimpleTabs)
+          left={true}
+        >
+          <ForwardRef
+            active={false}
+            as="button"
+            label="1"
+            left={true}
+            onClick={[Function]}
+            showUnderline={false}
+            tooltip={null}
+            tooltipDelay={1000}
+            tooltipDirection="bottom"
+            tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+          >
+            1
+          </ForwardRef>
+          <ForwardRef
+            active={true}
+            as="button"
+            label="2"
+            left={true}
+            onClick={[Function]}
+            showUnderline={false}
+            tooltip={null}
+            tooltipDelay={1000}
+            tooltipDirection="bottom"
+            tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+          >
+            2
+          </ForwardRef>
+          <ForwardRef
+            active={false}
+            as="button"
+            label="3"
+            left={true}
+            onClick={[Function]}
+            showUnderline={false}
+            tooltip={null}
+            tooltipDelay={1000}
+            tooltipDirection="bottom"
+            tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+          >
+            3
+          </ForwardRef>
+        </ForwardRef(SimpleTabstyles__SimpleTabs)>
+        <ForwardRef(Tabsstyles__Slider)
+          active={1}
+          size={0}
+        />
+      </ForwardRef(Tabsstyles__HeaderContainer)>
+    }
+    tabs={
+      Array [
+        Object {
+          "content": "1",
+          "key": "114",
+        },
+        Object {
+          "content": "2",
+          "key": "216",
+        },
+        Object {
+          "content": "3",
+          "key": "318",
+        },
+      ]
+    }
+  >
+    <Tabsstyles__TabContainer
+      transitioning={true}
+    >
+      <StyledComponent
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "Tabsstyles__TabContainer-sc-1vor55y-0",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "width:100%;display:flex;flex-direction:column;overflow:",
+                [Function],
+                ";",
+              ],
+            },
+            "displayName": "Tabsstyles__TabContainer",
+            "foldedComponentIds": Array [],
+            "render": [Function],
+            "styledComponentId": "Tabsstyles__TabContainer-sc-1vor55y-0",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        transitioning={true}
+      >
+        <div
+          className="c0"
+        >
+          <Tabsstyles__HeaderContainer>
+            <StyledComponent
+              forwardedComponent={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "Tabsstyles__HeaderContainer-sc-1vor55y-3",
+                    "isStatic": false,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "position:relative;",
+                    ],
+                  },
+                  "displayName": "Tabsstyles__HeaderContainer",
+                  "foldedComponentIds": Array [],
+                  "render": [Function],
+                  "styledComponentId": "Tabsstyles__HeaderContainer-sc-1vor55y-3",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+            >
+              <div
+                className="c1"
+              >
+                <SimpleTabstyles__SimpleTabs
+                  left={true}
+                >
+                  <StyledComponent
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "SimpleTabstyles__SimpleTabs-sc-17by6iu-0",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "max-width:100%;height:48px;background-color:transparent;display:inline-flex;justify-content:flex-start;width:100%;box-sizing:border-box;",
+                            [Function],
+                          ],
+                        },
+                        "displayName": "SimpleTabstyles__SimpleTabs",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "SimpleTabstyles__SimpleTabs-sc-17by6iu-0",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    left={true}
+                  >
+                    <div
+                      className="c2"
+                    >
+                      <ForwardRef
+                        active={false}
+                        as="button"
+                        key="tab_113"
+                        label="1"
+                        left={true}
+                        onClick={[Function]}
+                        showUnderline={false}
+                        tooltip={null}
+                        tooltipDelay={1000}
+                        tooltipDirection="bottom"
+                        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+                      >
+                        <ForwardRef
+                          active={false}
+                          as="button"
+                          label="1"
+                          left={true}
+                          onClick={[Function]}
+                          showUnderline={false}
+                        >
+                          <SimpleTabstyles__LeftTab
+                            active={false}
+                            as="button"
+                            label="1"
+                            onClick={[Function]}
+                            showUnderline={false}
+                          >
+                            <StyledComponent
+                              active={false}
+                              as="button"
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "_foldedDefaultProps": Object {
+                                    "showUnderline": true,
+                                  },
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "SimpleTabstyles__LeftTab-sc-17by6iu-2",
+                                    "isStatic": false,
+                                    "lastClassName": "c3",
+                                    "rules": Array [
+                                      "--icon-size:16px;display:flex;justify-content:center;align-items:center;font-family:",
+                                      [Function],
+                                      ";",
+                                      [Function],
+                                      " text-decoration:none;border:0px !important;color:",
+                                      [Function],
+                                      ";padding:0px 24px;position:relative;background-color:transparent;transition:color 450ms cubic-bezier(0.23,1,0.32,1) 0ms;flex-basis:225px;white-space:nowrap;",
+                                      [Function],
+                                      " ",
+                                      [Function],
+                                      " &:focus{outline:0;}cursor:pointer;&:after{content:'';position:absolute;left:0px;bottom:-1px;width:100%;height:0px;",
+                                      [Function],
+                                      "}",
+                                    ],
+                                  },
+                                  "displayName": "SimpleTabstyles__LeftTab",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "SimpleTabstyles__LeftTab-sc-17by6iu-2",
+                                  "target": "a",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={[Function]}
+                              label="1"
+                              onClick={[Function]}
+                              showUnderline={false}
+                            >
+                              <button
+                                className="c3"
+                                label="1"
+                                onClick={[Function]}
+                              >
+                                <SimpleTabstyles__ChildContainer
+                                  left={true}
+                                >
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "SimpleTabstyles__ChildContainer-sc-17by6iu-3",
+                                          "isStatic": false,
+                                          "lastClassName": "c4",
+                                          "rules": Array [
+                                            "display:flex;justify-content:center;align-items:center;height:100%;",
+                                            [Function],
+                                          ],
+                                        },
+                                        "displayName": "SimpleTabstyles__ChildContainer",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "SimpleTabstyles__ChildContainer-sc-17by6iu-3",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                    left={true}
+                                  >
+                                    <div
+                                      className="c4"
+                                    >
+                                      1
+                                    </div>
+                                  </StyledComponent>
+                                </SimpleTabstyles__ChildContainer>
+                              </button>
+                            </StyledComponent>
+                          </SimpleTabstyles__LeftTab>
+                        </ForwardRef>
+                      </ForwardRef>
+                      <ForwardRef
+                        active={true}
+                        as="button"
+                        key="tab_215"
+                        label="2"
+                        left={true}
+                        onClick={[Function]}
+                        showUnderline={false}
+                        tooltip={null}
+                        tooltipDelay={1000}
+                        tooltipDirection="bottom"
+                        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+                      >
+                        <ForwardRef
+                          active={true}
+                          as="button"
+                          label="2"
+                          left={true}
+                          onClick={[Function]}
+                          showUnderline={false}
+                        >
+                          <SimpleTabstyles__LeftTab
+                            active={true}
+                            as="button"
+                            label="2"
+                            onClick={[Function]}
+                            showUnderline={false}
+                          >
+                            <StyledComponent
+                              active={true}
+                              as="button"
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "_foldedDefaultProps": Object {
+                                    "showUnderline": true,
+                                  },
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "SimpleTabstyles__LeftTab-sc-17by6iu-2",
+                                    "isStatic": false,
+                                    "lastClassName": "c3",
+                                    "rules": Array [
+                                      "--icon-size:16px;display:flex;justify-content:center;align-items:center;font-family:",
+                                      [Function],
+                                      ";",
+                                      [Function],
+                                      " text-decoration:none;border:0px !important;color:",
+                                      [Function],
+                                      ";padding:0px 24px;position:relative;background-color:transparent;transition:color 450ms cubic-bezier(0.23,1,0.32,1) 0ms;flex-basis:225px;white-space:nowrap;",
+                                      [Function],
+                                      " ",
+                                      [Function],
+                                      " &:focus{outline:0;}cursor:pointer;&:after{content:'';position:absolute;left:0px;bottom:-1px;width:100%;height:0px;",
+                                      [Function],
+                                      "}",
+                                    ],
+                                  },
+                                  "displayName": "SimpleTabstyles__LeftTab",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "SimpleTabstyles__LeftTab-sc-17by6iu-2",
+                                  "target": "a",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={[Function]}
+                              label="2"
+                              onClick={[Function]}
+                              showUnderline={false}
+                            >
+                              <button
+                                className="c5"
+                                label="2"
+                                onClick={[Function]}
+                              >
+                                <SimpleTabstyles__ChildContainer
+                                  left={true}
+                                >
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "SimpleTabstyles__ChildContainer-sc-17by6iu-3",
+                                          "isStatic": false,
+                                          "lastClassName": "c4",
+                                          "rules": Array [
+                                            "display:flex;justify-content:center;align-items:center;height:100%;",
+                                            [Function],
+                                          ],
+                                        },
+                                        "displayName": "SimpleTabstyles__ChildContainer",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "SimpleTabstyles__ChildContainer-sc-17by6iu-3",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                    left={true}
+                                  >
+                                    <div
+                                      className="c4"
+                                    >
+                                      2
+                                    </div>
+                                  </StyledComponent>
+                                </SimpleTabstyles__ChildContainer>
+                              </button>
+                            </StyledComponent>
+                          </SimpleTabstyles__LeftTab>
+                        </ForwardRef>
+                      </ForwardRef>
+                      <ForwardRef
+                        active={false}
+                        as="button"
+                        key="tab_317"
+                        label="3"
+                        left={true}
+                        onClick={[Function]}
+                        showUnderline={false}
+                        tooltip={null}
+                        tooltipDelay={1000}
+                        tooltipDirection="bottom"
+                        tooltipIcon={<ForwardRef(SimpleTabstyles__Icon) />}
+                      >
+                        <ForwardRef
+                          active={false}
+                          as="button"
+                          label="3"
+                          left={true}
+                          onClick={[Function]}
+                          showUnderline={false}
+                        >
+                          <SimpleTabstyles__LeftTab
+                            active={false}
+                            as="button"
+                            label="3"
+                            onClick={[Function]}
+                            showUnderline={false}
+                          >
+                            <StyledComponent
+                              active={false}
+                              as="button"
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "_foldedDefaultProps": Object {
+                                    "showUnderline": true,
+                                  },
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "SimpleTabstyles__LeftTab-sc-17by6iu-2",
+                                    "isStatic": false,
+                                    "lastClassName": "c3",
+                                    "rules": Array [
+                                      "--icon-size:16px;display:flex;justify-content:center;align-items:center;font-family:",
+                                      [Function],
+                                      ";",
+                                      [Function],
+                                      " text-decoration:none;border:0px !important;color:",
+                                      [Function],
+                                      ";padding:0px 24px;position:relative;background-color:transparent;transition:color 450ms cubic-bezier(0.23,1,0.32,1) 0ms;flex-basis:225px;white-space:nowrap;",
+                                      [Function],
+                                      " ",
+                                      [Function],
+                                      " &:focus{outline:0;}cursor:pointer;&:after{content:'';position:absolute;left:0px;bottom:-1px;width:100%;height:0px;",
+                                      [Function],
+                                      "}",
+                                    ],
+                                  },
+                                  "displayName": "SimpleTabstyles__LeftTab",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "SimpleTabstyles__LeftTab-sc-17by6iu-2",
+                                  "target": "a",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={[Function]}
+                              label="3"
+                              onClick={[Function]}
+                              showUnderline={false}
+                            >
+                              <button
+                                className="c3"
+                                label="3"
+                                onClick={[Function]}
+                              >
+                                <SimpleTabstyles__ChildContainer
+                                  left={true}
+                                >
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "SimpleTabstyles__ChildContainer-sc-17by6iu-3",
+                                          "isStatic": false,
+                                          "lastClassName": "c4",
+                                          "rules": Array [
+                                            "display:flex;justify-content:center;align-items:center;height:100%;",
+                                            [Function],
+                                          ],
+                                        },
+                                        "displayName": "SimpleTabstyles__ChildContainer",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "SimpleTabstyles__ChildContainer-sc-17by6iu-3",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                    left={true}
+                                  >
+                                    <div
+                                      className="c4"
+                                    >
+                                      3
+                                    </div>
+                                  </StyledComponent>
+                                </SimpleTabstyles__ChildContainer>
+                              </button>
+                            </StyledComponent>
+                          </SimpleTabstyles__LeftTab>
+                        </ForwardRef>
+                      </ForwardRef>
+                    </div>
+                  </StyledComponent>
+                </SimpleTabstyles__SimpleTabs>
+                <Tabsstyles__Slider
+                  active={1}
+                  size={0}
+                >
+                  <StyledComponent
+                    active={1}
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [
+                          [Function],
+                        ],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "Tabsstyles__Slider-sc-1vor55y-4",
+                          "isStatic": false,
+                          "lastClassName": "c6",
+                          "rules": Array [
+                            "position:absolute;width:var(--slider-size);height:0px;border-bottom:2px solid ",
+                            [Function],
+                            ";left:var(--slider-position);bottom:0px;transition:left 450ms cubic-bezier(0.23,1,0.32,1) 0ms,width 450ms cubic-bezier(0.23,1,0.32,1) 0ms;will-change:left,width;",
+                          ],
+                        },
+                        "displayName": "Tabsstyles__Slider",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "Tabsstyles__Slider-sc-1vor55y-4",
+                        "target": "span",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    size={0}
+                  >
+                    <span
+                      className="c6"
+                      size={0}
+                      style={
+                        Object {
+                          "--slider-position": "24px",
+                          "--slider-size": "0px",
+                        }
+                      }
+                    />
+                  </StyledComponent>
+                </Tabsstyles__Slider>
+              </div>
+            </StyledComponent>
+          </Tabsstyles__HeaderContainer>
+          <Tabsstyles__TabContentDisplay
+            active={1}
+            onTransitionEnd={[Function]}
+          >
+            <StyledComponent
+              active={1}
+              forwardedComponent={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "Tabsstyles__TabContentDisplay-sc-1vor55y-1",
+                    "isStatic": false,
+                    "lastClassName": "c7",
+                    "rules": Array [
+                      "display:flex;transition:margin-left 450ms cubic-bezier(0.23,1,0.32,1) 0ms;will-change:margin-left;margin-left:",
+                      [Function],
+                      ";flex-direction:row;width:100%;",
+                    ],
+                  },
+                  "displayName": "Tabsstyles__TabContentDisplay",
+                  "foldedComponentIds": Array [],
+                  "render": [Function],
+                  "styledComponentId": "Tabsstyles__TabContentDisplay-sc-1vor55y-1",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              onTransitionEnd={[Function]}
+            >
+              <div
+                className="c7"
+                onTransitionEnd={[Function]}
+              >
+                <Tabsstyles__TabContent
+                  active={false}
+                  key="114"
+                >
+                  <StyledComponent
+                    active={false}
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "Tabsstyles__TabContent-sc-1vor55y-2",
+                          "isStatic": false,
+                          "lastClassName": "c8",
+                          "rules": Array [
+                            "flex-shrink:0;width:100%;transition:opacity 0.45s;",
+                            [Function],
+                            ";color:",
+                            [Function],
+                            ";",
+                          ],
+                        },
+                        "displayName": "Tabsstyles__TabContent",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "Tabsstyles__TabContent-sc-1vor55y-2",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      className="c8"
+                    >
+                      1
+                    </div>
+                  </StyledComponent>
+                </Tabsstyles__TabContent>
+                <Tabsstyles__TabContent
+                  active={true}
+                  key="216"
+                >
+                  <StyledComponent
+                    active={true}
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "Tabsstyles__TabContent-sc-1vor55y-2",
+                          "isStatic": false,
+                          "lastClassName": "c8",
+                          "rules": Array [
+                            "flex-shrink:0;width:100%;transition:opacity 0.45s;",
+                            [Function],
+                            ";color:",
+                            [Function],
+                            ";",
+                          ],
+                        },
+                        "displayName": "Tabsstyles__TabContent",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "Tabsstyles__TabContent-sc-1vor55y-2",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      className="c9"
+                    >
+                      2
+                    </div>
+                  </StyledComponent>
+                </Tabsstyles__TabContent>
+                <Tabsstyles__TabContent
+                  active={false}
+                  key="318"
+                >
+                  <StyledComponent
+                    active={false}
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "Tabsstyles__TabContent-sc-1vor55y-2",
+                          "isStatic": false,
+                          "lastClassName": "c8",
+                          "rules": Array [
+                            "flex-shrink:0;width:100%;transition:opacity 0.45s;",
+                            [Function],
+                            ";color:",
+                            [Function],
+                            ";",
+                          ],
+                        },
+                        "displayName": "Tabsstyles__TabContent",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "Tabsstyles__TabContent-sc-1vor55y-2",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      className="c8"
+                    >
+                      3
+                    </div>
+                  </StyledComponent>
+                </Tabsstyles__TabContent>
+              </div>
+            </StyledComponent>
+          </Tabsstyles__TabContentDisplay>
+        </div>
+      </StyledComponent>
+    </Tabsstyles__TabContainer>
+  </TabsCtrl>
+</Tabs>
+`;

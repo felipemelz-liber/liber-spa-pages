@@ -1,0 +1,147 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for DateTimePicker should render correctly with props 1`] = `
+<DateTimeRangePickerstyles__PickerBody>
+  <DateTimeRangePickerstyles__PickerSlider
+    show="calendar"
+  >
+    <DateTimeRangePickerstyles__CalendarContainer>
+      <MonthCalendar
+        date={"2019-06-01T00:00:00.000Z"}
+        dayRenderer={null}
+        defaultDate={null}
+        firstDayOfWeek={0}
+        innerRef={null}
+        minDate={null}
+        monthsLabels={
+          Array [
+            "Janeiro",
+            "Fevereiro",
+            "Março",
+            "Abril",
+            "Maio",
+            "Junho",
+            "Julho",
+            "Agosto",
+            "Setembro",
+            "Outubro",
+            "Novembro",
+            "Dezembro",
+          ]
+        }
+        navigation={
+          Array [
+            "prev",
+            "next",
+          ]
+        }
+        onClick={[Function]}
+        onNavigate={[Function]}
+        onlyCurrent={false}
+        version="2"
+        weekLabels={
+          Array [
+            "D",
+            "S",
+            "T",
+            "Q",
+            "Q",
+            "S",
+            "S",
+          ]
+        }
+      />
+    </DateTimeRangePickerstyles__CalendarContainer>
+    <DateTimeRangePickerstyles__ClockContainer>
+      <Clock
+        hour="12"
+        min="00"
+        onClick={[Function]}
+        sec="00"
+      />
+    </DateTimeRangePickerstyles__ClockContainer>
+  </DateTimeRangePickerstyles__PickerSlider>
+  <DateTimeRangePickerstyles__ActionFooter>
+    <Buttons__Button
+      disabled={false}
+      onClick={[Function]}
+      version={2}
+    >
+      SELECIONAR HORÁRIO
+    </Buttons__Button>
+  </DateTimeRangePickerstyles__ActionFooter>
+</DateTimeRangePickerstyles__PickerBody>
+`;
+
+exports[`Test for DateTimePicker should render correctly without props 1`] = `
+<DateTimeRangePickerstyles__PickerBody>
+  <DateTimeRangePickerstyles__PickerSlider
+    show="calendar"
+  >
+    <DateTimeRangePickerstyles__CalendarContainer>
+      <MonthCalendar
+        date={"2019-06-01T00:00:00.000Z"}
+        dayRenderer={null}
+        defaultDate={null}
+        firstDayOfWeek={0}
+        innerRef={null}
+        minDate={null}
+        monthsLabels={
+          Array [
+            "Janeiro",
+            "Fevereiro",
+            "Março",
+            "Abril",
+            "Maio",
+            "Junho",
+            "Julho",
+            "Agosto",
+            "Setembro",
+            "Outubro",
+            "Novembro",
+            "Dezembro",
+          ]
+        }
+        navigation={
+          Array [
+            "prev",
+            "next",
+          ]
+        }
+        onClick={[Function]}
+        onNavigate={[Function]}
+        onlyCurrent={false}
+        version="2"
+        weekLabels={
+          Array [
+            "D",
+            "S",
+            "T",
+            "Q",
+            "Q",
+            "S",
+            "S",
+          ]
+        }
+      />
+    </DateTimeRangePickerstyles__CalendarContainer>
+    <DateTimeRangePickerstyles__ClockContainer>
+      <Clock
+        hour=""
+        min=""
+        onClick={null}
+        sec=""
+      />
+    </DateTimeRangePickerstyles__ClockContainer>
+  </DateTimeRangePickerstyles__PickerSlider>
+  <DateTimeRangePickerstyles__ActionFooter>
+    <Buttons__Button
+      disabled={true}
+      onClick={[Function]}
+      version={2}
+    >
+      SELECIONAR HORÁRIO
+    </Buttons__Button>
+  </DateTimeRangePickerstyles__ActionFooter>
+</DateTimeRangePickerstyles__PickerBody>
+`;

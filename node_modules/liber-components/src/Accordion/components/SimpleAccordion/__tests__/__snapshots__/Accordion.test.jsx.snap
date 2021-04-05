@@ -1,0 +1,245 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Accordion Component single=false should render correctly 1`] = `
+<Accordionstyles__Accordion
+  grow={false}
+>
+  <Accordionstyles__Item
+    key="1/.0"
+  >
+    <Accordionstyles__Content
+      open={false}
+    >
+      <div
+        label="1"
+      />
+    </Accordionstyles__Content>
+    <Accordionstyles__Button
+      data-index="0"
+      onClick={[Function]}
+      open={false}
+    >
+      1
+    </Accordionstyles__Button>
+  </Accordionstyles__Item>
+  <Accordionstyles__Item
+    key="2/.1"
+  >
+    <Accordionstyles__Content
+      open={false}
+    >
+      <div
+        label="2"
+      />
+    </Accordionstyles__Content>
+    <Accordionstyles__Button
+      data-index="1"
+      onClick={[Function]}
+      open={false}
+    >
+      2
+    </Accordionstyles__Button>
+  </Accordionstyles__Item>
+  <Accordionstyles__Item
+    key="3/.2"
+  >
+    <Accordionstyles__Content
+      open={false}
+    >
+      <div
+        label="3"
+      />
+    </Accordionstyles__Content>
+    <Accordionstyles__Button
+      data-index="2"
+      onClick={[Function]}
+      open={false}
+    >
+      3
+    </Accordionstyles__Button>
+  </Accordionstyles__Item>
+</Accordionstyles__Accordion>
+`;
+
+exports[`Testing Accordion Component single=false should render correctly with grow = true 1`] = `
+<Accordionstyles__Accordion
+  grow={true}
+>
+  <Accordionstyles__Item
+    key="1/.0"
+  >
+    <Accordionstyles__Content
+      open={false}
+    >
+      <div
+        label="1"
+      />
+    </Accordionstyles__Content>
+    <Accordionstyles__Button
+      data-index="0"
+      onClick={[Function]}
+      open={false}
+    >
+      1
+    </Accordionstyles__Button>
+  </Accordionstyles__Item>
+  <Accordionstyles__Item
+    key="2/.1"
+  >
+    <Accordionstyles__Content
+      open={false}
+    >
+      <div
+        label="2"
+      />
+    </Accordionstyles__Content>
+    <Accordionstyles__Button
+      data-index="1"
+      onClick={[Function]}
+      open={false}
+    >
+      2
+    </Accordionstyles__Button>
+  </Accordionstyles__Item>
+  <Accordionstyles__Item
+    key="3/.2"
+  >
+    <Accordionstyles__Content
+      open={false}
+    >
+      <div
+        label="3"
+      />
+    </Accordionstyles__Content>
+    <Accordionstyles__Button
+      data-index="2"
+      onClick={[Function]}
+      open={false}
+    >
+      3
+    </Accordionstyles__Button>
+  </Accordionstyles__Item>
+</Accordionstyles__Accordion>
+`;
+
+exports[`Testing Accordion Component single=true should render correctly 1`] = `
+<Accordionstyles__Accordion
+  grow={false}
+>
+  <Accordionstyles__Item
+    key="1/.0"
+  >
+    <Accordionstyles__Content
+      open={false}
+    >
+      <div
+        label="1"
+      />
+    </Accordionstyles__Content>
+    <Accordionstyles__Button
+      data-index="0"
+      onClick={[Function]}
+      open={false}
+    >
+      1
+    </Accordionstyles__Button>
+  </Accordionstyles__Item>
+  <Accordionstyles__Item
+    key="2/.1"
+  >
+    <Accordionstyles__Content
+      open={false}
+    >
+      <div
+        label="2"
+      />
+    </Accordionstyles__Content>
+    <Accordionstyles__Button
+      data-index="1"
+      onClick={[Function]}
+      open={false}
+    >
+      2
+    </Accordionstyles__Button>
+  </Accordionstyles__Item>
+  <Accordionstyles__Item
+    key="3/.2"
+  >
+    <Accordionstyles__Content
+      open={false}
+    >
+      <div
+        label="3"
+      />
+    </Accordionstyles__Content>
+    <Accordionstyles__Button
+      data-index="2"
+      onClick={[Function]}
+      open={false}
+    >
+      3
+    </Accordionstyles__Button>
+  </Accordionstyles__Item>
+</Accordionstyles__Accordion>
+`;
+
+exports[`Testing Accordion Component single=true should render correctly with grow = true 1`] = `
+<Accordionstyles__Accordion
+  grow={true}
+>
+  <Accordionstyles__Item
+    key="1/.0"
+  >
+    <Accordionstyles__Content
+      open={false}
+    >
+      <div
+        label="1"
+      />
+    </Accordionstyles__Content>
+    <Accordionstyles__Button
+      data-index="0"
+      onClick={[Function]}
+      open={false}
+    >
+      1
+    </Accordionstyles__Button>
+  </Accordionstyles__Item>
+  <Accordionstyles__Item
+    key="2/.1"
+  >
+    <Accordionstyles__Content
+      open={false}
+    >
+      <div
+        label="2"
+      />
+    </Accordionstyles__Content>
+    <Accordionstyles__Button
+      data-index="1"
+      onClick={[Function]}
+      open={false}
+    >
+      2
+    </Accordionstyles__Button>
+  </Accordionstyles__Item>
+  <Accordionstyles__Item
+    key="3/.2"
+  >
+    <Accordionstyles__Content
+      open={false}
+    >
+      <div
+        label="3"
+      />
+    </Accordionstyles__Content>
+    <Accordionstyles__Button
+      data-index="2"
+      onClick={[Function]}
+      open={false}
+    >
+      3
+    </Accordionstyles__Button>
+  </Accordionstyles__Item>
+</Accordionstyles__Accordion>
+`;

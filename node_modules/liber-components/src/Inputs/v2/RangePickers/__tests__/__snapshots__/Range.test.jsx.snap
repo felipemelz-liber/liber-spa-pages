@@ -1,0 +1,470 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for Range Component should render correctly with displayDate 1`] = `
+<Rangestyles__Container
+  style={
+    Object {
+      "--clock-container-size": "65px",
+    }
+  }
+>
+  <DateTimeSelection
+    dateProps={
+      Object {
+        "date": "2019-05-01T03:00:00.000Z",
+        "dayRenderer": [Function],
+        "navigation": Array [
+          "prev",
+        ],
+        "onClick": [Function],
+        "onNavigate": [Function],
+      }
+    }
+    labels={
+      Object {
+        "date": "SELECIONAR HORÁRIO",
+        "time": "SELECIONAR DATA",
+      }
+    }
+    showTime={true}
+    timeProps={
+      Object {
+        "hour": 0,
+        "min": 0,
+        "onClick": [Function],
+        "sec": 0,
+      }
+    }
+  />
+  <DateTimeSelection
+    dateProps={
+      Object {
+        "date": "2019-06-01T03:00:00.000Z",
+        "dayRenderer": [Function],
+        "navigation": Array [
+          "next",
+        ],
+        "onClick": [Function],
+        "onNavigate": [Function],
+      }
+    }
+    labels={
+      Object {
+        "date": "SELECIONAR HORÁRIO",
+        "time": "SELECIONAR DATA",
+      }
+    }
+    showTime={true}
+    timeProps={
+      Object {
+        "hour": 0,
+        "min": 0,
+        "onClick": [Function],
+        "sec": 0,
+      }
+    }
+  />
+</Rangestyles__Container>
+`;
+
+exports[`Test for Range Component should render correctly with showTime=false 1`] = `
+<Rangestyles__Container
+  style={
+    Object {
+      "--clock-container-size": "65px",
+    }
+  }
+>
+  <DateTimeSelection
+    dateProps={
+      Object {
+        "date": "2019-06-01T03:00:00.000Z",
+        "dayRenderer": [Function],
+        "navigation": Array [
+          "prev",
+        ],
+        "onClick": [Function],
+        "onNavigate": [Function],
+      }
+    }
+    labels={
+      Object {
+        "date": "SELECIONAR HORÁRIO",
+        "time": "SELECIONAR DATA",
+      }
+    }
+    showTime={false}
+    timeProps={
+      Object {
+        "hour": 0,
+        "min": 0,
+        "onClick": [Function],
+        "sec": 0,
+      }
+    }
+  />
+  <DateTimeSelection
+    dateProps={
+      Object {
+        "date": "2019-07-01T03:00:00.000Z",
+        "dayRenderer": [Function],
+        "navigation": Array [
+          "next",
+        ],
+        "onClick": [Function],
+        "onNavigate": [Function],
+      }
+    }
+    labels={
+      Object {
+        "date": "SELECIONAR HORÁRIO",
+        "time": "SELECIONAR DATA",
+      }
+    }
+    showTime={false}
+    timeProps={
+      Object {
+        "hour": 0,
+        "min": 0,
+        "onClick": [Function],
+        "sec": 0,
+      }
+    }
+  />
+</Rangestyles__Container>
+`;
+
+exports[`Test for Range Component should render correctly with startDate 1`] = `
+<Rangestyles__Container
+  style={
+    Object {
+      "--clock-container-size": "65px",
+    }
+  }
+>
+  <DateTimeSelection
+    dateProps={
+      Object {
+        "date": "2019-05-01T03:00:00.000Z",
+        "dayRenderer": [Function],
+        "navigation": Array [
+          "prev",
+        ],
+        "onClick": [Function],
+        "onNavigate": [Function],
+      }
+    }
+    labels={
+      Object {
+        "date": "SELECIONAR HORÁRIO",
+        "time": "SELECIONAR DATA",
+      }
+    }
+    showTime={true}
+    timeProps={
+      Object {
+        "hour": 0,
+        "min": 0,
+        "onClick": [Function],
+        "sec": 0,
+      }
+    }
+  />
+  <DateTimeSelection
+    dateProps={
+      Object {
+        "date": "2019-06-01T03:00:00.000Z",
+        "dayRenderer": [Function],
+        "navigation": Array [
+          "next",
+        ],
+        "onClick": [Function],
+        "onNavigate": [Function],
+      }
+    }
+    labels={
+      Object {
+        "date": "SELECIONAR HORÁRIO",
+        "time": "SELECIONAR DATA",
+      }
+    }
+    showTime={true}
+    timeProps={
+      Object {
+        "hour": 0,
+        "min": 0,
+        "onClick": [Function],
+        "sec": 0,
+      }
+    }
+  />
+</Rangestyles__Container>
+`;
+
+exports[`Test for Range Component should render correctly with startDate and endDate 1`] = `
+<Rangestyles__Container
+  style={
+    Object {
+      "--clock-container-size": "65px",
+    }
+  }
+>
+  <DateTimeSelection
+    dateProps={
+      Object {
+        "date": "2019-05-01T03:00:00.000Z",
+        "dayRenderer": [Function],
+        "navigation": Array [
+          "prev",
+        ],
+        "onClick": [Function],
+        "onNavigate": [Function],
+      }
+    }
+    labels={
+      Object {
+        "date": "SELECIONAR HORÁRIO",
+        "time": "SELECIONAR DATA",
+      }
+    }
+    showTime={true}
+    timeProps={
+      Object {
+        "hour": 0,
+        "min": 0,
+        "onClick": [Function],
+        "sec": 0,
+      }
+    }
+  />
+  <DateTimeSelection
+    dateProps={
+      Object {
+        "date": "2019-06-01T03:00:00.000Z",
+        "dayRenderer": [Function],
+        "navigation": Array [
+          "next",
+        ],
+        "onClick": [Function],
+        "onNavigate": [Function],
+      }
+    }
+    labels={
+      Object {
+        "date": "SELECIONAR HORÁRIO",
+        "time": "SELECIONAR DATA",
+      }
+    }
+    showTime={true}
+    timeProps={
+      Object {
+        "hour": 0,
+        "min": 0,
+        "onClick": [Function],
+        "sec": 0,
+      }
+    }
+  />
+</Rangestyles__Container>
+`;
+
+exports[`Test for Range Component should render correctly with startTime 1`] = `
+<Rangestyles__Container
+  style={
+    Object {
+      "--clock-container-size": "65px",
+    }
+  }
+>
+  <DateTimeSelection
+    dateProps={
+      Object {
+        "date": "2019-06-01T03:00:00.000Z",
+        "dayRenderer": [Function],
+        "navigation": Array [
+          "prev",
+        ],
+        "onClick": [Function],
+        "onNavigate": [Function],
+      }
+    }
+    labels={
+      Object {
+        "date": "SELECIONAR HORÁRIO",
+        "time": "SELECIONAR DATA",
+      }
+    }
+    showTime={true}
+    timeProps={
+      Object {
+        "hour": 12,
+        "min": 25,
+        "onClick": [Function],
+        "sec": 12,
+      }
+    }
+  />
+  <DateTimeSelection
+    dateProps={
+      Object {
+        "date": "2019-07-01T03:00:00.000Z",
+        "dayRenderer": [Function],
+        "navigation": Array [
+          "next",
+        ],
+        "onClick": [Function],
+        "onNavigate": [Function],
+      }
+    }
+    labels={
+      Object {
+        "date": "SELECIONAR HORÁRIO",
+        "time": "SELECIONAR DATA",
+      }
+    }
+    showTime={true}
+    timeProps={
+      Object {
+        "hour": 0,
+        "min": 0,
+        "onClick": [Function],
+        "sec": 0,
+      }
+    }
+  />
+</Rangestyles__Container>
+`;
+
+exports[`Test for Range Component should render correctly with startTime and endTime 1`] = `
+<Rangestyles__Container
+  style={
+    Object {
+      "--clock-container-size": "65px",
+    }
+  }
+>
+  <DateTimeSelection
+    dateProps={
+      Object {
+        "date": "2019-06-01T03:00:00.000Z",
+        "dayRenderer": [Function],
+        "navigation": Array [
+          "prev",
+        ],
+        "onClick": [Function],
+        "onNavigate": [Function],
+      }
+    }
+    labels={
+      Object {
+        "date": "SELECIONAR HORÁRIO",
+        "time": "SELECIONAR DATA",
+      }
+    }
+    showTime={true}
+    timeProps={
+      Object {
+        "hour": 12,
+        "min": 25,
+        "onClick": [Function],
+        "sec": 12,
+      }
+    }
+  />
+  <DateTimeSelection
+    dateProps={
+      Object {
+        "date": "2019-07-01T03:00:00.000Z",
+        "dayRenderer": [Function],
+        "navigation": Array [
+          "next",
+        ],
+        "onClick": [Function],
+        "onNavigate": [Function],
+      }
+    }
+    labels={
+      Object {
+        "date": "SELECIONAR HORÁRIO",
+        "time": "SELECIONAR DATA",
+      }
+    }
+    showTime={true}
+    timeProps={
+      Object {
+        "hour": 15,
+        "min": 25,
+        "onClick": [Function],
+        "sec": 0,
+      }
+    }
+  />
+</Rangestyles__Container>
+`;
+
+exports[`Test for Range Component should render correctly without props 1`] = `
+<Rangestyles__Container
+  style={
+    Object {
+      "--clock-container-size": "65px",
+    }
+  }
+>
+  <DateTimeSelection
+    dateProps={
+      Object {
+        "date": "2019-06-01T03:00:00.000Z",
+        "dayRenderer": [Function],
+        "navigation": Array [
+          "prev",
+        ],
+        "onClick": [Function],
+        "onNavigate": [Function],
+      }
+    }
+    labels={
+      Object {
+        "date": "SELECIONAR HORÁRIO",
+        "time": "SELECIONAR DATA",
+      }
+    }
+    showTime={true}
+    timeProps={
+      Object {
+        "hour": 0,
+        "min": 0,
+        "onClick": [Function],
+        "sec": 0,
+      }
+    }
+  />
+  <DateTimeSelection
+    dateProps={
+      Object {
+        "date": "2019-07-01T03:00:00.000Z",
+        "dayRenderer": [Function],
+        "navigation": Array [
+          "next",
+        ],
+        "onClick": [Function],
+        "onNavigate": [Function],
+      }
+    }
+    labels={
+      Object {
+        "date": "SELECIONAR HORÁRIO",
+        "time": "SELECIONAR DATA",
+      }
+    }
+    showTime={true}
+    timeProps={
+      Object {
+        "hour": 0,
+        "min": 0,
+        "onClick": [Function],
+        "sec": 0,
+      }
+    }
+  />
+</Rangestyles__Container>
+`;

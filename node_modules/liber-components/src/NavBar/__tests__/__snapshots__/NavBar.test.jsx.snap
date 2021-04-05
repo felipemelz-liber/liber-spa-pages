@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing NavBar Component should render correctly with props 1`] = `
+<NavBarstyles__Nav>
+  <NavBarstyles__Content
+    size="200px"
+  >
+    <NavBarstyles__Logo />
+    <span />
+    <NavBarstyles__Menu>
+      <SimpleDropDown
+        autoPosition={true}
+        containerSize={false}
+        customButton={null}
+        hasOutsideLabel={false}
+        label={
+          <ForwardRef(NavBarstyles__Label)>
+            <li>
+              <svg />
+              label
+            </li>
+            <li>
+              <span>
+                sublabel
+              </span>
+            </li>
+          </ForwardRef(NavBarstyles__Label)>
+        }
+        open={null}
+        position="bottom-left"
+        window={[Window]}
+      />
+    </NavBarstyles__Menu>
+  </NavBarstyles__Content>
+</NavBarstyles__Nav>
+`;
+
+exports[`Testing NavBar Component should render correctly without props 1`] = `
+<NavBarstyles__Nav>
+  <NavBarstyles__Content
+    size={null}
+  >
+    <NavBarstyles__Logo />
+    <NavBarstyles__Menu>
+      <SimpleDropDown
+        autoPosition={true}
+        containerSize={false}
+        customButton={null}
+        hasOutsideLabel={false}
+        label={
+          <ForwardRef(NavBarstyles__Label)>
+            <li />
+          </ForwardRef(NavBarstyles__Label)>
+        }
+        open={null}
+        position="bottom-left"
+        window={[Window]}
+      />
+    </NavBarstyles__Menu>
+  </NavBarstyles__Content>
+</NavBarstyles__Nav>
+`;

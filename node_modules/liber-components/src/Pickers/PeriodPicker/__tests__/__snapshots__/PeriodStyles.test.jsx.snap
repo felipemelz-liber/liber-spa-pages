@@ -1,0 +1,241 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing MonthPicker Component should open MonthPicker when value is month-picker 1`] = `
+<styles__Content>
+  <DropDown
+    defaultValue="month-picker"
+    onOpen={[Function]}
+    onSelect={[Function]}
+    position={null}
+    value="month-picker"
+  >
+    <styles__Option
+      value="next-10"
+    >
+      Próximos 10
+    </styles__Option>
+    <styles__Option
+      value="last-10"
+    >
+      Últimos 10
+    </styles__Option>
+    <styles__Option
+      value="month-picker"
+    >
+      Selecione o mês
+    </styles__Option>
+  </DropDown>
+  <styles__MonthPickerContainer
+    show={true}
+  >
+    <ClickOutside
+      onOutsideClick={[Function]}
+    >
+      <MonthPicker
+        endDate={null}
+        month={null}
+        months={
+          Array [
+            "Jan",
+            "Fev",
+            "Mar",
+            "Abr",
+            "Mai",
+            "Jun",
+            "Jul",
+            "Ago",
+            "Set",
+            "Out",
+            "Nov",
+            "Dez",
+          ]
+        }
+        numberOfyears={2}
+        onSelect={[Function]}
+        startDate={null}
+        year={null}
+      />
+    </ClickOutside>
+  </styles__MonthPickerContainer>
+</styles__Content>
+`;
+
+exports[`Testing MonthPicker Component should render correctly with base date defined 1`] = `
+<styles__Content>
+  <DropDown
+    defaultValue={null}
+    onOpen={[Function]}
+    onSelect={[Function]}
+    position={null}
+    value={null}
+  >
+    <styles__Option
+      value="next-10"
+    >
+      Próximos 10
+    </styles__Option>
+    <styles__Option
+      value="last-10"
+    >
+      Últimos 10
+    </styles__Option>
+    <styles__Option
+      value="month-picker"
+    >
+      Selecione o mês
+    </styles__Option>
+  </DropDown>
+  <styles__MonthPickerContainer
+    show={false}
+  >
+    <ClickOutside
+      onOutsideClick={[Function]}
+    >
+      <MonthPicker
+        endDate={null}
+        month={null}
+        months={
+          Array [
+            "Jan",
+            "Fev",
+            "Mar",
+            "Abr",
+            "Mai",
+            "Jun",
+            "Jul",
+            "Ago",
+            "Set",
+            "Out",
+            "Nov",
+            "Dez",
+          ]
+        }
+        numberOfyears={2}
+        onSelect={[Function]}
+        startDate={null}
+        year={null}
+      />
+    </ClickOutside>
+  </styles__MonthPickerContainer>
+</styles__Content>
+`;
+
+exports[`Testing MonthPicker Component should render correctly with value defined 1`] = `
+<styles__Content>
+  <DropDown
+    defaultValue="last-10"
+    onOpen={[Function]}
+    onSelect={[Function]}
+    position={null}
+    value="last-10"
+  >
+    <styles__Option
+      value="next-10"
+    >
+      Próximos 10
+    </styles__Option>
+    <styles__Option
+      value="last-10"
+    >
+      Últimos 10
+    </styles__Option>
+    <styles__Option
+      value="month-picker"
+    >
+      Selecione o mês
+    </styles__Option>
+  </DropDown>
+  <styles__MonthPickerContainer
+    show={false}
+  >
+    <ClickOutside
+      onOutsideClick={[Function]}
+    >
+      <MonthPicker
+        endDate={null}
+        month={null}
+        months={
+          Array [
+            "Jan",
+            "Fev",
+            "Mar",
+            "Abr",
+            "Mai",
+            "Jun",
+            "Jul",
+            "Ago",
+            "Set",
+            "Out",
+            "Nov",
+            "Dez",
+          ]
+        }
+        numberOfyears={2}
+        onSelect={[Function]}
+        startDate={null}
+        year={null}
+      />
+    </ClickOutside>
+  </styles__MonthPickerContainer>
+</styles__Content>
+`;
+
+exports[`Testing MonthPicker Component should render correctly without props 1`] = `
+<styles__Content>
+  <DropDown
+    defaultValue={null}
+    onOpen={[Function]}
+    onSelect={[Function]}
+    position={null}
+    value={null}
+  >
+    <styles__Option
+      value="next-10"
+    >
+      Próximos 10
+    </styles__Option>
+    <styles__Option
+      value="last-10"
+    >
+      Últimos 10
+    </styles__Option>
+    <styles__Option
+      value="month-picker"
+    >
+      Selecione o mês
+    </styles__Option>
+  </DropDown>
+  <styles__MonthPickerContainer
+    show={false}
+  >
+    <ClickOutside
+      onOutsideClick={[Function]}
+    >
+      <MonthPicker
+        endDate={null}
+        month={null}
+        months={
+          Array [
+            "Jan",
+            "Fev",
+            "Mar",
+            "Abr",
+            "Mai",
+            "Jun",
+            "Jul",
+            "Ago",
+            "Set",
+            "Out",
+            "Nov",
+            "Dez",
+          ]
+        }
+        numberOfyears={2}
+        onSelect={[Function]}
+        startDate={null}
+        year={null}
+      />
+    </ClickOutside>
+  </styles__MonthPickerContainer>
+</styles__Content>
+`;

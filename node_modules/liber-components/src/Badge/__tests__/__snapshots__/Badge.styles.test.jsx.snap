@@ -1,0 +1,218 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Badge Styles should render BadgeCircle correctly with case: 0 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Badgestyles__BadgeCircle-sc-1b6q7ye-1",
+        "isStatic": false,
+        "rules": Array [
+          "z-index:200;position:absolute;box-sizing:border-box;background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";display:flex;align-items:center;justify-content:center;padding:",
+          [Function],
+          ";transition:transform 150ms;",
+          [Function],
+          " ",
+          [Function],
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "Badgestyles__BadgeCircle",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Badgestyles__BadgeCircle-sc-1b6q7ye-1",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  padding={4}
+  position={
+    Object {
+      "horizontal": "right",
+      "vertical": "bottom",
+    }
+  }
+  radius={10}
+  visible={true}
+/>
+`;
+
+exports[`Testing Badge Styles should render BadgeCircle correctly with case: 1 1`] = `
+<StyledComponent
+  color="white"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Badgestyles__BadgeCircle-sc-1b6q7ye-1",
+        "isStatic": false,
+        "rules": Array [
+          "z-index:200;position:absolute;box-sizing:border-box;background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";display:flex;align-items:center;justify-content:center;padding:",
+          [Function],
+          ";transition:transform 150ms;",
+          [Function],
+          " ",
+          [Function],
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "Badgestyles__BadgeCircle",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Badgestyles__BadgeCircle-sc-1b6q7ye-1",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  padding={4}
+  position={
+    Object {
+      "horizontal": "left",
+      "vertical": "bottom",
+    }
+  }
+  radius={10}
+  visible={true}
+/>
+`;
+
+exports[`Testing Badge Styles should render BadgeCircle correctly with case: 2 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Badgestyles__BadgeCircle-sc-1b6q7ye-1",
+        "isStatic": false,
+        "rules": Array [
+          "z-index:200;position:absolute;box-sizing:border-box;background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";display:flex;align-items:center;justify-content:center;padding:",
+          [Function],
+          ";transition:transform 150ms;",
+          [Function],
+          " ",
+          [Function],
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "Badgestyles__BadgeCircle",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Badgestyles__BadgeCircle-sc-1b6q7ye-1",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  padding={4}
+  position={
+    Object {
+      "horizontal": "right",
+      "vertical": "top",
+    }
+  }
+  radius={10}
+  textColor="blue"
+  visible={true}
+/>
+`;
+
+exports[`Testing Badge Styles should render BadgeCircle correctly with case: 3 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Badgestyles__BadgeCircle-sc-1b6q7ye-1",
+        "isStatic": false,
+        "rules": Array [
+          "z-index:200;position:absolute;box-sizing:border-box;background-color:",
+          [Function],
+          ";color:",
+          [Function],
+          ";display:flex;align-items:center;justify-content:center;padding:",
+          [Function],
+          ";transition:transform 150ms;",
+          [Function],
+          " ",
+          [Function],
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "Badgestyles__BadgeCircle",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Badgestyles__BadgeCircle-sc-1b6q7ye-1",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  padding={4}
+  position={
+    Object {
+      "horizontal": "left",
+      "vertical": "top",
+    }
+  }
+  radius={10}
+  visible={true}
+/>
+`;
+
+exports[`Testing Badge Styles should render Container correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Badgestyles__Container-sc-1b6q7ye-0",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;width:fit-content;height:fit-content;display:flex;",
+        ],
+      },
+      "displayName": "Badgestyles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Badgestyles__Container-sc-1b6q7ye-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

@@ -1,0 +1,1511 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing SelectField Styles Controlled Close render correctly with show=false 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Close-sc-1mtgqt4-8",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:",
+          [Function],
+          ";opacity:0;pointer-events:none;",
+          [Function],
+          " transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;z-index:2;cursor:pointer;",
+          "position:absolute;right:16px;top:calc(50% - 10px);",
+        ],
+      },
+      "displayName": "SelectFieldstyles__Close",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Close-sc-1mtgqt4-8",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  show={false}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Close render correctly with show=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Close-sc-1mtgqt4-8",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:",
+          [Function],
+          ";opacity:0;pointer-events:none;",
+          [Function],
+          " transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;z-index:2;cursor:pointer;",
+          "position:absolute;right:16px;top:calc(50% - 10px);",
+        ],
+      },
+      "displayName": "SelectFieldstyles__Close",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Close-sc-1mtgqt4-8",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  show={true}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Close render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Close-sc-1mtgqt4-8",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:",
+          [Function],
+          ";opacity:0;pointer-events:none;",
+          [Function],
+          " transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;z-index:2;cursor:pointer;",
+          "position:absolute;right:16px;top:calc(50% - 10px);",
+        ],
+      },
+      "displayName": "SelectFieldstyles__Close",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Close-sc-1mtgqt4-8",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Error render correctly with visible=false 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Error-sc-1mtgqt4-10",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:100%;left:0px;width:auto;text-align:left;padding:12px 6px;color:",
+          [Function],
+          ";font-size:12px;line-height:12px;transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);&:before{content:'';}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__Error",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Error-sc-1mtgqt4-10",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  visible={false}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Error render correctly with visible=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Error-sc-1mtgqt4-10",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:100%;left:0px;width:auto;text-align:left;padding:12px 6px;color:",
+          [Function],
+          ";font-size:12px;line-height:12px;transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);&:before{content:'';}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__Error",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Error-sc-1mtgqt4-10",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  visible={true}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Error render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Error-sc-1mtgqt4-10",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:100%;left:0px;width:auto;text-align:left;padding:12px 6px;color:",
+          [Function],
+          ";font-size:12px;line-height:12px;transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);&:before{content:'';}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__Error",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Error-sc-1mtgqt4-10",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Hint render correctly with visible=false 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Hint-sc-1mtgqt4-9",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:calc(50% - 22px);left:6px;padding:10px 12px;color:",
+          [Function],
+          ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;overflow:hidden;",
+        ],
+      },
+      "displayName": "SelectFieldstyles__Hint",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Hint-sc-1mtgqt4-9",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  visible={false}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Hint render correctly with visible=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Hint-sc-1mtgqt4-9",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:calc(50% - 22px);left:6px;padding:10px 12px;color:",
+          [Function],
+          ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;overflow:hidden;",
+        ],
+      },
+      "displayName": "SelectFieldstyles__Hint",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Hint-sc-1mtgqt4-9",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  visible={true}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Hint render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Hint-sc-1mtgqt4-9",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;top:calc(50% - 22px);left:6px;padding:10px 12px;color:",
+          [Function],
+          ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;overflow:hidden;",
+        ],
+      },
+      "displayName": "SelectFieldstyles__Hint",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Hint-sc-1mtgqt4-9",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Icon render correctly with error=false 1`] = `
+<StyledComponent
+  error={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Icon-sc-1mtgqt4-7",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          "position:absolute;right:16px;top:calc(50% - 10px);",
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "SelectFieldstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Icon-sc-1mtgqt4-7",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Icon render correctly with error=true 1`] = `
+<StyledComponent
+  error={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Icon-sc-1mtgqt4-7",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          "position:absolute;right:16px;top:calc(50% - 10px);",
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "SelectFieldstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Icon-sc-1mtgqt4-7",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Icon render correctly with hide=false 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Icon-sc-1mtgqt4-7",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          "position:absolute;right:16px;top:calc(50% - 10px);",
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "SelectFieldstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Icon-sc-1mtgqt4-7",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  hide={false}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Icon render correctly with hide=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Icon-sc-1mtgqt4-7",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          "position:absolute;right:16px;top:calc(50% - 10px);",
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "SelectFieldstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Icon-sc-1mtgqt4-7",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  hide={true}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Icon render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Icon-sc-1mtgqt4-7",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);pointer-events:none;opacity:",
+          [Function],
+          ";transition:opacity 250ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+          "position:absolute;right:16px;top:calc(50% - 10px);",
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "SelectFieldstyles__Icon",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Icon-sc-1mtgqt4-7",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Input render correctly with basic=false 1`] = `
+<StyledComponent
+  basic={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Input-sc-1mtgqt4-3",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:20px;text-align:left;color:",
+          [Function],
+          ";outline:0;border:0px;",
+          [Function],
+          " ",
+          [Function],
+          " &:focus{width:100%;width:fill-available;}&::-moz-focus-inner{border:0;}&::placeholder{color:",
+          [Function],
+          ";}&:-webkit-autofill,&:-webkit-autofill:hover,&:-webkit-autofill:focus,&:-webkit-autofill:active{-webkit-box-shadow:0 0 0px 1000px #fff inset !important;transition:background-color 99999s ease-in-out 0s;}",
+          [Function],
+        ],
+      },
+      "displayName": "SelectFieldstyles__Input",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Input-sc-1mtgqt4-3",
+      "target": "input",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Input render correctly with basic=true 1`] = `
+<StyledComponent
+  basic={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Input-sc-1mtgqt4-3",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:20px;text-align:left;color:",
+          [Function],
+          ";outline:0;border:0px;",
+          [Function],
+          " ",
+          [Function],
+          " &:focus{width:100%;width:fill-available;}&::-moz-focus-inner{border:0;}&::placeholder{color:",
+          [Function],
+          ";}&:-webkit-autofill,&:-webkit-autofill:hover,&:-webkit-autofill:focus,&:-webkit-autofill:active{-webkit-box-shadow:0 0 0px 1000px #fff inset !important;transition:background-color 99999s ease-in-out 0s;}",
+          [Function],
+        ],
+      },
+      "displayName": "SelectFieldstyles__Input",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Input-sc-1mtgqt4-3",
+      "target": "input",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Input render correctly with checked=false 1`] = `
+<StyledComponent
+  checked={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Option-sc-1mtgqt4-5",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "SelectFieldstyles__Option",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Option-sc-1mtgqt4-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Input render correctly with checked=true 1`] = `
+<StyledComponent
+  checked={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Option-sc-1mtgqt4-5",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "SelectFieldstyles__Option",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Option-sc-1mtgqt4-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Input render correctly with disabled=false 1`] = `
+<StyledComponent
+  disabled={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Input-sc-1mtgqt4-3",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:20px;text-align:left;color:",
+          [Function],
+          ";outline:0;border:0px;",
+          [Function],
+          " ",
+          [Function],
+          " &:focus{width:100%;width:fill-available;}&::-moz-focus-inner{border:0;}&::placeholder{color:",
+          [Function],
+          ";}&:-webkit-autofill,&:-webkit-autofill:hover,&:-webkit-autofill:focus,&:-webkit-autofill:active{-webkit-box-shadow:0 0 0px 1000px #fff inset !important;transition:background-color 99999s ease-in-out 0s;}",
+          [Function],
+        ],
+      },
+      "displayName": "SelectFieldstyles__Input",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Input-sc-1mtgqt4-3",
+      "target": "input",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Input render correctly with disabled=false 2`] = `
+<StyledComponent
+  disabled={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Option-sc-1mtgqt4-5",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "SelectFieldstyles__Option",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Option-sc-1mtgqt4-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Input render correctly with disabled=true 1`] = `
+<StyledComponent
+  disabled={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Input-sc-1mtgqt4-3",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:20px;text-align:left;color:",
+          [Function],
+          ";outline:0;border:0px;",
+          [Function],
+          " ",
+          [Function],
+          " &:focus{width:100%;width:fill-available;}&::-moz-focus-inner{border:0;}&::placeholder{color:",
+          [Function],
+          ";}&:-webkit-autofill,&:-webkit-autofill:hover,&:-webkit-autofill:focus,&:-webkit-autofill:active{-webkit-box-shadow:0 0 0px 1000px #fff inset !important;transition:background-color 99999s ease-in-out 0s;}",
+          [Function],
+        ],
+      },
+      "displayName": "SelectFieldstyles__Input",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Input-sc-1mtgqt4-3",
+      "target": "input",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Input render correctly with disabled=true 2`] = `
+<StyledComponent
+  disabled={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Option-sc-1mtgqt4-5",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "SelectFieldstyles__Option",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Option-sc-1mtgqt4-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Input render correctly with focused=false 1`] = `
+<StyledComponent
+  focused={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Option-sc-1mtgqt4-5",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "SelectFieldstyles__Option",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Option-sc-1mtgqt4-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Input render correctly with focused=true 1`] = `
+<StyledComponent
+  focused={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Option-sc-1mtgqt4-5",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "SelectFieldstyles__Option",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Option-sc-1mtgqt4-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Input render correctly with static=false 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Input-sc-1mtgqt4-3",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:20px;text-align:left;color:",
+          [Function],
+          ";outline:0;border:0px;",
+          [Function],
+          " ",
+          [Function],
+          " &:focus{width:100%;width:fill-available;}&::-moz-focus-inner{border:0;}&::placeholder{color:",
+          [Function],
+          ";}&:-webkit-autofill,&:-webkit-autofill:hover,&:-webkit-autofill:focus,&:-webkit-autofill:active{-webkit-box-shadow:0 0 0px 1000px #fff inset !important;transition:background-color 99999s ease-in-out 0s;}",
+          [Function],
+        ],
+      },
+      "displayName": "SelectFieldstyles__Input",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Input-sc-1mtgqt4-3",
+      "target": "input",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  static={false}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Input render correctly with static=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Input-sc-1mtgqt4-3",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:20px;text-align:left;color:",
+          [Function],
+          ";outline:0;border:0px;",
+          [Function],
+          " ",
+          [Function],
+          " &:focus{width:100%;width:fill-available;}&::-moz-focus-inner{border:0;}&::placeholder{color:",
+          [Function],
+          ";}&:-webkit-autofill,&:-webkit-autofill:hover,&:-webkit-autofill:focus,&:-webkit-autofill:active{-webkit-box-shadow:0 0 0px 1000px #fff inset !important;transition:background-color 99999s ease-in-out 0s;}",
+          [Function],
+        ],
+      },
+      "displayName": "SelectFieldstyles__Input",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Input-sc-1mtgqt4-3",
+      "target": "input",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  static={true}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Input render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Input-sc-1mtgqt4-3",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:20px;text-align:left;color:",
+          [Function],
+          ";outline:0;border:0px;",
+          [Function],
+          " ",
+          [Function],
+          " &:focus{width:100%;width:fill-available;}&::-moz-focus-inner{border:0;}&::placeholder{color:",
+          [Function],
+          ";}&:-webkit-autofill,&:-webkit-autofill:hover,&:-webkit-autofill:focus,&:-webkit-autofill:active{-webkit-box-shadow:0 0 0px 1000px #fff inset !important;transition:background-color 99999s ease-in-out 0s;}",
+          [Function],
+        ],
+      },
+      "displayName": "SelectFieldstyles__Input",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Input-sc-1mtgqt4-3",
+      "target": "input",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Input render correctly without props 2`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Option-sc-1mtgqt4-5",
+        "isStatic": false,
+        "rules": Array [
+          [Function],
+          " ",
+          [Function],
+        ],
+      },
+      "displayName": "SelectFieldstyles__Option",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Option-sc-1mtgqt4-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled InputShell render correctly with basic=false 1`] = `
+<StyledComponent
+  basic={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__InputShell-sc-1mtgqt4-2",
+        "isStatic": false,
+        "rules": Array [
+          "height:48px;border-radius:4px;width:100%;outline:0;padding:0px 68px 0px 16px;display:flex;justify-content:flex-start;align-items:center;box-sizing:border-box;transition:border 200ms cubic-bezier(0.645,0.045,0.355,1);will-change:border;border:1px solid ",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          [Function],
+          " ",
+          [Function],
+          " ",
+          [Function],
+          " & > input:not(:last-child){margin-right:6px;}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__InputShell",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__InputShell-sc-1mtgqt4-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled InputShell render correctly with basic=true 1`] = `
+<StyledComponent
+  basic={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__InputShell-sc-1mtgqt4-2",
+        "isStatic": false,
+        "rules": Array [
+          "height:48px;border-radius:4px;width:100%;outline:0;padding:0px 68px 0px 16px;display:flex;justify-content:flex-start;align-items:center;box-sizing:border-box;transition:border 200ms cubic-bezier(0.645,0.045,0.355,1);will-change:border;border:1px solid ",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          [Function],
+          " ",
+          [Function],
+          " ",
+          [Function],
+          " & > input:not(:last-child){margin-right:6px;}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__InputShell",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__InputShell-sc-1mtgqt4-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled InputShell render correctly with disabled=false 1`] = `
+<StyledComponent
+  disabled={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__InputShell-sc-1mtgqt4-2",
+        "isStatic": false,
+        "rules": Array [
+          "height:48px;border-radius:4px;width:100%;outline:0;padding:0px 68px 0px 16px;display:flex;justify-content:flex-start;align-items:center;box-sizing:border-box;transition:border 200ms cubic-bezier(0.645,0.045,0.355,1);will-change:border;border:1px solid ",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          [Function],
+          " ",
+          [Function],
+          " ",
+          [Function],
+          " & > input:not(:last-child){margin-right:6px;}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__InputShell",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__InputShell-sc-1mtgqt4-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled InputShell render correctly with disabled=true 1`] = `
+<StyledComponent
+  disabled={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__InputShell-sc-1mtgqt4-2",
+        "isStatic": false,
+        "rules": Array [
+          "height:48px;border-radius:4px;width:100%;outline:0;padding:0px 68px 0px 16px;display:flex;justify-content:flex-start;align-items:center;box-sizing:border-box;transition:border 200ms cubic-bezier(0.645,0.045,0.355,1);will-change:border;border:1px solid ",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          [Function],
+          " ",
+          [Function],
+          " ",
+          [Function],
+          " & > input:not(:last-child){margin-right:6px;}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__InputShell",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__InputShell-sc-1mtgqt4-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled InputShell render correctly with error=false 1`] = `
+<StyledComponent
+  error={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__InputShell-sc-1mtgqt4-2",
+        "isStatic": false,
+        "rules": Array [
+          "height:48px;border-radius:4px;width:100%;outline:0;padding:0px 68px 0px 16px;display:flex;justify-content:flex-start;align-items:center;box-sizing:border-box;transition:border 200ms cubic-bezier(0.645,0.045,0.355,1);will-change:border;border:1px solid ",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          [Function],
+          " ",
+          [Function],
+          " ",
+          [Function],
+          " & > input:not(:last-child){margin-right:6px;}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__InputShell",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__InputShell-sc-1mtgqt4-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled InputShell render correctly with error=true 1`] = `
+<StyledComponent
+  error={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__InputShell-sc-1mtgqt4-2",
+        "isStatic": false,
+        "rules": Array [
+          "height:48px;border-radius:4px;width:100%;outline:0;padding:0px 68px 0px 16px;display:flex;justify-content:flex-start;align-items:center;box-sizing:border-box;transition:border 200ms cubic-bezier(0.645,0.045,0.355,1);will-change:border;border:1px solid ",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          [Function],
+          " ",
+          [Function],
+          " ",
+          [Function],
+          " & > input:not(:last-child){margin-right:6px;}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__InputShell",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__InputShell-sc-1mtgqt4-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled InputShell render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__InputShell-sc-1mtgqt4-2",
+        "isStatic": false,
+        "rules": Array [
+          "height:48px;border-radius:4px;width:100%;outline:0;padding:0px 68px 0px 16px;display:flex;justify-content:flex-start;align-items:center;box-sizing:border-box;transition:border 200ms cubic-bezier(0.645,0.045,0.355,1);will-change:border;border:1px solid ",
+          [Function],
+          ";",
+          [Function],
+          " ",
+          [Function],
+          " ",
+          [Function],
+          " ",
+          [Function],
+          " & > input:not(:last-child){margin-right:6px;}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__InputShell",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__InputShell-sc-1mtgqt4-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Label renders correctly with disabled=true 1`] = `
+<StyledComponent
+  disabled={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Label-sc-1mtgqt4-11",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;padding:0px 6px;left:6px;text-align:left;font-family:Roboto;background-color:transparent;transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;width:auto;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;user-select:none;z-index:1;",
+          [Function],
+          " &:before{content:'';position:absolute;",
+          [Function],
+          " left:0px;top:calc(50%);width:100%;z-index:-1;}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Label-sc-1mtgqt4-11",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Label renders correctly with error=true 1`] = `
+<StyledComponent
+  error={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Label-sc-1mtgqt4-11",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;padding:0px 6px;left:6px;text-align:left;font-family:Roboto;background-color:transparent;transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;width:auto;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;user-select:none;z-index:1;",
+          [Function],
+          " &:before{content:'';position:absolute;",
+          [Function],
+          " left:0px;top:calc(50%);width:100%;z-index:-1;}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Label-sc-1mtgqt4-11",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Label renders correctly with focused=true 1`] = `
+<StyledComponent
+  focused={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Label-sc-1mtgqt4-11",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;padding:0px 6px;left:6px;text-align:left;font-family:Roboto;background-color:transparent;transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;width:auto;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;user-select:none;z-index:1;",
+          [Function],
+          " &:before{content:'';position:absolute;",
+          [Function],
+          " left:0px;top:calc(50%);width:100%;z-index:-1;}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Label-sc-1mtgqt4-11",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Label renders correctly with valid=true 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Label-sc-1mtgqt4-11",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;padding:0px 6px;left:6px;text-align:left;font-family:Roboto;background-color:transparent;transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;width:auto;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;user-select:none;z-index:1;",
+          [Function],
+          " &:before{content:'';position:absolute;",
+          [Function],
+          " left:0px;top:calc(50%);width:100%;z-index:-1;}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Label-sc-1mtgqt4-11",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  valid={true}
+/>
+`;
+
+exports[`Testing SelectField Styles Controlled Label renders correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Label-sc-1mtgqt4-11",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;padding:0px 6px;left:6px;text-align:left;font-family:Roboto;background-color:transparent;transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;width:auto;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;user-select:none;z-index:1;",
+          [Function],
+          " &:before{content:'';position:absolute;",
+          [Function],
+          " left:0px;top:calc(50%);width:100%;z-index:-1;}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__Label",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Label-sc-1mtgqt4-11",
+      "target": "label",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Uncontrolled renders Check correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Check-sc-1mtgqt4-6",
+        "isStatic": false,
+        "rules": Array [
+          "--size:20px;min-width:var(--size);max-width:var(--size);min-height:var(--size);max-height:var(--size);fill:",
+          [Function],
+          ";margin-left:auto;",
+        ],
+      },
+      "displayName": "SelectFieldstyles__Check",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Check-sc-1mtgqt4-6",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Uncontrolled renders Container correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Container-sc-1mtgqt4-1",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;width:100%;min-width:300px;",
+        ],
+      },
+      "displayName": "SelectFieldstyles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Container-sc-1mtgqt4-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Uncontrolled renders OptionsContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__OptionsContainer-sc-1mtgqt4-4",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;flex-direction:column;justify-content:flex-start;align-items:stretch;padding:12px 0px;max-height:224px;overflow:auto;box-sizing:border-box;& > div:first-of-type{border-top:1px solid ",
+          [Function],
+          ";border-radius:4px 4px 0px 0px;}& .ps__rail-y{margin-top:12px;margin-bottom:12px;}& .ps__thumb-y{background-color:#e2e2e2 !important;right:4px;}& .ps__rail-y:hover,& .ps--clicking{background-color:transparent !important;}& .ps__rail-y:hover .ps__thumb-y,& .ps__rail-y.ps--clicking .ps__thumb-y{width:8px;}& .ps__rail-y{z-index:10;}",
+        ],
+      },
+      "displayName": "SelectFieldstyles__OptionsContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__OptionsContainer-sc-1mtgqt4-4",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SelectField Styles Uncontrolled renders Tag correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "SelectFieldstyles__Tag-sc-1mtgqt4-0",
+        "isStatic": false,
+        "rules": Array [
+          "white-space:nowrap;",
+        ],
+      },
+      "displayName": "SelectFieldstyles__Tag",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "children": [Function],
+        "closable": [Function],
+        "height": [Function],
+        "onClose": [Function],
+        "variant": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "SelectFieldstyles__Tag-sc-1mtgqt4-0",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "children": "",
+          "closable": false,
+          "height": 28,
+          "onClose": [Function],
+          "variant": "default",
+        },
+        "displayName": "Tag",
+        "propTypes": Object {
+          "children": [Function],
+          "closable": [Function],
+          "height": [Function],
+          "onClose": [Function],
+          "variant": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

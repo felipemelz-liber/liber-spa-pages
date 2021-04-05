@@ -1,0 +1,254 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SimulationDrawer tests should render correctly with no props 1`] = `
+<Fragment>
+  <Drawer
+    blockNavigation={false}
+    closable={true}
+    drawerSize={1120}
+    duration={270}
+    elementId="modal"
+    fitScreen={false}
+    onAppearStart={[Function]}
+    onAppeared={[Function]}
+    onLeaveStart={[Function]}
+    onLeaved={[Function]}
+    position="bottom"
+    show={false}
+    size={128}
+  >
+    <styled.div
+      hasPaddingTop={true}
+    >
+      <styled.span>
+        Simulação de Adiantamento
+         
+        <Styled(styled.span)>
+          (0 títulos)
+        </Styled(styled.span)>
+      </styled.span>
+      <Buttons__Button
+        onClick={[Function]}
+        size="small"
+        version={2}
+      >
+        <Icon
+          color="currentColor"
+          horizontal={false}
+          path="M6,16.5L3,19.44V11H6M11,14.66L9.43,13.32L8,14.64V7H11M16,13L13,16V3H16M18.81,12.81L17,11H22V16L20.21,14.21L13,21.36L9.53,18.34L5.75,22H3L9.47,15.66L13,18.64"
+          rotate={0}
+          size={null}
+          spin={false}
+          vertical={false}
+        />
+        Baixar Relatório da Simulação (Excel)
+      </Buttons__Button>
+    </styled.div>
+    <styled.div>
+      <SimulationInfo
+        discountRate={0}
+        discountValue={0}
+        faceValue={0}
+        inDialog={false}
+        isSimulationOutdated={false}
+        netValue={0}
+        onRequestAnticipation={null}
+        rateByPeriod={false}
+        selectedInvoices={Array []}
+      >
+        <LoadingButton
+          ButtonComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "sc-htpNat",
+                "isStatic": false,
+                "rules": Array [
+                  "
+  background-color: #002874;
+  --button-ripple-color: #002d80;
+  --button-text-color: #fafdff;
+  min-width: 235px;
+  &:hover {
+    background-color: #001f59;
+  }
+",
+                ],
+              },
+              "displayName": "Styled(Buttons__Button)",
+              "foldedComponentIds": Array [
+                "Buttons__Button-u35aut-0",
+              ],
+              "render": [Function],
+              "styledComponentId": "sc-htpNat",
+              "target": Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "render": [Function],
+              },
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          disabled={false}
+          loading={false}
+          onClick={[Function]}
+          size="large"
+          spinnerColor="white"
+        >
+          SOLICITAR ADIANTAMENTO
+        </LoadingButton>
+      </SimulationInfo>
+    </styled.div>
+  </Drawer>
+  <SimulationDialog
+    confirmationButtonProps={
+      Object {
+        "disabled": true,
+        "onConfirmation": [Function],
+        "text": "CONTINUAR",
+      }
+    }
+    maxWidth={592}
+    onClose={[Function]}
+    open={false}
+    title="Termos do Relatório de Simulação"
+  >
+    <SimulationTerms
+      checked={false}
+      onChange={[Function]}
+    />
+  </SimulationDialog>
+</Fragment>
+`;
+
+exports[`SimulationDrawer tests should render correctly with props 1`] = `
+<Fragment>
+  <Drawer
+    blockNavigation={false}
+    closable={true}
+    drawerSize={1120}
+    duration={270}
+    elementId="modal"
+    fitScreen={false}
+    onAppearStart={[Function]}
+    onAppeared={[Function]}
+    onLeaveStart={[Function]}
+    onLeaved={[Function]}
+    position="bottom"
+    show={true}
+    size={128}
+  >
+    <styled.div
+      hasPaddingTop={true}
+    >
+      <styled.span>
+        Simulação de Adiantamento
+         
+        <Styled(styled.span)>
+          (3 títulos)
+        </Styled(styled.span)>
+      </styled.span>
+      <Buttons__Button
+        onClick={[Function]}
+        size="small"
+        version={2}
+      >
+        <Icon
+          color="currentColor"
+          horizontal={false}
+          path="M6,16.5L3,19.44V11H6M11,14.66L9.43,13.32L8,14.64V7H11M16,13L13,16V3H16M18.81,12.81L17,11H22V16L20.21,14.21L13,21.36L9.53,18.34L5.75,22H3L9.47,15.66L13,18.64"
+          rotate={0}
+          size={null}
+          spin={false}
+          vertical={false}
+        />
+        Baixar Relatório da Simulação (Excel)
+      </Buttons__Button>
+    </styled.div>
+    <styled.div>
+      <SimulationInfo
+        discountRate={0}
+        discountValue={0}
+        faceValue={0}
+        filed="mock"
+        inDialog={false}
+        isSimulationOutdated={false}
+        netValue={0}
+        onRequestAnticipation={null}
+        rateByPeriod={true}
+        selectedInvoices={
+          Array [
+            1,
+            2,
+            3,
+          ]
+        }
+      >
+        <LoadingButton
+          ButtonComponent={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "attrs": Array [],
+              "componentStyle": ComponentStyle {
+                "componentId": "sc-htpNat",
+                "isStatic": false,
+                "rules": Array [
+                  "
+  background-color: #002874;
+  --button-ripple-color: #002d80;
+  --button-text-color: #fafdff;
+  min-width: 235px;
+  &:hover {
+    background-color: #001f59;
+  }
+",
+                ],
+              },
+              "displayName": "Styled(Buttons__Button)",
+              "foldedComponentIds": Array [
+                "Buttons__Button-u35aut-0",
+              ],
+              "render": [Function],
+              "styledComponentId": "sc-htpNat",
+              "target": Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "render": [Function],
+              },
+              "toString": [Function],
+              "warnTooManyClasses": [Function],
+              "withComponent": [Function],
+            }
+          }
+          disabled={false}
+          loading={false}
+          onClick={[Function]}
+          size="large"
+          spinnerColor="white"
+        >
+          SOLICITAR ADIANTAMENTO
+        </LoadingButton>
+      </SimulationInfo>
+    </styled.div>
+  </Drawer>
+  <SimulationDialog
+    confirmationButtonProps={
+      Object {
+        "disabled": true,
+        "onConfirmation": [Function],
+        "text": "CONTINUAR",
+      }
+    }
+    maxWidth={592}
+    onClose={[Function]}
+    open={false}
+    title="Termos do Relatório de Simulação"
+  >
+    <SimulationTerms
+      checked={false}
+      onChange={[Function]}
+    />
+  </SimulationDialog>
+</Fragment>
+`;

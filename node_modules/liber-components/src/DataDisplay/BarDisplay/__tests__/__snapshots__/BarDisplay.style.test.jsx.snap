@@ -1,0 +1,823 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for BarDisplay style Components Bar should render correctly with children 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Bar-p79a2y-7",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;width:50%;height:10px;border:0px;border-radius:5px;background-color:",
+          [Function],
+          ";box-sizing:border-box;max-width:100%;& ",
+          ".styles__BarSector-p79a2y-3",
+          ":first-child,& ",
+          ".styles__BarShadow-p79a2y-4",
+          ":first-child{border-radius:5px 0px 0px 5px;}& ",
+          ".styles__BarSector-p79a2y-3",
+          ":last-child,& ",
+          ".styles__BarShadow-p79a2y-4",
+          ":last-child{border-radius:0px 5px 5px 0px;}& ",
+          ".styles__BarSectors-p79a2y-5",
+          ",& ",
+          ".styles__BarShadows-p79a2y-6",
+          "{border-radius:5px;}",
+        ],
+      },
+      "displayName": "styles__Bar",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Bar-p79a2y-7",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+>
+  <styles__BarShadows>
+    <styles__BarShadow />
+    <styles__BarShadow />
+  </styles__BarShadows>
+  <styles__BarSectors>
+    <styles__BarSector />
+    <styles__BarSector />
+  </styles__BarSectors>
+</StyledComponent>
+`;
+
+exports[`Test for BarDisplay style Components Bar should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Bar-p79a2y-7",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;width:50%;height:10px;border:0px;border-radius:5px;background-color:",
+          [Function],
+          ";box-sizing:border-box;max-width:100%;& ",
+          ".styles__BarSector-p79a2y-3",
+          ":first-child,& ",
+          ".styles__BarShadow-p79a2y-4",
+          ":first-child{border-radius:5px 0px 0px 5px;}& ",
+          ".styles__BarSector-p79a2y-3",
+          ":last-child,& ",
+          ".styles__BarShadow-p79a2y-4",
+          ":last-child{border-radius:0px 5px 5px 0px;}& ",
+          ".styles__BarSectors-p79a2y-5",
+          ",& ",
+          ".styles__BarShadows-p79a2y-6",
+          "{border-radius:5px;}",
+        ],
+      },
+      "displayName": "styles__Bar",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Bar-p79a2y-7",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "barDisplay": Object {
+        "bar": "#ccc",
+        "title": "#bbb",
+        "value": "#aaa",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for BarDisplay style Components Bar should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Bar-p79a2y-7",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;width:50%;height:10px;border:0px;border-radius:5px;background-color:",
+          [Function],
+          ";box-sizing:border-box;max-width:100%;& ",
+          ".styles__BarSector-p79a2y-3",
+          ":first-child,& ",
+          ".styles__BarShadow-p79a2y-4",
+          ":first-child{border-radius:5px 0px 0px 5px;}& ",
+          ".styles__BarSector-p79a2y-3",
+          ":last-child,& ",
+          ".styles__BarShadow-p79a2y-4",
+          ":last-child{border-radius:0px 5px 5px 0px;}& ",
+          ".styles__BarSectors-p79a2y-5",
+          ",& ",
+          ".styles__BarShadows-p79a2y-6",
+          "{border-radius:5px;}",
+        ],
+      },
+      "displayName": "styles__Bar",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Bar-p79a2y-7",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for BarDisplay style Components BarSector should render correctly with props 1`] = `
+<StyledComponent
+  color="#000"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__BarSector-p79a2y-3",
+        "isStatic": false,
+        "rules": Array [
+          "background:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";flex-basis:",
+          [Function],
+          ";height:",
+          [Function],
+          ";transition:all  100ms;box-shadow:",
+          [Function],
+          ";z-index:",
+          [Function],
+          ";flex-grow:1;",
+          [Function],
+          "}}",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    cursor: pointer;
+    &:hover {
+      height: calc(100% + 2.5px);
+      box-shadow: 2px 2px 10px 0px ",
+          [Function],
+          ";
+      z-index: 5;
+    }
+",
+          "}",
+        ],
+      },
+      "displayName": "styles__BarSector",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__BarSector-p79a2y-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  percentage="50%"
+/>
+`;
+
+exports[`Test for BarDisplay style Components BarSector should render correctly with props and pointed 1`] = `
+<StyledComponent
+  color="#000"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__BarSector-p79a2y-3",
+        "isStatic": false,
+        "rules": Array [
+          "background:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";flex-basis:",
+          [Function],
+          ";height:",
+          [Function],
+          ";transition:all  100ms;box-shadow:",
+          [Function],
+          ";z-index:",
+          [Function],
+          ";flex-grow:1;",
+          [Function],
+          "}}",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    cursor: pointer;
+    &:hover {
+      height: calc(100% + 2.5px);
+      box-shadow: 2px 2px 10px 0px ",
+          [Function],
+          ";
+      z-index: 5;
+    }
+",
+          "}",
+        ],
+      },
+      "displayName": "styles__BarSector",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__BarSector-p79a2y-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  percentage="50%"
+  point={true}
+/>
+`;
+
+exports[`Test for BarDisplay style Components BarSector should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__BarSector-p79a2y-3",
+        "isStatic": false,
+        "rules": Array [
+          "background:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";flex-basis:",
+          [Function],
+          ";height:",
+          [Function],
+          ";transition:all  100ms;box-shadow:",
+          [Function],
+          ";z-index:",
+          [Function],
+          ";flex-grow:1;",
+          [Function],
+          "}}",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    cursor: pointer;
+    &:hover {
+      height: calc(100% + 2.5px);
+      box-shadow: 2px 2px 10px 0px ",
+          [Function],
+          ";
+      z-index: 5;
+    }
+",
+          "}",
+        ],
+      },
+      "displayName": "styles__BarSector",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__BarSector-p79a2y-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "barDisplay": Object {
+        "bar": "#ccc",
+        "title": "#bbb",
+        "value": "#aaa",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for BarDisplay style Components BarSector should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__BarSector-p79a2y-3",
+        "isStatic": false,
+        "rules": Array [
+          "background:",
+          [Function],
+          ";border-radius:",
+          [Function],
+          ";flex-basis:",
+          [Function],
+          ";height:",
+          [Function],
+          ";transition:all  100ms;box-shadow:",
+          [Function],
+          ";z-index:",
+          [Function],
+          ";flex-grow:1;",
+          [Function],
+          "}}",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    cursor: pointer;
+    &:hover {
+      height: calc(100% + 2.5px);
+      box-shadow: 2px 2px 10px 0px ",
+          [Function],
+          ";
+      z-index: 5;
+    }
+",
+          "}",
+        ],
+      },
+      "displayName": "styles__BarSector",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__BarSector-p79a2y-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for BarDisplay style Components BarShadow should render correctly with props 1`] = `
+<StyledComponent
+  color="#000"
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__BarShadow-p79a2y-4",
+        "isStatic": false,
+        "rules": Array [
+          "flex-basis:",
+          [Function],
+          ";height:100%;opacity:0.5;box-shadow:2px 2px 10px 0px ",
+          [Function],
+          ";&:first-child{box-shadow:0px 2px 10px 0px ",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "styles__BarShadow",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__BarShadow-p79a2y-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  percentage="50%"
+/>
+`;
+
+exports[`Test for BarDisplay style Components BarShadow should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__BarShadow-p79a2y-4",
+        "isStatic": false,
+        "rules": Array [
+          "flex-basis:",
+          [Function],
+          ";height:100%;opacity:0.5;box-shadow:2px 2px 10px 0px ",
+          [Function],
+          ";&:first-child{box-shadow:0px 2px 10px 0px ",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "styles__BarShadow",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__BarShadow-p79a2y-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "barDisplay": Object {
+        "bar": "#ccc",
+        "title": "#bbb",
+        "value": "#aaa",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for BarDisplay style Components BarShadow should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__BarShadow-p79a2y-4",
+        "isStatic": false,
+        "rules": Array [
+          "flex-basis:",
+          [Function],
+          ";height:100%;opacity:0.5;box-shadow:2px 2px 10px 0px ",
+          [Function],
+          ";&:first-child{box-shadow:0px 2px 10px 0px ",
+          [Function],
+          ";}",
+        ],
+      },
+      "displayName": "styles__BarShadow",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__BarShadow-p79a2y-4",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for BarDisplay style Components Title should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Title-p79a2y-0",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";;color:",
+          [Function],
+          ";text-align:left;margin:0px 0px 10px 0px;",
+        ],
+      },
+      "displayName": "styles__Title",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Title-p79a2y-0",
+      "target": "h3",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "barDisplay": Object {
+        "bar": "#ccc",
+        "title": "#bbb",
+        "value": "#aaa",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for BarDisplay style Components Title should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Title-p79a2y-0",
+        "isStatic": false,
+        "rules": Array [
+          "font-family:",
+          [Function],
+          ";font-size:",
+          [Function],
+          ";line-height:",
+          [Function],
+          ";font-weight:",
+          [Function],
+          ";;color:",
+          [Function],
+          ";text-align:left;margin:0px 0px 10px 0px;",
+        ],
+      },
+      "displayName": "styles__Title",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Title-p79a2y-0",
+      "target": "h3",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for BarDisplay style Components Value should render correctly with prefix 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Value-p79a2y-2",
+        "isStatic": false,
+        "rules": Array [
+          "--default-font-size:",
+          [Function],
+          ";font-family:Roboto;line-height:0.8em;font-size:var(--default-font-size);font-weight:bold;color:",
+          [Function],
+          ";transition:all 100ms linear;position:relative;margin-left:",
+          [Function],
+          ";margin-bottom:10px;box-sizing:border-box;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    --default-font-size: ",
+          [Function],
+          ";
+    font-size: var(--default-font-size);
+  ",
+          "}",
+          " ",
+          [Function],
+          "}}",
+        ],
+      },
+      "displayName": "styles__Value",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Value-p79a2y-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  prefix="pr"
+/>
+`;
+
+exports[`Test for BarDisplay style Components Value should render correctly with theme 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Value-p79a2y-2",
+        "isStatic": false,
+        "rules": Array [
+          "--default-font-size:",
+          [Function],
+          ";font-family:Roboto;line-height:0.8em;font-size:var(--default-font-size);font-weight:bold;color:",
+          [Function],
+          ";transition:all 100ms linear;position:relative;margin-left:",
+          [Function],
+          ";margin-bottom:10px;box-sizing:border-box;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    --default-font-size: ",
+          [Function],
+          ";
+    font-size: var(--default-font-size);
+  ",
+          "}",
+          " ",
+          [Function],
+          "}}",
+        ],
+      },
+      "displayName": "styles__Value",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Value-p79a2y-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  theme={
+    Object {
+      "barDisplay": Object {
+        "bar": "#ccc",
+        "title": "#bbb",
+        "value": "#aaa",
+      },
+    }
+  }
+/>
+`;
+
+exports[`Test for BarDisplay style Components Value should render correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Value-p79a2y-2",
+        "isStatic": false,
+        "rules": Array [
+          "--default-font-size:",
+          [Function],
+          ";font-family:Roboto;line-height:0.8em;font-size:var(--default-font-size);font-weight:bold;color:",
+          [Function],
+          ";transition:all 100ms linear;position:relative;margin-left:",
+          [Function],
+          ";margin-bottom:10px;box-sizing:border-box;",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    --default-font-size: ",
+          [Function],
+          ";
+    font-size: var(--default-font-size);
+  ",
+          "}",
+          " ",
+          [Function],
+          "}}",
+        ],
+      },
+      "displayName": "styles__Value",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Value-p79a2y-2",
+      "target": [Function],
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for BarDisplay style Components should render BarSectors correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__BarSectors-p79a2y-5",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;justify-content:flex-start;align-items:center;width:100%;height:100%;position:absolute;z-index:2;top:0;left:0;right:0;bottom:0px;",
+        ],
+      },
+      "displayName": "styles__BarSectors",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__BarSectors-p79a2y-5",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for BarDisplay style Components should render BarShadows correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__BarShadows-p79a2y-6",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;justify-content:flex-start;align-items:center;width:100%;height:100%;position:absolute;z-index:1;top:0;left:0;right:0;bottom:0px;",
+        ],
+      },
+      "displayName": "styles__BarShadows",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__BarShadows-p79a2y-6",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Test for BarDisplay style Components should render Container correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__Container-p79a2y-1",
+        "isStatic": false,
+        "rules": Array [
+          "display:inline-flex;flex-direction:column;justify-content:center;align-items:center;margin:25px;box-sizing:border-box;& > ",
+          ".styles__Title-p79a2y-0",
+          ":nth-child(1){display:none;}& > ",
+          ".styles__Title-p79a2y-0",
+          ":nth-child(3){display:inline-block;}",
+          "@media (min-width:",
+          "992px",
+          "){",
+          "
+    width: 100%;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 15px 42px 0px 42px;
+
+    & > ",
+          ".styles__Title-p79a2y-0",
+          ":nth-child(1) {
+      display: inline-block;
+    }
+    &  > ",
+          ".styles__Title-p79a2y-0",
+          ":nth-child(3) {
+      display: none;
+    }
+  ",
+          "}",
+        ],
+      },
+      "displayName": "styles__Container",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__Container-p79a2y-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

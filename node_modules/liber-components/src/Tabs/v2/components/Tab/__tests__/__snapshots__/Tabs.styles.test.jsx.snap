@@ -1,0 +1,302 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing SimpleTab Styles Controled styles TabContent should renders correctly with active=false 1`] = `
+<StyledComponent
+  active={false}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tabsstyles__TabContent-sc-1vor55y-2",
+        "isStatic": false,
+        "rules": Array [
+          "flex-shrink:0;width:100%;transition:opacity 0.45s;",
+          [Function],
+          ";color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Tabsstyles__TabContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Tabsstyles__TabContent-sc-1vor55y-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SimpleTab Styles Controled styles TabContent should renders correctly with activetrue 1`] = `
+<StyledComponent
+  active={true}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tabsstyles__TabContent-sc-1vor55y-2",
+        "isStatic": false,
+        "rules": Array [
+          "flex-shrink:0;width:100%;transition:opacity 0.45s;",
+          [Function],
+          ";color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Tabsstyles__TabContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Tabsstyles__TabContent-sc-1vor55y-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SimpleTab Styles Controled styles TabContent should renders correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tabsstyles__TabContent-sc-1vor55y-2",
+        "isStatic": false,
+        "rules": Array [
+          "flex-shrink:0;width:100%;transition:opacity 0.45s;",
+          [Function],
+          ";color:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Tabsstyles__TabContent",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Tabsstyles__TabContent-sc-1vor55y-2",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SimpleTab Styles Controled styles TabContentDisplay should renders correctly with active=0 1`] = `
+<StyledComponent
+  active={0}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tabsstyles__TabContentDisplay-sc-1vor55y-1",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;transition:margin-left 450ms cubic-bezier(0.23,1,0.32,1) 0ms;will-change:margin-left;margin-left:",
+          [Function],
+          ";flex-direction:row;width:100%;",
+        ],
+      },
+      "displayName": "Tabsstyles__TabContentDisplay",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Tabsstyles__TabContentDisplay-sc-1vor55y-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SimpleTab Styles Controled styles TabContentDisplay should renders correctly with active=1 1`] = `
+<StyledComponent
+  active={0}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tabsstyles__TabContentDisplay-sc-1vor55y-1",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;transition:margin-left 450ms cubic-bezier(0.23,1,0.32,1) 0ms;will-change:margin-left;margin-left:",
+          [Function],
+          ";flex-direction:row;width:100%;",
+        ],
+      },
+      "displayName": "Tabsstyles__TabContentDisplay",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Tabsstyles__TabContentDisplay-sc-1vor55y-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SimpleTab Styles Controled styles TabContentDisplay should renders correctly with active=10 1`] = `
+<StyledComponent
+  active={0}
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tabsstyles__TabContentDisplay-sc-1vor55y-1",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;transition:margin-left 450ms cubic-bezier(0.23,1,0.32,1) 0ms;will-change:margin-left;margin-left:",
+          [Function],
+          ";flex-direction:row;width:100%;",
+        ],
+      },
+      "displayName": "Tabsstyles__TabContentDisplay",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Tabsstyles__TabContentDisplay-sc-1vor55y-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SimpleTab Styles Controled styles TabContentDisplay should renders correctly without props 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tabsstyles__TabContentDisplay-sc-1vor55y-1",
+        "isStatic": false,
+        "rules": Array [
+          "display:flex;transition:margin-left 450ms cubic-bezier(0.23,1,0.32,1) 0ms;will-change:margin-left;margin-left:",
+          [Function],
+          ";flex-direction:row;width:100%;",
+        ],
+      },
+      "displayName": "Tabsstyles__TabContentDisplay",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Tabsstyles__TabContentDisplay-sc-1vor55y-1",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SimpleTab Styles Uncontroled Styles renders HeaderContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tabsstyles__HeaderContainer-sc-1vor55y-3",
+        "isStatic": false,
+        "rules": Array [
+          "position:relative;",
+        ],
+      },
+      "displayName": "Tabsstyles__HeaderContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Tabsstyles__HeaderContainer-sc-1vor55y-3",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SimpleTab Styles Uncontroled Styles renders Slider correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [
+        [Function],
+      ],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tabsstyles__Slider-sc-1vor55y-4",
+        "isStatic": false,
+        "rules": Array [
+          "position:absolute;width:var(--slider-size);height:0px;border-bottom:2px solid ",
+          [Function],
+          ";left:var(--slider-position);bottom:0px;transition:left 450ms cubic-bezier(0.23,1,0.32,1) 0ms,width 450ms cubic-bezier(0.23,1,0.32,1) 0ms;will-change:left,width;",
+        ],
+      },
+      "displayName": "Tabsstyles__Slider",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Tabsstyles__Slider-sc-1vor55y-4",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`Testing SimpleTab Styles Uncontroled Styles renders TabContainer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "Tabsstyles__TabContainer-sc-1vor55y-0",
+        "isStatic": false,
+        "rules": Array [
+          "width:100%;display:flex;flex-direction:column;overflow:",
+          [Function],
+          ";",
+        ],
+      },
+      "displayName": "Tabsstyles__TabContainer",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "Tabsstyles__TabContainer-sc-1vor55y-0",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

@@ -1,0 +1,240 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for SimpleDropDown Component controlled should close on props.open change to false 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <div>
+    <SimpleDropDownstyles__CurrentBox
+      autoPosition={true}
+      position="bottom-left-down-right"
+      window={[Window]}
+    >
+      label
+    </SimpleDropDownstyles__CurrentBox>
+  </div>
+  <SimpleDropDownstyles__DropDownContent
+    containerSize={false}
+    hasLabel={true}
+    open={false}
+    position={
+      Array [
+        "bottom",
+        "left",
+        "down",
+        "right",
+      ]
+    }
+  >
+    content
+  </SimpleDropDownstyles__DropDownContent>
+</ClickOutside>
+`;
+
+exports[`Test for SimpleDropDown Component controlled should open on props.open change to true 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <div>
+    <SimpleDropDownstyles__CurrentBox
+      autoPosition={true}
+      position="bottom-left-down-right"
+      window={[Window]}
+    >
+      label
+    </SimpleDropDownstyles__CurrentBox>
+  </div>
+  <SimpleDropDownstyles__DropDownContent
+    containerSize={false}
+    hasLabel={true}
+    open={true}
+    position={
+      Array [
+        "bottom",
+        "left",
+        "down",
+        "right",
+      ]
+    }
+  >
+    content
+  </SimpleDropDownstyles__DropDownContent>
+</ClickOutside>
+`;
+
+exports[`Test for SimpleDropDown Component controlled should render correctly with props 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <div>
+    <SimpleDropDownstyles__CurrentBox
+      autoPosition={true}
+      position="bottom-left-down-right"
+      window={[Window]}
+    >
+      label
+    </SimpleDropDownstyles__CurrentBox>
+  </div>
+  <SimpleDropDownstyles__DropDownContent
+    containerSize={false}
+    hasLabel={true}
+    open={false}
+    position={
+      Array [
+        "bottom",
+        "left",
+        "down",
+        "right",
+      ]
+    }
+  >
+    content
+  </SimpleDropDownstyles__DropDownContent>
+</ClickOutside>
+`;
+
+exports[`Test for SimpleDropDown Component should render conrrectly without props 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <div>
+    <SimpleDropDownstyles__CurrentBox
+      autoPosition={true}
+      onClick={[Function]}
+      position="bottom-left-down-right"
+      window={[Window]}
+    />
+  </div>
+  <SimpleDropDownstyles__DropDownContent
+    containerSize={false}
+    hasLabel={false}
+    open={false}
+    position={
+      Array [
+        "bottom",
+        "left",
+        "down",
+        "right",
+      ]
+    }
+  />
+</ClickOutside>
+`;
+
+exports[`Test for SimpleDropDown Component uncontrolled should open on box click 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <div>
+    <SimpleDropDownstyles__CurrentBox
+      autoPosition={true}
+      onClick={[Function]}
+      position="bottom-left-down-right"
+      window={[Window]}
+    >
+      label
+    </SimpleDropDownstyles__CurrentBox>
+  </div>
+  <SimpleDropDownstyles__DropDownContent
+    containerSize={false}
+    hasLabel={true}
+    open={true}
+    position={
+      Array [
+        "bottom",
+        "left",
+        "down",
+        "right",
+      ]
+    }
+  >
+    content
+  </SimpleDropDownstyles__DropDownContent>
+</ClickOutside>
+`;
+
+exports[`Test for SimpleDropDown Component uncontrolled should open on buttonclick 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <div>
+    <Buttons__Button
+      onClick={[Function]}
+    />
+  </div>
+  <SimpleDropDownstyles__DropDownContent
+    containerSize={false}
+    hasLabel={true}
+    open={true}
+    position={
+      Array [
+        "bottom",
+        "left",
+        "down",
+        "right",
+      ]
+    }
+  >
+    content
+  </SimpleDropDownstyles__DropDownContent>
+</ClickOutside>
+`;
+
+exports[`Test for SimpleDropDown Component uncontrolled should render correctly with customButton 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <div>
+    <Buttons__Button
+      onClick={[Function]}
+    />
+  </div>
+  <SimpleDropDownstyles__DropDownContent
+    containerSize={false}
+    hasLabel={true}
+    open={false}
+    position={
+      Array [
+        "bottom",
+        "left",
+        "down",
+        "right",
+      ]
+    }
+  >
+    content
+  </SimpleDropDownstyles__DropDownContent>
+</ClickOutside>
+`;
+
+exports[`Test for SimpleDropDown Component uncontrolled should render correctly with props 1`] = `
+<ClickOutside
+  onOutsideClick={[Function]}
+>
+  <div>
+    <SimpleDropDownstyles__CurrentBox
+      autoPosition={true}
+      onClick={[Function]}
+      position="bottom-left-down-right"
+      window={[Window]}
+    >
+      label
+    </SimpleDropDownstyles__CurrentBox>
+  </div>
+  <SimpleDropDownstyles__DropDownContent
+    containerSize={false}
+    hasLabel={true}
+    open={false}
+    position={
+      Array [
+        "bottom",
+        "left",
+        "down",
+        "right",
+      ]
+    }
+  >
+    content
+  </SimpleDropDownstyles__DropDownContent>
+</ClickOutside>
+`;

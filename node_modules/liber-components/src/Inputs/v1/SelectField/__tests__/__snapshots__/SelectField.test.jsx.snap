@@ -1,0 +1,2203 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing SelectField Component Searchable should normalize options when searching 1`] = `
+.c0 {
+  display: block;
+  position: relative;
+  padding-top: 12px;
+  width: 256px;
+  outline: none;
+  pointer-events: auto;
+  opacity: 1;
+}
+
+.c0 * {
+  background-color: transparent;
+  border: none;
+  color: #4e4e4e;
+  line-height: 24px;
+  font-family: 'Roboto',sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: left;
+}
+
+.c6 {
+  position: relative;
+  z-index: 4;
+  background: #009DFF;
+  box-sizing: content-box;
+  margin: 0px;
+  height: 2px;
+  width: 100%;
+  -webkit-transform: translateY(-2px) scaleX(1);
+  -ms-transform: translateY(-2px) scaleX(1);
+  transform: translateY(-2px) scaleX(1);
+  -webkit-transition: all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;
+  transition: all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;
+}
+
+.c7 {
+  width: auto;
+  text-align: left;
+  padding: 4px 0px;
+  color: transparent;
+  font-size: 12px;
+  line-height: 12px;
+  -webkit-transition: all 200ms cubic-bezier(0.645,0.045,0.355,1);
+  transition: all 200ms cubic-bezier(0.645,0.045,0.355,1);
+}
+
+.c7:before {
+  content: '';
+}
+
+.c4 {
+  position: absolute;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  height: 35px;
+  width: 35px;
+  top: calc(50% - 18px);
+  right: 4px;
+  pointer-events: none;
+}
+
+.c4:before {
+  content: '';
+  position: absolute;
+  display: block;
+  height: 35px;
+  width: 35px;
+  background: transparent;
+  border-radius: 50%;
+  -webkit-transform: scale(0);
+  -ms-transform: scale(0);
+  transform: scale(0);
+  -webkit-transition: all 200ms cubic-bezier(0.645,0.045,0.355,1);
+  transition: all 200ms cubic-bezier(0.645,0.045,0.355,1);
+}
+
+.c4:after {
+  content: '';
+  width: 0;
+  height: 0;
+  padding: 0;
+  border-left: 5.5px solid transparent;
+  border-right: 5.5px solid transparent;
+  border-top: 6px solid #a4a4a4;
+  -webkit-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+  -webkit-transition: all 100ms cubic-bezier(0.645,0.045,0.355,1);
+  transition: all 100ms cubic-bezier(0.645,0.045,0.355,1);
+}
+
+.c1 {
+  position: absolute;
+  text-align: left;
+  font-size: 12px;
+  color: #4b6f85;
+  top: 0px;
+  -webkit-transition: all 200ms cubic-bezier(0.645,0.045,0.355,1);
+  transition: all 200ms cubic-bezier(0.645,0.045,0.355,1);
+  pointer-events: none;
+  width: inherit;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c5 {
+  padding: 8px 0px;
+  border-bottom: 2px solid #C6D1D8;
+  box-shadow: none;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.c5:focus {
+  outline: 0;
+}
+
+.c5::-moz-focus-inner {
+  border: 0;
+}
+
+.c5::-webkit-input-placeholder {
+  color: transparent;
+}
+
+.c5::-moz-placeholder {
+  color: transparent;
+}
+
+.c5:-ms-input-placeholder {
+  color: transparent;
+}
+
+.c5::placeholder {
+  color: transparent;
+}
+
+.c5:-webkit-autofill,
+.c5:-webkit-autofill:hover,
+.c5:-webkit-autofill:focus,
+.c5:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0px 1000px #fff inset !important;
+  -webkit-transition: background-color 99999s ease-in-out 0s;
+  transition: background-color 99999s ease-in-out 0s;
+}
+
+.c2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  background-color: #fafafa !important;
+  box-shadow: 0 2px 6px 0 rgba(0,0,0,0.1);
+  z-index: 5;
+  padding: 0px;
+  margin: 0px;
+  list-style-type: none;
+  overflow-y: auto;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-transform-origin: top;
+  -ms-transform-origin: top;
+  transform-origin: top;
+  opacity: 1;
+  -webkit-transform: scaleY(1);
+  -ms-transform: scaleY(1);
+  transform: scaleY(1);
+  top: 42px;
+}
+
+.c2:focus {
+  outline: 0;
+}
+
+.c2::-moz-focus-inner {
+  border: 0;
+}
+
+.c3 {
+  line-height: 23.333333333333332px;
+  text-align: left;
+  padding: 8px 10px;
+  box-sizing: border-box;
+  vertical-align: middle;
+  cursor: pointer;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  background-color: #009DFF;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  font-weight: 500;
+  pointer-events: all;
+}
+
+.c3 div {
+  color: #ffffff !important;
+}
+
+.c3 div > span {
+  color: #ffffff;
+}
+
+<SelectField
+  disabled={false}
+  errorMessage=""
+  fullWidth={false}
+  id=""
+  label="Selecione um item"
+  labelOpened=""
+  name=""
+  onChange={[Function]}
+  searchable={true}
+  width="256px"
+>
+  <Basestyles__InputBase
+    disabled={false}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    tabIndex="0"
+    width="256px"
+  >
+    <StyledComponent
+      disabled={false}
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "Basestyles__InputBase-sc-1qxhan1-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "display:block;position:relative;padding-top:12px;width:",
+              [Function],
+              ";outline:none;pointer-events:",
+              [Function],
+              ";opacity:",
+              [Function],
+              ";*{background-color:transparent;border:none;color:",
+              [Function],
+              ";line-height:24px;font-family:'Roboto',sans-serif;font-size:16px;font-weight:400;text-align:left;}",
+            ],
+          },
+          "displayName": "Basestyles__InputBase",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "Basestyles__InputBase-sc-1qxhan1-0",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      tabIndex="0"
+      width="256px"
+    >
+      <div
+        className="c0"
+        disabled={false}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        tabIndex="0"
+        width="256px"
+      >
+        <ClickOutside
+          onOutsideClick={[Function]}
+        >
+          <div>
+            <Basestyles__InputLabel
+              error={false}
+              focused={true}
+              valid={true}
+            >
+              <StyledComponent
+                error={false}
+                focused={true}
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "Basestyles__InputLabel-sc-1qxhan1-4",
+                      "isStatic": false,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "position:absolute;text-align:left;font-size:",
+                        [Function],
+                        ";color:",
+                        [Function],
+                        ";top:",
+                        [Function],
+                        ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;width:inherit;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;user-select:none;",
+                      ],
+                    },
+                    "displayName": "Basestyles__InputLabel",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "Basestyles__InputLabel-sc-1qxhan1-4",
+                    "target": "label",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                valid={true}
+              >
+                <label
+                  className="c1"
+                >
+                  Selecione um item
+                </label>
+              </StyledComponent>
+            </Basestyles__InputLabel>
+            <div
+              style={
+                Object {
+                  "position": "relative",
+                }
+              }
+            >
+              <SelectOptionList
+                id="scroll-container-47"
+                isOpen={true}
+                itemFocused={0}
+                optionLabel=""
+                rowRenderer={[Function]}
+                searchable={true}
+              >
+                <AutoSizer
+                  disableHeight={false}
+                  disableWidth={false}
+                  onResize={[Function]}
+                  style={Object {}}
+                >
+                  <div
+                    style={
+                      Object {
+                        "height": 0,
+                        "overflow": "visible",
+                        "width": 0,
+                      }
+                    }
+                  >
+                    <SelectFieldstyles__SearchableOptionList
+                      height={35}
+                      id="scroll-container-47"
+                      itemFocused={0}
+                      list={
+                        Array [
+                          <option
+                            value="2"
+                          >
+                            AAC
+                          </option>,
+                        ]
+                      }
+                      open={true}
+                      optionLabel=""
+                      rowCount={1}
+                      rowHeight={35}
+                      rowRenderer={[Function]}
+                      scrollToIndex={0}
+                      tabIndex={-1}
+                      width={300}
+                    >
+                      <StyledComponent
+                        forwardedComponent={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": Array [],
+                            "componentStyle": ComponentStyle {
+                              "componentId": "SelectFieldstyles__SearchableOptionList-sc-1fxzu3t-2",
+                              "isStatic": false,
+                              "lastClassName": "c2",
+                              "rules": Array [
+                                "position:absolute;top:0px;left:0px;width:100%;background-color:#fafafa !important;box-shadow:0 2px 6px 0 rgba(0,0,0,0.1);z-index:5;padding:0px;margin:0px;list-style-type:none;overflow-y:auto;user-select:none;transform-origin:top;",
+                                " ",
+                                [Function],
+                                " &:focus{outline:0;}&::-moz-focus-inner{border:0;}",
+                                "top:42px;",
+                              ],
+                            },
+                            "displayName": "SelectFieldstyles__SearchableOptionList",
+                            "foldedComponentIds": Array [
+                              "SelectFieldstyles__OptionList-sc-1fxzu3t-1",
+                            ],
+                            "render": [Function],
+                            "styledComponentId": "SelectFieldstyles__SearchableOptionList-sc-1fxzu3t-2",
+                            "target": [Function],
+                            "toString": [Function],
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={null}
+                        height={35}
+                        id="scroll-container-47"
+                        itemFocused={0}
+                        list={
+                          Array [
+                            <option
+                              value="2"
+                            >
+                              AAC
+                            </option>,
+                          ]
+                        }
+                        open={true}
+                        optionLabel=""
+                        rowCount={1}
+                        rowHeight={35}
+                        rowRenderer={[Function]}
+                        scrollToIndex={0}
+                        tabIndex={-1}
+                        width={300}
+                      >
+                        <List
+                          autoHeight={false}
+                          className="c2"
+                          estimatedRowSize={30}
+                          height={35}
+                          id="scroll-container-47"
+                          itemFocused={0}
+                          list={
+                            Array [
+                              <option
+                                value="2"
+                              >
+                                AAC
+                              </option>,
+                            ]
+                          }
+                          noRowsRenderer={[Function]}
+                          onRowsRendered={[Function]}
+                          onScroll={[Function]}
+                          open={true}
+                          optionLabel=""
+                          overscanIndicesGetter={[Function]}
+                          overscanRowCount={10}
+                          rowCount={1}
+                          rowHeight={35}
+                          rowRenderer={[Function]}
+                          scrollToAlignment="auto"
+                          scrollToIndex={0}
+                          style={Object {}}
+                          tabIndex={-1}
+                          width={300}
+                        >
+                          <Grid
+                            aria-label="grid"
+                            aria-readonly={true}
+                            autoContainerWidth={true}
+                            autoHeight={false}
+                            autoWidth={false}
+                            cellRangeRenderer={[Function]}
+                            cellRenderer={[Function]}
+                            className="ReactVirtualized__List c2"
+                            columnCount={1}
+                            columnWidth={300}
+                            containerRole="rowgroup"
+                            containerStyle={Object {}}
+                            estimatedColumnSize={100}
+                            estimatedRowSize={30}
+                            getScrollbarSize={[Function]}
+                            height={35}
+                            id="scroll-container-47"
+                            isScrollingOptOut={false}
+                            itemFocused={0}
+                            list={
+                              Array [
+                                <option
+                                  value="2"
+                                >
+                                  AAC
+                                </option>,
+                              ]
+                            }
+                            noContentRenderer={[Function]}
+                            noRowsRenderer={[Function]}
+                            onRowsRendered={[Function]}
+                            onScroll={[Function]}
+                            onScrollbarPresenceChange={[Function]}
+                            onSectionRendered={[Function]}
+                            open={true}
+                            optionLabel=""
+                            overscanColumnCount={0}
+                            overscanIndicesGetter={[Function]}
+                            overscanRowCount={10}
+                            role="grid"
+                            rowCount={1}
+                            rowHeight={35}
+                            rowRenderer={[Function]}
+                            scrollToAlignment="auto"
+                            scrollToColumn={-1}
+                            scrollToIndex={0}
+                            scrollToRow={0}
+                            scrollingResetTimeInterval={150}
+                            style={Object {}}
+                            tabIndex={-1}
+                            width={300}
+                          >
+                            <div
+                              aria-label="grid"
+                              aria-readonly={true}
+                              className="ReactVirtualized__Grid ReactVirtualized__List c2"
+                              id="scroll-container-47"
+                              onScroll={[Function]}
+                              role="grid"
+                              style={
+                                Object {
+                                  "WebkitOverflowScrolling": "touch",
+                                  "boxSizing": "border-box",
+                                  "direction": "ltr",
+                                  "height": 35,
+                                  "overflowX": "hidden",
+                                  "overflowY": "hidden",
+                                  "position": "relative",
+                                  "width": 300,
+                                  "willChange": "transform",
+                                }
+                              }
+                              tabIndex={-1}
+                            >
+                              <div
+                                className="ReactVirtualized__Grid__innerScrollContainer"
+                                role="rowgroup"
+                                style={
+                                  Object {
+                                    "height": 35,
+                                    "maxHeight": 35,
+                                    "maxWidth": 300,
+                                    "overflow": "hidden",
+                                    "pointerEvents": "",
+                                    "position": "relative",
+                                    "width": "auto",
+                                  }
+                                }
+                              >
+                                <SelectFieldstyles__SelectItem
+                                  focused={true}
+                                  id="test"
+                                  key="0-0"
+                                  onClick={[Function]}
+                                  onMouseLeave={[Function]}
+                                  onMouseMove={[Function]}
+                                  selected={false}
+                                  style={
+                                    Object {
+                                      "height": 35,
+                                      "left": 0,
+                                      "position": "absolute",
+                                      "top": 0,
+                                      "width": "100%",
+                                    }
+                                  }
+                                  value="2"
+                                >
+                                  <StyledComponent
+                                    focused={true}
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "SelectFieldstyles__SelectItem-sc-1fxzu3t-3",
+                                          "isStatic": false,
+                                          "lastClassName": "c3",
+                                          "rules": Array [
+                                            "line-height:",
+                                            "23.333333333333332",
+                                            "px;text-align:left;padding:8px 10px;box-sizing:border-box;vertical-align:middle;cursor:pointer;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:",
+                                            [Function],
+                                            ";user-select:none;font-weight:500;pointer-events:",
+                                            [Function],
+                                            ";& div{color:",
+                                            [Function],
+                                            " !important;& > span{color:",
+                                            [Function],
+                                            ";}}",
+                                          ],
+                                        },
+                                        "displayName": "SelectFieldstyles__SelectItem",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "SelectFieldstyles__SelectItem-sc-1fxzu3t-3",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                    id="test"
+                                    onClick={[Function]}
+                                    onMouseLeave={[Function]}
+                                    onMouseMove={[Function]}
+                                    selected={false}
+                                    style={
+                                      Object {
+                                        "height": 35,
+                                        "left": 0,
+                                        "position": "absolute",
+                                        "top": 0,
+                                        "width": "100%",
+                                      }
+                                    }
+                                    value="2"
+                                  >
+                                    <div
+                                      className="c3"
+                                      id="test"
+                                      onClick={[Function]}
+                                      onMouseLeave={[Function]}
+                                      onMouseMove={[Function]}
+                                      selected={false}
+                                      style={
+                                        Object {
+                                          "height": 35,
+                                          "left": 0,
+                                          "position": "absolute",
+                                          "top": 0,
+                                          "width": "100%",
+                                        }
+                                      }
+                                      value="2"
+                                    >
+                                      <div>
+                                        <span>
+                                          AAC
+                                        </span>
+                                      </div>
+                                    </div>
+                                  </StyledComponent>
+                                </SelectFieldstyles__SelectItem>
+                              </div>
+                            </div>
+                          </Grid>
+                        </List>
+                      </StyledComponent>
+                    </SelectFieldstyles__SearchableOptionList>
+                  </div>
+                </AutoSizer>
+              </SelectOptionList>
+              <div
+                style={
+                  Object {
+                    "position": "relative",
+                  }
+                }
+              >
+                <Basestyles__InputCaret
+                  focused={false}
+                  open={true}
+                >
+                  <StyledComponent
+                    focused={false}
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "Basestyles__InputCaret-sc-1qxhan1-3",
+                          "isStatic": false,
+                          "lastClassName": "c4",
+                          "rules": Array [
+                            "position:absolute;display:flex;align-items:center;justify-content:center;height:35px;width:35px;top:calc(50% - 18px);right:4px;pointer-events:none;&:before{content:'';position:absolute;display:block;height:35px;width:35px;background:",
+                            [Function],
+                            ";border-radius:50%;transform:",
+                            [Function],
+                            ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);}&:after{content:'';width:0;height:0;padding:0;border-left:5.5px solid transparent;border-right:5.5px solid transparent;border-top:6px solid ",
+                            [Function],
+                            ";transform:",
+                            [Function],
+                            ";transition:all 100ms cubic-bezier(0.645,0.045,0.355,1);}",
+                          ],
+                        },
+                        "displayName": "Basestyles__InputCaret",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "Basestyles__InputCaret-sc-1qxhan1-3",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    open={true}
+                  >
+                    <div
+                      className="c4"
+                      open={true}
+                    />
+                  </StyledComponent>
+                </Basestyles__InputCaret>
+                <Basestyles__InputText
+                  inputRef={[Function]}
+                  onChange={[Function]}
+                  tabIndex="-1"
+                  value="AAC"
+                >
+                  <StyledComponent
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "Basestyles__InputText-sc-1qxhan1-8",
+                          "isStatic": false,
+                          "lastClassName": "c5",
+                          "rules": Array [
+                            "padding:8px 0px;border-bottom:2px solid ",
+                            [Function],
+                            ";box-shadow:none;width:100%;padding-left:",
+                            [Function],
+                            ";box-sizing:border-box;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&::placeholder{color:transparent;}&:-webkit-autofill,&:-webkit-autofill:hover,&:-webkit-autofill:focus,&:-webkit-autofill:active{-webkit-box-shadow:0 0 0px 1000px #fff inset !important;transition:background-color 99999s ease-in-out 0s;}}",
+                          ],
+                        },
+                        "displayName": "Basestyles__InputText",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "Basestyles__InputText-sc-1qxhan1-8",
+                        "target": [Function],
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    inputRef={[Function]}
+                    onChange={[Function]}
+                    tabIndex="-1"
+                    value="AAC"
+                  >
+                    <InputElement
+                      className="c5"
+                      inputRef={[Function]}
+                      onChange={[Function]}
+                      tabIndex="-1"
+                      value="AAC"
+                    >
+                      <input
+                        className="c5"
+                        onBlur={[Function]}
+                        onChange={[Function]}
+                        onFocus={[Function]}
+                        tabIndex="-1"
+                        value="AAC"
+                      />
+                    </InputElement>
+                  </StyledComponent>
+                </Basestyles__InputText>
+              </div>
+              <Basestyles__InputBar
+                error={false}
+                open={true}
+              >
+                <StyledComponent
+                  error={false}
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "Basestyles__InputBar-sc-1qxhan1-1",
+                        "isStatic": false,
+                        "lastClassName": "c6",
+                        "rules": Array [
+                          "position:relative;z-index:4;background:",
+                          [Function],
+                          ";box-sizing:content-box;margin:0px;height:2px;width:100%;transform:translateY(-2px) ",
+                          [Function],
+                          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+                        ],
+                      },
+                      "displayName": "Basestyles__InputBar",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "Basestyles__InputBar-sc-1qxhan1-1",
+                      "target": "hr",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  open={true}
+                >
+                  <hr
+                    className="c6"
+                    open={true}
+                  />
+                </StyledComponent>
+              </Basestyles__InputBar>
+            </div>
+          </div>
+        </ClickOutside>
+        <Basestyles__InputError
+          visible={false}
+        >
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "Basestyles__InputError-sc-1qxhan1-2",
+                  "isStatic": false,
+                  "lastClassName": "c7",
+                  "rules": Array [
+                    "width:auto;text-align:left;padding:4px 0px;color:",
+                    [Function],
+                    ";font-size:12px;line-height:12px;transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);&:before{content:'';}",
+                  ],
+                },
+                "displayName": "Basestyles__InputError",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "Basestyles__InputError-sc-1qxhan1-2",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            visible={false}
+          >
+            <div
+              className="c7"
+            />
+          </StyledComponent>
+        </Basestyles__InputError>
+        <input
+          id=""
+          name=""
+          type="hidden"
+          value=""
+        />
+      </div>
+    </StyledComponent>
+  </Basestyles__InputBase>
+</SelectField>
+`;
+
+exports[`Testing SelectField Component Searchable should render correctly searchable 1`] = `
+<Basestyles__InputBase
+  disabled={false}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  tabIndex="0"
+  width="256px"
+>
+  <ClickOutside
+    onOutsideClick={[Function]}
+  >
+    <Basestyles__InputLabel
+      error={false}
+      focused={false}
+      valid={false}
+    >
+      Selecione um item
+    </Basestyles__InputLabel>
+    <div
+      style={
+        Object {
+          "position": "relative",
+        }
+      }
+    >
+      <SelectOptionList
+        id="scroll-container-42"
+        isOpen={false}
+        itemFocused={-1}
+        optionLabel=""
+        rowRenderer={[Function]}
+        searchable={true}
+      >
+        <option
+          key=".0"
+          value="1"
+        >
+          teste
+        </option>
+      </SelectOptionList>
+      <div
+        style={
+          Object {
+            "position": "relative",
+          }
+        }
+      >
+        <Basestyles__InputCaret
+          focused={false}
+          open={false}
+        />
+        <Basestyles__InputText
+          inputRef={[Function]}
+          onChange={[Function]}
+          tabIndex="-1"
+          value=""
+        />
+      </div>
+      <Basestyles__InputBar
+        error={false}
+        open={false}
+      />
+    </div>
+  </ClickOutside>
+  <Basestyles__InputError
+    visible={false}
+  />
+  <input
+    id=""
+    name=""
+    type="hidden"
+    value=""
+  />
+</Basestyles__InputBase>
+`;
+
+exports[`Testing SelectField Component Searchable should update options on input 1`] = `
+.c0 {
+  display: block;
+  position: relative;
+  padding-top: 12px;
+  width: 256px;
+  outline: none;
+  pointer-events: auto;
+  opacity: 1;
+}
+
+.c0 * {
+  background-color: transparent;
+  border: none;
+  color: #4e4e4e;
+  line-height: 24px;
+  font-family: 'Roboto',sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: left;
+}
+
+.c7 {
+  position: relative;
+  z-index: 4;
+  background: #009DFF;
+  box-sizing: content-box;
+  margin: 0px;
+  height: 2px;
+  width: 100%;
+  -webkit-transform: translateY(-2px) scaleX(1);
+  -ms-transform: translateY(-2px) scaleX(1);
+  transform: translateY(-2px) scaleX(1);
+  -webkit-transition: all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;
+  transition: all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;
+}
+
+.c8 {
+  width: auto;
+  text-align: left;
+  padding: 4px 0px;
+  color: transparent;
+  font-size: 12px;
+  line-height: 12px;
+  -webkit-transition: all 200ms cubic-bezier(0.645,0.045,0.355,1);
+  transition: all 200ms cubic-bezier(0.645,0.045,0.355,1);
+}
+
+.c8:before {
+  content: '';
+}
+
+.c5 {
+  position: absolute;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  height: 35px;
+  width: 35px;
+  top: calc(50% - 18px);
+  right: 4px;
+  pointer-events: none;
+}
+
+.c5:before {
+  content: '';
+  position: absolute;
+  display: block;
+  height: 35px;
+  width: 35px;
+  background: transparent;
+  border-radius: 50%;
+  -webkit-transform: scale(0);
+  -ms-transform: scale(0);
+  transform: scale(0);
+  -webkit-transition: all 200ms cubic-bezier(0.645,0.045,0.355,1);
+  transition: all 200ms cubic-bezier(0.645,0.045,0.355,1);
+}
+
+.c5:after {
+  content: '';
+  width: 0;
+  height: 0;
+  padding: 0;
+  border-left: 5.5px solid transparent;
+  border-right: 5.5px solid transparent;
+  border-top: 6px solid #a4a4a4;
+  -webkit-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+  -webkit-transition: all 100ms cubic-bezier(0.645,0.045,0.355,1);
+  transition: all 100ms cubic-bezier(0.645,0.045,0.355,1);
+}
+
+.c1 {
+  position: absolute;
+  text-align: left;
+  font-size: 12px;
+  color: #4b6f85;
+  top: 0px;
+  -webkit-transition: all 200ms cubic-bezier(0.645,0.045,0.355,1);
+  transition: all 200ms cubic-bezier(0.645,0.045,0.355,1);
+  pointer-events: none;
+  width: inherit;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.c6 {
+  padding: 8px 0px;
+  border-bottom: 2px solid #C6D1D8;
+  box-shadow: none;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.c6:focus {
+  outline: 0;
+}
+
+.c6::-moz-focus-inner {
+  border: 0;
+}
+
+.c6::-webkit-input-placeholder {
+  color: transparent;
+}
+
+.c6::-moz-placeholder {
+  color: transparent;
+}
+
+.c6:-ms-input-placeholder {
+  color: transparent;
+}
+
+.c6::placeholder {
+  color: transparent;
+}
+
+.c6:-webkit-autofill,
+.c6:-webkit-autofill:hover,
+.c6:-webkit-autofill:focus,
+.c6:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0px 1000px #fff inset !important;
+  -webkit-transition: background-color 99999s ease-in-out 0s;
+  transition: background-color 99999s ease-in-out 0s;
+}
+
+.c2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  background-color: #fafafa !important;
+  box-shadow: 0 2px 6px 0 rgba(0,0,0,0.1);
+  z-index: 5;
+  padding: 0px;
+  margin: 0px;
+  list-style-type: none;
+  overflow-y: auto;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-transform-origin: top;
+  -ms-transform-origin: top;
+  transform-origin: top;
+  opacity: 1;
+  -webkit-transform: scaleY(1);
+  -ms-transform: scaleY(1);
+  transform: scaleY(1);
+  top: 42px;
+}
+
+.c2:focus {
+  outline: 0;
+}
+
+.c2::-moz-focus-inner {
+  border: 0;
+}
+
+.c4 {
+  line-height: 23.333333333333332px;
+  text-align: left;
+  padding: 8px 10px;
+  box-sizing: border-box;
+  vertical-align: middle;
+  cursor: pointer;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  background-color: #fafafa;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  font-weight: 500;
+  pointer-events: all;
+}
+
+.c4 div {
+  color: #a4a4a4 !important;
+}
+
+.c4 div > span {
+  color: #009DFF;
+}
+
+.c3 {
+  line-height: 23.333333333333332px;
+  text-align: left;
+  padding: 8px 10px;
+  box-sizing: border-box;
+  vertical-align: middle;
+  cursor: pointer;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  background-color: #009DFF;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  font-weight: 500;
+  pointer-events: all;
+}
+
+.c3 div {
+  color: #ffffff !important;
+}
+
+.c3 div > span {
+  color: #ffffff;
+}
+
+<SelectField
+  disabled={false}
+  errorMessage=""
+  fullWidth={false}
+  id=""
+  label="Selecione um item"
+  labelOpened=""
+  name=""
+  onChange={[Function]}
+  searchable={true}
+  width="256px"
+>
+  <Basestyles__InputBase
+    disabled={false}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    tabIndex="0"
+    width="256px"
+  >
+    <StyledComponent
+      disabled={false}
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "Basestyles__InputBase-sc-1qxhan1-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "display:block;position:relative;padding-top:12px;width:",
+              [Function],
+              ";outline:none;pointer-events:",
+              [Function],
+              ";opacity:",
+              [Function],
+              ";*{background-color:transparent;border:none;color:",
+              [Function],
+              ";line-height:24px;font-family:'Roboto',sans-serif;font-size:16px;font-weight:400;text-align:left;}",
+            ],
+          },
+          "displayName": "Basestyles__InputBase",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "Basestyles__InputBase-sc-1qxhan1-0",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      tabIndex="0"
+      width="256px"
+    >
+      <div
+        className="c0"
+        disabled={false}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        tabIndex="0"
+        width="256px"
+      >
+        <ClickOutside
+          onOutsideClick={[Function]}
+        >
+          <div>
+            <Basestyles__InputLabel
+              error={false}
+              focused={true}
+              valid={true}
+            >
+              <StyledComponent
+                error={false}
+                focused={true}
+                forwardedComponent={
+                  Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "attrs": Array [],
+                    "componentStyle": ComponentStyle {
+                      "componentId": "Basestyles__InputLabel-sc-1qxhan1-4",
+                      "isStatic": false,
+                      "lastClassName": "c1",
+                      "rules": Array [
+                        "position:absolute;text-align:left;font-size:",
+                        [Function],
+                        ";color:",
+                        [Function],
+                        ";top:",
+                        [Function],
+                        ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);pointer-events:none;width:inherit;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;user-select:none;",
+                      ],
+                    },
+                    "displayName": "Basestyles__InputLabel",
+                    "foldedComponentIds": Array [],
+                    "render": [Function],
+                    "styledComponentId": "Basestyles__InputLabel-sc-1qxhan1-4",
+                    "target": "label",
+                    "toString": [Function],
+                    "warnTooManyClasses": [Function],
+                    "withComponent": [Function],
+                  }
+                }
+                forwardedRef={null}
+                valid={true}
+              >
+                <label
+                  className="c1"
+                >
+                  Selecione um item
+                </label>
+              </StyledComponent>
+            </Basestyles__InputLabel>
+            <div
+              style={
+                Object {
+                  "position": "relative",
+                }
+              }
+            >
+              <SelectOptionList
+                id="scroll-container-46"
+                isOpen={true}
+                itemFocused={0}
+                optionLabel=""
+                rowRenderer={[Function]}
+                searchable={true}
+              >
+                <AutoSizer
+                  disableHeight={false}
+                  disableWidth={false}
+                  onResize={[Function]}
+                  style={Object {}}
+                >
+                  <div
+                    style={
+                      Object {
+                        "height": 0,
+                        "overflow": "visible",
+                        "width": 0,
+                      }
+                    }
+                  >
+                    <SelectFieldstyles__SearchableOptionList
+                      height={70}
+                      id="scroll-container-46"
+                      itemFocused={0}
+                      list={
+                        Array [
+                          <option
+                            value="3"
+                          >
+                            BBC
+                          </option>,
+                          <option
+                            value="1"
+                          >
+                            ABC
+                          </option>,
+                        ]
+                      }
+                      open={true}
+                      optionLabel=""
+                      rowCount={2}
+                      rowHeight={35}
+                      rowRenderer={[Function]}
+                      scrollToIndex={0}
+                      tabIndex={-1}
+                      width={300}
+                    >
+                      <StyledComponent
+                        forwardedComponent={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": Array [],
+                            "componentStyle": ComponentStyle {
+                              "componentId": "SelectFieldstyles__SearchableOptionList-sc-1fxzu3t-2",
+                              "isStatic": false,
+                              "lastClassName": "c2",
+                              "rules": Array [
+                                "position:absolute;top:0px;left:0px;width:100%;background-color:#fafafa !important;box-shadow:0 2px 6px 0 rgba(0,0,0,0.1);z-index:5;padding:0px;margin:0px;list-style-type:none;overflow-y:auto;user-select:none;transform-origin:top;",
+                                " ",
+                                [Function],
+                                " &:focus{outline:0;}&::-moz-focus-inner{border:0;}",
+                                "top:42px;",
+                              ],
+                            },
+                            "displayName": "SelectFieldstyles__SearchableOptionList",
+                            "foldedComponentIds": Array [
+                              "SelectFieldstyles__OptionList-sc-1fxzu3t-1",
+                            ],
+                            "render": [Function],
+                            "styledComponentId": "SelectFieldstyles__SearchableOptionList-sc-1fxzu3t-2",
+                            "target": [Function],
+                            "toString": [Function],
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={null}
+                        height={70}
+                        id="scroll-container-46"
+                        itemFocused={0}
+                        list={
+                          Array [
+                            <option
+                              value="3"
+                            >
+                              BBC
+                            </option>,
+                            <option
+                              value="1"
+                            >
+                              ABC
+                            </option>,
+                          ]
+                        }
+                        open={true}
+                        optionLabel=""
+                        rowCount={2}
+                        rowHeight={35}
+                        rowRenderer={[Function]}
+                        scrollToIndex={0}
+                        tabIndex={-1}
+                        width={300}
+                      >
+                        <List
+                          autoHeight={false}
+                          className="c2"
+                          estimatedRowSize={30}
+                          height={70}
+                          id="scroll-container-46"
+                          itemFocused={0}
+                          list={
+                            Array [
+                              <option
+                                value="3"
+                              >
+                                BBC
+                              </option>,
+                              <option
+                                value="1"
+                              >
+                                ABC
+                              </option>,
+                            ]
+                          }
+                          noRowsRenderer={[Function]}
+                          onRowsRendered={[Function]}
+                          onScroll={[Function]}
+                          open={true}
+                          optionLabel=""
+                          overscanIndicesGetter={[Function]}
+                          overscanRowCount={10}
+                          rowCount={2}
+                          rowHeight={35}
+                          rowRenderer={[Function]}
+                          scrollToAlignment="auto"
+                          scrollToIndex={0}
+                          style={Object {}}
+                          tabIndex={-1}
+                          width={300}
+                        >
+                          <Grid
+                            aria-label="grid"
+                            aria-readonly={true}
+                            autoContainerWidth={true}
+                            autoHeight={false}
+                            autoWidth={false}
+                            cellRangeRenderer={[Function]}
+                            cellRenderer={[Function]}
+                            className="ReactVirtualized__List c2"
+                            columnCount={1}
+                            columnWidth={300}
+                            containerRole="rowgroup"
+                            containerStyle={Object {}}
+                            estimatedColumnSize={100}
+                            estimatedRowSize={30}
+                            getScrollbarSize={[Function]}
+                            height={70}
+                            id="scroll-container-46"
+                            isScrollingOptOut={false}
+                            itemFocused={0}
+                            list={
+                              Array [
+                                <option
+                                  value="3"
+                                >
+                                  BBC
+                                </option>,
+                                <option
+                                  value="1"
+                                >
+                                  ABC
+                                </option>,
+                              ]
+                            }
+                            noContentRenderer={[Function]}
+                            noRowsRenderer={[Function]}
+                            onRowsRendered={[Function]}
+                            onScroll={[Function]}
+                            onScrollbarPresenceChange={[Function]}
+                            onSectionRendered={[Function]}
+                            open={true}
+                            optionLabel=""
+                            overscanColumnCount={0}
+                            overscanIndicesGetter={[Function]}
+                            overscanRowCount={10}
+                            role="grid"
+                            rowCount={2}
+                            rowHeight={35}
+                            rowRenderer={[Function]}
+                            scrollToAlignment="auto"
+                            scrollToColumn={-1}
+                            scrollToIndex={0}
+                            scrollToRow={0}
+                            scrollingResetTimeInterval={150}
+                            style={Object {}}
+                            tabIndex={-1}
+                            width={300}
+                          >
+                            <div
+                              aria-label="grid"
+                              aria-readonly={true}
+                              className="ReactVirtualized__Grid ReactVirtualized__List c2"
+                              id="scroll-container-46"
+                              onScroll={[Function]}
+                              role="grid"
+                              style={
+                                Object {
+                                  "WebkitOverflowScrolling": "touch",
+                                  "boxSizing": "border-box",
+                                  "direction": "ltr",
+                                  "height": 70,
+                                  "overflowX": "hidden",
+                                  "overflowY": "hidden",
+                                  "position": "relative",
+                                  "width": 300,
+                                  "willChange": "transform",
+                                }
+                              }
+                              tabIndex={-1}
+                            >
+                              <div
+                                className="ReactVirtualized__Grid__innerScrollContainer"
+                                role="rowgroup"
+                                style={
+                                  Object {
+                                    "height": 70,
+                                    "maxHeight": 70,
+                                    "maxWidth": 300,
+                                    "overflow": "hidden",
+                                    "pointerEvents": "",
+                                    "position": "relative",
+                                    "width": "auto",
+                                  }
+                                }
+                              >
+                                <SelectFieldstyles__SelectItem
+                                  focused={true}
+                                  id="test"
+                                  key="0-0"
+                                  onClick={[Function]}
+                                  onMouseLeave={[Function]}
+                                  onMouseMove={[Function]}
+                                  selected={false}
+                                  style={
+                                    Object {
+                                      "height": 35,
+                                      "left": 0,
+                                      "position": "absolute",
+                                      "top": 0,
+                                      "width": "100%",
+                                    }
+                                  }
+                                  value="3"
+                                >
+                                  <StyledComponent
+                                    focused={true}
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "SelectFieldstyles__SelectItem-sc-1fxzu3t-3",
+                                          "isStatic": false,
+                                          "lastClassName": "c4",
+                                          "rules": Array [
+                                            "line-height:",
+                                            "23.333333333333332",
+                                            "px;text-align:left;padding:8px 10px;box-sizing:border-box;vertical-align:middle;cursor:pointer;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:",
+                                            [Function],
+                                            ";user-select:none;font-weight:500;pointer-events:",
+                                            [Function],
+                                            ";& div{color:",
+                                            [Function],
+                                            " !important;& > span{color:",
+                                            [Function],
+                                            ";}}",
+                                          ],
+                                        },
+                                        "displayName": "SelectFieldstyles__SelectItem",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "SelectFieldstyles__SelectItem-sc-1fxzu3t-3",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                    id="test"
+                                    onClick={[Function]}
+                                    onMouseLeave={[Function]}
+                                    onMouseMove={[Function]}
+                                    selected={false}
+                                    style={
+                                      Object {
+                                        "height": 35,
+                                        "left": 0,
+                                        "position": "absolute",
+                                        "top": 0,
+                                        "width": "100%",
+                                      }
+                                    }
+                                    value="3"
+                                  >
+                                    <div
+                                      className="c3"
+                                      id="test"
+                                      onClick={[Function]}
+                                      onMouseLeave={[Function]}
+                                      onMouseMove={[Function]}
+                                      selected={false}
+                                      style={
+                                        Object {
+                                          "height": 35,
+                                          "left": 0,
+                                          "position": "absolute",
+                                          "top": 0,
+                                          "width": "100%",
+                                        }
+                                      }
+                                      value="3"
+                                    >
+                                      <div>
+                                        <span>
+                                          B
+                                        </span>
+                                        BC
+                                      </div>
+                                    </div>
+                                  </StyledComponent>
+                                </SelectFieldstyles__SelectItem>
+                                <SelectFieldstyles__SelectItem
+                                  focused={false}
+                                  id="test"
+                                  key="1-0"
+                                  onClick={[Function]}
+                                  onMouseLeave={[Function]}
+                                  onMouseMove={[Function]}
+                                  selected={false}
+                                  style={
+                                    Object {
+                                      "height": 35,
+                                      "left": 0,
+                                      "position": "absolute",
+                                      "top": 35,
+                                      "width": "100%",
+                                    }
+                                  }
+                                  value="1"
+                                >
+                                  <StyledComponent
+                                    focused={false}
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "SelectFieldstyles__SelectItem-sc-1fxzu3t-3",
+                                          "isStatic": false,
+                                          "lastClassName": "c4",
+                                          "rules": Array [
+                                            "line-height:",
+                                            "23.333333333333332",
+                                            "px;text-align:left;padding:8px 10px;box-sizing:border-box;vertical-align:middle;cursor:pointer;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:",
+                                            [Function],
+                                            ";user-select:none;font-weight:500;pointer-events:",
+                                            [Function],
+                                            ";& div{color:",
+                                            [Function],
+                                            " !important;& > span{color:",
+                                            [Function],
+                                            ";}}",
+                                          ],
+                                        },
+                                        "displayName": "SelectFieldstyles__SelectItem",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "SelectFieldstyles__SelectItem-sc-1fxzu3t-3",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                    id="test"
+                                    onClick={[Function]}
+                                    onMouseLeave={[Function]}
+                                    onMouseMove={[Function]}
+                                    selected={false}
+                                    style={
+                                      Object {
+                                        "height": 35,
+                                        "left": 0,
+                                        "position": "absolute",
+                                        "top": 35,
+                                        "width": "100%",
+                                      }
+                                    }
+                                    value="1"
+                                  >
+                                    <div
+                                      className="c4"
+                                      id="test"
+                                      onClick={[Function]}
+                                      onMouseLeave={[Function]}
+                                      onMouseMove={[Function]}
+                                      selected={false}
+                                      style={
+                                        Object {
+                                          "height": 35,
+                                          "left": 0,
+                                          "position": "absolute",
+                                          "top": 35,
+                                          "width": "100%",
+                                        }
+                                      }
+                                      value="1"
+                                    >
+                                      <div>
+                                        A
+                                        <span>
+                                          B
+                                        </span>
+                                        C
+                                      </div>
+                                    </div>
+                                  </StyledComponent>
+                                </SelectFieldstyles__SelectItem>
+                              </div>
+                            </div>
+                          </Grid>
+                        </List>
+                      </StyledComponent>
+                    </SelectFieldstyles__SearchableOptionList>
+                  </div>
+                </AutoSizer>
+              </SelectOptionList>
+              <div
+                style={
+                  Object {
+                    "position": "relative",
+                  }
+                }
+              >
+                <Basestyles__InputCaret
+                  focused={false}
+                  open={true}
+                >
+                  <StyledComponent
+                    focused={false}
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "Basestyles__InputCaret-sc-1qxhan1-3",
+                          "isStatic": false,
+                          "lastClassName": "c5",
+                          "rules": Array [
+                            "position:absolute;display:flex;align-items:center;justify-content:center;height:35px;width:35px;top:calc(50% - 18px);right:4px;pointer-events:none;&:before{content:'';position:absolute;display:block;height:35px;width:35px;background:",
+                            [Function],
+                            ";border-radius:50%;transform:",
+                            [Function],
+                            ";transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);}&:after{content:'';width:0;height:0;padding:0;border-left:5.5px solid transparent;border-right:5.5px solid transparent;border-top:6px solid ",
+                            [Function],
+                            ";transform:",
+                            [Function],
+                            ";transition:all 100ms cubic-bezier(0.645,0.045,0.355,1);}",
+                          ],
+                        },
+                        "displayName": "Basestyles__InputCaret",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "Basestyles__InputCaret-sc-1qxhan1-3",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    open={true}
+                  >
+                    <div
+                      className="c5"
+                      open={true}
+                    />
+                  </StyledComponent>
+                </Basestyles__InputCaret>
+                <Basestyles__InputText
+                  inputRef={[Function]}
+                  onChange={[Function]}
+                  tabIndex="-1"
+                  value="B"
+                >
+                  <StyledComponent
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "Basestyles__InputText-sc-1qxhan1-8",
+                          "isStatic": false,
+                          "lastClassName": "c6",
+                          "rules": Array [
+                            "padding:8px 0px;border-bottom:2px solid ",
+                            [Function],
+                            ";box-shadow:none;width:100%;padding-left:",
+                            [Function],
+                            ";box-sizing:border-box;&:focus{outline:0;}&::-moz-focus-inner{border:0;}&::placeholder{color:transparent;}&:-webkit-autofill,&:-webkit-autofill:hover,&:-webkit-autofill:focus,&:-webkit-autofill:active{-webkit-box-shadow:0 0 0px 1000px #fff inset !important;transition:background-color 99999s ease-in-out 0s;}}",
+                          ],
+                        },
+                        "displayName": "Basestyles__InputText",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "Basestyles__InputText-sc-1qxhan1-8",
+                        "target": [Function],
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    inputRef={[Function]}
+                    onChange={[Function]}
+                    tabIndex="-1"
+                    value="B"
+                  >
+                    <InputElement
+                      className="c6"
+                      inputRef={[Function]}
+                      onChange={[Function]}
+                      tabIndex="-1"
+                      value="B"
+                    >
+                      <input
+                        className="c6"
+                        onBlur={[Function]}
+                        onChange={[Function]}
+                        onFocus={[Function]}
+                        tabIndex="-1"
+                        value="B"
+                      />
+                    </InputElement>
+                  </StyledComponent>
+                </Basestyles__InputText>
+              </div>
+              <Basestyles__InputBar
+                error={false}
+                open={true}
+              >
+                <StyledComponent
+                  error={false}
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "Basestyles__InputBar-sc-1qxhan1-1",
+                        "isStatic": false,
+                        "lastClassName": "c7",
+                        "rules": Array [
+                          "position:relative;z-index:4;background:",
+                          [Function],
+                          ";box-sizing:content-box;margin:0px;height:2px;width:100%;transform:translateY(-2px) ",
+                          [Function],
+                          ";transition:all 450ms cubic-bezier(0.23,1,0.32,1) 0ms;",
+                        ],
+                      },
+                      "displayName": "Basestyles__InputBar",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "Basestyles__InputBar-sc-1qxhan1-1",
+                      "target": "hr",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  open={true}
+                >
+                  <hr
+                    className="c7"
+                    open={true}
+                  />
+                </StyledComponent>
+              </Basestyles__InputBar>
+            </div>
+          </div>
+        </ClickOutside>
+        <Basestyles__InputError
+          visible={false}
+        >
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "Basestyles__InputError-sc-1qxhan1-2",
+                  "isStatic": false,
+                  "lastClassName": "c8",
+                  "rules": Array [
+                    "width:auto;text-align:left;padding:4px 0px;color:",
+                    [Function],
+                    ";font-size:12px;line-height:12px;transition:all 200ms cubic-bezier(0.645,0.045,0.355,1);&:before{content:'';}",
+                  ],
+                },
+                "displayName": "Basestyles__InputError",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "Basestyles__InputError-sc-1qxhan1-2",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            visible={false}
+          >
+            <div
+              className="c8"
+            />
+          </StyledComponent>
+        </Basestyles__InputError>
+        <input
+          id=""
+          name=""
+          type="hidden"
+          value=""
+        />
+      </div>
+    </StyledComponent>
+  </Basestyles__InputBase>
+</SelectField>
+`;
+
+exports[`Testing SelectField Component should render correctly closed 1`] = `
+<Basestyles__InputBase
+  disabled={false}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  tabIndex="0"
+  width="256px"
+>
+  <ClickOutside
+    onOutsideClick={[Function]}
+  >
+    <Basestyles__InputLabel
+      error={false}
+      focused={false}
+      valid={false}
+    >
+      Selecione um item
+    </Basestyles__InputLabel>
+    <div
+      style={
+        Object {
+          "position": "relative",
+        }
+      }
+    >
+      <SelectOptionList
+        id="scroll-container-1"
+        isOpen={false}
+        itemFocused={-1}
+        optionLabel=""
+        rowRenderer={[Function]}
+        searchable={false}
+      >
+        <option
+          key=".0"
+          value="1"
+        >
+          teste
+        </option>
+      </SelectOptionList>
+      <div
+        style={
+          Object {
+            "position": "relative",
+          }
+        }
+      >
+        <Basestyles__InputCaret
+          focused={false}
+          open={false}
+        />
+        <SelectFieldstyles__SelectBox
+          selected={false}
+          tabIndex="-1"
+        >
+           
+        </SelectFieldstyles__SelectBox>
+      </div>
+      <Basestyles__InputBar
+        error={false}
+        open={false}
+      />
+    </div>
+  </ClickOutside>
+  <Basestyles__InputError
+    visible={false}
+  />
+  <input
+    id=""
+    name=""
+    type="hidden"
+    value=""
+  />
+</Basestyles__InputBase>
+`;
+
+exports[`Testing SelectField Component should render correctly opened 1`] = `
+<Basestyles__InputBase
+  disabled={false}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  tabIndex="0"
+  width="256px"
+>
+  <ClickOutside
+    onOutsideClick={[Function]}
+  >
+    <Basestyles__InputLabel
+      error={false}
+      focused={false}
+      valid={false}
+    >
+      Selecione um item
+    </Basestyles__InputLabel>
+    <div
+      style={
+        Object {
+          "position": "relative",
+        }
+      }
+    >
+      <SelectOptionList
+        id="scroll-container-2"
+        isOpen={true}
+        itemFocused={-1}
+        optionLabel=""
+        rowRenderer={[Function]}
+        searchable={false}
+      >
+        <option
+          key=".0"
+          value="1"
+        >
+          teste
+        </option>
+      </SelectOptionList>
+      <div
+        style={
+          Object {
+            "position": "relative",
+          }
+        }
+      >
+        <Basestyles__InputCaret
+          focused={false}
+          open={true}
+        />
+        <SelectFieldstyles__SelectBox
+          selected={false}
+          tabIndex="-1"
+        >
+           
+        </SelectFieldstyles__SelectBox>
+      </div>
+      <Basestyles__InputBar
+        error={false}
+        open={true}
+      />
+    </div>
+  </ClickOutside>
+  <Basestyles__InputError
+    visible={false}
+  />
+  <input
+    id=""
+    name=""
+    type="hidden"
+    value=""
+  />
+</Basestyles__InputBase>
+`;
+
+exports[`Testing SelectField Component should render disabled 1`] = `
+<Basestyles__InputBase
+  disabled={true}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  tabIndex="-1"
+  width="256px"
+>
+  <ClickOutside
+    onOutsideClick={[Function]}
+  >
+    <Basestyles__InputLabel
+      error={false}
+      focused={false}
+      valid={false}
+    >
+      Selecione um item
+    </Basestyles__InputLabel>
+    <div
+      style={
+        Object {
+          "position": "relative",
+        }
+      }
+    >
+      <SelectOptionList
+        id="scroll-container-4"
+        isOpen={false}
+        itemFocused={-1}
+        optionLabel=""
+        rowRenderer={[Function]}
+        searchable={false}
+      >
+        <option
+          key=".0"
+          value="1"
+        >
+          teste
+        </option>
+      </SelectOptionList>
+      <div
+        style={
+          Object {
+            "position": "relative",
+          }
+        }
+      >
+        <Basestyles__InputCaret
+          focused={false}
+          open={false}
+        />
+        <SelectFieldstyles__SelectBox
+          selected={false}
+          tabIndex="-1"
+        >
+           
+        </SelectFieldstyles__SelectBox>
+      </div>
+      <Basestyles__InputBar
+        error={false}
+        open={false}
+      />
+    </div>
+  </ClickOutside>
+  <Basestyles__InputError
+    visible={false}
+  />
+  <input
+    id=""
+    name=""
+    type="hidden"
+    value=""
+  />
+</Basestyles__InputBase>
+`;

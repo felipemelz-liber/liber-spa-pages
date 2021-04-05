@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for ProgressBar should render with props 1`] = `
+<styles__Progress>
+  <GenericStyles__Container>
+    <styles__LabelUpper>
+      Cadastro | 
+      Etapa 2
+    </styles__LabelUpper>
+    <styles__Steps>
+      <Step
+        active={false}
+        clickable={false}
+        complete={true}
+        connect={false}
+        key="01"
+        label="A"
+        number={1}
+        onClick={[Function]}
+      />
+      <Step
+        active={true}
+        clickable={false}
+        complete={false}
+        connect={true}
+        key="12"
+        label="B"
+        number={2}
+        onClick={[Function]}
+      />
+      <Step
+        active={false}
+        clickable={false}
+        complete={false}
+        connect={true}
+        key="23"
+        label="C"
+        number={3}
+        onClick={[Function]}
+      />
+    </styles__Steps>
+    <styles__LabelLower>
+      Cadastro | 
+      Etapa 2
+    </styles__LabelLower>
+  </GenericStyles__Container>
+</styles__Progress>
+`;

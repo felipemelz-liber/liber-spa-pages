@@ -1,0 +1,224 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SelectionControl styled components test should render Container correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bdVaJa",
+        "isStatic": false,
+        "rules": Array [
+          "
+  display: flex;
+  flex-direction: row;
+  padding: 16px;
+  align-items: center;
+",
+        ],
+      },
+      "displayName": "styled.div",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-bdVaJa",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`SelectionControl styled components test should render Icon correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-htpNat",
+        "isStatic": false,
+        "rules": Array [
+          "
+  margin-right: 8px;
+  width: 16px;
+  height: 16px;
+",
+        ],
+      },
+      "displayName": "Styled(Icon)",
+      "foldedComponentIds": Array [],
+      "propTypes": Object {
+        "className": [Function],
+        "color": [Function],
+        "horizontal": [Function],
+        "inStack": [Function],
+        "path": [Function],
+        "rotate": [Function],
+        "size": [Function],
+        "spin": [Function],
+        "style": [Function],
+        "vertical": [Function],
+      },
+      "render": [Function],
+      "styledComponentId": "sc-htpNat",
+      "target": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "defaultProps": Object {
+          "color": "currentColor",
+          "horizontal": false,
+          "rotate": 0,
+          "size": null,
+          "spin": false,
+          "vertical": false,
+        },
+        "displayName": "Icon",
+        "propTypes": Object {
+          "className": [Function],
+          "color": [Function],
+          "horizontal": [Function],
+          "inStack": [Function],
+          "path": [Function],
+          "rotate": [Function],
+          "size": [Function],
+          "spin": [Function],
+          "style": [Function],
+          "vertical": [Function],
+        },
+        "render": [Function],
+      },
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+  path=""
+/>
+`;
+
+exports[`SelectionControl styled components test should render SelectActions correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bxivhb",
+        "isStatic": false,
+        "rules": Array [
+          "
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: 0.06px;
+  text-align: left;
+  color: #405f71;
+  display: flex;
+  align-items: center;
+",
+          "
+  color: ",
+          [Function],
+          ";
+  margin-left: 24px;
+  cursor: pointer;
+  & > ",
+          ".sc-htpNat",
+          " {
+    fill: ",
+          [Function],
+          ";
+  }
+",
+        ],
+      },
+      "displayName": "Styled(styled.span)",
+      "foldedComponentIds": Array [
+        "sc-bwzfXH",
+      ],
+      "render": [Function],
+      "styledComponentId": "sc-bxivhb",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`SelectionControl styled components test should render SelectedText correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bwzfXH",
+        "isStatic": false,
+        "rules": Array [
+          "
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: 0.06px;
+  text-align: left;
+  color: #405f71;
+  display: flex;
+  align-items: center;
+",
+        ],
+      },
+      "displayName": "styled.span",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-bwzfXH",
+      "target": "span",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;
+
+exports[`SelectionControl styled components test should render Spacer correctly 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-ifAKCX",
+        "isStatic": false,
+        "rules": Array [
+          "
+  flex-grow: 1;
+",
+        ],
+      },
+      "displayName": "styled.div",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-ifAKCX",
+      "target": "div",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

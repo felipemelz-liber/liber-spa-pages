@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests for KeyValueDropDown should open on Click 1`] = `
+<KeyValueDisplay
+  label="Key"
+  onClick={[Function]}
+  style={
+    Object {
+      "pointerEvents": "none",
+    }
+  }
+  tooltip={null}
+  tooltipDirection="top"
+  tooltipIcon={<ForwardRef(KeyValueDisplaystyles__Icon) />}
+>
+  <ClickOutside
+    onOutsideClick={[Function]}
+  >
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={null}
+      hasOutsideLabel={false}
+      label="Value"
+      open={true}
+      position="bottom-left-down-right"
+      window={[Window]}
+    >
+      Value
+    </SimpleDropDown>
+  </ClickOutside>
+</KeyValueDisplay>
+`;
+
+exports[`Tests for KeyValueDropDown should render correctly with props 1`] = `
+<KeyValueDisplay
+  label="Key"
+  onClick={[Function]}
+  tooltip={null}
+  tooltipDirection="top"
+  tooltipIcon={<ForwardRef(KeyValueDisplaystyles__Icon) />}
+>
+  <ClickOutside
+    onOutsideClick={[Function]}
+  >
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={null}
+      hasOutsideLabel={false}
+      label="Value"
+      open={false}
+      position="bottom-left-down-right"
+      window={[Window]}
+    >
+      Value
+    </SimpleDropDown>
+  </ClickOutside>
+</KeyValueDisplay>
+`;
+
+exports[`Tests for KeyValueDropDown should render correctly without props 1`] = `
+<KeyValueDisplay
+  label=""
+  onClick={[Function]}
+  tooltip={null}
+  tooltipDirection="top"
+  tooltipIcon={<ForwardRef(KeyValueDisplaystyles__Icon) />}
+>
+  <ClickOutside
+    onOutsideClick={[Function]}
+  >
+    <SimpleDropDown
+      autoPosition={true}
+      containerSize={false}
+      customButton={null}
+      hasOutsideLabel={false}
+      label=""
+      open={false}
+      position="bottom-left-down-right"
+      window={[Window]}
+    />
+  </ClickOutside>
+</KeyValueDisplay>
+`;
